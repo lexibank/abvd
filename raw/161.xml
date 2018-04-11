@@ -1,0 +1,2526 @@
+<record>
+	<id>161</id>
+	<language>Koiwai (Irian Jaya)</language>
+	<author>Roland Walker, SIL</author>
+	<silcode>kwh</silcode>
+	<glottocode>kowi1239</glottocode>
+	<notes></notes>
+	<problems></problems>
+	<classification>Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, South Bomberai</classification>
+	<typedby>Peng Du</typedby>
+	<checkedby>Simon Greenhill</checkedby>
+</record>
+
+<record>
+	<latitude>-3.66692999999999980076</latitude>
+	<longitude>133.79150000000001341505</longitude>
+</record>
+
+<record>
+	<id>161</id>
+	<word_id>1</word_id>
+	<word>hand</word>
+	<item>nima</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,66</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>518</id>
+	<word_id>2</word_id>
+	<word>left</word>
+	<item>lagai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>875</id>
+	<word_id>3</word_id>
+	<word>right</word>
+	<item>tu'urom</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>83948</id>
+	<word_id>4</word_id>
+	<word>leg/foot</word>
+	<item>ela</item>
+	<annotation>third person</annotation>
+	<loan></loan>
+	<cognacy>7</cognacy>
+	<pmpcognacy>1?</pmpcognacy>
+</record>
+
+<record>
+	<id>83949</id>
+	<word_id>4</word_id>
+	<word>leg/foot</word>
+	<item>ai-m</item>
+	<annotation>second person</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>1589</id>
+	<word_id>5</word_id>
+	<word>to walk</word>
+	<item>-táng</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>1946</id>
+	<word_id>6</word_id>
+	<word>road/path</word>
+	<item>raran</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>71658</id>
+	<word_id>7</word_id>
+	<word>to come</word>
+	<item>-fa'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>71659</id>
+	<word_id>7</word_id>
+	<word>to come</word>
+	<item>ba'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>2660</id>
+	<word_id>8</word_id>
+	<word>to turn</word>
+	<item>-faran</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3017</id>
+	<word_id>9</word_id>
+	<word>to swim</word>
+	<item>-lagur</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3374</id>
+	<word_id>10</word_id>
+	<word>dirty</word>
+	<item>'otor</item>
+	<annotation></annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3731</id>
+	<word_id>11</word_id>
+	<word>dust</word>
+	<item>abu|ba</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>4088</id>
+	<word_id>12</word_id>
+	<word>skin</word>
+	<item>urit</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>4445</id>
+	<word_id>13</word_id>
+	<word>back</word>
+	<item>aʔera rur</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>4802</id>
+	<word_id>14</word_id>
+	<word>belly</word>
+	<item>ambun</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2,57</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>5159</id>
+	<word_id>15</word_id>
+	<word>bone</word>
+	<item>rur</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>5516</id>
+	<word_id>16</word_id>
+	<word>intestines</word>
+	<item>fitua waras</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>9</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>5873</id>
+	<word_id>17</word_id>
+	<word>liver</word>
+	<item>uta'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>6230</id>
+	<word_id>18</word_id>
+	<word>breast</word>
+	<item>sus</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>6587</id>
+	<word_id>19</word_id>
+	<word>shoulder</word>
+	<item>fafalan</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1?</cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>6944</id>
+	<word_id>20</word_id>
+	<word>to know, be knowledgeable</word>
+	<item>-ru'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>7301</id>
+	<word_id>21</word_id>
+	<word>to think</word>
+	<item>-fi'ir</item>
+	<annotation>loan of 22?</annotation>
+	<loan>L</loan>
+	<cognacy>22</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>7658</id>
+	<word_id>22</word_id>
+	<word>to fear</word>
+	<item>-matatu'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>8015</id>
+	<word_id>23</word_id>
+	<word>blood</word>
+	<item>rara</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>8372</id>
+	<word_id>24</word_id>
+	<word>head</word>
+	<item>umun</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>8729</id>
+	<word_id>25</word_id>
+	<word>neck</word>
+	<item>garan</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>11</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>9086</id>
+	<word_id>26</word_id>
+	<word>hair</word>
+	<item>umum fur</item>
+	<annotation>head fur? (ASch)</annotation>
+	<loan></loan>
+	<cognacy>31?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>9443</id>
+	<word_id>27</word_id>
+	<word>nose</word>
+	<item>siai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>9800</id>
+	<word_id>28</word_id>
+	<word>to breathe</word>
+	<item>-sa'a la'esa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>88687</id>
+	<word_id>29</word_id>
+	<word>to sniff, smell</word>
+	<item>-mus</item>
+	<annotation>kiss</annotation>
+	<loan></loan>
+	<cognacy>65</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>88688</id>
+	<word_id>29</word_id>
+	<word>to sniff, smell</word>
+	<item>-sagala</item>
+	<annotation>smell</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>10514</id>
+	<word_id>30</word_id>
+	<word>mouth</word>
+	<item>matafut rom</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>10871</id>
+	<word_id>31</word_id>
+	<word>tooth</word>
+	<item>rifut</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>11228</id>
+	<word_id>32</word_id>
+	<word>tongue</word>
+	<item>yera</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>35?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>11585</id>
+	<word_id>33</word_id>
+	<word>to laugh</word>
+	<item>-marif</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>3</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>11942</id>
+	<word_id>34</word_id>
+	<word>to cry</word>
+	<item>-tagis</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>12299</id>
+	<word_id>35</word_id>
+	<word>to vomit</word>
+	<item>-arwe'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>12656</id>
+	<word_id>36</word_id>
+	<word>to spit</word>
+	<item>naʔanis</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>13013</id>
+	<word_id>37</word_id>
+	<word>to eat</word>
+	<item>-'a yeta</item>
+	<annotation>food</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>13370</id>
+	<word_id>38</word_id>
+	<word>to chew</word>
+	<item>-mama</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>13727</id>
+	<word_id>39</word_id>
+	<word>to cook</word>
+	<item>-tat</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>14084</id>
+	<word_id>40</word_id>
+	<word>to drink</word>
+	<item>-in</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>73563</id>
+	<word_id>41</word_id>
+	<word>to bite</word>
+	<item>-rofa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>73564</id>
+	<word_id>41</word_id>
+	<word>to bite</word>
+	<item>-ara'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>14798</id>
+	<word_id>42</word_id>
+	<word>to suck</word>
+	<item>-fai toba'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>15155</id>
+	<word_id>43</word_id>
+	<word>ear</word>
+	<item>teriga</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>73755</id>
+	<word_id>44</word_id>
+	<word>to hear</word>
+	<item>-fanonggar</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1?</cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>73756</id>
+	<word_id>44</word_id>
+	<word>to hear</word>
+	<item>banonggar</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1?</cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>15869</id>
+	<word_id>45</word_id>
+	<word>eye</word>
+	<item>matafut</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1?</pmpcognacy>
+</record>
+
+<record>
+	<id>73890</id>
+	<word_id>46</word_id>
+	<word>to see</word>
+	<item>-sefa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>73891</id>
+	<word_id>46</word_id>
+	<word>to see</word>
+	<item>-'it</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>16940</id>
+	<word_id>48</word_id>
+	<word>to sleep</word>
+	<item>-'enan</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>8?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>17297</id>
+	<word_id>49</word_id>
+	<word>to lie down</word>
+	<item>-'enan</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>17654</id>
+	<word_id>50</word_id>
+	<word>to dream</word>
+	<item>-sasúfa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>18011</id>
+	<word_id>51</word_id>
+	<word>to sit</word>
+	<item>-matóran</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>18368</id>
+	<word_id>52</word_id>
+	<word>to stand</word>
+	<item>-marír</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>18725</id>
+	<word_id>53</word_id>
+	<word>person/human being</word>
+	<item>téma</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,78?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>19082</id>
+	<word_id>54</word_id>
+	<word>man/male</word>
+	<item>mu[ru]ána</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>19439</id>
+	<word_id>55</word_id>
+	<word>woman/female</word>
+	<item>mafína</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,51</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>74369</id>
+	<word_id>56</word_id>
+	<word>child</word>
+	<item>lámtút</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>74370</id>
+	<word_id>56</word_id>
+	<word>child</word>
+	<item>timét</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>20153</id>
+	<word_id>57</word_id>
+	<word>husband</word>
+	<item>sóa muáne</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>20510</id>
+	<word_id>58</word_id>
+	<word>wife</word>
+	<item>sóa mafíne</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1?,5</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>74485</id>
+	<word_id>59</word_id>
+	<word>mother</word>
+	<item>néna</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,79</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>74486</id>
+	<word_id>59</word_id>
+	<word>mother</word>
+	<item>n|ína</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,79</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>74552</id>
+	<word_id>60</word_id>
+	<word>father</word>
+	<item>yai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>6?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>74553</id>
+	<word_id>60</word_id>
+	<word>father</word>
+	<item>nyai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>6?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>21581</id>
+	<word_id>61</word_id>
+	<word>house</word>
+	<item>sáring</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>21938</id>
+	<word_id>62</word_id>
+	<word>thatch/roof</word>
+	<item>barém</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>8?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>22295</id>
+	<word_id>63</word_id>
+	<word>name</word>
+	<item>nésa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>74810</id>
+	<word_id>64</word_id>
+	<word>to say</word>
+	<item>-fo'ot</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>74811</id>
+	<word_id>64</word_id>
+	<word>to say</word>
+	<item>bo'ot</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>74812</id>
+	<word_id>64</word_id>
+	<word>to say</word>
+	<item>-fi'fart</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>23009</id>
+	<word_id>65</word_id>
+	<word>rope</word>
+	<item>wáras</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>75013</id>
+	<word_id>66</word_id>
+	<word>to tie up, fasten</word>
+	<item>-rébat</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>75014</id>
+	<word_id>66</word_id>
+	<word>to tie up, fasten</word>
+	<item>-sáut</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>119</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>23723</id>
+	<word_id>67</word_id>
+	<word>to sew</word>
+	<item>-sígat</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>24080</id>
+	<word_id>68</word_id>
+	<word>needle</word>
+	<item>láin</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>24437</id>
+	<word_id>69</word_id>
+	<word>to hunt</word>
+	<item>-bégat</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>24794</id>
+	<word_id>70</word_id>
+	<word>to shoot</word>
+	<item>-tun</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>20</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>25151</id>
+	<word_id>71</word_id>
+	<word>to stab, pierce</word>
+	<item>-ta'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>75403</id>
+	<word_id>72</word_id>
+	<word>to hit</word>
+	<item>-fun</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>107</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>75404</id>
+	<word_id>72</word_id>
+	<word>to hit</word>
+	<item>-bába'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>4</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>25865</id>
+	<word_id>73</word_id>
+	<word>to steal</word>
+	<item>-faréus</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>26222</id>
+	<word_id>74</word_id>
+	<word>to kill</word>
+	<item>-fun i namáta</item>
+	<annotation>hit him died</annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>26579</id>
+	<word_id>75</word_id>
+	<word>to die, be dead</word>
+	<item>-máta</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>26936</id>
+	<word_id>76</word_id>
+	<word>to live, be alive</word>
+	<item>rúga</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>27293</id>
+	<word_id>77</word_id>
+	<word>to scratch</word>
+	<item>-áru'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>44</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>27650</id>
+	<word_id>78</word_id>
+	<word>to cut, hack</word>
+	<item>-go'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>28007</id>
+	<word_id>79</word_id>
+	<word>stick/wood</word>
+	<item>ai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>28364</id>
+	<word_id>80</word_id>
+	<word>to split</word>
+	<item>-fáwas</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>28721</id>
+	<word_id>81</word_id>
+	<word>sharp</word>
+	<item>mánggan</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>9</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>29078</id>
+	<word_id>82</word_id>
+	<word>dull, blunt</word>
+	<item>manggúfar</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>29435</id>
+	<word_id>83</word_id>
+	<word>to work</word>
+	<item>-'arjang</item>
+	<annotation></annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>29792</id>
+	<word_id>84</word_id>
+	<word>to plant</word>
+	<item>-swen</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>30149</id>
+	<word_id>85</word_id>
+	<word>to choose</word>
+	<item>-pil</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1?</pmpcognacy>
+</record>
+
+<record>
+	<id>30506</id>
+	<word_id>86</word_id>
+	<word>to grow</word>
+	<item>-súbun</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>30863</id>
+	<word_id>87</word_id>
+	<word>to swell</word>
+	<item>nafafótan</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>59</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>31220</id>
+	<word_id>88</word_id>
+	<word>to squeeze</word>
+	<item>-óbas</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>31577</id>
+	<word_id>89</word_id>
+	<word>to hold</word>
+	<item>-on</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>31934</id>
+	<word_id>90</word_id>
+	<word>to dig</word>
+	<item>-'ári'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>32291</id>
+	<word_id>91</word_id>
+	<word>to buy</word>
+	<item>-manggúr</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>32648</id>
+	<word_id>92</word_id>
+	<word>to open, uncover</word>
+	<item>-fir</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>33005</id>
+	<word_id>93</word_id>
+	<word>to pound, beat</word>
+	<item>-tu'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>20, 2</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>33362</id>
+	<word_id>94</word_id>
+	<word>to throw</word>
+	<item>-faré</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>33719</id>
+	<word_id>95</word_id>
+	<word>to fall</word>
+	<item>-dai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>34076</id>
+	<word_id>96</word_id>
+	<word>dog</word>
+	<item>-afúna</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>35</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>34433</id>
+	<word_id>97</word_id>
+	<word>bird</word>
+	<item>mánu'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>34790</id>
+	<word_id>98</word_id>
+	<word>egg</word>
+	<item>tóron</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>35147</id>
+	<word_id>99</word_id>
+	<word>feather</word>
+	<item>fur</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>35504</id>
+	<word_id>100</word_id>
+	<word>wing</word>
+	<item>furifur</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>77</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>35861</id>
+	<word_id>101</word_id>
+	<word>to fly</word>
+	<item>-tif</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>6</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>36218</id>
+	<word_id>102</word_id>
+	<word>rat</word>
+	<item>asafái</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>36575</id>
+	<word_id>103</word_id>
+	<word>meat/flesh</word>
+	<item>ses</item>
+	<annotation>or 1?</annotation>
+	<loan></loan>
+	<cognacy>31</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>36932</id>
+	<word_id>104</word_id>
+	<word>fat/grease</word>
+	<item>tatífar</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>23?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>37289</id>
+	<word_id>105</word_id>
+	<word>tail</word>
+	<item>e'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>37646</id>
+	<word_id>106</word_id>
+	<word>snake</word>
+	<item>arói</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>38003</id>
+	<word_id>107</word_id>
+	<word>worm (earthworm)</word>
+	<item>wa'arwá'ar</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>38360</id>
+	<word_id>108</word_id>
+	<word>louse</word>
+	<item>ut</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>38717</id>
+	<word_id>109</word_id>
+	<word>mosquito</word>
+	<item>banísir</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>39074</id>
+	<word_id>110</word_id>
+	<word>spider</word>
+	<item>ráwar-ráwar</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1?</cognacy>
+	<pmpcognacy>1?</pmpcognacy>
+</record>
+
+<record>
+	<id>39431</id>
+	<word_id>111</word_id>
+	<word>fish</word>
+	<item>don</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>12</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>39788</id>
+	<word_id>112</word_id>
+	<word>rotten</word>
+	<item>nama-sóat</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>40145</id>
+	<word_id>113</word_id>
+	<word>branch</word>
+	<item>sang ai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>77786</id>
+	<word_id>114</word_id>
+	<word>leaf</word>
+	<item>aryó'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>77787</id>
+	<word_id>114</word_id>
+	<word>leaf</word>
+	<item>rówce</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>77788</id>
+	<word_id>114</word_id>
+	<word>leaf</word>
+	<item>réwe</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>40859</id>
+	<word_id>115</word_id>
+	<word>root</word>
+	<item>rárin</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2?</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>41216</id>
+	<word_id>116</word_id>
+	<word>flower</word>
+	<item>búnga</item>
+	<annotation></annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>41573</id>
+	<word_id>117</word_id>
+	<word>fruit</word>
+	<item>afafói</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>41930</id>
+	<word_id>118</word_id>
+	<word>grass</word>
+	<item>maríut</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>78036</id>
+	<word_id>119</word_id>
+	<word>earth/soil</word>
+	<item>laféta</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>78037</id>
+	<word_id>119</word_id>
+	<word>earth/soil</word>
+	<item>tanóm</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>42644</id>
+	<word_id>120</word_id>
+	<word>stone</word>
+	<item>lagéra</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>43001</id>
+	<word_id>121</word_id>
+	<word>sand</word>
+	<item>éna</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>43358</id>
+	<word_id>122</word_id>
+	<word>water</word>
+	<item>wálar</item>
+	<annotation>(&lt;+wayeR)</annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>43715</id>
+	<word_id>123</word_id>
+	<word>to flow</word>
+	<item>-buswér</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>78332</id>
+	<word_id>124</word_id>
+	<word>sea</word>
+	<item>rafú'an rau</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>78333</id>
+	<word_id>124</word_id>
+	<word>sea</word>
+	<item>mot</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>44429</id>
+	<word_id>125</word_id>
+	<word>salt</word>
+	<item>sira</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>44786</id>
+	<word_id>126</word_id>
+	<word>lake</word>
+	<item>gwángga</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>45143</id>
+	<word_id>127</word_id>
+	<word>woods/forest</word>
+	<item>wes</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>9?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>45500</id>
+	<word_id>128</word_id>
+	<word>sky</word>
+	<item>ránggit</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>45857</id>
+	<word_id>129</word_id>
+	<word>moon</word>
+	<item>fúran</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>46214</id>
+	<word_id>130</word_id>
+	<word>star</word>
+	<item>oma-óma</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>78650</id>
+	<word_id>131</word_id>
+	<word>cloud</word>
+	<item>loftaí</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>78651</id>
+	<word_id>131</word_id>
+	<word>cloud</word>
+	<item>lor-tai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>78721</id>
+	<word_id>132</word_id>
+	<word>fog</word>
+	<item>sawana</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>4</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>78722</id>
+	<word_id>132</word_id>
+	<word>fog</word>
+	<item>afwara</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>47285</id>
+	<word_id>133</word_id>
+	<word>rain</word>
+	<item>óma</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>47642</id>
+	<word_id>134</word_id>
+	<word>thunder</word>
+	<item>dúdun</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>8</cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>47999</id>
+	<word_id>135</word_id>
+	<word>lightning</word>
+	<item>rińdaf</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>48356</id>
+	<word_id>136</word_id>
+	<word>wind</word>
+	<item>lor</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>48713</id>
+	<word_id>137</word_id>
+	<word>to blow</word>
+	<item>-útun</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>49070</id>
+	<word_id>138</word_id>
+	<word>warm</word>
+	<item>ońggaf</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>49427</id>
+	<word_id>139</word_id>
+	<word>cold</word>
+	<item>rídin</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>49784</id>
+	<word_id>140</word_id>
+	<word>dry</word>
+	<item>nama-ráwar</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>50141</id>
+	<word_id>141</word_id>
+	<word>wet</word>
+	<item>-'abótan</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>8</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>50498</id>
+	<word_id>142</word_id>
+	<word>heavy</word>
+	<item>uyéman</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>4?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>50855</id>
+	<word_id>143</word_id>
+	<word>fire</word>
+	<item>laf</item>
+	<annotation>(&lt;+yapi)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>51212</id>
+	<word_id>144</word_id>
+	<word>to burn</word>
+	<item>-taláf</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>51569</id>
+	<word_id>145</word_id>
+	<word>smoke</word>
+	<item>laf buba</item>
+	<annotation>fire dust</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>51926</id>
+	<word_id>146</word_id>
+	<word>ash</word>
+	<item>tuga</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>52283</id>
+	<word_id>147</word_id>
+	<word>black</word>
+	<item>maétan</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>52640</id>
+	<word_id>148</word_id>
+	<word>white</word>
+	<item>ra'a-rá'a</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>52997</id>
+	<word_id>149</word_id>
+	<word>red</word>
+	<item>wámbar</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>53354</id>
+	<word_id>150</word_id>
+	<word>yellow</word>
+	<item>'úning</item>
+	<annotation></annotation>
+	<loan>L</loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>53711</id>
+	<word_id>151</word_id>
+	<word>green</word>
+	<item>mamáta</item>
+	<annotation>?</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>119496</id>
+	<word_id>152</word_id>
+	<word>small</word>
+	<item>net</item>
+	<annotation>one</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>119497</id>
+	<word_id>152</word_id>
+	<word>small</word>
+	<item>sififís</item>
+	<annotation>group</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>119317</id>
+	<word_id>153</word_id>
+	<word>big</word>
+	<item>nabéti</item>
+	<annotation>one</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>119318</id>
+	<word_id>153</word_id>
+	<word>big</word>
+	<item>ruwuwén</item>
+	<annotation>group</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>80112</id>
+	<word_id>154</word_id>
+	<word>short</word>
+	<item>tóba</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>80113</id>
+	<word_id>154</word_id>
+	<word>short</word>
+	<item>émber</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>55139</id>
+	<word_id>155</word_id>
+	<word>long</word>
+	<item>maráwas</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>9</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>55496</id>
+	<word_id>156</word_id>
+	<word>thin</word>
+	<item>manífin</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>55853</id>
+	<word_id>157</word_id>
+	<word>thick</word>
+	<item>fatóron</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>56210</id>
+	<word_id>158</word_id>
+	<word>narrow</word>
+	<item>nifiségat</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>56567</id>
+	<word_id>159</word_id>
+	<word>wide</word>
+	<item>garáfar</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>123015</id>
+	<word_id>160</word_id>
+	<word>painful, sick</word>
+	<item>sá'it</item>
+	<annotation>sick</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>123016</id>
+	<word_id>160</word_id>
+	<word>painful, sick</word>
+	<item>nafíti</item>
+	<annotation>sick</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>123017</id>
+	<word_id>160</word_id>
+	<word>painful, sick</word>
+	<item>sigirótan</item>
+	<annotation>painful</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>57281</id>
+	<word_id>161</word_id>
+	<word>shy, ashamed</word>
+	<item>-mála</item>
+	<annotation>(&lt;+mayaq)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>57638</id>
+	<word_id>162</word_id>
+	<word>old</word>
+	<item>tuárin</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>57995</id>
+	<word_id>163</word_id>
+	<word>new</word>
+	<item>fówa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>58352</id>
+	<word_id>164</word_id>
+	<word>good</word>
+	<item>nágéf</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>80679</id>
+	<word_id>165</word_id>
+	<word>bad, evil</word>
+	<item>nogatéi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>80680</id>
+	<word_id>165</word_id>
+	<word>bad, evil</word>
+	<item>sumángga</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>59066</id>
+	<word_id>166</word_id>
+	<word>correct, true</word>
+	<item>dóma</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>59423</id>
+	<word_id>167</word_id>
+	<word>night</word>
+	<item>mómat</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>59780</id>
+	<word_id>168</word_id>
+	<word>day</word>
+	<item>óra</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>60137</id>
+	<word_id>169</word_id>
+	<word>year</word>
+	<item>úa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>60494</id>
+	<word_id>170</word_id>
+	<word>when?</word>
+	<item>waníng</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>60851</id>
+	<word_id>171</word_id>
+	<word>to hide</word>
+	<item>-fafúran</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>119498</id>
+	<word_id>172</word_id>
+	<word>to climb</word>
+	<item>-sa'a</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>119499</id>
+	<word_id>172</word_id>
+	<word>to climb</word>
+	<item>-nyata</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>61565</id>
+	<word_id>173</word_id>
+	<word>at</word>
+	<item>-na</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>4</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>61922</id>
+	<word_id>174</word_id>
+	<word>in, inside</word>
+	<item>[-na] úta'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>62279</id>
+	<word_id>175</word_id>
+	<word>above</word>
+	<item>[-na] féfa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2?</cognacy>
+	<pmpcognacy>1?</pmpcognacy>
+</record>
+
+<record>
+	<id>62636</id>
+	<word_id>176</word_id>
+	<word>below</word>
+	<item>[-na] tifàa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>62993</id>
+	<word_id>177</word_id>
+	<word>this</word>
+	<item>iná</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>63350</id>
+	<word_id>178</word_id>
+	<word>that</word>
+	<item>ifá</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>63707</id>
+	<word_id>179</word_id>
+	<word>near</word>
+	<item>nagésa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>64064</id>
+	<word_id>180</word_id>
+	<word>far</word>
+	<item>sor</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>119500</id>
+	<word_id>181</word_id>
+	<word>where?</word>
+	<item>minaning</item>
+	<annotation>human</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>119501</id>
+	<word_id>181</word_id>
+	<word>where?</word>
+	<item>-ning</item>
+	<annotation>non-human</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>64778</id>
+	<word_id>182</word_id>
+	<word>I</word>
+	<item>la'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>65135</id>
+	<word_id>183</word_id>
+	<word>thou</word>
+	<item>au</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>65492</id>
+	<word_id>184</word_id>
+	<word>he/she</word>
+	<item>i</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>119502</id>
+	<word_id>185</word_id>
+	<word>we</word>
+	<item>íta</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>119503</id>
+	<word_id>185</word_id>
+	<word>we</word>
+	<item>am</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>66206</id>
+	<word_id>186</word_id>
+	<word>you</word>
+	<item>o</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>66563</id>
+	<word_id>187</word_id>
+	<word>they</word>
+	<item>si</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>66920</id>
+	<word_id>188</word_id>
+	<word>what?</word>
+	<item>lafé</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>?</pmpcognacy>
+</record>
+
+<record>
+	<id>67277</id>
+	<word_id>189</word_id>
+	<word>who?</word>
+	<item>se</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>67634</id>
+	<word_id>190</word_id>
+	<word>other</word>
+	<item>ésa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>67991</id>
+	<word_id>191</word_id>
+	<word>all</word>
+	<item>nabúna</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>82521</id>
+	<word_id>192</word_id>
+	<word>and</word>
+	<item>náta</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>82522</id>
+	<word_id>192</word_id>
+	<word>and</word>
+	<item>ía</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>68705</id>
+	<word_id>193</word_id>
+	<word>if</word>
+	<item>kálu</item>
+	<annotation></annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>69062</id>
+	<word_id>194</word_id>
+	<word>how?</word>
+	<item>nugu-níng</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>69419</id>
+	<word_id>195</word_id>
+	<word>no, not</word>
+	<item>tei</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>4</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>69776</id>
+	<word_id>196</word_id>
+	<word>to count</word>
+	<item>-re'un</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>70133</id>
+	<word_id>197</word_id>
+	<word>One</word>
+	<item>isa|mós</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1?</pmpcognacy>
+</record>
+
+<record>
+	<id>70490</id>
+	<word_id>198</word_id>
+	<word>Two</word>
+	<item>[ru]wet</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>70847</id>
+	<word_id>199</word_id>
+	<word>Three</word>
+	<item>tor</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>71204</id>
+	<word_id>200</word_id>
+	<word>Four</word>
+	<item>fat</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy>1</pmpcognacy>
+</record>
+

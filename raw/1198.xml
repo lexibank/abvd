@@ -1,0 +1,613 @@
+<record>
+	<id>1198</id>
+	<language>Ainu</language>
+	<author>John D. Bengtson</author>
+	<silcode>aib</silcode>
+	<glottocode>ainu1251</glottocode>
+	<notes>The data in this list are derived from three sources, two written by John D. Bengtson from the &quot;Association for the Study of Language in Prehistory,&quot; and one by Rev. John Batchelor.
+
+Titled &quot;A Multilateral Look at Greater Austric&quot; (2006) and &quot;The 'Greater Austric' Hypothesis&quot; from &quot;Linguistic Fossils: Studies in Historical Linguistics and Paleolinguistics&quot; (2010). Bengtson's articles seek to find cognates from a variety of languages from different Asiatic language families, including Ainu, Austroasiatic (= Munda - Mon-Khmer), Austronesian, Daic (= Tai-Kadai), Hmong-Mien (Miao-Yao), Nihali.  These families are shown to form one, huge hypothetical macro-family called &quot;Austric.&quot; Batchelor's work is called the &quot;An Ainu-English-Japanese Dictionary&quot; (1905).
+
+The Ainu language (spoken by the indigenous Ainu people of Hokkaido, Japan,Kuril Islands, Sakhalin Island, and the Kamchatka peninsula) is shown to have several likely cognates that would place it within Greater Austric, if not Austronesian.
+
+Sources:
+
+* Batchelor, John. 1905. An Ainu-English-Japanese Dictionary. Tokyo: Methodist Publishing House.
+
+* Bengtson, John D. 2006. A Multilateral Look at Greater Austric. Mother Tongue (Journal) 11: 219-258.
+
+* Bengtson, John D. 2010. Linguistic Fossils: Studies in Historical Linguistics and Paleolinguistics. (Languages in Time and Space, vol. 5. Chief Editor: Cindy Drover-Davidson.) Calgary: Octavia &amp; Co. Press.</notes>
+	<problems>The sources from Bengtson do not contain full Swadesh word lists, so many of the words are taken from Rev. Batchelor's dictionary.</problems>
+	<classification>Turkic, Eastern</classification>
+	<typedby>Kalvin Vasques</typedby>
+	<checkedby></checkedby>
+</record>
+
+<record>
+	<latitude>39.27140000000000000000</latitude>
+	<longitude>76.42090000000000000000</longitude>
+</record>
+
+<record>
+	<id>288671</id>
+	<word_id>1</word_id>
+	<word>hand</word>
+	<item>*mOn</item>
+	<annotation>'hand' (in compounds)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288672</id>
+	<word_id>4</word_id>
+	<word>leg/foot</word>
+	<item>*kOkka</item>
+	<annotation>'knee'</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288673</id>
+	<word_id>6</word_id>
+	<word>road/path</word>
+	<item>*truu</item>
+	<annotation>Yakumo, Saru 'ru', Raichiska 'ruu', Nairo 'tuu', 'tru', 'ru', Kuril 'tojru', 'tru', etc.</annotation>
+	<loan></loan>
+	<cognacy>1?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288674</id>
+	<word_id>12</word_id>
+	<word>skin</word>
+	<item>*kAp</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>12</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288675</id>
+	<word_id>15</word_id>
+	<word>bone</word>
+	<item>*kEqu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288676</id>
+	<word_id>18</word_id>
+	<word>breast</word>
+	<item>*tOO</item>
+	<annotation>'breast of woman'</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288677</id>
+	<word_id>23</word_id>
+	<word>blood</word>
+	<item>*kEm</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288678</id>
+	<word_id>24</word_id>
+	<word>head</word>
+	<item>*pa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288679</id>
+	<word_id>25</word_id>
+	<word>neck</word>
+	<item>*dekut</item>
+	<annotation>Nairo 'tekuh' id. vs. (Hokkaido) 'rekutkoni' 'croup', 'rekutumbe' 'necklace, yoke'</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288680</id>
+	<word_id>26</word_id>
+	<word>hair</word>
+	<item>kiški</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288681</id>
+	<word_id>27</word_id>
+	<word>nose</word>
+	<item>*Etu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288682</id>
+	<word_id>31</word_id>
+	<word>tooth</word>
+	<item>*nii</item>
+	<annotation>ni-maki 'tooth'</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288683</id>
+	<word_id>37</word_id>
+	<word>to eat</word>
+	<item>ae</item>
+	<annotation>from Batchelor</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288684</id>
+	<word_id>45</word_id>
+	<word>eye</word>
+	<item>*siki</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288685</id>
+	<word_id>48</word_id>
+	<word>to sleep</word>
+	<item>*mO</item>
+	<annotation>mo-koro 'to sleep'</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288686</id>
+	<word_id>53</word_id>
+	<word>person/human being</word>
+	<item>ainu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288687</id>
+	<word_id>54</word_id>
+	<word>man/male</word>
+	<item>*kur</item>
+	<annotation>'man, person'</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288688</id>
+	<word_id>62</word_id>
+	<word>thatch/roof</word>
+	<item>*kitai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288689</id>
+	<word_id>75</word_id>
+	<word>to die, be dead</word>
+	<item>*day</item>
+	<annotation>Saru 'ray,' Nairo 'tay,' etc., Kuril 'rai' 'kill'</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288690</id>
+	<word_id>96</word_id>
+	<word>dog</word>
+	<item>*sieta</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>49?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288691</id>
+	<word_id>97</word_id>
+	<word>bird</word>
+	<item>chikap</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288692</id>
+	<word_id>98</word_id>
+	<word>egg</word>
+	<item>*nOk</item>
+	<annotation>'egg, testicle'</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288693</id>
+	<word_id>99</word_id>
+	<word>feather</word>
+	<item>*trAp</item>
+	<annotation>Hokkaido rap(u), Kuril trap (also 'wing' in some dialects)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288694</id>
+	<word_id>100</word_id>
+	<word>wing</word>
+	<item>*trAp</item>
+	<annotation>Hokkaido rap(u), Kuril trap (also 'wing' in some dialects)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288695</id>
+	<word_id>108</word_id>
+	<word>louse</word>
+	<item>*ki</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288696</id>
+	<word_id>111</word_id>
+	<word>fish</word>
+	<item>chep</item>
+	<annotation>from Batchelor</annotation>
+	<loan></loan>
+	<cognacy>1?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288697</id>
+	<word_id>115</word_id>
+	<word>root</word>
+	<item>*rit</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288698</id>
+	<word_id>120</word_id>
+	<word>stone</word>
+	<item>pit</item>
+	<annotation>'small stone, flint' (Hokkaido)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288699</id>
+	<word_id>121</word_id>
+	<word>sand</word>
+	<item>*Ota</item>
+	<annotation>Hokkaido òtá, Kuril ota, otà, etc.</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288700</id>
+	<word_id>122</word_id>
+	<word>water</word>
+	<item>*wakka</item>
+	<annotation>'oouachka' = (Hokkaido) 'wacha', 'wazka', (Sakhalin) 'waka' 'water' (? 'wakka' / 'wahka' / 'wazka' &lt; '*wa ̧ka' &lt; '*wayka')</annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288701</id>
+	<word_id>128</word_id>
+	<word>sky</word>
+	<item>*niš</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288702</id>
+	<word_id>131</word_id>
+	<word>cloud</word>
+	<item>*niš</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288703</id>
+	<word_id>140</word_id>
+	<word>dry</word>
+	<item>*sat </item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288704</id>
+	<word_id>143</word_id>
+	<word>fire</word>
+	<item>*apOy</item>
+	<annotation>'fire, hearth': Hokkaido 'ape,' 'abe,' 'ambe,' Kamchatka 'āpĕh,' Kuril 'aboi'</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288705</id>
+	<word_id>144</word_id>
+	<word>to burn</word>
+	<item>*uguy</item>
+	<annotation>Hokkaido 'uínà,' 'ùhúy'</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288706</id>
+	<word_id>164</word_id>
+	<word>good</word>
+	<item>pirika</item>
+	<annotation>from Batchelor</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288707</id>
+	<word_id>167</word_id>
+	<word>night</word>
+	<item>*mOn(=)rE</item>
+	<annotation>'to be late at night'</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288708</id>
+	<word_id>168</word_id>
+	<word>day</word>
+	<item>ko</item>
+	<annotation>also 'to' or 'toho'</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288709</id>
+	<word_id>182</word_id>
+	<word>I</word>
+	<item>*ku</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288710</id>
+	<word_id>183</word_id>
+	<word>thou</word>
+	<item>*E</item>
+	<annotation>e=, e=ani</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288711</id>
+	<word_id>185</word_id>
+	<word>we</word>
+	<item>*ti=</item>
+	<annotation>realized as /či/ in all dialects</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288712</id>
+	<word_id>188</word_id>
+	<word>what?</word>
+	<item>*nEE</item>
+	<annotation>'who, what': Hokkaido nen, neni 'who', nep 'what'</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288713</id>
+	<word_id>189</word_id>
+	<word>who?</word>
+	<item>*nEE</item>
+	<annotation>'who, what': Hokkaido nen, neni 'who', nep 'what'</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288714</id>
+	<word_id>197</word_id>
+	<word>One</word>
+	<item>*si-ne</item>
+	<annotation>with suf. '-ne' as in 'i-ne' (four)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288715</id>
+	<word_id>198</word_id>
+	<word>Two</word>
+	<item>*tuu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288716</id>
+	<word_id>199</word_id>
+	<word>Three</word>
+	<item>re-</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288717</id>
+	<word_id>200</word_id>
+	<word>Four</word>
+	<item>*i-ne</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288718</id>
+	<word_id>201</word_id>
+	<word>Five</word>
+	<item>ashikne</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288719</id>
+	<word_id>202</word_id>
+	<word>Six</word>
+	<item>*i:hdan-</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288720</id>
+	<word_id>203</word_id>
+	<word>Seven</word>
+	<item>*adehdan-</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288721</id>
+	<word_id>204</word_id>
+	<word>Eight</word>
+	<item>*tupedhdan-</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288722</id>
+	<word_id>205</word_id>
+	<word>Nine</word>
+	<item>sinepehdan-</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>288723</id>
+	<word_id>206</word_id>
+	<word>Ten</word>
+	<item>wam-pe</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+

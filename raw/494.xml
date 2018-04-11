@@ -1,0 +1,3771 @@
+<record>
+	<id>494</id>
+	<language>S.W. Palawano</language>
+	<author>Bill Davis</author>
+	<silcode>plv</silcode>
+	<glottocode>sout2916</glottocode>
+	<notes>(Author is translator with New Tribes Mission, working among SWP since 1982)
+
+I will use our orthography, since it is a simple sound system. We do not write the final glottal but I will use an apostrophe for that and for intervocalic glottal; voiceless stops are unaspirated; &lt;ng&gt; represents the velar nasal phoneme; &lt;l&gt; is high-tongued; &lt;r&gt; is flapped; stress is penultimate unless I say &quot;final&quot; in the author annotation column; there are 4 vowel phonemes (i: high front, a: low central; a slightly rounded mid vowel further back than a schwa but not quite &quot;open o&quot; of 'caught.' for which we use the letter &lt;e&gt;; and a high back rounded.  We use both &lt;o&gt; and &lt;u&gt; in the orthography as a bridge to reading Tagalog... there is non-phonemic range of sound which corresponds somewhat to the rules of the orthography (last vowel of word: write as &lt;o&gt;, double is &lt;oo&gt;, otherwise, &lt;u&gt;.</notes>
+	<problems></problems>
+	<classification>Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Palawanic</classification>
+	<typedby>Bill Davis</typedby>
+	<checkedby></checkedby>
+</record>
+
+<record>
+	<latitude>8.55386179999999995971</latitude>
+	<longitude>117.33673090000000627242</longitude>
+</record>
+
+<record>
+	<id>130663</id>
+	<word_id>1</word_id>
+	<word>hand</word>
+	<item>elima</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130664</id>
+	<word_id>2</word_id>
+	<word>left</word>
+	<item>gibang</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>24</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130665</id>
+	<word_id>3</word_id>
+	<word>right</word>
+	<item>kewanan</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,62</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130666</id>
+	<word_id>4</word_id>
+	<word>leg/foot</word>
+	<item>tiked</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>108</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131204</id>
+	<word_id>5</word_id>
+	<word>to walk</word>
+	<item>panew</item>
+	<annotation>root; with -um-</annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131205</id>
+	<word_id>5</word_id>
+	<word>to walk</word>
+	<item>manew</item>
+	<annotation>irrealis</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130668</id>
+	<word_id>6</word_id>
+	<word>road/path</word>
+	<item>dalan</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131206</id>
+	<word_id>7</word_id>
+	<word>to come</word>
+	<item>ato'</item>
+	<annotation>literally &quot;here/come here&quot;</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131207</id>
+	<word_id>7</word_id>
+	<word>to come</word>
+	<item>mato'</item>
+	<annotation>irrealis</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130873</id>
+	<word_id>8</word_id>
+	<word>to turn</word>
+	<item>isi'</item>
+	<annotation>(final); literally &quot;to take&quot;</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130874</id>
+	<word_id>8</word_id>
+	<word>to turn</word>
+	<item>misi' et gibang</item>
+	<annotation>&quot;turn left&quot; (irrealis)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130875</id>
+	<word_id>8</word_id>
+	<word>to turn</word>
+	<item>misi' et kewanan</item>
+	<annotation>&quot;turn right&quot; (irrealis)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130876</id>
+	<word_id>8</word_id>
+	<word>to turn</word>
+	<item>misi' et debdeb</item>
+	<annotation>&quot;go straight&quot; (chest) (irrealis)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130877</id>
+	<word_id>9</word_id>
+	<word>to swim</word>
+	<item>langoy</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130878</id>
+	<word_id>9</word_id>
+	<word>to swim</word>
+	<item>lumangoy</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130879</id>
+	<word_id>9</word_id>
+	<word>to swim</word>
+	<item>meglangoy</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130672</id>
+	<word_id>10</word_id>
+	<word>dirty</word>
+	<item>meridi'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130673</id>
+	<word_id>11</word_id>
+	<word>dust</word>
+	<item>elikabok</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,48</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130674</id>
+	<word_id>12</word_id>
+	<word>skin</word>
+	<item>kulit</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130675</id>
+	<word_id>13</word_id>
+	<word>back</word>
+	<item>likod</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130880</id>
+	<word_id>14</word_id>
+	<word>belly</word>
+	<item>berebewang</item>
+	<annotation>(final) is lower abdomen</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130881</id>
+	<word_id>14</word_id>
+	<word>belly</word>
+	<item>beteng</item>
+	<annotation>stomach (internal) and upper belly (outer)</annotation>
+	<loan></loan>
+	<cognacy>49</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130677</id>
+	<word_id>15</word_id>
+	<word>bone</word>
+	<item>tulang</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130882</id>
+	<word_id>16</word_id>
+	<word>intestines</word>
+	<item>tine'i</item>
+	<annotation>small intestine</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130883</id>
+	<word_id>16</word_id>
+	<word>intestines</word>
+	<item>bituka</item>
+	<annotation>large intestine</annotation>
+	<loan></loan>
+	<cognacy>21</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130679</id>
+	<word_id>17</word_id>
+	<word>liver</word>
+	<item>atey</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130680</id>
+	<word_id>18</word_id>
+	<word>breast</word>
+	<item>dudo'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>15</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130681</id>
+	<word_id>19</word_id>
+	<word>shoulder</word>
+	<item>ebaga</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131208</id>
+	<word_id>20</word_id>
+	<word>to know, be knowledgeable</word>
+	<item>seod</item>
+	<annotation>(final) (no glottal between); as verb &quot;to learn&quot;</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130885</id>
+	<word_id>20</word_id>
+	<word>to know, be knowledgeable</word>
+	<item>keseudan</item>
+	<annotation>tenseless &quot;know&quot; (final) with genitive agent</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131209</id>
+	<word_id>20</word_id>
+	<word>to know, be knowledgeable</word>
+	<item>meseudan</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130894</id>
+	<word_id>21</word_id>
+	<word>to think</word>
+	<item>pikir</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>22</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130895</id>
+	<word_id>21</word_id>
+	<word>to think</word>
+	<item>memikir</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy>22</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130896</id>
+	<word_id>22</word_id>
+	<word>to fear</word>
+	<item>takot</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130897</id>
+	<word_id>22</word_id>
+	<word>to fear</word>
+	<item>tumakot</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130685</id>
+	<word_id>23</word_id>
+	<word>blood</word>
+	<item>dugo'</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>16</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130686</id>
+	<word_id>24</word_id>
+	<word>head</word>
+	<item>ulo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130687</id>
+	<word_id>25</word_id>
+	<word>neck</word>
+	<item>lieg</item>
+	<annotation>(final) (no glottal)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130688</id>
+	<word_id>26</word_id>
+	<word>hair</word>
+	<item>buek</item>
+	<annotation>(final) (no glottal between in most subdialects)</annotation>
+	<loan></loan>
+	<cognacy>1,65</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130689</id>
+	<word_id>27</word_id>
+	<word>nose</word>
+	<item>edong</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130898</id>
+	<word_id>28</word_id>
+	<word>to breathe</word>
+	<item>ginawa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,70</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130899</id>
+	<word_id>28</word_id>
+	<word>to breathe</word>
+	<item>megginawa</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy>1,70</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130900</id>
+	<word_id>29</word_id>
+	<word>to sniff, smell</word>
+	<item>arek</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130901</id>
+	<word_id>29</word_id>
+	<word>to sniff, smell</word>
+	<item>marek</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130902</id>
+	<word_id>29</word_id>
+	<word>to sniff, smell</word>
+	<item>erkan</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130903</id>
+	<word_id>30</word_id>
+	<word>mouth</word>
+	<item>munong</item>
+	<annotation>lips</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130904</id>
+	<word_id>30</word_id>
+	<word>mouth</word>
+	<item>baba'</item>
+	<annotation>mouth opening</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130905</id>
+	<word_id>31</word_id>
+	<word>tooth</word>
+	<item>nipen</item>
+	<annotation>tooth</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130906</id>
+	<word_id>31</word_id>
+	<word>tooth</word>
+	<item>bigang</item>
+	<annotation>molar</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130907</id>
+	<word_id>31</word_id>
+	<word>tooth</word>
+	<item>tango</item>
+	<annotation>eye tooth</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130694</id>
+	<word_id>32</word_id>
+	<word>tongue</word>
+	<item>dila'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>4</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131210</id>
+	<word_id>33</word_id>
+	<word>to laugh</word>
+	<item>kesit</item>
+	<annotation>(most basic of many words)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131211</id>
+	<word_id>33</word_id>
+	<word>to laugh</word>
+	<item>kumsit</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130908</id>
+	<word_id>34</word_id>
+	<word>to cry</word>
+	<item>siak</item>
+	<annotation>(final) (no glottal)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130909</id>
+	<word_id>34</word_id>
+	<word>to cry</word>
+	<item>sumiak</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130910</id>
+	<word_id>35</word_id>
+	<word>to vomit</word>
+	<item>suka</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>9</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130911</id>
+	<word_id>35</word_id>
+	<word>to vomit</word>
+	<item>sumuka</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>9</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130912</id>
+	<word_id>35</word_id>
+	<word>to vomit</word>
+	<item>kesuda</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130913</id>
+	<word_id>36</word_id>
+	<word>to spit</word>
+	<item>ibeg</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>47</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130914</id>
+	<word_id>36</word_id>
+	<word>to spit</word>
+	<item>mibeg</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>47</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130916</id>
+	<word_id>37</word_id>
+	<word>to eat</word>
+	<item>kumaan</item>
+	<annotation>(final) = eat something</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130915</id>
+	<word_id>37</word_id>
+	<word>to eat</word>
+	<item>kaan</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130917</id>
+	<word_id>37</word_id>
+	<word>to eat</word>
+	<item>mengaan</item>
+	<annotation>(final) = eat meal</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130918</id>
+	<word_id>38</word_id>
+	<word>to chew</word>
+	<item>sepa'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>17</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130919</id>
+	<word_id>38</word_id>
+	<word>to chew</word>
+	<item>megsepa'</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy>17</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130920</id>
+	<word_id>39</word_id>
+	<word>to cook</word>
+	<item>iluto'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>20</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130921</id>
+	<word_id>39</word_id>
+	<word>to cook</word>
+	<item>meg'iluto'</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy>20</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130922</id>
+	<word_id>40</word_id>
+	<word>to drink</word>
+	<item>inom</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130923</id>
+	<word_id>40</word_id>
+	<word>to drink</word>
+	<item>minom</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130924</id>
+	<word_id>41</word_id>
+	<word>to bite</word>
+	<item>kagat</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130925</id>
+	<word_id>41</word_id>
+	<word>to bite</word>
+	<item>kumagat</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130926</id>
+	<word_id>42</word_id>
+	<word>to suck</word>
+	<item>sepsep</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130927</id>
+	<word_id>42</word_id>
+	<word>to suck</word>
+	<item>megsepsep</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130705</id>
+	<word_id>43</word_id>
+	<word>ear</word>
+	<item>telinga</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130928</id>
+	<word_id>44</word_id>
+	<word>to hear</word>
+	<item>kingeg</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,65</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130929</id>
+	<word_id>44</word_id>
+	<word>to hear</word>
+	<item>kumingeg</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1,65</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130930</id>
+	<word_id>44</word_id>
+	<word>to hear</word>
+	<item>pekingeg</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1,65</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130707</id>
+	<word_id>45</word_id>
+	<word>eye</word>
+	<item>mata</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131213</id>
+	<word_id>46</word_id>
+	<word>to see</word>
+	<item>mebiri'</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130932</id>
+	<word_id>46</word_id>
+	<word>to see</word>
+	<item>mebiri'</item>
+	<annotation>look at (intentional)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131212</id>
+	<word_id>46</word_id>
+	<word>to see</word>
+	<item>biri'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130933</id>
+	<word_id>47</word_id>
+	<word>to yawn</word>
+	<item>wab</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>19</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130934</id>
+	<word_id>47</word_id>
+	<word>to yawn</word>
+	<item>megwab</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy>19</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130935</id>
+	<word_id>48</word_id>
+	<word>to sleep</word>
+	<item>iga'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>99</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130936</id>
+	<word_id>48</word_id>
+	<word>to sleep</word>
+	<item>miga'</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>99</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130937</id>
+	<word_id>49</word_id>
+	<word>to lie down</word>
+	<item>buntol</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130938</id>
+	<word_id>49</word_id>
+	<word>to lie down</word>
+	<item>pebuntol</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130939</id>
+	<word_id>50</word_id>
+	<word>to dream</word>
+	<item>teginep</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>30</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130940</id>
+	<word_id>50</word_id>
+	<word>to dream</word>
+	<item>meneginep</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>30</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130941</id>
+	<word_id>51</word_id>
+	<word>to sit</word>
+	<item>adong</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>47</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131215</id>
+	<word_id>51</word_id>
+	<word>to sit</word>
+	<item>peadong</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy>47</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131214</id>
+	<word_id>51</word_id>
+	<word>to sit</word>
+	<item>madong</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy>47</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130943</id>
+	<word_id>52</word_id>
+	<word>to stand</word>
+	<item>teyeg</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130944</id>
+	<word_id>52</word_id>
+	<word>to stand</word>
+	<item>tumyeg</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130715</id>
+	<word_id>53</word_id>
+	<word>person/human being</word>
+	<item>taaw</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130716</id>
+	<word_id>54</word_id>
+	<word>man/male</word>
+	<item>lelaki</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2,99</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130717</id>
+	<word_id>55</word_id>
+	<word>woman/female</word>
+	<item>libon</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>17</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130718</id>
+	<word_id>56</word_id>
+	<word>child</word>
+	<item>memulek</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130945</id>
+	<word_id>57</word_id>
+	<word>husband</word>
+	<item>esawa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130946</id>
+	<word_id>57</word_id>
+	<word>husband</word>
+	<item>esawa na' lelaki</item>
+	<annotation>(to be specific)</annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130947</id>
+	<word_id>58</word_id>
+	<word>wife</word>
+	<item>esawa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130948</id>
+	<word_id>58</word_id>
+	<word>wife</word>
+	<item>esawa na' libon</item>
+	<annotation>(to be specific)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130721</id>
+	<word_id>59</word_id>
+	<word>mother</word>
+	<item>indo'</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>16</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130722</id>
+	<word_id>60</word_id>
+	<word>father</word>
+	<item>ama'</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130723</id>
+	<word_id>61</word_id>
+	<word>house</word>
+	<item>benwa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130949</id>
+	<word_id>62</word_id>
+	<word>thatch/roof</word>
+	<item>sapew</item>
+	<annotation>(final) = roof,</annotation>
+	<loan></loan>
+	<cognacy>15</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130950</id>
+	<word_id>62</word_id>
+	<word>thatch/roof</word>
+	<item>pawed</item>
+	<annotation>thatch</annotation>
+	<loan></loan>
+	<cognacy>15</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130951</id>
+	<word_id>62</word_id>
+	<word>thatch/roof</word>
+	<item>pinawed</item>
+	<annotation>thatch</annotation>
+	<loan></loan>
+	<cognacy>15</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130725</id>
+	<word_id>63</word_id>
+	<word>name</word>
+	<item>ngaran</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130952</id>
+	<word_id>64</word_id>
+	<word>to say</word>
+	<item>beres</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130953</id>
+	<word_id>64</word_id>
+	<word>to say</word>
+	<item>meres</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130954</id>
+	<word_id>65</word_id>
+	<word>rope</word>
+	<item>tali</item>
+	<annotation>rope</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130955</id>
+	<word_id>65</word_id>
+	<word>rope</word>
+	<item>siget</item>
+	<annotation>s/t to tie with</annotation>
+	<loan></loan>
+	<cognacy>77</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130956</id>
+	<word_id>66</word_id>
+	<word>to tie up, fasten</word>
+	<item>siget</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130957</id>
+	<word_id>66</word_id>
+	<word>to tie up, fasten</word>
+	<item>sumiget</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130958</id>
+	<word_id>66</word_id>
+	<word>to tie up, fasten</word>
+	<item>sigtan</item>
+	<annotation>Dir. Focus.</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130959</id>
+	<word_id>67</word_id>
+	<word>to sew</word>
+	<item>tehi'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130960</id>
+	<word_id>67</word_id>
+	<word>to sew</word>
+	<item>tumehi'</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130730</id>
+	<word_id>68</word_id>
+	<word>needle</word>
+	<item>dagom</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130961</id>
+	<word_id>69</word_id>
+	<word>to hunt</word>
+	<item>subok</item>
+	<annotation>(most generic of many terms)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130962</id>
+	<word_id>69</word_id>
+	<word>to hunt</word>
+	<item>menubok</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130963</id>
+	<word_id>70</word_id>
+	<word>to shoot</word>
+	<item>pana'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130964</id>
+	<word_id>70</word_id>
+	<word>to shoot</word>
+	<item>megpana'</item>
+	<annotation>(but we don't have arrows… this would be a small spear gun for crayfish), (irrealis)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130965</id>
+	<word_id>71</word_id>
+	<word>to stab, pierce</word>
+	<item>seksak</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>68</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130966</id>
+	<word_id>71</word_id>
+	<word>to stab, pierce</word>
+	<item>sumeksak</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>68</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130967</id>
+	<word_id>72</word_id>
+	<word>to hit</word>
+	<item>lipak</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130968</id>
+	<word_id>72</word_id>
+	<word>to hit</word>
+	<item>lumipak</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130969</id>
+	<word_id>72</word_id>
+	<word>to hit</word>
+	<item>meglipak</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130970</id>
+	<word_id>73</word_id>
+	<word>to steal</word>
+	<item>takew</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130972</id>
+	<word_id>73</word_id>
+	<word>to steal</word>
+	<item>menakew</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130973</id>
+	<word_id>73</word_id>
+	<word>to steal</word>
+	<item>laog</item>
+	<annotation>(to rob face-to-face)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130975</id>
+	<word_id>74</word_id>
+	<word>to kill</word>
+	<item>imatey</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130976</id>
+	<word_id>74</word_id>
+	<word>to kill</word>
+	<item>mengimatey</item>
+	<annotation>(with no object=suicide)</annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130974</id>
+	<word_id>74</word_id>
+	<word>to kill</word>
+	<item>mimatey</item>
+	<annotation>mimatey</annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130977</id>
+	<word_id>75</word_id>
+	<word>to die, be dead</word>
+	<item>patey</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,35</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130978</id>
+	<word_id>75</word_id>
+	<word>to die, be dead</word>
+	<item>matey</item>
+	<annotation>mimatey</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130979</id>
+	<word_id>76</word_id>
+	<word>to live, be alive</word>
+	<item>biag</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>15</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130980</id>
+	<word_id>76</word_id>
+	<word>to live, be alive</word>
+	<item>megbiag</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>15</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130981</id>
+	<word_id>77</word_id>
+	<word>to scratch</word>
+	<item>kutkot</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>21</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130982</id>
+	<word_id>77</word_id>
+	<word>to scratch</word>
+	<item>kumutkot</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>21</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130983</id>
+	<word_id>77</word_id>
+	<word>to scratch</word>
+	<item>mengutkot</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>21</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131216</id>
+	<word_id>78</word_id>
+	<word>to cut, hack</word>
+	<item>tigbas</item>
+	<annotation>= chop with machete or ax</annotation>
+	<loan></loan>
+	<cognacy>106</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131217</id>
+	<word_id>78</word_id>
+	<word>to cut, hack</word>
+	<item>tumigbas</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130741</id>
+	<word_id>79</word_id>
+	<word>stick/wood</word>
+	<item>kayo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130985</id>
+	<word_id>80</word_id>
+	<word>to split</word>
+	<item>randang</item>
+	<annotation>if long</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130984</id>
+	<word_id>80</word_id>
+	<word>to split</word>
+	<item>bela'</item>
+	<annotation>(split solid object)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130986</id>
+	<word_id>80</word_id>
+	<word>to split</word>
+	<item>megbela'</item>
+	<annotation>(rare), (irrealis)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130987</id>
+	<word_id>80</word_id>
+	<word>to split</word>
+	<item>ridis</item>
+	<annotation>spilt a second time</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130743</id>
+	<word_id>81</word_id>
+	<word>sharp</word>
+	<item>metarem</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130744</id>
+	<word_id>82</word_id>
+	<word>dull, blunt</word>
+	<item>megaddel</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>40,27</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130988</id>
+	<word_id>83</word_id>
+	<word>to work</word>
+	<item>keradya</item>
+	<annotation>(most generic for &quot;work&quot;)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130989</id>
+	<word_id>83</word_id>
+	<word>to work</word>
+	<item>megkeradya</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130990</id>
+	<word_id>84</word_id>
+	<word>to plant</word>
+	<item>luak</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>26</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130991</id>
+	<word_id>84</word_id>
+	<word>to plant</word>
+	<item>lumuak</item>
+	<annotation>(final, plant item)</annotation>
+	<loan></loan>
+	<cognacy>26</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130992</id>
+	<word_id>84</word_id>
+	<word>to plant</word>
+	<item>mengluak</item>
+	<annotation>(final, plant many things)</annotation>
+	<loan></loan>
+	<cognacy>26</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130993</id>
+	<word_id>84</word_id>
+	<word>to plant</word>
+	<item>sasad</item>
+	<annotation>plant rice (final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130994</id>
+	<word_id>85</word_id>
+	<word>to choose</word>
+	<item>pili'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130995</id>
+	<word_id>85</word_id>
+	<word>to choose</word>
+	<item>memili'</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130996</id>
+	<word_id>86</word_id>
+	<word>to grow</word>
+	<item>dekla'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130997</id>
+	<word_id>86</word_id>
+	<word>to grow</word>
+	<item>dumekla'</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130998</id>
+	<word_id>87</word_id>
+	<word>to swell</word>
+	<item>baga'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130999</id>
+	<word_id>87</word_id>
+	<word>to swell</word>
+	<item>maga'</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131219</id>
+	<word_id>88</word_id>
+	<word>to squeeze</word>
+	<item>megpega</item>
+	<annotation>(irrealis, rare in AF)</annotation>
+	<loan></loan>
+	<cognacy>1,37</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131218</id>
+	<word_id>88</word_id>
+	<word>to squeeze</word>
+	<item>pega</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,37</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131000</id>
+	<word_id>89</word_id>
+	<word>to hold</word>
+	<item>kepet</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>25</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131001</id>
+	<word_id>89</word_id>
+	<word>to hold</word>
+	<item>kumpet</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>25</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131002</id>
+	<word_id>90</word_id>
+	<word>to dig</word>
+	<item>kali</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131003</id>
+	<word_id>90</word_id>
+	<word>to dig</word>
+	<item>megkali</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131004</id>
+	<word_id>91</word_id>
+	<word>to buy</word>
+	<item>elen</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131005</id>
+	<word_id>91</word_id>
+	<word>to buy</word>
+	<item>melen</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131221</id>
+	<word_id>92</word_id>
+	<word>to open, uncover</word>
+	<item>tumukas</item>
+	<annotation>= open lid (final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131220</id>
+	<word_id>92</word_id>
+	<word>to open, uncover</word>
+	<item>tukas</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131006</id>
+	<word_id>93</word_id>
+	<word>to pound, beat</word>
+	<item>lebek</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>14</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131007</id>
+	<word_id>93</word_id>
+	<word>to pound, beat</word>
+	<item>menglebek</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>14</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131008</id>
+	<word_id>94</word_id>
+	<word>to throw</word>
+	<item>bakal</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>97</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131223</id>
+	<word_id>94</word_id>
+	<word>to throw</word>
+	<item>megbakal</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>97</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131222</id>
+	<word_id>94</word_id>
+	<word>to throw</word>
+	<item>megbakal</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>97</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131010</id>
+	<word_id>95</word_id>
+	<word>to fall</word>
+	<item>degdag</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>56</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131011</id>
+	<word_id>95</word_id>
+	<word>to fall</word>
+	<item>dumegdag</item>
+	<annotation>(final, 2-place intransitive)</annotation>
+	<loan></loan>
+	<cognacy>56</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131012</id>
+	<word_id>95</word_id>
+	<word>to fall</word>
+	<item>medegdag</item>
+	<annotation>(final, 1-place intransitive)</annotation>
+	<loan></loan>
+	<cognacy>56</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130758</id>
+	<word_id>96</word_id>
+	<word>dog</word>
+	<item>ideng</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130759</id>
+	<word_id>97</word_id>
+	<word>bird</word>
+	<item>begit</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130760</id>
+	<word_id>98</word_id>
+	<word>egg</word>
+	<item>tilog</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,76</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130761</id>
+	<word_id>99</word_id>
+	<word>feather</word>
+	<item>bulbol</item>
+	<annotation>(also = fur, body hair)</annotation>
+	<loan></loan>
+	<cognacy>1,68</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130762</id>
+	<word_id>100</word_id>
+	<word>wing</word>
+	<item>elad</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>23</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131224</id>
+	<word_id>101</word_id>
+	<word>to fly</word>
+	<item>lepad</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>21</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131225</id>
+	<word_id>101</word_id>
+	<word>to fly</word>
+	<item>lumpad</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>21</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130764</id>
+	<word_id>102</word_id>
+	<word>rat</word>
+	<item>belab</item>
+	<annotation>(final) …generic</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130765</id>
+	<word_id>103</word_id>
+	<word>meat/flesh</word>
+	<item>uned</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>27</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130766</id>
+	<word_id>104</word_id>
+	<word>fat/grease</word>
+	<item>taba'</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>23</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130767</id>
+	<word_id>105</word_id>
+	<word>tail</word>
+	<item>ipos</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>30</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130768</id>
+	<word_id>106</word_id>
+	<word>snake</word>
+	<item>seli</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130769</id>
+	<word_id>107</word_id>
+	<word>worm (earthworm)</word>
+	<item>lungati</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,75</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130770</id>
+	<word_id>108</word_id>
+	<word>louse</word>
+	<item>kuto</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131013</id>
+	<word_id>109</word_id>
+	<word>mosquito</word>
+	<item>kuramot</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131014</id>
+	<word_id>109</word_id>
+	<word>mosquito</word>
+	<item>tegnek</item>
+	<annotation>other type (final)</annotation>
+	<loan></loan>
+	<cognacy>27</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130772</id>
+	<word_id>110</word_id>
+	<word>spider</word>
+	<item>kelelawa'</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130773</id>
+	<word_id>111</word_id>
+	<word>fish</word>
+	<item>seda'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>18</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131015</id>
+	<word_id>112</word_id>
+	<word>rotten</word>
+	<item>burok</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1,102</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131016</id>
+	<word_id>112</word_id>
+	<word>rotten</word>
+	<item>meburok</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1,102</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130775</id>
+	<word_id>113</word_id>
+	<word>branch</word>
+	<item>sanga</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130776</id>
+	<word_id>114</word_id>
+	<word>leaf</word>
+	<item>deon</item>
+	<annotation>(final) no glottal in most subdialects</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130777</id>
+	<word_id>115</word_id>
+	<word>root</word>
+	<item>gamot</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>3</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130778</id>
+	<word_id>116</word_id>
+	<word>flower</word>
+	<item>burak-burak</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>22</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130779</id>
+	<word_id>117</word_id>
+	<word>fruit</word>
+	<item>bua'</item>
+	<annotation>(final) no glottal in most subdialects</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130780</id>
+	<word_id>118</word_id>
+	<word>grass</word>
+	<item>kenit-kenit</item>
+	<annotation>lawn-type grass in general</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130781</id>
+	<word_id>119</word_id>
+	<word>earth/soil</word>
+	<item>lugta'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>25,83</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130782</id>
+	<word_id>120</word_id>
+	<word>stone</word>
+	<item>bato</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130783</id>
+	<word_id>121</word_id>
+	<word>sand</word>
+	<item>egis</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130784</id>
+	<word_id>122</word_id>
+	<word>water</word>
+	<item>danom</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131017</id>
+	<word_id>123</word_id>
+	<word>to flow</word>
+	<item>burbor</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131018</id>
+	<word_id>123</word_id>
+	<word>to flow</word>
+	<item>murbor</item>
+	<annotation>(irrealis)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131019</id>
+	<word_id>124</word_id>
+	<word>sea</word>
+	<item>dagat</item>
+	<annotation>(at the beach, the sea is &quot;dagat&quot;)</annotation>
+	<loan></loan>
+	<cognacy>25</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131020</id>
+	<word_id>124</word_id>
+	<word>sea</word>
+	<item>lawed</item>
+	<annotation>(while inland the sea and seashore are &quot;lawed&quot;)</annotation>
+	<loan></loan>
+	<cognacy>6</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130787</id>
+	<word_id>125</word_id>
+	<word>salt</word>
+	<item>asin</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>3</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130788</id>
+	<word_id>126</word_id>
+	<word>lake</word>
+	<item>-</item>
+	<annotation>they have no lakes; &quot;Sea of Galilee&quot; has been called dagat-dagatan&quot; but this is contrived</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131021</id>
+	<word_id>127</word_id>
+	<word>woods/forest</word>
+	<item>talon</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>30</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131022</id>
+	<word_id>127</word_id>
+	<word>woods/forest</word>
+	<item>geba'</item>
+	<annotation>virgin forest</annotation>
+	<loan></loan>
+	<cognacy>104</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131023</id>
+	<word_id>127</word_id>
+	<word>woods/forest</word>
+	<item>bengley</item>
+	<annotation>second growth</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131024</id>
+	<word_id>128</word_id>
+	<word>sky</word>
+	<item>langit</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131025</id>
+	<word_id>128</word_id>
+	<word>sky</word>
+	<item>lengew-legnew</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130791</id>
+	<word_id>129</word_id>
+	<word>moon</word>
+	<item>bulan</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130792</id>
+	<word_id>130</word_id>
+	<word>star</word>
+	<item>bituen</item>
+	<annotation>(final) no glottal in most subdialects</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130793</id>
+	<word_id>131</word_id>
+	<word>cloud</word>
+	<item>inarak</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130794</id>
+	<word_id>132</word_id>
+	<word>fog</word>
+	<item>habong</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130795</id>
+	<word_id>133</word_id>
+	<word>rain</word>
+	<item>delek</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130796</id>
+	<word_id>134</word_id>
+	<word>thunder</word>
+	<item>duldog</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>2,68</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130797</id>
+	<word_id>135</word_id>
+	<word>lightning</word>
+	<item>kilat</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130798</id>
+	<word_id>136</word_id>
+	<word>wind</word>
+	<item>deres</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>82</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131026</id>
+	<word_id>137</word_id>
+	<word>to blow</word>
+	<item>dumres</item>
+	<annotation>a. (final)</annotation>
+	<loan></loan>
+	<cognacy>48</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131227</id>
+	<word_id>137</word_id>
+	<word>to blow</word>
+	<item>tepiog</item>
+	<annotation>b. (final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131229</id>
+	<word_id>137</word_id>
+	<word>to blow</word>
+	<item>tumepiog</item>
+	<annotation>b. (final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131226</id>
+	<word_id>137</word_id>
+	<word>to blow</word>
+	<item>tepig</item>
+	<annotation>b. (final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131228</id>
+	<word_id>137</word_id>
+	<word>to blow</word>
+	<item>tumepig</item>
+	<annotation>b. (final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131029</id>
+	<word_id>138</word_id>
+	<word>warm</word>
+	<item>meinit</item>
+	<annotation>hot</annotation>
+	<loan></loan>
+	<cognacy>23</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131030</id>
+	<word_id>138</word_id>
+	<word>warm</word>
+	<item>meinit-init</item>
+	<annotation>warm</annotation>
+	<loan></loan>
+	<cognacy>23</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131031</id>
+	<word_id>139</word_id>
+	<word>cold</word>
+	<item>meramig</item>
+	<annotation>(final) = cold</annotation>
+	<loan></loan>
+	<cognacy>22</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131032</id>
+	<word_id>139</word_id>
+	<word>cold</word>
+	<item>meramig-ramig</item>
+	<annotation>&quot;cool&quot;</annotation>
+	<loan></loan>
+	<cognacy>22</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131033</id>
+	<word_id>140</word_id>
+	<word>dry</word>
+	<item>toog</item>
+	<annotation>a. &amp; b.</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131034</id>
+	<word_id>140</word_id>
+	<word>dry</word>
+	<item>ipetoog</item>
+	<annotation>(final) to dry s.t.</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131035</id>
+	<word_id>140</word_id>
+	<word>dry</word>
+	<item>tumoog</item>
+	<annotation>b.</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130803</id>
+	<word_id>141</word_id>
+	<word>wet</word>
+	<item>basa'</item>
+	<annotation>(some say mebasa' but most call that a Tagalogism)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130804</id>
+	<word_id>142</word_id>
+	<word>heavy</word>
+	<item>mebegat</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130805</id>
+	<word_id>143</word_id>
+	<word>fire</word>
+	<item>apoy</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131037</id>
+	<word_id>144</word_id>
+	<word>to burn</word>
+	<item>tumutong</item>
+	<annotation>(final) set fire to s.t.</annotation>
+	<loan></loan>
+	<cognacy>1,94</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131038</id>
+	<word_id>144</word_id>
+	<word>to burn</word>
+	<item>deket</item>
+	<annotation>intransitive &quot;to burn&quot;</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131036</id>
+	<word_id>144</word_id>
+	<word>to burn</word>
+	<item>tutong</item>
+	<annotation>(act of burning something)</annotation>
+	<loan></loan>
+	<cognacy>1,94</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131039</id>
+	<word_id>144</word_id>
+	<word>to burn</word>
+	<item>dektan</item>
+	<annotation>intransitive &quot;to burn&quot; (final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130807</id>
+	<word_id>145</word_id>
+	<word>smoke</word>
+	<item>tabok</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>30</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130808</id>
+	<word_id>146</word_id>
+	<word>ash</word>
+	<item>abo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130809</id>
+	<word_id>147</word_id>
+	<word>black</word>
+	<item>meitem</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130810</id>
+	<word_id>148</word_id>
+	<word>white</word>
+	<item>meputi'</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130811</id>
+	<word_id>149</word_id>
+	<word>red</word>
+	<item>mepula</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>28</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130812</id>
+	<word_id>150</word_id>
+	<word>yellow</word>
+	<item>mekunit</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130813</id>
+	<word_id>151</word_id>
+	<word>green</word>
+	<item>melunew</item>
+	<annotation>(also = blue)</annotation>
+	<loan></loan>
+	<cognacy>33</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131040</id>
+	<word_id>152</word_id>
+	<word>small</word>
+	<item>ibon-ibon</item>
+	<annotation>more generic</annotation>
+	<loan></loan>
+	<cognacy>127</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131041</id>
+	<word_id>152</word_id>
+	<word>small</word>
+	<item>merinek</item>
+	<annotation>for tiny particle objects</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130815</id>
+	<word_id>153</word_id>
+	<word>big</word>
+	<item>kela'</item>
+	<annotation>note above under &quot;grow larger&quot;: dekla' is root for verb form with -um-, plural adjective mededekra' (final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131042</id>
+	<word_id>154</word_id>
+	<word>short</word>
+	<item>mebaba'</item>
+	<annotation>same for both a./b.</annotation>
+	<loan></loan>
+	<cognacy>54</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131043</id>
+	<word_id>154</word_id>
+	<word>short</word>
+	<item>mepandak</item>
+	<annotation>(final) for short people</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130817</id>
+	<word_id>155</word_id>
+	<word>long</word>
+	<item>melembo'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>94</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131044</id>
+	<word_id>156</word_id>
+	<word>thin</word>
+	<item>menipis</item>
+	<annotation>this = flat object</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131045</id>
+	<word_id>156</word_id>
+	<word>thin</word>
+	<item>merinek</item>
+	<annotation>for rope etc. (final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131046</id>
+	<word_id>157</word_id>
+	<word>thick</word>
+	<item>mekapal</item>
+	<annotation>(final) = flat objects</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131047</id>
+	<word_id>157</word_id>
+	<word>thick</word>
+	<item>measlag</item>
+	<annotation>(final), for rope etc</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131048</id>
+	<word_id>158</word_id>
+	<word>narrow</word>
+	<item>mekitib</item>
+	<annotation>(final) = thin object</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131049</id>
+	<word_id>158</word_id>
+	<word>narrow</word>
+	<item>mekpit</item>
+	<annotation>narrow space between (final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131050</id>
+	<word_id>159</word_id>
+	<word>wide</word>
+	<item>mebkang</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131051</id>
+	<word_id>159</word_id>
+	<word>wide</word>
+	<item>melawak</item>
+	<annotation>wide space between</annotation>
+	<loan></loan>
+	<cognacy>1,64</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130822</id>
+	<word_id>160</word_id>
+	<word>painful, sick</word>
+	<item>mesakit</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131052</id>
+	<word_id>161</word_id>
+	<word>shy, ashamed</word>
+	<item>meleo</item>
+	<annotation>if incidental rather than personality trait</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131053</id>
+	<word_id>161</word_id>
+	<word>shy, ashamed</word>
+	<item>megleo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130824</id>
+	<word_id>162</word_id>
+	<word>old</word>
+	<item>megurang</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>21</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130825</id>
+	<word_id>163</word_id>
+	<word>new</word>
+	<item>bago</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,54</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130826</id>
+	<word_id>164</word_id>
+	<word>good</word>
+	<item>menunga</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131054</id>
+	<word_id>165</word_id>
+	<word>bad, evil</word>
+	<item>meyaat</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>88</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131055</id>
+	<word_id>165</word_id>
+	<word>bad, evil</word>
+	<item>meraat</item>
+	<annotation>var.  (final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131056</id>
+	<word_id>166</word_id>
+	<word>correct, true</word>
+	<item>sugat</item>
+	<annotation>&quot;correct&quot; (final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131057</id>
+	<word_id>166</word_id>
+	<word>correct, true</word>
+	<item>banar</item>
+	<annotation>&quot;true&quot;  (final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131058</id>
+	<word_id>167</word_id>
+	<word>night</word>
+	<item>gebi</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>21,90</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131059</id>
+	<word_id>167</word_id>
+	<word>night</word>
+	<item>gebii</item>
+	<annotation>rare (final)</annotation>
+	<loan></loan>
+	<cognacy>21,90</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130830</id>
+	<word_id>168</word_id>
+	<word>day</word>
+	<item>eldew</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130831</id>
+	<word_id>169</word_id>
+	<word>year</word>
+	<item>te'on</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131060</id>
+	<word_id>170</word_id>
+	<word>when?</word>
+	<item>ngiran</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1,24</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131061</id>
+	<word_id>170</word_id>
+	<word>when?</word>
+	<item>kengiran</item>
+	<annotation>if in past (final)</annotation>
+	<loan></loan>
+	<cognacy>1,11</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131062</id>
+	<word_id>171</word_id>
+	<word>to hide</word>
+	<item>tago'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>13</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131063</id>
+	<word_id>171</word_id>
+	<word>to hide</word>
+	<item>petago'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>13</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131064</id>
+	<word_id>172</word_id>
+	<word>to climb</word>
+	<item>ineik</item>
+	<annotation>a.</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131065</id>
+	<word_id>172</word_id>
+	<word>to climb</word>
+	<item>mineik</item>
+	<annotation>climb ladder/tree</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131066</id>
+	<word_id>172</word_id>
+	<word>to climb</word>
+	<item>tindal</item>
+	<annotation>(final) for ladder</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131067</id>
+	<word_id>172</word_id>
+	<word>to climb</word>
+	<item>tumindal</item>
+	<annotation>(final) &quot;go up stairs&quot;</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131068</id>
+	<word_id>172</word_id>
+	<word>to climb</word>
+	<item>tungol</item>
+	<annotation>b. (final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131069</id>
+	<word_id>172</word_id>
+	<word>to climb</word>
+	<item>tumungol</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131122</id>
+	<word_id>173</word_id>
+	<word>at</word>
+	<item>atot</item>
+	<annotation>&quot;at (near)&quot;</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131123</id>
+	<word_id>173</word_id>
+	<word>at</word>
+	<item>eset</item>
+	<annotation>&quot;at (general not too far)&quot;</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131124</id>
+	<word_id>173</word_id>
+	<word>at</word>
+	<item>doot</item>
+	<annotation>&quot;at (far)&quot;</annotation>
+	<loan></loan>
+	<cognacy>39</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130836</id>
+	<word_id>174</word_id>
+	<word>in, inside</word>
+	<item>seled</item>
+	<annotation>&quot;inside&quot;</annotation>
+	<loan></loan>
+	<cognacy>14</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130837</id>
+	<word_id>175</word_id>
+	<word>above</word>
+	<item>timbew</item>
+	<annotation>top surface or above the surface</annotation>
+	<loan></loan>
+	<cognacy>2,20</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131070</id>
+	<word_id>176</word_id>
+	<word>below</word>
+	<item>sirib</item>
+	<annotation>(under object) if under a house (which is on stilts)</annotation>
+	<loan></loan>
+	<cognacy>27</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131071</id>
+	<word_id>176</word_id>
+	<word>below</word>
+	<item>sirong</item>
+	<annotation>under shade of tree/eave etc</annotation>
+	<loan></loan>
+	<cognacy>35,78</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130839</id>
+	<word_id>177</word_id>
+	<word>this</word>
+	<item>ito'</item>
+	<annotation>(final) this is basic form, has 4 forms each of this/that/that, 4 each of here/there/there, and 4 each of &quot;this way/that way/that way&quot;</annotation>
+	<loan></loan>
+	<cognacy>10</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130840</id>
+	<word_id>178</word_id>
+	<word>that</word>
+	<item>yatin</item>
+	<annotation>(most common and inuitive… see annotation for &quot;this&quot;)</annotation>
+	<loan></loan>
+	<cognacy>55</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130841</id>
+	<word_id>179</word_id>
+	<word>near</word>
+	<item>mekabi'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130842</id>
+	<word_id>180</word_id>
+	<word>far</word>
+	<item>merayo'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130843</id>
+	<word_id>181</word_id>
+	<word>where?</word>
+	<item>embe</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>2,70</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130886</id>
+	<word_id>182</word_id>
+	<word>I</word>
+	<item>ako</item>
+	<annotation>(final); free nominative;</annotation>
+	<loan></loan>
+	<cognacy>1,5</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130887</id>
+	<word_id>182</word_id>
+	<word>I</word>
+	<item>ko</item>
+	<annotation>both clitic nominative and genitive</annotation>
+	<loan></loan>
+	<cognacy>x</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130888</id>
+	<word_id>183</word_id>
+	<word>thou</word>
+	<item>ikew</item>
+	<annotation>(final) free</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130889</id>
+	<word_id>183</word_id>
+	<word>thou</word>
+	<item>ke</item>
+	<annotation>clitic</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>153882</id>
+	<word_id>184</word_id>
+	<word>he/she</word>
+	<item>ya</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130890</id>
+	<word_id>185</word_id>
+	<word>we</word>
+	<item>kami</item>
+	<annotation>free</annotation>
+	<loan></loan>
+	<cognacy>2,51</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130891</id>
+	<word_id>185</word_id>
+	<word>we</word>
+	<item>kay</item>
+	<annotation>clitic</annotation>
+	<loan></loan>
+	<cognacy>2,51</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130892</id>
+	<word_id>186</word_id>
+	<word>you</word>
+	<item>kemuyo</item>
+	<annotation>free</annotation>
+	<loan></loan>
+	<cognacy>1,13</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130893</id>
+	<word_id>186</word_id>
+	<word>you</word>
+	<item>kew</item>
+	<annotation>clitic (kaw in some areas)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130849</id>
+	<word_id>187</word_id>
+	<word>they</word>
+	<item>diye</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130850</id>
+	<word_id>188</word_id>
+	<word>what?</word>
+	<item>eno</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2,65</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130851</id>
+	<word_id>189</word_id>
+	<word>who?</word>
+	<item>sino</item>
+	<annotation>(some areas si'no)</annotation>
+	<loan></loan>
+	<cognacy>14,47</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131072</id>
+	<word_id>190</word_id>
+	<word>other</word>
+	<item>iba</item>
+	<annotation>&quot;other, another,&quot; or &quot;different&quot; (final)</annotation>
+	<loan></loan>
+	<cognacy>12</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131073</id>
+	<word_id>190</word_id>
+	<word>other</word>
+	<item>le'in</item>
+	<annotation>&quot;other, another,&quot; or &quot;different&quot;</annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131074</id>
+	<word_id>191</word_id>
+	<word>all</word>
+	<item>tanan</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>24</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131075</id>
+	<word_id>191</word_id>
+	<word>all</word>
+	<item>ginsan</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130854</id>
+	<word_id>192</word_id>
+	<word>and</word>
+	<item>bo'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130855</id>
+	<word_id>193</word_id>
+	<word>if</word>
+	<item>ba'</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>20</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130856</id>
+	<word_id>194</word_id>
+	<word>how?</word>
+	<item>enukuan</item>
+	<annotation>(final); no glottal</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131076</id>
+	<word_id>195</word_id>
+	<word>no, not</word>
+	<item>diki</item>
+	<annotation>if &quot;I did NOT shoot the pig&quot;</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>131077</id>
+	<word_id>195</word_id>
+	<word>no, not</word>
+	<item>sala'</item>
+	<annotation>(final) if not identity; as in that's not a pig</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130858</id>
+	<word_id>196</word_id>
+	<word>to count</word>
+	<item>itong</item>
+	<annotation>(also hear bilang)</annotation>
+	<loan></loan>
+	<cognacy>31</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130859</id>
+	<word_id>197</word_id>
+	<word>One</word>
+	<item>isa'</item>
+	<annotation>(final), (not as modifier… that is seng- a bound form)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130860</id>
+	<word_id>198</word_id>
+	<word>Two</word>
+	<item>dua</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130861</id>
+	<word_id>199</word_id>
+	<word>Three</word>
+	<item>telo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130862</id>
+	<word_id>200</word_id>
+	<word>Four</word>
+	<item>epat</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130863</id>
+	<word_id>201</word_id>
+	<word>Five</word>
+	<item>lima</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130864</id>
+	<word_id>202</word_id>
+	<word>Six</word>
+	<item>enem</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130865</id>
+	<word_id>203</word_id>
+	<word>Seven</word>
+	<item>turo'</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130866</id>
+	<word_id>204</word_id>
+	<word>Eight</word>
+	<item>walo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>3</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130867</id>
+	<word_id>205</word_id>
+	<word>Nine</word>
+	<item>siam</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>9</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130868</id>
+	<word_id>206</word_id>
+	<word>Ten</word>
+	<item>sengpulo'</item>
+	<annotation>(final); here's the seng-  this is &quot;ten&quot; as modifer, in rare instances you might hear pulo' alone to mean abstract &quot;ten&quot; or &quot;there were ten(s) of something&quot;</annotation>
+	<loan></loan>
+	<cognacy>5</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130869</id>
+	<word_id>207</word_id>
+	<word>Twenty</word>
+	<item>duang pulo'</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>3,6</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130870</id>
+	<word_id>208</word_id>
+	<word>Fifty</word>
+	<item>llimang pulo'</item>
+	<annotation>(final)</annotation>
+	<loan></loan>
+	<cognacy>1,2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130871</id>
+	<word_id>209</word_id>
+	<word>One Hundred</word>
+	<item>senggatos</item>
+	<annotation>gatos is root used in pireng gatos (&quot;how many hundred?&quot;) but not as modifier</annotation>
+	<loan></loan>
+	<cognacy>4</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>130872</id>
+	<word_id>210</word_id>
+	<word>One Thousand</word>
+	<item>sengribo</item>
+	<annotation>ribo is root used in pireng ribo (&quot;how many thousand?&quot;) but not as modifier</annotation>
+	<loan></loan>
+	<cognacy>5</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
