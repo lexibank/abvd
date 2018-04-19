@@ -1,0 +1,766 @@
+<record>
+	<id>1339</id>
+	<language>Ujir (Schapper)</language>
+	<author>Antoinette Schapper</author>
+	<silcode>udj</silcode>
+	<glottocode>ujir1237</glottocode>
+	<notes></notes>
+	<problems></problems>
+	<classification>Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Aru</classification>
+	<typedby>Antoinette Schapper</typedby>
+	<checkedby>Antoinette Schapper</checkedby>
+</record>
+
+<record>
+	<latitude>-5.69330000000000000000</latitude>
+	<longitude>134.25700000000000000000</longitude>
+</record>
+
+<record>
+	<id>311000</id>
+	<word_id>1</word_id>
+	<word>hand</word>
+	<item>lima</item>
+	<annotation>3SG form is zero marked; lima- is the inflecting form for other person-numbers</annotation>
+	<loan></loan>
+	<cognacy>1,64</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>311009</id>
+	<word_id>2</word_id>
+	<word>left</word>
+	<item>ngafa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>3</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>311010</id>
+	<word_id>4</word_id>
+	<word>leg/foot</word>
+	<item>ai-</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310978</id>
+	<word_id>10</word_id>
+	<word>dirty</word>
+	<item>aiwaku</item>
+	<annotation>also means grey</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310969</id>
+	<word_id>14</word_id>
+	<word>belly</word>
+	<item>tubu-</item>
+	<annotation>tubi is the the 3sg form; other person-number inflections use the root tubu-</annotation>
+	<loan></loan>
+	<cognacy>3</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310973</id>
+	<word_id>15</word_id>
+	<word>bone</word>
+	<item>tul</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,25</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>311012</id>
+	<word_id>17</word_id>
+	<word>liver</word>
+	<item>ata</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>317757</id>
+	<word_id>19</word_id>
+	<word>shoulder</word>
+	<item>dawa- lin</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310972</id>
+	<word_id>23</word_id>
+	<word>blood</word>
+	<item>udu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>57</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>311002</id>
+	<word_id>24</word_id>
+	<word>head</word>
+	<item>ulu-</item>
+	<annotation>wil is the 3SG form; the inflecting root for other person-numbers is ulu-; also wil tabi in 3SG, where tabi is a shape classifier.</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>317758</id>
+	<word_id>25</word_id>
+	<word>neck</word>
+	<item>li- wangi</item>
+	<annotation>li- on its own means 'voice, language'; li- inflects for the person of the possessor, not wangi: li wangi = his/her neck; ling wangi = my neck. </annotation>
+	<loan></loan>
+	<cognacy>1,119</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310999</id>
+	<word_id>26</word_id>
+	<word>hair</word>
+	<item>wil fuki</item>
+	<annotation>Literally, head-hair</annotation>
+	<loan></loan>
+	<cognacy>1,3</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>311019</id>
+	<word_id>30</word_id>
+	<word>mouth</word>
+	<item>fafa-</item>
+	<annotation>f&lt;e&gt;fa is the 3SG form; fafa- is the root form for other person-numbers</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>317760</id>
+	<word_id>37</word_id>
+	<word>to eat</word>
+	<item>-manam</item>
+	<annotation>intr.</annotation>
+	<loan></loan>
+	<cognacy>49</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>317761</id>
+	<word_id>37</word_id>
+	<word>to eat</word>
+	<item>-ka</item>
+	<annotation>tr.</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>317763</id>
+	<word_id>39</word_id>
+	<word>to cook</word>
+	<item>-nes</item>
+	<annotation>'cook by boiling'</annotation>
+	<loan></loan>
+	<cognacy>3</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310982</id>
+	<word_id>43</word_id>
+	<word>ear</word>
+	<item>taka-</item>
+	<annotation>3SG form taki, other person-number forms inflect with root taka-</annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310986</id>
+	<word_id>45</word_id>
+	<word>eye</word>
+	<item>mata-</item>
+	<annotation>3SG form is m&lt;e&gt;ta; other person-numbers inflect using the root mata- </annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>317764</id>
+	<word_id>50</word_id>
+	<word>to dream</word>
+	<item>-bukau</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>56</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>311014</id>
+	<word_id>54</word_id>
+	<word>man/male</word>
+	<item>sailet</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>3</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310975</id>
+	<word_id>56</word_id>
+	<word>child</word>
+	<item>anat</item>
+	<annotation>Used for kin only. 3SG form is an&lt;i&gt;t. </annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>311006</id>
+	<word_id>57</word_id>
+	<word>husband</word>
+	<item>sa</item>
+	<annotation>also wife, spouse</annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>311018</id>
+	<word_id>59</word_id>
+	<word>mother</word>
+	<item>ina</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,48</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310988</id>
+	<word_id>60</word_id>
+	<word>father</word>
+	<item>ama-</item>
+	<annotation>3SG form is &lt;e&gt;ma; other person-numbers inflect using root ama-</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>311004</id>
+	<word_id>61</word_id>
+	<word>house</word>
+	<item>juma</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>311020</id>
+	<word_id>63</word_id>
+	<word>name</word>
+	<item>ngei-</item>
+	<annotation>Inalienably possessed noun</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>318552</id>
+	<word_id>64</word_id>
+	<word>to say</word>
+	<item>noka</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>148</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>318553</id>
+	<word_id>70</word_id>
+	<word>to shoot</word>
+	<item>-an</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310981</id>
+	<word_id>82</word_id>
+	<word>dull, blunt</word>
+	<item>tubak</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>4</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>320600</id>
+	<word_id>92</word_id>
+	<word>to open, uncover</word>
+	<item>-fay</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>68</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310979</id>
+	<word_id>96</word_id>
+	<word>dog</word>
+	<item>fo</item>
+	<annotation>Cognates only found in northern Aru</annotation>
+	<loan></loan>
+	<cognacy>35</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310971</id>
+	<word_id>97</word_id>
+	<word>bird</word>
+	<item>woitau</item>
+	<annotation>Cognate with the terms for the Eclectus parrot in other Aru languages</annotation>
+	<loan></loan>
+	<cognacy>61</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310984</id>
+	<word_id>98</word_id>
+	<word>egg</word>
+	<item>tuli</item>
+	<annotation>Final i possibly represents and agreement form -i for 3SG</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310989</id>
+	<word_id>99</word_id>
+	<word>feather</word>
+	<item>fuki</item>
+	<annotation>Also refers to fur of a mamal</annotation>
+	<loan></loan>
+	<cognacy>71</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>311015</id>
+	<word_id>103</word_id>
+	<word>meat/flesh</word>
+	<item>tama</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310987</id>
+	<word_id>104</word_id>
+	<word>fat/grease</word>
+	<item>milmila</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>311017</id>
+	<word_id>109</word_id>
+	<word>mosquito</word>
+	<item>tuntun</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310991</id>
+	<word_id>111</word_id>
+	<word>fish</word>
+	<item>ika</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310974</id>
+	<word_id>113</word_id>
+	<word>branch</word>
+	<item>ran</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>311008</id>
+	<word_id>114</word_id>
+	<word>leaf</word>
+	<item>rawin</item>
+	<annotation>Also kaiwiri</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310993</id>
+	<word_id>116</word_id>
+	<word>flower</word>
+	<item>wawil</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310996</id>
+	<word_id>117</word_id>
+	<word>fruit</word>
+	<item>fuai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310998</id>
+	<word_id>118</word_id>
+	<word>grass</word>
+	<item>ur</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>6</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310983</id>
+	<word_id>119</word_id>
+	<word>earth/soil</word>
+	<item>fafa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>311016</id>
+	<word_id>129</word_id>
+	<word>moon</word>
+	<item>fulan</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310994</id>
+	<word_id>132</word_id>
+	<word>fog</word>
+	<item>kafkafal</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>311011</id>
+	<word_id>135</word_id>
+	<word>lightning</word>
+	<item>aibata kau</item>
+	<annotation>thunder and lightning</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310976</id>
+	<word_id>139</word_id>
+	<word>cold</word>
+	<item>joi</item>
+	<annotation>bisyllabic</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310980</id>
+	<word_id>140</word_id>
+	<word>dry</word>
+	<item>maimai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>311003</id>
+	<word_id>142</word_id>
+	<word>heavy</word>
+	<item>din</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310966</id>
+	<word_id>146</word_id>
+	<word>ash</word>
+	<item>abu</item>
+	<annotation>Likely Malay borrowing</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310970</id>
+	<word_id>153</word_id>
+	<word>big</word>
+	<item>bangi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>311013</id>
+	<word_id>155</word_id>
+	<word>long</word>
+	<item>nar</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310997</id>
+	<word_id>164</word_id>
+	<word>good</word>
+	<item>loki</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310968</id>
+	<word_id>165</word_id>
+	<word>bad, evil</word>
+	<item>kajata</item>
+	<annotation></annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310977</id>
+	<word_id>166</word_id>
+	<word>correct, true</word>
+	<item>maloli</item>
+	<annotation>Also 'straight'</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310967</id>
+	<word_id>173</word_id>
+	<word>at</word>
+	<item>-na</item>
+	<annotation>Verbal preposition which can inflect (active prefixes) in serialisation to agree with the subject, but most often occurs with the 3SG inflection fossilised, thus ana.</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310963</id>
+	<word_id>175</word_id>
+	<word>above</word>
+	<item>jotjo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>311007</id>
+	<word_id>182</word_id>
+	<word>I</word>
+	<item>ak</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>311001</id>
+	<word_id>184</word_id>
+	<word>he/she</word>
+	<item>na</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310964</id>
+	<word_id>191</word_id>
+	<word>all</word>
+	<item>akamai</item>
+	<annotation>Serial verb meaning 'complete' that inflects to agree with the subject, used for universal quantification</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310965</id>
+	<word_id>192</word_id>
+	<word>and</word>
+	<item>ati</item>
+	<annotation>This conjunction originates in the third person inflection of the verb to become a-ti 3SG-become</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>311005</id>
+	<word_id>194</word_id>
+	<word>how?</word>
+	<item>-koiba</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>313189</id>
+	<word_id>197</word_id>
+	<word>One</word>
+	<item>set</item>
+	<annotation>Cognate with set 1 is the indefinite article sia.</annotation>
+	<loan></loan>
+	<cognacy>1,34</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310995</id>
+	<word_id>200</word_id>
+	<word>Four</word>
+	<item>ka</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310992</id>
+	<word_id>201</word_id>
+	<word>Five</word>
+	<item>lima</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310985</id>
+	<word_id>204</word_id>
+	<word>Eight</word>
+	<item>karua</item>
+	<annotation>complex numeral 2x4</annotation>
+	<loan></loan>
+	<cognacy>28</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>310990</id>
+	<word_id>208</word_id>
+	<word>Fifty</word>
+	<item>ui lima</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
