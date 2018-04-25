@@ -18,15 +18,15 @@ Available online at https://abvd.shh.mpg.de/austronesian/
 
 - **Varieties:** 1,526
 - **Concepts:** 210
-- **Lexemes:** 294,210
+- **Lexemes:** 294,209
 - **Synonymy:** 1.14
-- **Cognacy:** 232,132 cognates in 16,115 cognate sets
-- **Invalid lexemes:** 294,210
+- **Cognacy:** 230,527 cognates in 181 cognate sets
+- **Invalid lexemes:** 294,209
 - **Tokens:** 0
 - **Segments:** 0 (0 LingPy errors, 0 CLPA errors, 0 CLPA modified)
 - **Inventory size (avg):** 0.00
 
 ## Possible Improvements:
 
-- Entries missing sources: 8766/294210 (2.98%)
+- Entries missing sources: 8766/294209 (2.98%)
 

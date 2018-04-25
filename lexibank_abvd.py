@@ -1,6 +1,7 @@
 # coding=utf-8
 from __future__ import unicode_literals, print_function
 from itertools import groupby
+import re
 
 from clldutils.path import Path
 from pylexibank.providers import abvd
@@ -11,6 +12,7 @@ from pylexibank.util import pb
 class Dataset(abvd.BVD):
     dir = Path(__file__).parent
     SECTION = 'austronesian'
+    cognate_pattern = re.compile('\s*(?P<id>([A-z]?[0-9]+|[A-Z]))\s*(?P<doubt>\?+)?\s*$')
 
     def cmd_install(self, **kw):
         concept_map = {
@@ -27,7 +29,7 @@ class Dataset(abvd.BVD):
             refs['austronesian-%s' % key] = [g for (k, g) in group]
 
         with self.cldf as ds:
-            for wl in pb(list(self.iter_wordlists(l_map)), desc='wl-to-cldf'):
+            for wl in pb(list(self.iter_wordlists(l_map, kw['log'])), desc='wl-to-cldf'):
                 wl.to_cldf(
                     ds,
                     concept_map,
