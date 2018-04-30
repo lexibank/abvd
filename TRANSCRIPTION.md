@@ -3,7 +3,7 @@
 
 ## Segments
 
-| Segment | Occurrence | LingPy | CLPA |
+| Segment | Occurrence | BIPA | CLTS SoundClass |
 ||
 
 (0 rows)
