@@ -8,6 +8,8 @@ This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ li
 
 Available online at https://abvd.shh.mpg.de/austronesian/
 
+Conceptlist in Concepticon: [Blust-2008-210](http://concepticon.clld.org/contributions/Blust-2008-210)
+
 ## Statistics
 
 
@@ -18,15 +20,19 @@ Available online at https://abvd.shh.mpg.de/austronesian/
 
 - **Varieties:** 1,526
 - **Concepts:** 210
-- **Lexemes:** 294,209
-- **Synonymy:** 1.14
-- **Cognacy:** 230,527 cognates in 181 cognate sets
-- **Invalid lexemes:** 294,209
+- **Lexemes:** 292,111
+- **Synonymy:** 1.13
+- **Cognacy:** 230,372 cognates in 178 cognate sets
+- **Invalid lexemes:** 292,111
 - **Tokens:** 0
-- **Segments:** 0 (0 LingPy errors, 0 CLPA errors, 0 CLPA modified)
+- **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
 - **Inventory size (avg):** 0.00
 
 ## Possible Improvements:
 
-- Entries missing sources: 8766/294209 (2.98%)
+- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
+  - Eastern Ngad'a [east2464](http://glottolog.org/resource/languoid/id/east2464)
+
+
+- Entries missing sources: 8753/292111 (3.00%)
 
