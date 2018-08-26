@@ -20,10 +20,10 @@ Conceptlist in Concepticon: [Blust-2008-210](http://concepticon.clld.org/contrib
 
 - **Varieties:** 1,526
 - **Concepts:** 210
-- **Lexemes:** 292,111
+- **Lexemes:** 292,167
 - **Synonymy:** 1.13
-- **Cognacy:** 230,372 cognates in 178 cognate sets
-- **Invalid lexemes:** 292,111
+- **Cognacy:** 230,406 cognates in 178 cognate sets
+- **Invalid lexemes:** 0
 - **Tokens:** 0
 - **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
 - **Inventory size (avg):** 0.00
@@ -34,5 +34,4 @@ Conceptlist in Concepticon: [Blust-2008-210](http://concepticon.clld.org/contrib
   - Eastern Ngad'a [east2464](http://glottolog.org/resource/languoid/id/east2464)
 
 
-- Entries missing sources: 8753/292111 (3.00%)
-
+- Entries missing sources: 8757/292167 (3.00%)

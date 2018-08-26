@@ -11,6 +11,7 @@ from pylexibank.util import pb
 
 class Dataset(abvd.BVD):
     dir = Path(__file__).parent
+    id = 'abvd'
     SECTION = 'austronesian'
     cognate_pattern = re.compile('\s*(?P<id>([A-z]?[0-9]+|[A-Z]))\s*(?P<doubt>\?+)?\s*$')
 

@@ -94,6 +94,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 93,"to pound, beat",354,POUND
 94,to throw,1456,THROW
 95,to fall,1280,FALL
+96,dog,2009,DOG
 97,bird,937,BIRD
 98,egg,744,EGG
 99,feather,1201,FEATHER
@@ -101,6 +102,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 101,to fly,1441,FLY (MOVE THROUGH AIR)
 102,rat,1490,RAT
 103,meat/flesh,2615,FLESH OR MEAT
+104,fat/grease,323,FAT (ORGANIC SUBSTANCE)
 105,tail,1220,TAIL
 106,snake,730,SNAKE
 107,worm (earthworm),1219,WORM
@@ -112,6 +114,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 113,branch,1531,BRANCH
 114,leaf,628,LEAF
 115,root,670,ROOT
+116,flower,239,FLOWER
 117,fruit,1507,FRUIT
 118,grass,606,GRASS
 119,earth/soil,1228,EARTH (SOIL)
@@ -120,6 +123,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 122,water,948,WATER
 123,to flow,2003,FLOW
 124,sea,1474,SEA
+125,salt,1274,SALT
 126,lake,624,LAKE
 127,woods/forest,420,FOREST
 128,sky,1732,SKY
@@ -155,6 +159,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 158,narrow,1267,NARROW
 159,wide,1243,WIDE
 160,"painful, sick",2103,PAINFUL OR SICK
+161,"shy, ashamed",487,SHY
 162,old,1229,OLD
 163,new,1231,NEW
 164,good,1035,GOOD
@@ -170,12 +175,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 174,"in, inside",1460,IN
 175,above,1741,ABOVE
 176,below,1485,BELOW OR UNDER
+177,this,1214,THIS
 178,that,78,THAT
 179,near,1942,NEAR
 180,far,1406,FAR
 181,where?,1237,WHERE
 182,I,1209,I
 183,thou,1215,THOU
+184,he/she,2642,HE OR SHE
 185,we,1212,WE
 186,you,1213,YOU
 187,they,817,THEY
@@ -192,9 +199,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 198,Two,1498,TWO
 199,Three,492,THREE
 200,Four,1500,FOUR
-96,dog,2009,DOG
-104,fat/grease,323,FAT (ORGANIC SUBSTANCE)
-125,salt,1274,SALT
 201,Five,493,FIVE
 202,Six,1703,SIX
 203,Seven,1704,SEVEN
@@ -205,7 +209,3 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 208,Fifty,1717,FIFTY
 209,One Hundred,1634,HUNDRED
 210,One Thousand,1843,THOUSAND
-184,he/she,2642,HE OR SHE
-116,flower,239,FLOWER
-161,"shy, ashamed",487,SHY
-177,this,1214,THIS
