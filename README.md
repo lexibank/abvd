@@ -16,13 +16,13 @@ Conceptlist in Concepticon: [Blust-2008-210](http://concepticon.clld.org/contrib
 [![Build Status](https://travis-ci.org/lexibank/abvd.svg?branch=master)](https://travis-ci.org/lexibank/abvd)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 97%](https://img.shields.io/badge/Source-97%25-green.svg "Source: 97%")
+![Source: 95%](https://img.shields.io/badge/Source-95%25-green.svg "Source: 95%")
 
-- **Varieties:** 1,526
+- **Varieties:** 1,554
 - **Concepts:** 210
-- **Lexemes:** 292,167
-- **Synonymy:** 1.13
-- **Cognacy:** 230,406 cognates in 178 cognate sets
+- **Lexemes:** 297,279
+- **Synonymy:** 1.14
+- **Cognacy:** 231,375 cognates in 178 cognate sets
 - **Invalid lexemes:** 0
 - **Tokens:** 0
 - **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
@@ -34,4 +34,4 @@ Conceptlist in Concepticon: [Blust-2008-210](http://concepticon.clld.org/contrib
   - Eastern Ngad'a [east2464](http://glottolog.org/resource/languoid/id/east2464)
 
 
-- Entries missing sources: 8757/292167 (3.00%)
+- Entries missing sources: 13868/297279 (4.66%)
