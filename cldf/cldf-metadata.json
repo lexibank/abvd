@@ -1,10 +1,16 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
+    "aboutUrl": null,
     "dc:bibliographicCitation": "Greenhill, S.J., Blust. R, & Gray, R.D. (2008). The Austronesian Basic Vocabulary Database: From Bioinformatics to Lexomics. Evolutionary Bioinformatics, 4:271-283.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:format": "http://concepticon.clld.org/contributions/Blust-2008-210",
+    "dc:description": null,
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Blust-2008-210"
+    ],
     "dc:identifier": "https://abvd.shh.mpg.de/austronesian/",
+    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Austronesian Basic Vocabulary Database",
     "dcat:accessURL": "https://github.com/lexibank/abvd",
@@ -17,15 +23,15 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.3.2",
-                "concepticon_version": "pyconcepticon-1.4.0-10-g1d57531"
+                "glottolog_version": "v4.0",
+                "concepticon_version": "v2.0"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 297279,
+            "dc:extent": 310801,
             "tableSchema": {
                 "columns": [
                     {
@@ -52,7 +58,7 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": true,
                         "name": "Value"
                     },
@@ -120,7 +126,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 1554,
+            "dc:extent": 1623,
             "tableSchema": {
                 "columns": [
                     {
@@ -152,6 +158,26 @@
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
                         "name": "Macroarea"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -90,
+                            "maximum": 90
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -180,
+                            "maximum": 180
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
                     },
                     {
                         "datatype": "string",
@@ -186,7 +212,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 210,
+            "dc:extent": 212,
             "tableSchema": {
                 "columns": [
                     {
@@ -218,7 +244,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 231377,
+            "dc:extent": 232459,
             "tableSchema": {
                 "columns": [
                     {

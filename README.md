@@ -8,30 +8,27 @@ This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ li
 
 Available online at https://abvd.shh.mpg.de/austronesian/
 
-Conceptlist in Concepticon: [Blust-2008-210](http://concepticon.clld.org/contributions/Blust-2008-210)
+Conceptlists in Concepticon:
+- [Blust-2008-210](http://concepticon.clld.org/contributions/Blust-2008-210)
 
 ## Statistics
 
 
 [![Build Status](https://travis-ci.org/lexibank/abvd.svg?branch=master)](https://travis-ci.org/lexibank/abvd)
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
+![Glottolog: 98%](https://img.shields.io/badge/Glottolog-98%25-green.svg "Glottolog: 98%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 95%](https://img.shields.io/badge/Source-95%25-green.svg "Source: 95%")
+![Source: 91%](https://img.shields.io/badge/Source-91%25-green.svg "Source: 91%")
 
-- **Varieties:** 1,554
-- **Concepts:** 210
-- **Lexemes:** 297,279
+- **Varieties:** 1,623
+- **Concepts:** 212
+- **Lexemes:** 310,801
+- **Sources:** 812
 - **Synonymy:** 1.14
-- **Cognacy:** 231,375 cognates in 178 cognate sets
-- **Invalid lexemes:** 0
-- **Tokens:** 0
-- **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
-- **Inventory size (avg):** 0.00
+- **Cognacy:** 232,459 cognates in 179 cognate sets (2 singletons)
+- **Cognate Diversity:** -0.00
 
 ## Possible Improvements:
 
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Eastern Ngad'a [east2464](http://glottolog.org/resource/languoid/id/east2464)
 
 
-- Entries missing sources: 13868/297279 (4.66%)
+- Entries missing sources: 27319/310801 (8.79%)

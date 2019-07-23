@@ -141,10 +141,10 @@
 	<id>321404</id>
 	<word_id>7</word_id>
 	<word>to come</word>
-	<item>au</item>
+	<item>a'u</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>44</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -199,7 +199,7 @@
 	<item>puèu</item>
 	<annotation>Dust (I)</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>1,74</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -254,7 +254,7 @@
 	<item>kona</item>
 	<annotation>Lower abdomen (Jnu)</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>8</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -276,7 +276,7 @@
 	<item>manava</item>
 	<annotation>Innards</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -452,7 +452,7 @@
 	<item>upoko</item>
 	<annotation>Head</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -496,7 +496,7 @@
 	<item>rauo'o</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>72</cognacy>
+	<cognacy>40</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -518,7 +518,7 @@
 	<item>'au</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>11?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -771,7 +771,7 @@
 	<item>eti</item>
 	<annotation>Tear with teeth</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>1,55</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -793,7 +793,7 @@
 	<item>miti</item>
 	<annotation>Suck</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>8</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -969,7 +969,7 @@
 	<item>'akaearanga</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>82</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1123,7 +1123,7 @@
 	<item>-ìne</item>
 	<annotation>Female (I don't understand why this is treated as a suffix - MW)</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>1,41</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1178,7 +1178,7 @@
 	<item>ahana</item>
 	<annotation>Mari (Jnu). Spouse, husband or wife (Tgr)</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>8?</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1189,7 +1189,7 @@
 	<item>ve'ine</item>
 	<annotation>borrowing from Marquesan</annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>5,68</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1266,7 +1266,7 @@
 	<item>ato</item>
 	<annotation>Thatch (I)</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1332,7 +1332,7 @@
 	<item>kaka</item>
 	<annotation>braided cord made from coconut husk fibers</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1409,7 +1409,7 @@
 	<item>aruaru</item>
 	<annotation>to chase</annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1431,7 +1431,7 @@
 	<item>ko</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>100</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1563,7 +1563,7 @@
 	<item>tarai</item>
 	<annotation>Rough hew; dress timber or stone (Tgr)</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1739,7 +1739,7 @@
 	<item>pokopoko</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2011,7 +2011,7 @@
 	<id>37010</id>
 	<word_id>104</word_id>
 	<word>fat/grease</word>
-	<item>'inu</item>
+	<item>hinu</item>
 	<annotation>Oil, grease</annotation>
 	<loan></loan>
 	<cognacy>12</cognacy>
@@ -2030,21 +2030,10 @@
 </record>
 
 <record>
-	<id>105110</id>
-	<word_id>105</word_id>
-	<word>tail</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>x</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>105111</id>
 	<word_id>105</word_id>
 	<word>tail</word>
-	<item>'iku</item>
+	<item>ìku</item>
 	<annotation>Tail of fish</annotation>
 	<loan></loan>
 	<cognacy>13</cognacy>
@@ -2058,7 +2047,7 @@
 	<item>vero</item>
 	<annotation>Tail of dog (Bck)</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2154,7 +2143,7 @@
 	<id>321531</id>
 	<word_id>110</word_id>
 	<word>spider</word>
-	<item>pūngaverevere</item>
+	<item>pūngawerewere</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1,57</cognacy>
@@ -2278,7 +2267,7 @@
 	<item>tiare</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2487,7 +2476,7 @@
 	<item>ulu</item>
 	<annotation>Unplanted</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>15</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2531,7 +2520,7 @@
 	<item>maahìna</item>
 	<annotation>Moon, month</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>37,5</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2652,7 +2641,7 @@
 	<item>hau</item>
 	<annotation>Souffler, etre bruyant (se dit du vent seul) (Jnu)</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2861,7 +2850,7 @@
 	<item>tutu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>6</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2880,7 +2869,7 @@
 	<id>51647</id>
 	<word_id>145</word_id>
 	<word>smoke</word>
-	<item>'au</item>
+	<item>au/ahi</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>2</cognacy>
@@ -2993,7 +2982,7 @@
 	<item>rengarenga</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3103,7 +3092,7 @@
 	<item>roa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3180,7 +3169,7 @@
 	<item>'ata'ata</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>21</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3411,7 +3400,7 @@
 	<item>ano</item>
 	<annotation>L from French</annotation>
 	<loan>L</loan>
-	<cognacy>x</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3562,7 +3551,7 @@
 	<id>63071</id>
 	<word_id>177</word_id>
 	<word>this</word>
-	<item>te_nei</item>
+	<item>tenei</item>
 	<annotation>This</annotation>
 	<loan></loan>
 	<cognacy>7,1</cognacy>

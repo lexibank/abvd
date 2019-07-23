@@ -2877,6 +2877,17 @@
 </record>
 
 <record>
+	<id>3213758</id>
+	<word_id>197</word_id>
+	<word>One</word>
+	<item>sikei</item>
+	<annotation>also means: &quot;a, the first, once, the one ... the other, each&quot;</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>70366</id>
 	<word_id>198</word_id>
 	<word>Two</word>
@@ -2943,6 +2954,17 @@
 </record>
 
 <record>
+	<id>3213757</id>
+	<word_id>204</word_id>
+	<word>Eight</word>
+	<item>alu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>172566</id>
 	<word_id>205</word_id>
 	<word>Nine</word>
@@ -2965,6 +2987,39 @@
 </record>
 
 <record>
+	<id>3213755</id>
+	<word_id>206</word_id>
+	<word>Ten</word>
+	<item>hangavulu</item>
+	<annotation>Only used for numbers which are units of 10 and not units of 20.</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3213756</id>
+	<word_id>206</word_id>
+	<word>Ten</word>
+	<item>salage</item>
+	<annotation>combination of the article 'sa' and 'lage'</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3213753</id>
+	<word_id>208</word_id>
+	<word>Fifty</word>
+	<item>lima hangavulu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>172565</id>
 	<word_id>209</word_id>
 	<word>One Hundred</word>
@@ -2972,6 +3027,17 @@
 	<annotation>irregular loss of *R</annotation>
 	<loan></loan>
 	<cognacy>4, 38</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3213754</id>
+	<word_id>210</word_id>
+	<word>One Thousand</word>
+	<item>toga</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

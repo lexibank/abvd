@@ -725,9 +725,20 @@
 	<word_id>124</word_id>
 	<word>sea</word>
 	<item>tahi</item>
+	<annotation>Loan from Tongan</annotation>
+	<loan>L</loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3213881</id>
+	<word_id>124</word_id>
+	<word>sea</word>
+	<item>tai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -959,6 +970,17 @@
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3213880</id>
+	<word_id>170</word_id>
+	<word>when?</word>
+	<item>'A fe?</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

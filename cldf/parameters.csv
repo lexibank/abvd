@@ -70,10 +70,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 69,to hunt,1435,HUNT
 70,to shoot,1172,SHOOT
 71,"to stab, pierce",1434,STAB
-72,to hit,1433,HIT
+72,to hit,353,STRIKE
 73,to steal,713,STEAL
 74,to kill,1417,KILL
-75,"to die, be dead",2101,DIE OR BE DEAD
+75,"to die, be dead",2101,BE DEAD OR DIE
 76,"to live, be alive",1422,BE ALIVE
 77,to scratch,1436,SCRATCH
 78,"to cut, hack",1432,CUT
@@ -169,7 +169,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 168,day,1225,DAY (NOT NIGHT)
 169,year,1226,YEAR
 170,when?,1238,WHEN
-171,to hide,602,HIDE (CONCEAL)
+171,to hide,2486,HIDE
 172,to climb,1102,CLIMB
 173,at,1461,AT
 174,"in, inside",1460,IN
@@ -209,3 +209,5 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 208,Fifty,1717,FIFTY
 209,One Hundred,1634,HUNDRED
 210,One Thousand,1843,THOUSAND
+211,,,
+212,,,
