@@ -144,7 +144,7 @@
 	<item>a'u</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>44</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -397,7 +397,7 @@
 	<item>makara</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>8?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -463,7 +463,7 @@
 	<item>o'o</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1?</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -518,7 +518,7 @@
 	<item>'au</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -560,6 +560,17 @@
 	<word_id>30</word_id>
 	<word>mouth</word>
 	<item>'a'a</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3227978</id>
+	<word_id>30</word_id>
+	<word>mouth</word>
+	<item>haha</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -672,7 +683,7 @@
 	<item>anuanu</item>
 	<annotation>Saliva, spittle, to spit (Tgr); salive, crachat, cracher (Jnu)</annotation>
 	<loan></loan>
-	<cognacy>14,84</cognacy>
+	<cognacy>14,84, 121</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -771,7 +782,7 @@
 	<item>eti</item>
 	<annotation>Tear with teeth</annotation>
 	<loan></loan>
-	<cognacy>1,55</cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1046,7 +1057,7 @@
 	<item>tagata</item>
 	<annotation>Man</annotation>
 	<loan></loan>
-	<cognacy>1,66</cognacy>
+	<cognacy>1,66, 97</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1057,7 +1068,7 @@
 	<item>tangata</item>
 	<annotation>human being; man</annotation>
 	<loan></loan>
-	<cognacy>1,66</cognacy>
+	<cognacy>1,66, 97</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1145,7 +1156,7 @@
 	<item>toromiki</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>6,63</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1277,7 +1288,7 @@
 	<item>paku</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>50</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1409,7 +1420,7 @@
 	<item>aruaru</item>
 	<annotation>to chase</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1431,7 +1442,7 @@
 	<item>ko</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>100</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1706,7 +1717,7 @@
 	<item>kukumu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>14</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1772,7 +1783,7 @@
 	<item>tuki</item>
 	<annotation>Pound</annotation>
 	<loan></loan>
-	<cognacy>20, 2</cognacy>
+	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1783,7 +1794,7 @@
 	<item>tuki</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>20, 2</cognacy>
+	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2069,7 +2080,7 @@
 	<item>iri/toke/</item>
 	<annotation>Earthworm</annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy>7, 80</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2982,7 +2993,7 @@
 	<item>rengarenga</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3092,7 +3103,7 @@
 	<item>roa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>12</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3158,7 +3169,7 @@
 	<item>āiti</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>84</cognacy>
+	<cognacy>89</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3664,7 +3675,7 @@
 	<item>ia/koia</item>
 	<annotation>'ona is used also today due to influence from Tahitian.</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 42</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3719,7 +3730,7 @@
 	<item>kōtou</item>
 	<annotation>plural</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3730,7 +3741,7 @@
 	<item>rāua</item>
 	<annotation>dual</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3873,7 +3884,7 @@
 	<item>ta'i</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>14,48</cognacy>
+	<cognacy>41</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -4049,7 +4060,7 @@
 	<item>rima rongo'uru</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1,15</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

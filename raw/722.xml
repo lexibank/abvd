@@ -127,6 +127,17 @@
 </record>
 
 <record>
+	<id>3227973</id>
+	<word_id>6</word_id>
+	<word>road/path</word>
+	<item>rarán</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>185419</id>
 	<word_id>7</word_id>
 	<word>to come</word>
@@ -251,7 +262,7 @@
 	<id>326450</id>
 	<word_id>16</word_id>
 	<word>intestines</word>
-	<item>bituka</item>
+	<item>bitukâ</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -435,6 +446,17 @@
 </record>
 
 <record>
+	<id>3227963</id>
+	<word_id>33</word_id>
+	<word>to laugh</word>
+	<item>magngisî</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>185591</id>
 	<word_id>34</word_id>
 	<word>to cry</word>
@@ -483,6 +505,17 @@
 	<word_id>38</word_id>
 	<word>to chew</word>
 	<item>kisam-kisam</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3227957</id>
+	<word_id>39</word_id>
+	<word>to cook</word>
+	<item>maglutô</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -559,8 +592,8 @@
 	<id>185451</id>
 	<word_id>46</word_id>
 	<word>to see</word>
-	<item>maíling</item>
-	<annotation></annotation>
+	<item>masilngan/mabayad</item>
+	<annotation>stress on the first syllable/stress on the first syllable</annotation>
 	<loan></loan>
 	<cognacy>110</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -757,7 +790,7 @@
 	<id>185467</id>
 	<word_id>63</word_id>
 	<word>name</word>
-	<item>ngaran</item>
+	<item>ngarán</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -809,6 +842,17 @@
 </record>
 
 <record>
+	<id>3227955</id>
+	<word_id>68</word_id>
+	<word>needle</word>
+	<item>ragôm</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>287676</id>
 	<word_id>70</word_id>
 	<word>to shoot</word>
@@ -827,6 +871,17 @@
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>68</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3227972</id>
+	<word_id>72</word_id>
+	<word>to hit</word>
+	<item>tangpaôn</item>
+	<annotation>(to hit in the head)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -875,6 +930,39 @@
 </record>
 
 <record>
+	<id>3227958</id>
+	<word_id>77</word_id>
+	<word>to scratch</word>
+	<item>kaguwôn/magkagôw</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3227969</id>
+	<word_id>78</word_id>
+	<word>to cut, hack</word>
+	<item>magputól</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3227971</id>
+	<word_id>78</word_id>
+	<word>to cut, hack</word>
+	<item>magbangá/magbaák</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>185477</id>
 	<word_id>79</word_id>
 	<word>stick/wood</word>
@@ -882,6 +970,17 @@
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3227970</id>
+	<word_id>80</word_id>
+	<word>to split</word>
+	<item>magbangá/magbaák</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -915,6 +1014,39 @@
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3227968</id>
+	<word_id>85</word_id>
+	<word>to choose</word>
+	<item>magpilî</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3227959</id>
+	<word_id>89</word_id>
+	<word>to hold</word>
+	<item>kaptán/kapotán</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3227964</id>
+	<word_id>89</word_id>
+	<word>to hold</word>
+	<item>magkapòt</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1073,6 +1205,17 @@
 </record>
 
 <record>
+	<id>3227956</id>
+	<word_id>105</word_id>
+	<word>tail</word>
+	<item>ikôg</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>185492</id>
 	<word_id>106</word_id>
 	<word>snake</word>
@@ -1091,6 +1234,17 @@
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>21</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3227960</id>
+	<word_id>108</word_id>
+	<word>louse</word>
+	<item>lusà</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1524,6 +1678,17 @@
 </record>
 
 <record>
+	<id>3227967</id>
+	<word_id>152</word_id>
+	<word>small</word>
+	<item>sadáy</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>185607</id>
 	<word_id>153</word_id>
 	<word>big</word>
@@ -1744,6 +1909,17 @@
 </record>
 
 <record>
+	<id>3227961</id>
+	<word_id>170</word_id>
+	<word>when?</word>
+	<item>kóno</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>185543</id>
 	<word_id>171</word_id>
 	<word>to hide</word>
@@ -1784,6 +1960,17 @@
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>14</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3227966</id>
+	<word_id>174</word_id>
+	<word>in, inside</word>
+	<item>sa loòg</item>
+	<annotation>(inside)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2019,6 +2206,17 @@
 </record>
 
 <record>
+	<id>3227965</id>
+	<word_id>188</word_id>
+	<word>what?</word>
+	<item>taonó</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>185560</id>
 	<word_id>189</word_id>
 	<word>who?</word>
@@ -2067,6 +2265,17 @@
 	<word_id>192</word_id>
 	<word>and</word>
 	<item>ag</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3227962</id>
+	<word_id>192</word_id>
+	<word>and</word>
+	<item>palá</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>

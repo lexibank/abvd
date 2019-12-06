@@ -419,7 +419,7 @@
 	<item>suupee</item>
 	<annotation>Pollex 06: Suupee. :Saliva; to spit (Sta)</annotation>
 	<loan></loan>
-	<cognacy>19,88</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -595,7 +595,7 @@
 	<item>tangata</item>
 	<annotation>Man</annotation>
 	<loan></loan>
-	<cognacy>1,66</cognacy>
+	<cognacy>1,66, 97</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -672,7 +672,7 @@
 	<item>paa</item>
 	<annotation>Pollex 06: Paa/paa. :Father, uncle; grandfather, granduncle (Sta).</annotation>
 	<loan>L?</loan>
-	<cognacy>5</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -738,7 +738,7 @@
 	<item>hiitiki</item>
 	<annotation>Tie</annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>148</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -936,7 +936,7 @@
 	<item>keo</item>
 	<annotation>Pollex 06: Keo. :Sharp point; sharp.</annotation>
 	<loan></loan>
-	<cognacy>14,66</cognacy>
+	<cognacy>14,66, 82</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1090,7 +1090,7 @@
 	<item>tuki</item>
 	<annotation>Beat</annotation>
 	<loan></loan>
-	<cognacy>20, 2</cognacy>
+	<cognacy>2</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1212,6 +1212,17 @@
 	<annotation>Fat, grease</annotation>
 	<loan></loan>
 	<cognacy>12</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3227974</id>
+	<word_id>104</word_id>
+	<word>fat/grease</word>
+	<item>ngako</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>14</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1876,6 +1887,17 @@
 </record>
 
 <record>
+	<id>3227976</id>
+	<word_id>160</word_id>
+	<word>painful, sick</word>
+	<item>maki</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>57355</id>
 	<word_id>161</word_id>
 	<word>shy, ashamed</word>
@@ -2151,6 +2173,17 @@
 </record>
 
 <record>
+	<id>3227977</id>
+	<word_id>185</word_id>
+	<word>we</word>
+	<item>tatou</item>
+	<annotation>2PL</annotation>
+	<loan></loan>
+	<cognacy>1,39</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>66994</id>
 	<word_id>188</word_id>
 	<word>what?</word>
@@ -2245,7 +2278,7 @@
 	<item>tahi</item>
 	<annotation>One (Bge)</annotation>
 	<loan></loan>
-	<cognacy>14,48</cognacy>
+	<cognacy>41</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
