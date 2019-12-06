@@ -9,6 +9,25 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, South Halmahera-West New Guinea, West New Guinea, Cenderawasih Bay, Biakic</classification>
 	<typedby>Debasish Roy</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{27061,
+  address               = {Amsterdam},
+  pages                 = {312},
+  publisher             = {De Bussy},
+  title                 = {Noemfoorsch woordenboek},
+  year                  = {1947},
+  bibtexkey             = {hasselt-hasselt_noemfoorsch-woordenboek1947},
+  class_loc             = {PL6279.Z5},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {Dutch [nld]},
+  inlg_code             = {nld},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6279 .Z5 HAS 1947},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#d:vanHasselt:Noemfoorsch, mpieva#Hasselt1947Noemfoor},
+  subject_headings      = {Numfor language – Dictionaries – Dutch, Dutch language – Dictionaries – Nufor, Numfor language – Dictionaries – Dutch – Dutch language – Dictionaries – Nufor},
+  author                = {van Hasselt, J.L and van Hasselt, F.J.F.}
+}</source>
 </record>
 
 <record>

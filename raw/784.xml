@@ -21,6 +21,22 @@ Maonan tones are very similar to those of Luocheng Zhuang and Huanjiang Zhuang.<
 	<classification>Tai-Kadai, Kam-Tai, Kam-Sui</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{307635,
+  address       = {Beijing},
+  pages         = {116},
+  publisher     = {People's Pres},
+  title         = {Maonanuyu jianzhi},
+  year          = {1980},
+  bibtexkey     = {min_maonanuyu-jianzhi1980},
+  fn            = {eurasia\min_maonan1980.pdf, eurasia\min_maonan1980_o.pdf},
+  hhtype        = {grammar_sketch},
+  inlg          = {Chinese [cmn]},
+  macro_area    = {Eurasia},
+  src           = {hh},
+  srctrickle    = {hh#s:Min:Maonan},
+  title_english = {Outline grammar of the Maonan language},
+  author        = {Min, Liang}
+}</source>
 </record>
 
 <record>

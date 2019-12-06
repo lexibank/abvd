@@ -9,6 +9,29 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Southeast Solomonic, Malaita-San Cristobal, San Cristobal</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby></checkedby>
+	<source>@book{163659,
+  address               = {Canberra},
+  pages                 = {iii+406},
+  publisher             = {Pacific Linguistics},
+  series                = {Pacific Linguistics: Series C},
+  title                 = {Arosi-English dictionary},
+  volume                = {11},
+  year                  = {1970},
+  bibtexkey             = {fox_arosi-dictionary1970},
+  class_loc             = {PL6311.Z9},
+  document_type         = {B},
+  fn                    = {papua\fox_arosi1970.pdf},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858830639},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6311 .Z9 FOX 1970},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#d:Fox:Arosi:1970, mpieva#Fox1970ArosiEng},
+  subject_headings      = {Arosi language–Dictionaries–English, Arosi language–Dictionaries–English},
+  author                = {Fox, C. E.}
+}</source>
 </record>
 
 <record>

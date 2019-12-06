@@ -9,6 +9,30 @@
 	<classification>Austronesian, Malayo-Polynesian, Malayo-Chamic, Malayic, Malay</classification>
 	<typedby>Paska Ariandy Iswanto</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{67307,
+  address               = {Jakarta},
+  pages                 = {viii+168},
+  publisher             = {Universitas Atma Jaya},
+  series                = {NUSA},
+  title                 = {Lom-Indonesian-English and English-Lom wordlists},
+  volume                = {28/29},
+  year                  = {1987},
+  asjp_name             = {Lom},
+  bibtexkey             = {smedal_lom-wordlists1987},
+  class_loc             = {PL5056},
+  document_type         = {B},
+  fn                    = {papua\smedal_lom1987.pdf},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  issn                  = {0126-2874},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5056 SME 1987},
+  src                   = {asjp2010, hh, mpieva},
+  srctrickle            = {asjp2010#4474, hh#d:Smedal:Lom, mpieva#Smedal1987LomIndon},
+  subject_headings      = {Lom language–Dictionaries–Indonesian, Indonesian language–Dictionaries–English, English language–Dictionaries–Lom, Lom language–Dictionaries–Indonesian – Indonesian language–Dictionaries–English – English language–Dictionaries–Lom},
+  author                = {Smedal, Olaf H.}
+}</source>
 </record>
 
 <record>

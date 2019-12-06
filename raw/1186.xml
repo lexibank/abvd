@@ -11,6 +11,19 @@
 	<classification>Austronesian, Malayo-Polynesian, Greater Barito, East, Malagasy</classification>
 	<typedby>Kirsty Maurits</typedby>
 	<checkedby>Sander Adelaar</checkedby>
+	<source>@book{319701,
+  address    = {Paris},
+  publisher  = {Langues et Mondes, L'Asiathèque},
+  title      = {Dictionnaire malgache dialectal-français: Dialecte tandroy},
+  year       = {1996},
+  bibtexkey  = {fee-rajaonarimanana_malgache-tandroy1996},
+  hhtype     = {dictionary},
+  inlg       = {French [fra]},
+  macro_area = {Africa},
+  src        = {hh},
+  srctrickle = {hh#d:RajaonarimananaFee:Tandroy},
+  author     = {Rajaonarimanana, Narivelo and Fee, Sarah}
+}</source>
 </record>
 
 <record>

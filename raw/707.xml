@@ -9,6 +9,33 @@
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Bilic</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{132927,
+  address               = {Berkeley},
+  edition               = {1},
+  pages                 = {294},
+  publisher             = {Los Angeles: University of California Press Berkeley},
+  series                = {University of California Publications in Linguistics},
+  title                 = {Tiruray-English Lexicon},
+  volume                = {67},
+  year                  = {1971},
+  added                 = {2013-09-01 12:19:49 +0000},
+  asjp_name             = {Tiruray},
+  bibtexkey             = {schlegel_tiruray-lexicon1971},
+  class_loc             = {PL6103},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  internetarchive_id    = {rosettaproject_tiy_phon-1},
+  keywords              = {Tiruray},
+  macro_area            = {Papua},
+  modified              = {2013-09-01 12:19:49 +0000},
+  mpi_eva_library_shelf = {PL 6103 SCH 1971},
+  src                   = {asjp2010, mpieva, phoible, wals},
+  srctrickle            = {asjp2010#3550, mpieva#Schlegel1971TirurayE, phoible#Schlegel1971, wals#5357},
+  subject_headings      = {Tiruray language–Dictionaries–English, Tiruray language–Dictionaries–English},
+  author                = {Schlegel, Stuart A.}
+}</source>
 </record>
 
 <record>

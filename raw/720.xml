@@ -9,6 +9,28 @@
 	<classification>Austronesian, East Formosan, Northern, Kavalan</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{21679,
+  address               = {Taipei, Taiwan},
+  pages                 = {xii+571},
+  publisher             = {Inst. of Linguistics, Academia Sinica},
+  series                = {Language and linguistics monograph series / A},
+  title                 = {Kavalan dictionary},
+  volume                = {19},
+  year                  = {2006},
+  bibtexkey             = {li-tsuchida_kavalan-dictionary2006},
+  class_loc             = {PL6145.95.K39},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9789860069938},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6145 .95.K39 LI 2006},
+  src                   = {mpieva},
+  srctrickle            = {mpieva#Li2006Kavaland},
+  subject_headings      = {Kavalan language – Dictionaries – Chinese, Kavalan language – Dictionaries – English, Kavalan (Taiwan people) – Languages, Kavalan language – Dictionaries – Chinese – Kavalan language – Dictionaries – English – Kavalan (Taiwan people) – Languages},
+  author                = {Li, Paul Jen-kuei and Tsuchida, Shigeru}
+}</source>
 </record>
 
 <record>

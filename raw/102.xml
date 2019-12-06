@@ -11,6 +11,21 @@ some data from Ivens via Pawley</notes>
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Southeast Solomonic, Gela-Guadalcanal, Gela</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{68998,
+  address    = {Auckland},
+  pages      = {271},
+  publisher  = {Unity Press},
+  title      = {A dictionary of the Nggela language (Florida, British Solomon Islands)},
+  year       = {1955},
+  bibtexkey  = {fox_nggela-florida1955},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#d:Fox:Nggela},
+  author     = {Fox, Charles E.}
+}</source>
 </record>
 
 <record>

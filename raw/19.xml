@@ -9,6 +9,29 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, New Caledonian, Southern, South, Xaracuu-Xaragure</classification>
 	<typedby>Peng Du</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{106213,
+  address               = {Canberra},
+  pages                 = {viii+128},
+  publisher             = {Dept. of Linguistics, Research School of Pacific Studies, Australian National University},
+  series                = {Pacific linguistics: Series C},
+  title                 = {Canala dictionary (New Caledonia)},
+  volume                = {2},
+  year                  = {1975},
+  bibtexkey             = {grace_canala-caledonia1975},
+  class_loc             = {PL6218.Z5},
+  document_type         = {B},
+  fn                    = {papua\grace_canala1975.pdf},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858831223},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6218 .Z5 GRA 1975},
+  src                   = {hh, mpieva, wals},
+  srctrickle            = {hh#d:Grace:Canala, mpieva#Grace1975Canaladi, wals#2204},
+  subject_headings      = {Anesu language–Dictionaries–English, English language–Dictionaries–Anesu, Anesu language–Dictionaries–English – English language–Dictionaries–Anesu},
+  author                = {Grace, George William}
+}</source>
 </record>
 
 <record>

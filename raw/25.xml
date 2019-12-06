@@ -9,6 +9,22 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, North and Central Vanuatu, Northeast Vanuatu-Banks Islands, East Vanuatu</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{20301,
+  address    = {London},
+  pages      = {343},
+  publisher  = {Society for Promoting Christian Knowledge},
+  title      = {A dictionary of the language of Mota, Sugarloaf Island, Banks Islands},
+  year       = {1896},
+  bibtexkey  = {codrington-palmer_mota-sugarloaf1896},
+  fn         = {papua\codrington_mota-dictionary1896.pdf, papua\codrington-palmer_mota1896.pdf},
+  hhtype     = {grammar_sketch;dictionary},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#sd:CodringtonPalmer:Mota},
+  author     = {Codrington, Robert and Palmer, Jim}
+}</source>
 </record>
 
 <record>

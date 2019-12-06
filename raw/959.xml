@@ -11,6 +11,26 @@ Qo Xiong, or North Hmongic, is a divergent Hmongic language (or languages) spoke
 	<classification>Hmong-Mien, Hmongic, Chuanqiandian</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{144467,
+  address               = {Chengdu},
+  edition               = {Di 1 ban},
+  publisher             = {Sichuan min zu chu ban she},
+  title                 = {Jiwei miao yu yan jiu},
+  year                  = {1999},
+  bibtexkey             = {wen_jiwei-jiu1999},
+  class_loc             = {PL4072},
+  document_type         = {3 B},
+  hhtype                = {grammar_sketch},
+  inlg                  = {Chinese-Mandarin [cmn]},
+  inlg_code             = {cmn},
+  isbn                  = {9787540921569},
+  macro_area            = {Eurasia},
+  mpi_eva_library_shelf = {PL 4072 WEN 1999},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#s:Wen:Jiwei-Miao, mpieva#Wen1999Jiweimia},
+  subject_headings      = {Hmong language, Hmong language},
+  author                = {Wen, Rizheng}
+}</source>
 </record>
 
 <record>

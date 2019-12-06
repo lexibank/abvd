@@ -13,6 +13,21 @@ Shepherd Islands, central Vanuatu.
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, North and Central Vanuatu, Northeast Vanuatu-Banks Islands, Central Vanuatu</classification>
 	<typedby>John Lynch</typedby>
 	<checkedby></checkedby>
+	<source>@phdthesis{13129,
+  pages      = {491},
+  school     = {University of Auckland},
+  title      = {Namakir: a description of a central Vanuatu language},
+  year       = {1991},
+  bibtexkey  = {sperlich_namakir-vanuatu1991},
+  fn         = {papua\sperlich_namakir1991.pdf, papua\sperlich_namakir1991.zip},
+  hhtype     = {grammar},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#g:Sperlich:Namakir},
+  author     = {Sperlich, Wolfgang B.}
+}</source>
 </record>
 
 <record>
@@ -1061,7 +1076,7 @@ Shepherd Islands, central Vanuatu.
 	<item>bewehek</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

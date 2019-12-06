@@ -9,6 +9,21 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Papuan Tip, Nuclear, North Papuan Mainland-D'Entrecasteaux, Dobu-Duau</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{39971,
+  address    = {Geelong},
+  publisher  = {H. Thacker},
+  title      = {Vocabulary of English Words with Equivalents in Dobu (British New Guinea), Fijian and Samoan, with a Short Dobuan Grammar},
+  year       = {1904},
+  bibtexkey  = {bromilow_dobu-dobuan1904},
+  hhtype     = {grammar_sketch},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#s:Bromilow:Dobu},
+  superseded = {s:Lithgow:Dobu},
+  author     = {Bromilow, W. E.}
+}</source>
 </record>
 
 <record>

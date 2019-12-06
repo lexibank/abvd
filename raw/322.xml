@@ -9,6 +9,22 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, North and Central Vanuatu, Northeast Vanuatu-Banks Islands, Central Vanuatu</classification>
 	<typedby>Nick Thieberger</typedby>
 	<checkedby>Nick Thieberger</checkedby>
+	<source>@book{101432,
+  address    = {Parkville, Victoria},
+  pages      = {136},
+  publisher  = {University of Melbourne},
+  title      = {A South Efate dictionary},
+  year       = {2011},
+  bibtexkey  = {thieberger_south-efate2011},
+  fn         = {papua\thieberger_south-efate-dictionary2011_s.pdf},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#d:Thieberger:SEfate},
+  author     = {Thieberger, Nicholas A.}
+}</source>
 </record>
 
 <record>
@@ -1277,7 +1293,7 @@
 	<item>nafum̃</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1, a</cognacy>
+	<cognacy>1, 74</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

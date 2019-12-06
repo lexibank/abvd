@@ -13,6 +13,28 @@ Rivierre wrote double V's for long vowels. I have written them as V:, otherwise,
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, New Caledonian, Northern, Central</classification>
 	<typedby>Mary Walworth</typedby>
 	<checkedby></checkedby>
+	<source>@book{8286,
+  address               = {Paris},
+  author                = {Rivierre, Jean Claude},
+  note                  = {Summary in English, German, and Spanish Bibliography: p. [373]},
+  pages                 = {372},
+  publisher             = {SELAF},
+  series                = {Langues et cultures du Pacifique},
+  title                 = {Dictionnaire paicî-français: suivi d'un lexique français-paicî},
+  volume                = {4},
+  year                  = {1983},
+  class_loc             = {PL6280.P354},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {French [fra]},
+  isbn                  = {9782852971530},
+  lgcode                = {Paicî [pri]},
+  macro_area            = {Papunesia},
+  mpi_eva_library_shelf = {PL 6280 .P354 RIV 1983},
+  src                   = {hh, mpieva},
+  subject_headings      = {Paici language-Dictionaries-French, Paici language-Dictionaries-French}
+}
+</source>
 </record>
 
 <record>

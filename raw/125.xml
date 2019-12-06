@@ -9,6 +9,21 @@
 	<classification>Austronesian, Malayo-Polynesian, Land Dayak, Bidayuh, Core, Western</classification>
 	<typedby>Debasish Roy</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{319956,
+  address    = {Kuching},
+  pages      = {64},
+  publisher  = {Sarawak Government Office},
+  title      = {Vocabulary of English &amp;Sarawak Land Dyak (Singhi tribe)},
+  year       = {1956},
+  bibtexkey  = {reijffert_dyak-singhi1956},
+  fn         = {papua\reijffert_singhi1956.pdf},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#d:Reijffert:Singhi},
+  author     = {Reijffert, A.}
+}</source>
 </record>
 
 <record>

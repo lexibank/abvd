@@ -9,6 +9,37 @@
 	<classification>Hmong-Mien, Hmongic, Chuanqiandian</classification>
 	<typedby>Martha Ratliff</typedby>
 	<checkedby></checkedby>
+	<source>@book{Heimbach1979,
+  title     = {White Hmong–English Dictionary},
+  publisher = {Cornell Southeast Asia Program Publications},
+  address   = {Cornell},
+  year      = {1979},
+  author    = {Heimbach, Ernest E.}
+}
+@book{d_Bertrais_Hmong,
+  title            = {Dictionnaire Hmong-Français},
+  publisher        = {Bankok: Assumption Press},
+  address          = {Bankok},
+  pages            = {600},
+  year             = {1978 [1964]},
+  fn               = {eurasia\bertrais_dictionnaire-hmong1978[1964]_o.pdf},
+  glottolog_ref_id = {32942},
+  hhtype           = {dictionary},
+  inlg             = {fra},
+  keywords         = {Hmong: Dict, Hmong-French; Miao: Dict, Miao-French},
+  lgcode           = {Hmong Daw [mww]},
+  macro_area       = {Eurasia},
+  shelf_location   = {UCB Main PL3311.M5 B4},
+  title_english    = {Hmong (White Meo) and French dictionary},
+  author           = {Bertrais, Yves}
+}
+@book{McKibben1992,
+  title     = {English-White Hmong dictionary},
+  publisher = {Provo},
+  address   = {Utah},
+  year      = {1992},
+  author    = {McKibben, Brian}
+}</source>
 </record>
 
 <record>

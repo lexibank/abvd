@@ -11,6 +11,22 @@ Data is from Hongfeng village (红丰村), Dafang County (大方县), Guizhou, C
 	<classification>Tai-Kadai, Kra, Western Kra</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{303035,
+  address       = {Beijing},
+  pages         = {5+7+3+309},
+  publisher     = {Min zu chu ban she},
+  title         = {Gelao zu mu yu sheng tai yan jiu},
+  year          = {2004},
+  bibtexkey     = {zhou_gelao-jiu2004},
+  fn            = {eurasia\zhou_gelao2004.pdf},
+  hhtype        = {overview;comparative;wordlist},
+  inlg          = {Mandarin Chinese [cmn]},
+  macro_area    = {Eurasia},
+  src           = {hh},
+  srctrickle    = {hh#hvw:Zhou:Gelao},
+  title_english = {Studies on the linguistic ecology of the Gelao people},
+  author        = {Zhou, Guoyan}
+}</source>
 </record>
 
 <record>

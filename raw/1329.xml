@@ -15,6 +15,41 @@ Notes: Stober's list is the main source, but supplemented with data from Lincoln
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Ngero-Vitiaz, Vitiaz, Roinji-Nenaya</classification>
 	<typedby>Malcolm Ross</typedby>
 	<checkedby>Malcolm Ross</checkedby>
+	<source>@misc{hdial_Stober_Mato,
+  title            = {Mato dialect survey: Morobe province},
+  year             = {2005},
+  fn               = {papua\stober_mato-dialect-survey2005.pdf},
+  glottolog_ref_id = {55052},
+  hhtype           = {overview;dialectology},
+  howpublished     = {Ms.},
+  lgcode           = {Mato [met]},
+  macro_area       = {Papua},
+  numnote          = {1,2,2+1,2+2 etc.},
+  author           = {Stober, Scot F.}
+}
+@book{g_Stober_Mato,
+  title            = {Mato grammar sketch},
+  publisher        = {Ukarumpa: SIL},
+  series           = {Data Papers on Papua New Guinea Languages},
+  volume           = {59},
+  pages            = {206},
+  year             = {2013},
+  fn               = {papua\stober_mato2013.pdf},
+  glottolog_ref_id = {319941},
+  hhtype           = {grammar},
+  inlg             = {English [eng]},
+  lgcode           = {Mato = Mato [met]},
+  macro_area       = {Papua},
+  author           = {Stober, Scot F.}
+}
+@mimeo{lincoln1976a,
+  date      = {1976},
+  title     = {Rai Coast Austronesian language survey data, in two parts},
+  medium    = {Mimeo},
+  publisher = {University of Hawai`i},
+  language  = {en},
+  author    = {Lincoln, Peter C.}
+}</source>
 </record>
 
 <record>

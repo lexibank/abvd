@@ -9,6 +9,29 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, South Vanuatu, Tanna</classification>
 	<typedby>John Lynch</typedby>
 	<checkedby></checkedby>
+	<source>@book{47028,
+  address               = {Canberra},
+  pages                 = {ix+195},
+  publisher             = {Pacific Linguistics},
+  series                = {Pacific Linguistics: Series C},
+  title                 = {Kwamera dictionary: Nikukua sai nagkiariien nininife},
+  volume                = {95},
+  year                  = {1986},
+  bibtexkey             = {lindstrom_nikukua-nagkiariien1986},
+  class_loc             = {PL6316.T35},
+  document_type         = {B},
+  fn                    = {papua\lindstrom_kwamera1986.pdf},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858833401},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6316 .T35 LIN 1986},
+  src                   = {hh, mpieva, wals},
+  srctrickle            = {hh#d:Lindstrom:Kwamera, mpieva#Lindstrom1986Kwamerad, wals#3633},
+  subject_headings      = {Tanna language–Dictionaries–English, English language–Dictionaries–Tanna, Kwamera dialect–Dictionaries, Vanuatu–Languages–Dictionaries, Tanna language–Dictionaries–English – English language–Dictionaries–Tanna – Kwamera dialect–Dictionaries – Vanuatu–Languages–Dictionaries},
+  author                = {Lindstrom, Lamont}
+}</source>
 </record>
 
 <record>

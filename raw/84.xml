@@ -9,6 +9,17 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Bima-Sumba</classification>
 	<typedby>Peng Du</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{478432,
+  publisher  = {Nijhoff},
+  title      = {Kamus Manggarai: Manggarai-Indonesia &amp;Indonesia-Manggarai},
+  volume     = {1},
+  year       = {1967},
+  bibtexkey  = {verheijen_kamus-manggaraii1967},
+  hhtype     = {dictionary},
+  src        = {langsci},
+  srctrickle = {langsci#Verheijen:67},
+  author     = {Verheijen, Jilis A. J.}
+}</source>
 </record>
 
 <record>

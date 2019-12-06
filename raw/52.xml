@@ -9,6 +9,20 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, East, Central, Marquesic</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{71458,
+  address    = {Honolulu},
+  publisher  = {University Press of Hawaii},
+  title      = {Hawaiian Dictionary},
+  year       = {1971},
+  asjp_name  = {Hawaiian},
+  bibtexkey  = {elbert-pukui_hawaiian-dictionary1971},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  macro_area = {Papua},
+  src        = {asjp2010, wals},
+  srctrickle = {asjp2010#1316, wals#4853},
+  author     = {Pukui, Mary Kawena and Elbert, Samuel H.}
+}</source>
 </record>
 
 <record>

@@ -10,6 +10,27 @@ Junast (1981) A sketch of the Tuzu language. Beijing: Institute of minorities.</
 	<classification>Mongolic, Eastern, Mongour</classification>
 	<typedby>Kozhevina Varvara</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{83358,
+  address               = {Beijing},
+  edition               = {Dai 1 ban},
+  pages                 = {108},
+  publisher             = {National Minorities Publ.},
+  series                = {Zhongguo shaoshu minzu yuyan jianzhi congshu},
+  title                 = {Tu-yu jianzhi (Zaiwa-yu) [Concise grammar of Tu]},
+  year                  = {1981},
+  bibtexkey             = {junast_jianzhi-zaiwa1981},
+  class_loc             = {PL431.M6},
+  document_type         = {B},
+  hhtype                = {grammar},
+  inlg                  = {Chinese-Mandarin [cmn]},
+  inlg_code             = {cmn},
+  macro_area            = {Eurasia},
+  mpi_eva_library_shelf = {PL 431 .M6 JUN 1981},
+  src                   = {mpieva},
+  srctrickle            = {mpieva#Junast1981Tuyujian},
+  subject_headings      = {Mongour language, Mongour language},
+  author                = {Junast, [Zhaonasitu]}
+}</source>
 </record>
 
 <record>

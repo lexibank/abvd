@@ -11,6 +11,19 @@
 	<classification>Austronesian, Paiwan</classification>
 	<typedby>Peng Du</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{86263,
+  address    = {Canberra},
+  publisher  = {ANU},
+  title      = {Paiwan dictionary. Pacific linguistics, Series C-73},
+  year       = {1982},
+  bibtexkey  = {ferrell_paiwan-series1982},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  macro_area = {Papua},
+  src        = {wals},
+  srctrickle = {wals#1858},
+  author     = {Ferrell, Raleigh}
+}</source>
 </record>
 
 <record>

@@ -11,6 +11,29 @@ Source: Davis, Philip W. and Angel D. Mesa. A Dictionary of Yogad. Munich, Germa
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Northern Cordilleran, Cagayan Valley, Ibanagic</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{32648,
+  address               = {München},
+  pages                 = {xxx+393},
+  publisher             = {Lincom Europa},
+  series                = {Languages of the world : Dictionaries},
+  title                 = {A Dictionary of Yogad},
+  volume                = {17},
+  year                  = {2000},
+  asjp_name             = {Yogad},
+  bibtexkey             = {davis-mesa_dictionary-yogad2000},
+  class_loc             = {PL6135},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9783895865855},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6135 DAV 2000},
+  src                   = {asjp2010, mpieva},
+  srctrickle            = {asjp2010#4347, mpieva#Davis2000Adiction},
+  subject_headings      = {Yogad language–Dictionaries–English, Yogad language–Dictionaries–English},
+  author                = {Davis, Philip W. and Mesa, Angel D.}
+}</source>
 </record>
 
 <record>

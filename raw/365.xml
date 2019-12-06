@@ -11,6 +11,51 @@ Dot below indicates voicelessness</notes>
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, South New Ireland-Northwest Solomonic, Santa Isabel, Central</classification>
 	<typedby>Michael Dunn</typedby>
 	<checkedby></checkedby>
+	<source>@book{85830,
+  address               = {Canberra},
+  note                  = {Bibliography: p. 483-490.},
+  pages                 = {viii+490},
+  publisher             = {Research School of Pacific and Asian Studies, Australian National University},
+  series                = {Pacific Linguistics: Series C},
+  title                 = {Solomon Islands Languages: An Internal Classification},
+  volume                = {72},
+  year                  = {1983},
+  bibtexkey             = {hackman-tryon_solomon-islands1983},
+  class_loc             = {PL6211.S6},
+  document_type         = {B},
+  fn                    = {papua\tryon-hackman_solomon-islands1983.pdf, papua\tryon-hackman_solomon-islands1983pages.pdf, papua\tryon-hackman_solomon-islands1983pages_o.pdf},
+  hhtype                = {overview;comparative;wordlist},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858832923},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6211 .S6 TRY 1983},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#hvw:TryonHackman:Solomon, mpieva#Tryon1983SolomonI},
+  subject_headings      = {Melanesian languages–Solomon Islands–Classification, Solomon Islands–Languages–Classification, Melanesian languages–Solomon Islands–Classification – Solomon Islands–Languages–Classification},
+  author                = {Tryon, Darrell T. and Hackman, B. D.}
+}
+@phdthesis{154088,
+  pages            = {682},
+  school           = {University of Sydney},
+  title            = {A Grammar of the Kokota Language, Santa Isabel, Solomon Islands},
+  url              = {http://www.surrey.ac.uk/lcts/bill.palmer/NWS_site/Kok/gram.htm},
+  year             = {1999},
+  added            = {2013-09-01 18:16:42 +0000},
+  bibtexkey        = {palmer_kokota-isabel1999},
+  document_type    = {3 MF},
+  fn               = {papua\palmer_kokota1999.pdf, papua\palmer_kokota1999_o.pdf, papua/palmer_kokota1999_o.pdf},
+  hhtype           = {grammar},
+  inlg             = {English [eng]},
+  inlg_code        = {eng},
+  macro_area       = {Papua},
+  modified         = {2013-09-01 18:16:42 +0000},
+  mpifn            = {kokota_palmer1999_o.pdf},
+  src              = {hh, mpieva, phoible},
+  srctrickle       = {hh#g:Palmer:Kokota:1999, mpieva#Palmer1999Agrammar, phoible#kkk_palmer1999},
+  subject_headings = {Solomon Islands – Languages, Solomon Islands – Languages},
+  author           = {Palmer, Bill}
+}</source>
 </record>
 
 <record>

@@ -9,6 +9,25 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, North and Central Vanuatu, Northeast Vanuatu-Banks Islands, East Vanuatu</classification>
 	<typedby>Peng Du</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{d_Parker_Southeast-Ambrym,
+  title                 = {Southeast Ambrym dictionary},
+  publisher             = {Canberra: The Australian National University},
+  pages                 = {xiii+60},
+  year                  = {1970},
+  class_loc             = {PL6271.Z9},
+  document_type         = {B},
+  fn                    = {papua\parker_southeast-ambrym1970.pdf},
+  gbid                  = {http://books.google.com/books?id=eYwG5S1eq04C},
+  glottolog_ref_id      = {26034},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  isbn                  = {9780858830677},
+  lgcode                = {Southeast Ambrym [tvk]},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6271 .Z9 PAR 1970},
+  subject_headings      = {Ambrym language - Dictionaries - English, English language - Dictionaries - Ambrym, Ambrym language - Dictionaries - English - English language - Dictionaries - Ambrym},
+  author                = {Parker, G.J.}
+}</source>
 </record>
 
 <record>

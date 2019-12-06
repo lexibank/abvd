@@ -9,6 +9,21 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, North and Central Vanuatu</classification>
 	<typedby>Erin Donnelly</typedby>
 	<checkedby></checkedby>
+	<source>@book{302842,
+  address    = {Canberra},
+  pages      = {289},
+  publisher  = {Research School of Pacific and Asian Studies, Australian National University},
+  series     = {Pacific Linguistics},
+  title      = {Leo Tuai: A comparative lexical study of North and Central Vantuatu languages},
+  volume     = {603},
+  year       = {2009},
+  bibtexkey  = {clark_tuai-vantuatu2009},
+  hhtype     = {overview;comparative},
+  inlg       = {English [eng]},
+  src        = {hh},
+  srctrickle = {hh#hv:Clark:North-Central-Vanuatu},
+  author     = {Clark, Ross}
+}</source>
 </record>
 
 <record>

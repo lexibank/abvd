@@ -11,6 +11,24 @@ Cognacy judgments are based from Norquest's lists of Proto-Hlai / Proto-Austrone
 	<classification>Tai-Kadai, Hlai</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@phdthesis{141426,
+  pages      = {618},
+  publisher  = {University of Arizona},
+  school     = {University of Arizona},
+  series     = {Unpublished PhD thesis},
+  title      = {A phonological reconstruction of Proto-Hlai},
+  year       = {2007},
+  asjp_name  = {Jiamao},
+  bibtexkey  = {norquest_reconstruction-hlai2007},
+  fn         = {eurasia\norquest_proto-hlai2007.pdf},
+  hhtype     = {overview;comparative;wordlist;phonology},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Eurasia},
+  src        = {asjp2010, hh},
+  srctrickle = {asjp2010#2696, hh#hvwphon:Norquest:Proto-Hlai},
+  author     = {Norquest, Peter K.}
+}</source>
 </record>
 
 <record>

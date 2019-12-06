@@ -8,27 +8,27 @@ This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ li
 
 Available online at https://abvd.shh.mpg.de/austronesian/
 
-Conceptlists in Concepticon:
-- [Blust-2008-210](http://concepticon.clld.org/contributions/Blust-2008-210)
 
+Conceptlists in Concepticon:
+- [Blust-2008-210](https://concepticon.clld.org/contributions/Blust-2008-210)
 ## Statistics
 
 
 [![Build Status](https://travis-ci.org/lexibank/abvd.svg?branch=master)](https://travis-ci.org/lexibank/abvd)
 ![Glottolog: 98%](https://img.shields.io/badge/Glottolog-98%25-green.svg "Glottolog: 98%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 91%](https://img.shields.io/badge/Source-91%25-green.svg "Source: 91%")
+![Source: 95%](https://img.shields.io/badge/Source-95%25-green.svg "Source: 95%")
 
-- **Varieties:** 1,623
-- **Concepts:** 212
-- **Lexemes:** 310,801
-- **Sources:** 812
+- **Varieties:** 1,632
+- **Concepts:** 210
+- **Lexemes:** 313,275
+- **Sources:** 816
 - **Synonymy:** 1.14
-- **Cognacy:** 232,459 cognates in 179 cognate sets (2 singletons)
-- **Cognate Diversity:** -0.00
+- **Cognacy:** 233,215 cognates in 17,914 cognate sets (439 singletons)
+- **Cognate Diversity:** 0.06
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 27319/310801 (8.79%)
+- Entries missing sources: 15455/313275 (4.93%)

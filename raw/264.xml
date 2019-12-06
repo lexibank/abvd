@@ -9,6 +9,15 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, East, Rapanui</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@article{POLLEX,
+  journal = {Oceanic Linguistics},
+  number  = {2},
+  pages   = {551--559},
+  title   = {{POLLEX-Online: The Polynesian Lexicon Project Online}},
+  volume  = {50},
+  year    = {2011},
+  author  = {Greenhill, Simon J. and Clark, Ross}
+}</source>
 </record>
 
 <record>
@@ -2701,6 +2710,28 @@
 </record>
 
 <record>
+	<id>3229105</id>
+	<word_id>120</word_id>
+	<word>stone</word>
+	<item>poatu</item>
+	<annotation>Probably po'atu, but pohatu would be expected. Borrowing from MGV?</annotation>
+	<loan></loan>
+	<cognacy>L</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229125</id>
+	<word_id>120</word_id>
+	<word>stone</word>
+	<item>poatu</item>
+	<annotation>Probably po'atu, but pohatu would be expected. Borrowing from MGV?</annotation>
+	<loan></loan>
+	<cognacy>L</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>43104</id>
 	<word_id>121</word_id>
 	<word>sand</word>
@@ -2756,6 +2787,28 @@
 </record>
 
 <record>
+	<id>3229106</id>
+	<word_id>123</word_id>
+	<word>to flow</word>
+	<item>tahe</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>10</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229126</id>
+	<word_id>123</word_id>
+	<word>to flow</word>
+	<item>tahe</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>10</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>44175</id>
 	<word_id>124</word_id>
 	<word>sea</word>
@@ -2790,6 +2843,28 @@
 
 <record>
 	<id>3228643</id>
+	<word_id>125</word_id>
+	<word>salt</word>
+	<item>kava</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>47</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229107</id>
+	<word_id>125</word_id>
+	<word>salt</word>
+	<item>kava</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>47</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229127</id>
 	<word_id>125</word_id>
 	<word>salt</word>
 	<item>kava</item>
@@ -2855,6 +2930,28 @@
 </record>
 
 <record>
+	<id>3229108</id>
+	<word_id>129</word_id>
+	<word>moon</word>
+	<item>kavake</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>6</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229128</id>
+	<word_id>129</word_id>
+	<word>moon</word>
+	<item>kavake</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>6</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>46317</id>
 	<word_id>130</word_id>
 	<word>star</word>
@@ -2889,6 +2986,28 @@
 
 <record>
 	<id>3228645</id>
+	<word_id>131</word_id>
+	<word>cloud</word>
+	<item>puŋa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229109</id>
+	<word_id>131</word_id>
+	<word>cloud</word>
+	<item>puŋa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229129</id>
 	<word_id>131</word_id>
 	<word>cloud</word>
 	<item>puŋa</item>
@@ -2966,6 +3085,28 @@
 
 <record>
 	<id>3228646</id>
+	<word_id>134</word_id>
+	<word>thunder</word>
+	<item>atutiri</item>
+	<annotation>possible L from MGV, no [h]</annotation>
+	<loan></loan>
+	<cognacy>14</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229110</id>
+	<word_id>134</word_id>
+	<word>thunder</word>
+	<item>atutiri</item>
+	<annotation>possible L from MGV, no [h]</annotation>
+	<loan></loan>
+	<cognacy>14</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229130</id>
 	<word_id>134</word_id>
 	<word>thunder</word>
 	<item>atutiri</item>
@@ -3064,6 +3205,28 @@
 </record>
 
 <record>
+	<id>3229111</id>
+	<word_id>137</word_id>
+	<word>to blow</word>
+	<item>aŋi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>8</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229131</id>
+	<word_id>137</word_id>
+	<word>to blow</word>
+	<item>aŋi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>8</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>118839</id>
 	<word_id>138</word_id>
 	<word>warm</word>
@@ -3098,6 +3261,28 @@
 
 <record>
 	<id>3228648</id>
+	<word_id>139</word_id>
+	<word>cold</word>
+	<item>anounu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>8</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229112</id>
+	<word_id>139</word_id>
+	<word>cold</word>
+	<item>anounu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>8</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229132</id>
 	<word_id>139</word_id>
 	<word>cold</word>
 	<item>anounu</item>
@@ -3152,6 +3337,28 @@
 </record>
 
 <record>
+	<id>3229113</id>
+	<word_id>140</word_id>
+	<word>dry</word>
+	<item>moro</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>13</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229133</id>
+	<word_id>140</word_id>
+	<word>dry</word>
+	<item>moro</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>13</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>50244</id>
 	<word_id>141</word_id>
 	<word>wet</word>
@@ -3185,6 +3392,28 @@
 </record>
 
 <record>
+	<id>3229114</id>
+	<word_id>141</word_id>
+	<word>wet</word>
+	<item>rari</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>9</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229134</id>
+	<word_id>141</word_id>
+	<word>wet</word>
+	<item>rari</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>9</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>130639</id>
 	<word_id>142</word_id>
 	<word>heavy</word>
@@ -3197,6 +3426,28 @@
 
 <record>
 	<id>3228651</id>
+	<word_id>142</word_id>
+	<word>heavy</word>
+	<item>taimaha</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>46,66</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229115</id>
+	<word_id>142</word_id>
+	<word>heavy</word>
+	<item>taimaha</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>46,66</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229135</id>
 	<word_id>142</word_id>
 	<word>heavy</word>
 	<item>taimaha</item>
@@ -3295,6 +3546,28 @@
 </record>
 
 <record>
+	<id>3229116</id>
+	<word_id>146</word_id>
+	<word>ash</word>
+	<item>ehuehu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>67</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229136</id>
+	<word_id>146</word_id>
+	<word>ash</word>
+	<item>ehuehu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>67</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>123255</id>
 	<word_id>147</word_id>
 	<word>black</word>
@@ -3383,6 +3656,28 @@
 </record>
 
 <record>
+	<id>3229117</id>
+	<word_id>148</word_id>
+	<word>white</word>
+	<item>ritorito</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229137</id>
+	<word_id>148</word_id>
+	<word>white</word>
+	<item>ritorito</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>53100</id>
 	<word_id>149</word_id>
 	<word>red</word>
@@ -3416,6 +3711,28 @@
 </record>
 
 <record>
+	<id>3229118</id>
+	<word_id>149</word_id>
+	<word>red</word>
+	<item>eŋaeŋa</item>
+	<annotation>unusual *r&gt;glottal</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229138</id>
+	<word_id>149</word_id>
+	<word>red</word>
+	<item>eŋaeŋa</item>
+	<annotation>unusual *r&gt;glottal</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>133613</id>
 	<word_id>150</word_id>
 	<word>yellow</word>
@@ -3428,6 +3745,28 @@
 
 <record>
 	<id>3228655</id>
+	<word_id>150</word_id>
+	<word>yellow</word>
+	<item>eŋaeŋa</item>
+	<annotation>unusual *r&gt;glottal</annotation>
+	<loan></loan>
+	<cognacy>10</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229119</id>
+	<word_id>150</word_id>
+	<word>yellow</word>
+	<item>eŋaeŋa</item>
+	<annotation>unusual *r&gt;glottal</annotation>
+	<loan></loan>
+	<cognacy>10</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229139</id>
 	<word_id>150</word_id>
 	<word>yellow</word>
 	<item>eŋaeŋa</item>
@@ -3482,6 +3821,28 @@
 </record>
 
 <record>
+	<id>3229120</id>
+	<word_id>152</word_id>
+	<word>small</word>
+	<item>korereka</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>13</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229140</id>
+	<word_id>152</word_id>
+	<word>small</word>
+	<item>korereka</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>13</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>123071</id>
 	<word_id>153</word_id>
 	<word>big</word>
@@ -3516,6 +3877,28 @@
 
 <record>
 	<id>3228657</id>
+	<word_id>154</word_id>
+	<word>short</word>
+	<item>peti</item>
+	<annotation>borrowing from French?</annotation>
+	<loan></loan>
+	<cognacy>L?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229121</id>
+	<word_id>154</word_id>
+	<word>short</word>
+	<item>peti</item>
+	<annotation>borrowing from French?</annotation>
+	<loan></loan>
+	<cognacy>L?</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229141</id>
 	<word_id>154</word_id>
 	<word>short</word>
 	<item>peti</item>
@@ -4395,6 +4778,28 @@
 </record>
 
 <record>
+	<id>3229122</id>
+	<word_id>206</word_id>
+	<word>Ten</word>
+	<item>kumi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229142</id>
+	<word_id>206</word_id>
+	<word>Ten</word>
+	<item>kumi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>83373</id>
 	<word_id>209</word_id>
 	<word>One Hundred</word>
@@ -4407,6 +4812,28 @@
 
 <record>
 	<id>3228659</id>
+	<word_id>209</word_id>
+	<word>One Hundred</word>
+	<item>rau</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229123</id>
+	<word_id>209</word_id>
+	<word>One Hundred</word>
+	<item>rau</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229143</id>
 	<word_id>209</word_id>
 	<word>One Hundred</word>
 	<item>rau</item>
@@ -4440,6 +4867,28 @@
 
 <record>
 	<id>3228660</id>
+	<word_id>210</word_id>
+	<word>One Thousand</word>
+	<item>piere</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229124</id>
+	<word_id>210</word_id>
+	<word>One Thousand</word>
+	<item>piere</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229144</id>
 	<word_id>210</word_id>
 	<word>One Thousand</word>
 	<item>piere</item>

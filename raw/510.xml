@@ -18,6 +18,21 @@ Approximant		w		y
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Admiralty Islands, Eastern, Manus, East</classification>
 	<typedby>Claire Bowern</typedby>
 	<checkedby></checkedby>
+	<source>@article{125306,
+  journal    = {Anthropos},
+  pages      = {646-667, 933-941, 193-206, 651-671, 354-374, 501-502},
+  title      = {Mythen und Sagen der Admiralitätsinsulaner},
+  volume     = {II, II, III, III, IV, VII},
+  year       = {1907, 1907, 1908, 1908, 1909, 1912},
+  bibtexkey  = {meier_mythen-admiralitatsinsulaner1907},
+  hhtype     = {text},
+  inlg       = {German [deu]},
+  inlg_code  = {deu},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#t:Meier:Moanus},
+  author     = {Meier, Josef}
+}</source>
 </record>
 
 <record>

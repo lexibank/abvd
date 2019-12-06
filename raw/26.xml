@@ -9,6 +9,23 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Papuan Tip, Peripheral, Central Papuan, Sinagoro-Keapara</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{119011,
+  address    = {Sydney},
+  edition    = {2},
+  pages      = {91},
+  publisher  = {A. H. Pettifer, Goverment Printer},
+  title      = {A Grammar of the Motu Language of Papua},
+  year       = {1931},
+  bibtexkey  = {clark-lister-turner_motu-papua1931},
+  fn         = {papua\turner-clark_motu1931.pdf},
+  hhtype     = {grammar_sketch},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#s:Lister-TurnerClark:Motu},
+  author     = {Lister-Turner, R. and Clark, J. B.}
+}</source>
 </record>
 
 <record>

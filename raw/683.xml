@@ -11,6 +11,23 @@ Source: Shorto, H. L. Dictionary of Modern Spoken Mon. London: School of Orienta
 	<classification>Austro-Asiatic, Mon-Khmer, Monic</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{160831,
+  address            = {London},
+  pages              = {280},
+  publisher          = {Oxford University Press},
+  title              = {A dictionary of modern spoken Mon},
+  year               = {1962},
+  asjp_name          = {Mon},
+  bibtexkey          = {shorto_spoken-mon1962},
+  hhtype             = {dictionary},
+  inlg               = {English [eng]},
+  inlg_code          = {eng},
+  internetarchive_id = {royercollard00lacogoog},
+  macro_area         = {Eurasia},
+  src                = {asjp2010, hh},
+  srctrickle         = {asjp2010#4477, hh#d:Shorto:Mon},
+  author             = {Shorto, Harry Leonard}
+}</source>
 </record>
 
 <record>

@@ -9,6 +9,30 @@
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Danao, Maranao-Iranon</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{142538,
+  address               = {Honolulu},
+  note                  = {Bibliography: p. xxxvi-xxxviii},
+  pages                 = {xxxviii+394},
+  publisher             = {Univ. of Hawaii Press},
+  title                 = {A Maranao dictionary},
+  year                  = {1967},
+  added                 = {2013-09-01 12:19:49 +0000},
+  bibtexkey             = {macaraya-mckaughan_maranao-dictionary1967},
+  class_loc             = {PL5957.Z5},
+  document_type         = {B},
+  fn                    = {papua\mckaughan-macaraya_maranao1967pages.pdf},
+  hhtype                = {grammar_sketch;dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  keywords              = {Maranao},
+  macro_area            = {Papua},
+  modified              = {2013-09-01 12:19:49 +0000},
+  mpi_eva_library_shelf = {PL 5957 .Z5 MAC 1967},
+  src                   = {hh, phoible, wals},
+  srctrickle            = {hh#sd:MacKaughanMacaraya:Maranao, phoible#McKaughanMacaraya1967, wals#4029},
+  subject_headings      = {Maranao language–Dictionaries–English, Maranao language–Dictionaries–English},
+  author                = {McKaughan, Howard and Macaraya, Batua A.}
+}</source>
 </record>
 
 <record>

@@ -13,6 +13,30 @@ v', m' etc. represent apicolabials; r is a flap, rr a trill; ng = velar nasal</n
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, North and Central Vanuatu, Northeast Vanuatu-Banks Islands, Malekula Coastal</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby></checkedby>
+	<source>@book{39695,
+  address               = {Canberra},
+  pages                 = {xiii+81},
+  publisher             = {Research School of Pacific and Asian Studies, Australian National University},
+  series                = {Pacific Linguistics},
+  title                 = {Nese: A diminishing speech variety of Northwest Malakula (Vanuatu)},
+  volume                = {577},
+  year                  = {2006},
+  asjp_name             = {Nese},
+  bibtexkey             = {crowley_nese-diminishing2006},
+  class_loc             = {PL6211.M3},
+  document_type         = {B},
+  fn                    = {papua\crowley_nese2006.pdf, papua\crowley_nese2006pages_o.pdf},
+  hhtype                = {grammar_sketch},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858835665},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6211 .M3 CRO 2006 NES},
+  src                   = {asjp2010, hh, mpieva},
+  srctrickle            = {asjp2010#2208, hh#s:Crowley:Nese, mpieva#Crowley2006Neseadim},
+  subject_headings      = {Melanesian languages–Vanuatu–Malekula, Malekula (Vanuatu)–Languages, Melanesian languages–Vanuatu–Malekula – Malekula (Vanuatu)–Languages},
+  author                = {Crowley, Terry}
+}</source>
 </record>
 
 <record>

@@ -10,6 +10,28 @@ Junast (1981) A sketch of the Eastern Yugu language. Beijing: Institute of minor
 	<classification>Mongolic, Eastern, Mongour</classification>
 	<typedby>Kozhevina Varvara</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{161809,
+  address               = {Beijing},
+  edition               = {Dai 1 ban},
+  pages                 = {108},
+  publisher             = {National Minorities Publ.},
+  series                = {Zhongguo shaoshu minzu yuyan jianzhi congshu},
+  title                 = {Dongbu Yugu-yu juanzhi-yu jianzhi},
+  year                  = {1981},
+  bibtexkey             = {junast_dongbu-juanzhi1981},
+  class_loc             = {PL55.U53},
+  document_type         = {B},
+  hhtype                = {grammar_sketch},
+  inlg                  = {Chinese-Mandarin [cmn]},
+  inlg_code             = {cmn},
+  macro_area            = {Eurasia},
+  mpi_eva_library_shelf = {PL 55 .U53 JUN 1981},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#s:Junast:Yugu, mpieva#Junast1981DongbuYu},
+  subject_headings      = {Uighur language–Grammar, Uighur language–Grammar},
+  title_english         = {Concise grammar of Eastern Yughur},
+  author                = {Junast, [Zhaonasitu]}
+}</source>
 </record>
 
 <record>

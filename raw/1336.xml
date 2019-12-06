@@ -14,6 +14,26 @@ Otherwise known as Kabana (pej.). Belongs to Ngero group.
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Ngero-Vitiaz, Ngero, Bariai</classification>
 	<typedby>Malcolm Ross</typedby>
 	<checkedby>Malcolm Ross</checkedby>
+	<source>@misc{Ross-1336-2016,
+  author = &quot;Malcolm Ross&quot;,
+  date = &quot;2016&quot;,
+  howpublished = &quot;personal communication&quot;
+}
+@book{50214,
+  title            = {Bariai dictionary West New Britain province, Papua New Guinea},
+  publisher        = {Ukarumpa, EHP, Papua New Guinea: Summer Institute of Linguistics},
+  address          = {Ukarumpa, EHP, Papua New Guinea},
+  pages            = {xvii+289},
+  year             = {2008-},
+  url              = {http://www.sil.org/pacific/png/abstract.asp?id=50214},
+  country          = {Papua New Guinea [PG]},
+  glottolog_ref_id = {100940},
+  lgcode           = {Bariai [bch]},
+  macro_area       = {Papua},
+  sil_id           = {50214},
+  subject          = {Dictionaries and vocabularies [DAV]},
+  author           = {Gallagher, Steve}
+}</source>
 </record>
 
 <record>

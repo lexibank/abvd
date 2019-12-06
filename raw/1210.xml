@@ -9,6 +9,22 @@
 	<classification>Austronesian, Malayo-Polynesian, Nasal</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{300794,
+  address    = {Dallas},
+  pages      = {44},
+  publisher  = {SIL International},
+  series     = {SIL Electronic Survey Reports},
+  title      = {The improbable language: survey report on the Nasal language of Bengkulu, Sumatra},
+  year       = {2012},
+  bibtexkey  = {anderbeck-aprilani_improbable-bengkulu2012},
+  fn         = {papua\anderbeck-aprilani_nasal2012.pdf},
+  hhtype     = {comparative;wordlist},
+  inlg       = {English [eng]},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#vw:AnderbeckAprilani:Nasal},
+  author     = {Anderbeck, Karl and Aprilani, Herdian}
+}</source>
 </record>
 
 <record>

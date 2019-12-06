@@ -9,6 +9,22 @@
 	<classification>Austronesian, Malayo-Polynesian, Malayo-Chamic, Malayic, Ibanic</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{41604,
+  address    = {Oxford},
+  pages      = {417},
+  publisher  = {Oxford University Press},
+  title      = {An Iban-English Dictionary},
+  year       = {1981},
+  bibtexkey  = {richards_iban-dictionary1981},
+  fn         = {papua\richards_iban1981pages.pdf},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#d:Richards:Iban},
+  author     = {Richards, Anthony}
+}</source>
 </record>
 
 <record>

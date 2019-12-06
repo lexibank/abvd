@@ -11,6 +11,21 @@ NOTE: (1-1) etc refers to village.</notes>
 	<classification>Austronesian, Western Plains, Central Western Plains, Favorlang-Babuza</classification>
 	<typedby>Roland Rehm</typedby>
 	<checkedby></checkedby>
+	<source>@book{306286,
+  address    = {Tokyo},
+  pages      = {166},
+  publisher  = {University of Tokyo},
+  series     = {Memoirs of the Faculty of Letters},
+  title      = {A Comparative Vocabulary of Austronesian Languages of Sinicized Ethnic Groups in Taiwan, Part I: Western Taiwan},
+  volume     = {7},
+  year       = {1982},
+  bibtexkey  = {tsuchida_sinicized-taiwan1982},
+  hhtype     = {overview;comparative},
+  inlg       = {English [eng]},
+  src        = {hh},
+  srctrickle = {hh#hv:Tsuchida:Western-Taiwan},
+  author     = {Tsuchida, Shigeru}
+}</source>
 </record>
 
 <record>

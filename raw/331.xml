@@ -9,6 +9,20 @@
 	<classification>Sino-Tibetan, Chinese</classification>
 	<typedby>Laurent Sagart</typedby>
 	<checkedby></checkedby>
+	<source>@book{468510,
+  address    = {Oxford},
+  pages      = {449},
+  publisher  = {Oxford University Press},
+  title      = {Old Chinese: A New Reconstruction},
+  year       = {2014},
+  bibtexkey  = {baxter-sagart_chinese-reconstruction2014},
+  fn         = {eurasia\baxter-sagart_old-chinese2014.pdf},
+  hhtype     = {comparative},
+  macro_area = {Eurasia},
+  src        = {gj, hh},
+  srctrickle = {gj#bs14oc, hh#v:BaxterSagart:Old-Chinese},
+  author     = {Baxter, William H. and Sagart, Laurent}
+}</source>
 </record>
 
 <record>

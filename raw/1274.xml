@@ -9,6 +9,22 @@
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, South Mangyan, Hanunoo</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{311529,
+  address    = {Cebu City},
+  pages      = {200},
+  publisher  = {University of San Carlos},
+  title      = {The Mangyan languages of Mindoro},
+  year       = {1977},
+  bibtexkey  = {barbian_mangyan-mindoro1977mindoro},
+  extra_hash = {mindoro},
+  fn         = {papua\barbian_mangyan-mindoro1977.pdf, papua\barbian_mangyan-mindoro1977_o.pdf},
+  hhtype     = {overview;comparative;wordlist},
+  inlg       = {English [eng]},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#hvw:Barbian:Mangyan-Mindoro},
+  author     = {Barbian, Karl-Josef}
+}</source>
 </record>
 
 <record>

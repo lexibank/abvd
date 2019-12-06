@@ -9,6 +9,25 @@
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Sangiric, Northern</classification>
 	<typedby>Debasish Roy</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{127733,
+  address               = {s-Gravenhage},
+  pages                 = {622},
+  publisher             = {'s-Gravenhage: Martinus Nijhoff},
+  title                 = {Sangirees-Nederlands woordenboek},
+  year                  = {1959},
+  bibtexkey             = {aebersold-steller_sangirees-nederlands1959},
+  class_loc             = {PL6025},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {Dutch [nld]},
+  inlg_code             = {eng},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6025 STE 1959},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#d:StellerAebersold:Sangirees, mpieva#Steller1959Sangiree},
+  subject_headings      = {Sangir language–Dictionaries–Dutch, Dutch language–Dictionaries–Sangir, Sangir language–Dictionaries–Dutch – Dutch language–Dictionaries–Sangir},
+  author                = {Steller, K. G. F. and Aebersold, W. E.}
+}</source>
 </record>
 
 <record>

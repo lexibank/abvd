@@ -10,6 +10,22 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, South New Ireland-Northwest Solomonic</classification>
 	<typedby>Malcolm Ross</typedby>
 	<checkedby>Malcolm Ross</checkedby>
+	<source>@article{21242,
+  journal    = {Zeitschrift für Eingeborenensprachen},
+  pages      = {10-34, 92-120},
+  title      = {Grammatische Grundzüge und Wörterverzeichnis der Label-Sprache},
+  volume     = {XX},
+  year       = {1929-1930},
+  bibtexkey  = {peekel_grundzuge-label1929},
+  fn         = {papua\peekel_label1929-1930.pdf},
+  hhtype     = {grammar_sketch},
+  inlg       = {German [deu]},
+  inlg_code  = {deu},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#s:Peekel:Label},
+  author     = {Peekel, Gerhard}
+}</source>
 </record>
 
 <record>

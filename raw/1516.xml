@@ -1,14 +1,41 @@
 <record>
 	<id>1516</id>
 	<language>Siraya A</language>
-	<author>Adelaar, Alexander, 2011. Siraya: Retrieving the p</author>
+	<author>Adelaar, Alexander, 2011</author>
 	<silcode>fos</silcode>
 	<glottocode>sira1267</glottocode>
-	<notes>The source is a careful reconstruction of (now extinct) Siraya from 17th century translations of St Matthew's gospel and the catechism into Siraya.</notes>
+	<notes>The source is a careful reconstruction of (now extinct) Siraya from 17th century translations of St Matthew's gospel and the catechism into Siraya.
+
+Adelaar, Alexander. 2011. Siraya: Retrieving the Phonology, Grammar and Lexicon of a Dormant Formosan Language. (Trends in Linguistics. Documentation, 30.) Berlin: Mouton. xvi+413pp.</notes>
 	<problems>Gaps in the data because of nature of sources.</problems>
 	<classification>Austronesian, East Formosan, Southwest</classification>
 	<typedby>Malcolm Ross</typedby>
 	<checkedby></checkedby>
+	<source>
+@book{17632,
+  address    = {Berlin},
+  author     = {Adelaar, Alexander},
+  pages      = {xvi+413},
+  publisher  = {Mouton},
+  series     = {Trends in Linguistics. Documentation},
+  title      = {Siraya: Retrieving the Phonology, Grammar and Lexicon of a Dormant Formosan Language},
+  url        = {http://www.degruyter.com/view/books/9783110252965/9783110252965/9783110252965.xml},
+  volume     = {30},
+  year       = {2011},
+  besttxt    = {ptxt2papuadelaar_siraya2011.txt},
+  cfn        = {papuadelaar_siraya2011.pdf},
+  delivered  = {papuadelaar_siraya2011.pdf},
+  doi        = {10.1515/9783110252965},
+  fn         = {papuadelaar_siraya2011.pdf},
+  hhtype     = {grammar},
+  inlg       = {English [eng]},
+  isbn       = {9783110252965, 978-3-11-025295-8},
+  lgcode     = {Siraya [fos]},
+  macro_area = {Papunesia},
+  oclc       = {873874195},
+  src        = {degruyter, hh}
+}
+</source>
 </record>
 
 <record>

@@ -9,6 +9,28 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Bima-Sumba</classification>
 	<typedby>Penny Keenan</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{96970,
+  address               = {Posieux (Fribourg, Suisse)},
+  number                = {15},
+  pages                 = {646},
+  publisher             = {Anthropos-Institut},
+  series                = {Studia Instituti Anthropos},
+  title                 = {Wörterbuch der Ngadhasprache},
+  volume                = {15},
+  year                  = {1961},
+  bibtexkey             = {arndt_worterbuch-ngadhasprache1961},
+  class_loc             = {PL5432.Z5},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {German [deu]},
+  inlg_code             = {deu},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5432 .Z5 ARN 1961},
+  src                   = {langsci, mpieva},
+  srctrickle            = {langsci#Arndt:61, mpieva#Arndt1961Worterbu},
+  subject_headings      = {Ngada language–Dictionaries–German, Ngada language, Ngada language–Dictionaries–German – Ngada language},
+  author                = {Arndt, Paul}
+}</source>
 </record>
 
 <record>

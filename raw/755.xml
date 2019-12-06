@@ -9,6 +9,32 @@
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, Central, Peripheral</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{26161,
+  address               = {Manila},
+  note                  = {Includes bibliographical references (p. 735-736)},
+  pages                 = {xi+736},
+  publisher             = {Linguistic Society of the Philippines},
+  series                = {Philippine journal of linguistics : special monograph issue},
+  title                 = {A Masbatenyo-English dictionary},
+  volume                = {38},
+  year                  = {2001},
+  bibtexkey             = {wolfenden_masbatenyo-dictionary2001},
+  class_loc             = {PL5629.5.M37},
+  country               = {Philippines [PH]},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9789717800097},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5629 .5.M37 WOL 2001},
+  sil_id                = {43079},
+  src                   = {hh, mpieva, sil16},
+  srctrickle            = {hh#d:Wolfenden:Masbatenyo, mpieva#Wolfenden2001AMasbate, sil16#43079},
+  subject               = {Dictionaries and vocabularies [DAV]},
+  subject_headings      = {Masbateno language – Dictionaries – English, Masbateno language – Dictionaries – English},
+  author                = {Wolfenden, Elmer}
+}</source>
 </record>
 
 <record>

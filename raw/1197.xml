@@ -9,6 +9,23 @@
 	<classification>Austro-Asiatic, Mon-Khmer, Nicobar, Nancowry</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{17683,
+  address    = {London},
+  pages      = {lviii+iv+243},
+  publisher  = {W. H. Allen and Co.},
+  title      = {A dictionary of the Central Nicobarese language (English-Nicobarese and Nicobarese-English, with appendices containing a comparison of synonymous words in the remaining Nicobarese forms and other matters, preceded by notes on the grammar of the Central form...Published under the patronage of the Secretary of State for India},
+  year       = {1889},
+  bibtexkey  = {man_synonymous-patronage1889},
+  hhtype     = {comparative},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  reprint    = {Reprint, ??.},
+  src        = {stampe},
+  srctrickle = {stampe#447},
+  stampeann  = {#V472, #S434; |AAA(xerox)},
+  stampedesc = {Central Nancowry dialect},
+  author     = {Man, Edward Horace}
+}</source>
 </record>
 
 <record>

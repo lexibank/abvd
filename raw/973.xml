@@ -11,6 +11,19 @@ The represented dialect is that of Guzhang County, Hunan.</notes>
 	<classification>Unclassified</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{sd_WuRuiqing_Waxianghua,
+  title            = {Xiangxi Guzhang Waxiang hua diao cha bao gao},
+  publisher        = {Shanghai: Shanghai Educational Press},
+  pages            = {333},
+  year             = {2010},
+  glottolog_ref_id = {319173},
+  hhtype           = {grammar_sketch;dictionary},
+  inlg             = {Chinese Mandarin [cmn]},
+  lgcode           = {Waxianghua [wxa]},
+  macro_area       = {Eurasia},
+  title_english    = {An Investigative Report of Waxianghua of Guzhang County, Xiangxi Prefecture},
+  author           = {Wu, Yunji and Shen, Ruiqing}
+}</source>
 </record>
 
 <record>

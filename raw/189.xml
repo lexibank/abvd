@@ -9,6 +9,30 @@
 	<classification>Austronesian, Malayo-Polynesian, Greater Barito, Barito-Mahakam</classification>
 	<typedby>Peng Du</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{7677,
+  address               = {Ithaca},
+  note                  = {Bibliography: p. 111-112},
+  pages                 = {124},
+  publisher             = {Cornell University Press},
+  series                = {Data paper},
+  title                 = {The Barito isolects of Borneo: A classification based on comparative reconstruction and lexicostatistics},
+  volume                = {68},
+  year                  = {1967},
+  asjp_name             = {Dusun Malang, Ma'anyan, Paku, Siang, Malayic Dayak (Delang), Tawoyan, Kahayan (Kapuas), Siang (Murung), Tunjung, Dusun Witu, Ngaju (Ba'amang), Lawangan, Dusun Deyah, Ma'anyan (Samihim), Malayic Dayak (Tamuan)},
+  bibtexkey             = {hudson_barito-isolects1967},
+  class_loc             = {PL5261},
+  document_type         = {B},
+  fn                    = {papua\hudson_barito1967v2.pdf, papua\hudson_barito1967.pdf, papua\hudson_barito1967_o.pdf},
+  hhtype                = {overview;comparative;wordlist},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5261 HUD 1967},
+  src                   = {asjp2010, hh, mpieva},
+  srctrickle            = {asjp2010#1766, asjp2010#1985, asjp2010#2304, asjp2010#2513, asjp2010#2604, asjp2010#265, asjp2010#3344, asjp2010#3353, asjp2010#3471, asjp2010#3485, asjp2010#3568, asjp2010#3889, asjp2010#463, asjp2010#477, asjp2010#4850, hh#hvw:Hudson:Barito, mpieva#Hudson1967TheBarit},
+  subject_headings      = {Borneo–Languages, Borneo–Languages},
+  author                = {Hudson, Alfred B.}
+}</source>
 </record>
 
 <record>

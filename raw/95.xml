@@ -14,6 +14,28 @@ Has term for dugout canoe shared with S. Taiwanese and S. Philippines languages 
 	<classification>Austronesian, Malayo-Polynesian, Moklen</classification>
 	<typedby>Peng Du</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@mastersthesis{59047,
+  pages            = {359},
+  publisher        = {Nakhon Pathom},
+  school           = {Mahidol University},
+  title            = {A description of Moken: a Malayo-Polynesian language},
+  url              = {http://archives.sealang.net/mahidol},
+  year             = {1980},
+  bibtexkey        = {chantanakomes_moken-malayo1980},
+  class_loc        = {DS485 .B85},
+  document_type    = {CF},
+  fn               = {eurasia\chantanakomes_moken1980_o.pdf, papua/veena_moken1980_o.pdf},
+  fnnote           = {pdf, 7,85 MB},
+  hhtype           = {grammar},
+  inlg             = {English [eng]},
+  inlg_code        = {eng},
+  macro_area       = {Eurasia},
+  mpifn            = {moken_veena1980_o.pdf},
+  src              = {hh, mpieva},
+  srctrickle       = {hh#g:Chantanakomes:Moken, mpieva#Chantanakomes1980Adescrip},
+  subject_headings = {Moken (Southeast Asian people), Moken (Southeast Asian people)},
+  author           = {Chantanakomes, Veena}
+}</source>
 </record>
 
 <record>

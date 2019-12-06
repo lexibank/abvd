@@ -13,6 +13,44 @@ is &quot;Bobot&quot; in Collins Lists</notes>
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Central Maluku, East, Seram, Masiwang</classification>
 	<typedby>Peng Du</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@article{7931,
+  journal    = {Tijdschrift voor Indische Taal-, Land- en Volkenkunde},
+  pages      = {349-396},
+  title      = {Vergelijkende woordenlijst in het Hollandsch, Ceramsch en Alfoersch (Bonfia)},
+  volume     = {43},
+  year       = {1901},
+  bibtexkey  = {d_ceramsch-alfoersch1901},
+  fn         = {papua\darmandville_ceramsch-bonfia1901.pdf},
+  hhtype     = {wordlist},
+  inlg       = {Dutch [nld]},
+  inlg_code  = {nld},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#w:dArmandville:Ceramsch-Bonfia},
+  author     = {Le Cocq d'Armandville, C. J. F.}
+}
+@book{59437,
+  address               = {Berlin},
+  pages                 = {xii+224},
+  publisher             = {Reimer},
+  series                = {Zeitschrift für Eingeborenen-Sprachen / Beihefte},
+  title                 = {Die Lauterscheinungen in den ambonischen Sprachen},
+  volume                = {10},
+  year                  = {1927},
+  bibtexkey             = {stresemann_lauterscheinungen-ambonischen1927},
+  class_loc             = {PL5206},
+  document_type         = {B},
+  fn                    = {papua\stresemann_ambonischen1927_o.pdf, papua\stresemann_ambonischen1927.pdf},
+  hhtype                = {overview;comparative},
+  inlg                  = {German [deu]},
+  inlg_code             = {deu},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5206 STR 1927},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#hv:Stresemann:Ambonischen, mpieva#Stresemann1927DieLaute},
+  subject_headings      = {Amboinese languages, Amboinese languages},
+  author                = {Stresemann, Erwin}
+}</source>
 </record>
 
 <record>

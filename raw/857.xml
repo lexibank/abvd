@@ -11,6 +11,27 @@ Strongly marked final consonants are marked by apostrophes &lt;'&gt;.</notes>
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, South Halmahera-West New Guinea, South Halmahera, East Makian-Gane</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@incollection{71003,
+  address    = {Canberra},
+  booktitle  = {The Makian Languages and their Neighbours},
+  note       = {Materials in languages of Indonesia No. 12},
+  pages      = {99-128},
+  publisher  = {Research School of Pacific and Asian Studies, Australian National University},
+  series     = {Pacific Linguistics: Series D},
+  title      = {A short vocabulary of East Makian},
+  volume     = {46},
+  year       = {1982},
+  bibtexkey  = {collins_short-makian1982},
+  fn         = {papua\collins_east-makian1982.pdf},
+  hhtype     = {wordlist},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh, zurich},
+  srctrickle = {hh#w:Collins:EMakian, zurich#Collins1982-2},
+  author     = {Collins, James T.},
+  editor     = {Voorhoeve, C. L.}
+}</source>
 </record>
 
 <record>

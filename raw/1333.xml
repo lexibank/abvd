@@ -12,6 +12,27 @@ Spoken on islands off the southeast point of the Huon Peninsula of New Guinea.
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Ngero-Vitiaz, Vitiaz, Tami</classification>
 	<typedby>Malcolm Ross</typedby>
 	<checkedby>Malcolm Ross</checkedby>
+	<source>@article{94718,
+  journal    = {Zeitschrift für afrikanische und orientalische Sprachen},
+  pages      = {198-253},
+  title      = {Bemerkungen zur Grammatik der Tamisprache},
+  volume     = {V},
+  year       = {1900},
+  bibtexkey  = {bamler_bemerkungen-tamisprache1900},
+  fn         = {papua\bamler_tamisprache1900.pdf},
+  hhtype     = {grammar_sketch},
+  inlg       = {German [deu]},
+  inlg_code  = {deu},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#s:Bamler:Tami},
+  author     = {Bamler, Georg}
+}
+@misc{Ross-1333-2016,
+  author = &quot;Malcolm Ross&quot;,
+  date = &quot;2016&quot;,
+  howpublished = &quot;personal communication&quot;
+}</source>
 </record>
 
 <record>

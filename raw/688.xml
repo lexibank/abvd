@@ -11,6 +11,19 @@ Source: Yap, Fe Aldave. The Tagalog Region: Lexicon of the Languages and Dialect
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, West, Kuyan</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{Yap2009,
+  address       = {Manila},
+  publisher     = {University of Santo Tomas},
+  title_english = {The Tagalog Region: Lexicon of the Languages and Dialects},
+  year          = {2009},
+  hhtype        = {grammar},
+  inlg          = {Mandarin Chinese [cmn]},
+  macro_area    = {Eurasia},
+  src           = {hh},
+  srctrickle    = {hh#g:Liang:Pubiao},
+  title         = {Rehiyong Tagalog: Lexicon ng mga Wika at Diyalekto},
+  author        = {Yap, Fe Aldave}
+}</source>
 </record>
 
 <record>

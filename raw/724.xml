@@ -20,6 +20,23 @@ Tones (source does not use 5 or 6 for Lincheng):
 	<classification>Tai-Kadai, Kam-Tai, Lakkja</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{150187,
+  address       = {Shanghai},
+  pages         = {335},
+  publisher     = {Shanghai Far East Publishers},
+  title         = {Lingao yu yanjiu},
+  year          = {1997},
+  bibtexkey     = {liang-zhang_lingao-yanjiu1997},
+  fn            = {eurasia\liang-zhang_lingao1997.pdf},
+  hhtype        = {grammar},
+  inlg          = {Chinese Mandarin [cmn]},
+  inlg_code     = {eng},
+  macro_area    = {Eurasia},
+  src           = {hh},
+  srctrickle    = {hh#g:LiangZhang:Lingao},
+  title_english = {The Lingao language},
+  author        = {Liang, Min and Zhang, Junru}
+}</source>
 </record>
 
 <record>

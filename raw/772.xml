@@ -19,6 +19,29 @@ Tones:
 	<classification>Tai-Kadai, Hlai</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{87089,
+  address               = {Beijing},
+  edition               = {Dai 1 ban},
+  pages                 = {137},
+  publisher             = {National Minorities Publ.},
+  series                = {Zhongguo shaoshu minzu yuyan jianzhi congshu},
+  title                 = {Li-yu jianzhi},
+  year                  = {1980},
+  bibtexkey             = {ouyang_li-jianzhi1980},
+  class_loc             = {PL4251.L5},
+  document_type         = {B},
+  fn                    = {eurasia\ouyang_li1980.pdf, eurasia\ouyang_li1980v2.pdf, eurasia\ouyang_li1980_o.pdf},
+  hhtype                = {grammar_sketch},
+  inlg                  = {Chinese-Mandarin [cmn]},
+  inlg_code             = {cmn},
+  macro_area            = {Eurasia},
+  mpi_eva_library_shelf = {PL 4251 .L5 OUY 1980},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#s:Ouyang:Li, mpieva#Ouyang1980Liyujian},
+  subject_headings      = {Li language, Li language},
+  title_english         = {Description of the Li language},
+  author                = {Ouyang, Jueya}
+}</source>
 </record>
 
 <record>

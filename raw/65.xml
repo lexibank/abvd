@@ -9,6 +9,28 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Micronesian, Micronesian Proper, Kusaiean</classification>
 	<typedby>Debasish Roy</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{61642,
+  address               = {Honolulu},
+  pages                 = {xiii+317},
+  publisher             = {The University Press of Hawaii},
+  series                = {Pali language texts : Micronesia},
+  title                 = {Kusaiean-English dictionary},
+  year                  = {1976},
+  asjp_name             = {Kosraean},
+  bibtexkey             = {lee_kusaiean-dictionary1976},
+  class_loc             = {PL6252.K864},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780824804138},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6252 LEE 1976},
+  src                   = {asjp2010, hh, mpieva, wals},
+  srctrickle            = {asjp2010#1816, hh#d:Lee:Kusaiean, mpieva#Lee1976Kusaiean, wals#3514},
+  subject_headings      = {Kusaie language–Dictionaries–English, English language–Dictionaries–Kusaie, Kusaie language–Dictionaries–English – English language–Dictionaries–Kusaie},
+  author                = {Lee, Kee-Dong}
+}</source>
 </record>
 
 <record>

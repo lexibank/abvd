@@ -22,6 +22,29 @@ The Yangfeng Mak tones are:
 	<classification>Tai-Kadai, Kam-Tai, Kam-Sui</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@incollection{90534,
+  address    = {Dallas},
+  booktitle  = {Comparative Kadai: Linguistic Studies Beyond Tai},
+  pages      = {87-106},
+  publisher  = {The Summer Institute of Linguistics and the University of Texas at Arlington},
+  series     = {Summer Institute of Linguistics: Publications in Linguistics},
+  title      = {Yangfeng Mak of Libo County},
+  volume     = {86},
+  year       = {1988},
+  bibtexkey  = {dabai_yangfeng-libo1988},
+  country    = {China [CN]},
+  fn         = {eurasia\dabai_yangfeng-mak1988v2.pdf, eurasia\dabai_yangfeng-mak1988.pdf},
+  hhtype     = {grammar_sketch},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Eurasia},
+  sil_id     = {22226},
+  src        = {hh, sil16},
+  srctrickle = {hh#s:Dabai:Yangfeng, sil16#22226},
+  subject    = {Phonological descriptions [PHD]},
+  author     = {Dabai, Ni},
+  editor     = {Edmondson, Jerold A. and Solnit, David B.}
+}</source>
 </record>
 
 <record>

@@ -9,6 +9,25 @@
 	<classification>Austronesian, Malayo-Polynesian, Greater Barito, East, Malagasy</classification>
 	<typedby>Kirsty Maurits</typedby>
 	<checkedby>Sander Adelaar</checkedby>
+	<source>@book{303234,
+  address               = {Paris},
+  pages                 = {891},
+  publisher             = {L'Harmattan},
+  title                 = {Dictionnaire malgache (dialectal) - français: dialecte tañala, sud-est de Madagascar ; avec recherches étymologiques},
+  year                  = {1998},
+  bibtexkey             = {beaujard_tanala-etymologiques1998},
+  class_loc             = {PL5376},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {French [fra]},
+  isbn                  = {2-7384-6460-2},
+  macro_area            = {Africa},
+  mpi_eva_library_shelf = {PL 5376 BEA 1998},
+  src                   = {mpieva},
+  srctrickle            = {mpieva#Beaujard1998Dictionn},
+  subject_headings      = {Malagasy language – Dictionaries – French, Malagasy language – Dialects – Dictionaries, Tanala (Malagasy people) – Languages – Dictionaries – French, Malagasy language – Dictionaries – French – Malagasy language – Dialects – Dictionaries – Tanala (Malagasy people) – Languages – Dictionaries – French},
+  author                = {Beaujard, Philippe}
+}</source>
 </record>
 
 <record>

@@ -9,6 +9,20 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Micronesian, Micronesian Proper, Ponapeic-Trukic, Ponapeic</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{158369,
+  address    = {Honolulu},
+  publisher  = {University of Hawaii Press},
+  title      = {Ponapean-English Dictionary. PALI Language Texts: Micronesia},
+  year       = {1979},
+  asjp_name  = {Pohnpeian},
+  bibtexkey  = {rehg-sohl_ponapean-micronesia1979},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  macro_area = {Papua},
+  src        = {asjp2010},
+  srctrickle = {asjp2010#3203},
+  author     = {Rehg, K.L. and Sohl, D. G.}
+}</source>
 </record>
 
 <record>

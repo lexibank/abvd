@@ -9,6 +9,25 @@
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Bashiic, Ivatan</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{46500,
+  address               = {Tokyo},
+  pages                 = {v+227},
+  publisher             = {University of Tokyo},
+  title                 = {List of selected words of Batanic languages},
+  year                  = {1989},
+  bibtexkey             = {moriguchi-tsuchida-yamada_selected-batanic1989},
+  class_loc             = {PL5571.Z5},
+  document_type         = {B},
+  hhtype                = {overview;wordlist},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5571 BAT 1989},
+  src                   = {hh},
+  srctrickle            = {hh#hw:Tsuchidaetal:Batanic:Worsds},
+  subject_headings      = {Batan language–Glossaries, vocabularies, etc, Batan language–Glossaries, vocabularies, etc},
+  author                = {Tsuchida, Shigeru and Yamada, Yukihiro and Moriguchi, Tsunekazu}
+}</source>
 </record>
 
 <record>

@@ -10,6 +10,27 @@ Liu Zhaoxiong (1981) A sketch of the Dongxiang language. Beijing: Institute of m
 	<classification>Mongolic, Eastern, Mongour</classification>
 	<typedby>Kozhevina Varvara</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{113730,
+  address               = {Beijing},
+  edition               = {Dai 1 ban},
+  pages                 = {122},
+  publisher             = {National Minorities Publ.},
+  series                = {Zhongguo shaoshu minzu yuyan jianzhi congshu},
+  title                 = {Dongxiang-yu jianzhi [Concise grammar of Dongxiang]},
+  year                  = {1981},
+  bibtexkey             = {liu_dongxiang-jianzhi1981},
+  class_loc             = {PL431.D64},
+  document_type         = {B},
+  hhtype                = {grammar},
+  inlg                  = {Chinese-Mandarin [cmn]},
+  inlg_code             = {cmn},
+  macro_area            = {Eurasia},
+  mpi_eva_library_shelf = {PL 431 .D64 LIU 1981},
+  src                   = {mpieva},
+  srctrickle            = {mpieva#Liu1981Dongxian},
+  subject_headings      = {Dongxiang language, Dongxiang language},
+  author                = {Liu, Zhaoxiong}
+}</source>
 </record>
 
 <record>

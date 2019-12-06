@@ -9,6 +9,26 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Timor, Extra-Ramelaic, West</classification>
 	<typedby>Penny Keenan</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{50012,
+  address               = {Leiden},
+  pages                 = {826},
+  publisher             = {Brill},
+  title                 = {Rottineesch-Hollandsch Woordenboek},
+  year                  = {1908},
+  bibtexkey             = {jonker_rottineesch-hollandsch1908},
+  class_loc             = {PL5435.Z5},
+  document_type         = {B},
+  fn                    = {papua\jonker_rottineesch1908v2.pdf, papua\jonker_rottineesch1908.pdf, papua\jonker_rottineesch1908.pdf},
+  hhtype                = {dictionary},
+  inlg                  = {Dutch [nld]},
+  inlg_code             = {nld},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5435 .Z5 JON 1908},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#d:Jonker:Rottineesch, mpieva#Jonker1908Rottinee},
+  subject_headings      = {Roti language–Dictionaries–Dutch, Roti language–Dictionaries–Dutch},
+  author                = {Jonker, J. C. G.}
+}</source>
 </record>
 
 <record>

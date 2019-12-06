@@ -22,6 +22,19 @@ The Xiaozhai Younuo tones are:
 	<classification>Hmong-Mien, Hmongic, Bunu</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{310194,
+  address       = {Beijing},
+  publisher     = {Minzu University of China Publishing House},
+  title         = {Younuoyu Yanjiu},
+  year          = {2007},
+  bibtexkey     = {li-mao_younuoyu-yanjiu2007},
+  hhtype        = {grammar_sketch},
+  macro_area    = {Eurasia},
+  src           = {hh},
+  srctrickle    = {hh#s:MaoLi:Younuo},
+  title_english = {A Study of Younuo},
+  author        = {Mao, Zongwu and Li, Yunbing}
+}</source>
 </record>
 
 <record>

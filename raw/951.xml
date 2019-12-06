@@ -9,6 +9,20 @@
 	<classification>Sino-Tibetan, Tibeto-Burman, Lolo-Burmese</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{471419,
+  address    = {Berkeley and Los Angeles},
+  publisher  = {University of California press},
+  series     = {University of California Publications in Linguistics},
+  title      = {Handbook of Proto-Tibeto-Burman},
+  volume     = {135},
+  year       = {2003},
+  bibtexkey  = {matisoff_tibeto-burman2003},
+  hhtype     = {comparative},
+  inlg       = {English [eng]},
+  src        = {gj},
+  srctrickle = {gj#matisoff03},
+  author     = {Matisoff, James A.}
+}</source>
 </record>
 
 <record>

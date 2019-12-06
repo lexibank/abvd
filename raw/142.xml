@@ -9,6 +9,24 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, South Halmahera-West New Guinea, West New Guinea, Cenderawasih Bay, Waropen</classification>
 	<typedby>Peng Du</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{61752,
+  address    = {'s-Gravenhage},
+  publisher  = {Martinus Nijhoff},
+  series     = {Verhandelingen van het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen},
+  title      = {Woordenlijst van het Waropensch},
+  volume     = {LXXVII:2},
+  year       = {1942},
+  bibtexkey  = {held_woordenlijst-waropensch1942woordenlijst},
+  extra_hash = {woordenlijst},
+  fn         = {papua\held_woordenlijst-waropensch1942.pdf},
+  hhtype     = {dictionary},
+  inlg       = {Dutch [nld]},
+  inlg_code  = {nld},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#d:Held:Waropensch},
+  author     = {Held, Gerrit J.}
+}</source>
 </record>
 
 <record>

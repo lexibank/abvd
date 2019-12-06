@@ -9,6 +9,23 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, South New Ireland-Northwest Solomonic, Santa Isabel, East</classification>
 	<typedby>Peng Du</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{118627,
+  address    = {Canberra},
+  pages      = {285},
+  publisher  = {Research School of Pacific and Asian Studies, Australian National University},
+  series     = {Pacific Linguistics: Series C},
+  title      = {Cheke Holo dictionary},
+  volume     = {97},
+  year       = {1988},
+  bibtexkey  = {kokhonigita-pulomana-white_cheke-holo1988},
+  fn         = {papua\whiteetal_cheke-holo1988.pdf},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#d:Whiteetal:Cheke-Holo},
+  author     = {White, Geoffrey M. and Kokhonigita, Francis and Pulomana, Hugo}
+}</source>
 </record>
 
 <record>

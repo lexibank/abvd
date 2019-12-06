@@ -9,6 +9,26 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Central Maluku, East, Seram, Sawai-Nuaulu</classification>
 	<typedby>Kirsty Maurits</typedby>
 	<checkedby></checkedby>
+	<source>@book{148049,
+  address    = {Canberra},
+  pages      = {212},
+  publisher  = {Research School of Pacific and Asian Studies, Australian National University},
+  series     = {Pacific Linguistics: Series D},
+  title      = {Holle lists: vocabularies in languages of Indonesia Vol.3/2: Central Moluccas: Seram (II)},
+  volume     = {44},
+  year       = {1981},
+  asjp_name  = {Elpaputih, Alune, Nuaulu},
+  bibtexkey  = {stokhof_moluccas-seram1981},
+  fn         = {papua\stokhof_holle-seram-II1981.pdf},
+  hhtype     = {overview;wordlist},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {asjp2010, hh},
+  srctrickle = {asjp2010#3716, asjp2010#3791, asjp2010#395, asjp2010#4023, asjp2010#4541, asjp2010#4838, hh#hw:Stokhofetal:Holle:3:2},
+  author     = {Stokhof, W. A. L.},
+  editor     = {Stokhof, W.A.L.}
+}</source>
 </record>
 
 <record>

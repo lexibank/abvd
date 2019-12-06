@@ -16,6 +16,47 @@ Sources:
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, Banton</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@article{109918,
+  journal               = {Studies in Philippine Linguistics},
+  number                = {1},
+  pages                 = {111-136},
+  title                 = {Bantoanon phonology},
+  volume                = {9},
+  year                  = {1992},
+  bibtexkey             = {hendrickson-kilgour_bantoanon-phonology1992},
+  country               = {Philippines [PH]},
+  document_type         = {P},
+  fn                    = {papua\kilgour-hendrickson_bantoanon-phonology1992.pdf},
+  hhtype                = {phonology},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {please see journal section S},
+  sil_id                = {34204},
+  src                   = {hh, mpieva, sil16},
+  srctrickle            = {hh#phon:KilgourHendrickson:Bantoanon, mpieva#Kilgour1992Bantoano, sil16#34204},
+  subject               = {Phonological descriptions [PHD]},
+  author                = {Kilgour, Heather J. and Hendrickson, Gail R.}
+}
+@article{106220,
+  journal               = {Studies in Philippine Linguistics},
+  number                = {2},
+  pages                 = {1-93},
+  title                 = {Sociolinguistic survey of Bantoanon},
+  volume                = {6},
+  year                  = {1986},
+  bibtexkey             = {gordon-kilgour_sociolinguistic-bantoanon1986},
+  document_type         = {P},
+  fn                    = {papua\gordon-kilgour_sociolinguistic-bantoanon1986.pdf, papua\gordon-kilgour_bantoanon1986.pdf},
+  hhtype                = {socling},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {please see journal section S},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#soc:GordonKilgour:Bantoanon, mpieva#Gordon1986Sociolin},
+  author                = {Gordon, Ruth M. and Kilgour, Heather J.}
+}</source>
 </record>
 
 <record>

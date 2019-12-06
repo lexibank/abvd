@@ -14,6 +14,29 @@ L = low</notes>
 	<classification>languages isolate</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{28432,
+  address               = {Leiden},
+  pages                 = {219},
+  publisher             = {Brill},
+  series                = {Brill's Japanese Studies Library},
+  title                 = {A Reconstruction of Proto-Ainu},
+  volume                = {4},
+  year                  = {1993},
+  bibtexkey             = {vovin_reconstruction-ainu1993},
+  class_loc             = {PL495.1},
+  document_type         = {B},
+  fn                    = {eurasia\vovin_proto-ainu1993.pdf, eurasia\vovin_proto-ainu1993_o.pdf},
+  hhtype                = {overview;comparative},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {90-04-09905-0, 9789004099050},
+  macro_area            = {Eurasia},
+  mpi_eva_library_shelf = {PL 495 .1 VOV 1993},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#hv:Vovin:Proto-Ainu:1993, mpieva#Vovin1993Areconst},
+  subject_headings      = {Ainu language–Phonology, Ainu language–Vocabulary, Ainu language–Etymology, Ainu language–Phonology – Ainu language–Vocabulary – Ainu language–Etymology},
+  author                = {Vovin, Alexander}
+}</source>
 </record>
 
 <record>

@@ -16,6 +16,31 @@ PSEM = Proto-South East Mindanao (ancestral to the Mansakan languages of Mansaka
 	<classification>Austronesian, Malayo-Polynesian, Philippine</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{97611,
+  address               = {Manila},
+  note                  = {Revision of the author's thesis (Ph.D.–University of Texas at Arlington, 1983) Includes bibliographical references (p. 278-285)},
+  pages                 = {xi+285},
+  publisher             = {Linguistic Society of the Philippines},
+  series                = {Philippine journal of linguistics : special monograph issue},
+  title                 = {Proto East Mindanao and its internal relationships},
+  volume                = {44},
+  year                  = {1997},
+  bibtexkey             = {gallman_mindanao-relationships1997},
+  class_loc             = {PL5912},
+  document_type         = {B},
+  fn                    = {papua\gallman_mindanao1983_o.pdf},
+  hhtype                = {comparative},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9789717800004},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5912 GAL 1997},
+  mpifn                 = {mindanao_gallman1983_o.pdf},
+  src                   = {mpieva},
+  srctrickle            = {mpieva#Gallman1997ProtoEas},
+  subject_headings      = {Mindanao Island (Philippines)–Languages–Grammar, Sangil language–Dialects–Philippines–Mindanao Island–Grammar, Mindanao Island (Philippines)–Languages–Grammar – Sangil language–Dialects–Philippines–Mindanao Island–Grammar},
+  author                = {Gallman, Andrew Franklin}
+}</source>
 </record>
 
 <record>

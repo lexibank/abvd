@@ -9,6 +9,30 @@
 	<classification>Austronesian, Malayo-Polynesian, Malayo-Sumbawan, North and East, Malayic</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby>Sander Adelaar</checkedby>
+	<source>@book{48349,
+  address               = {Canberra},
+  note                  = {Includes bibliographical references (p. 236-243) and index.},
+  pages                 = {xi+253},
+  publisher             = {Research School of Pacific and Asian Studies, Australian National University},
+  series                = {Pacific Linguistics: Series C},
+  title                 = {Proto malayic: the reconstruction of its phonology and parts of its lexicon and morphology},
+  volume                = {119},
+  year                  = {1992},
+  bibtexkey             = {adelaar_malayic-parts1992},
+  class_loc             = {PL5109},
+  document_type         = {B},
+  fn                    = {eurasia\adelaar_proto-malayic1992.pdf, eurasia\adelaar_proto-malayic1992_o.pdf, papua\adelaar_proto-malayic1992.pdf},
+  hhtype                = {overview;comparative;wordlist},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858834088},
+  macro_area            = {Eurasia, Papua},
+  mpi_eva_library_shelf = {PL 5109 ADE 1992},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#hvw:Adelaar:Proto-Malayic, mpieva#Adelaar1992Protomal},
+  subject_headings      = {Proto-Malayan language–Phonology, Proto-Malayan language–Morphology, Reconstruction (Linguistics), Proto-Malayan language–Phonology – Proto-Malayan language–Morphology – Reconstruction (Linguistics)},
+  author                = {Adelaar, K. Alexander}
+}</source>
 </record>
 
 <record>

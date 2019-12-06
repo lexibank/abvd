@@ -9,6 +9,27 @@
 	<classification>Austronesian, Malayo-Polynesian, South Sulawesi, Northern, Toraja-Sa'dan</classification>
 	<typedby>Peng Du</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{21023,
+  address               = {'s-Gravenhage},
+  pages                 = {xxiii+930},
+  publisher             = {Martinus Nijhoff},
+  series                = {Verhandelingen van het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen},
+  title                 = {Tae' (Zuid-Toradjasch)-Nederlandsch woordenboek met register},
+  volume                = {65:2},
+  year                  = {1940},
+  bibtexkey             = {veen_tae-toradjasch1940},
+  class_loc             = {PL5456.Z5},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {Dutch [nld]},
+  inlg_code             = {nld},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5456 .Z5 VEE 1940},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#d:vanderVeen:Tae, mpieva#Veen1940TaeZuidT},
+  subject_headings      = {Toraja Sa'dan language – Dictionaries – Dutch, Dutch language – Dictionaries – Torsada Sa'dan, Toraja Sa'dan language – Dictionaries – Dutch – Dutch language – Dictionaries – Torsada Sa'dan},
+  author                = {van den Veen, Hendrik}
+}</source>
 </record>
 
 <record>

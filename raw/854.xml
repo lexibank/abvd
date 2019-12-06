@@ -9,6 +9,29 @@
 	<classification>West Papuan, North Halmahera, Sahu</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{87812,
+  address               = {Dordrecht},
+  pages                 = {276},
+  publisher             = {Foris Publications},
+  series                = {Verhandelingen van het Koninklijk Instituut voor Tall-, Land- en Volkenkunde},
+  title                 = {Sahu-Indonesian-English Dictionary and Sahu Grammar Sketch},
+  volume                = {126},
+  year                  = {1987},
+  bibtexkey             = {visser-voorhoeve_sahu-indonesian1987},
+  class_loc             = {PL6621.S24},
+  document_type         = {B},
+  fn                    = {papua\visser-voorhoeve_sahu1987.pdf},
+  guldemann_location    = {K2 HA B1 OLS (DdSOApapu670)},
+  hhtype                = {grammar_sketch;dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6621 .S24 VIS 1987},
+  src                   = {guldemann, hh, mpieva},
+  srctrickle            = {guldemann#4570, hh#sd:VisserVoorhoeve:Sahu, mpieva#Visser1987SahuIndo},
+  subject_headings      = {Sahu language–Grammar, Sahu language–Dictionaries–Indonesian, Sahu language–Dictionaries–English, Sahu language–Grammar – Sahu language–Dictionaries–Indonesian – Sahu language–Dictionaries–English},
+  author                = {Visser, L. E. and Voorhoeve, C. L.}
+}</source>
 </record>
 
 <record>

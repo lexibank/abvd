@@ -9,6 +9,18 @@
 	<classification>Austronesian, Malayo-Polynesian, Celebic, Wotu-Wolio, Wolio-Kamaru</classification>
 	<typedby>Penny Keenan</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{309688,
+  address    = {Dordrecht},
+  publisher  = {Foris Publications Holland},
+  title      = {Wolio dictionary = Kamus bahasa Wolio: Wolio, Inggris, Indonesia},
+  year       = {1987},
+  bibtexkey  = {anceaux_wolio-kamus1987},
+  hhtype     = {dictionary},
+  inlg       = {Indonesian [ind]},
+  src        = {bahasa},
+  srctrickle = {bahasa#atmajaya3919},
+  author     = {Anceaux, J. C.}
+}</source>
 </record>
 
 <record>

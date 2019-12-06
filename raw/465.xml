@@ -16,6 +16,29 @@ rr represents a trill (orthographic r)
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, North and Central Vanuatu, Northeast Vanuatu-Banks Islands, West Santo</classification>
 	<typedby>John Lynch</typedby>
 	<checkedby></checkedby>
+	<source>@book{97023,
+  address               = {Canberra},
+  pages                 = {xviii+353},
+  publisher             = {Research School of Pacific and Asian Studies, Australian National University},
+  series                = {Pacific Linguistics},
+  title                 = {Araki: A disappearing language of Vanuatu},
+  volume                = {522},
+  year                  = {2002},
+  bibtexkey             = {francois_araki-disappearing2002},
+  class_loc             = {PL6211.V26},
+  document_type         = {B},
+  fn                    = {papua\francois_araki2002.pdf},
+  hhtype                = {grammar},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858834934},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6211 .V26 FRA 2002},
+  src                   = {hh, mpieva, wals},
+  srctrickle            = {hh#g:Francois:Araki, mpieva#Franccois2002Arakiadi, wals#1964},
+  subject_headings      = {Vanuatu – Languages, Vanuatu – Languages},
+  author                = {François, Alexandre}
+}</source>
 </record>
 
 <record>

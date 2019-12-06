@@ -9,6 +9,26 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Ngero-Vitiaz, Vitiaz, Southwest New Britain, Bibling</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@incollection{8526,
+  address    = {Canberra},
+  booktitle  = {Studies in the Languages of New Britain and Ireland 1: Austronesian Languages of the North New Guinea Cluster in Northwestern New Britain},
+  pages      = {249-392},
+  publisher  = {Research School of Pacific and Asian Studies, Australian National University},
+  series     = {Pacific Linguistics: Series C},
+  title      = {The Bibling Languages of Northwestern New Britain},
+  volume     = {135},
+  year       = {1996},
+  bibtexkey  = {thurston_bibling-northwestern1996},
+  fn         = {papua\ross_new-ireland-new-britain1996.pdf, papua\thurston_bibling1996_o.pdf, papua\thurston_bibling1996.pdf},
+  hhtype     = {overview;comparative;grammar_sketch},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#hvs:Thurston:Bibling},
+  author     = {Thurston, William R.},
+  editor     = {Ross, Malcolm D.}
+}</source>
 </record>
 
 <record>

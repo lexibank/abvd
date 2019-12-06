@@ -9,6 +9,30 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, North and Central Vanuatu, Northeast Vanuatu-Banks Islands, Epi, Bieria-Maii</classification>
 	<typedby>Kirsty Maurits</typedby>
 	<checkedby></checkedby>
+	<source>@book{52375,
+  address               = {Canberra},
+  note                  = {Bibliography: p. 541-545.},
+  pages                 = {v+545},
+  publisher             = {Research School of Pacific and Asian Studies, Australian National University},
+  series                = {Pacific Linguistics: Series C},
+  title                 = {New Hebrides Languages: An Internal Classification},
+  volume                = {50},
+  year                  = {1976},
+  bibtexkey             = {tryon_hebrides-internal1976},
+  class_loc             = {PL6211.N44},
+  document_type         = {B},
+  fn                    = {papua\tryon_new-hebrides1976pages.pdf, papua\tryon_new-hebrides1976.pdf, papua\tryon_new-hebrides1976pages_o.pdf},
+  hhtype                = {overview;comparative;wordlist},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858831520},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6211 .N44 TRY 1976},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#hvw:Tryon:NewHebrides, mpieva#Tryon1976NewHebri},
+  subject_headings      = {Vanuatu–Languages, Melanesian languages–Vanuatu–Classification, Vanuatu–Languages – Melanesian languages–Vanuatu–Classification},
+  author                = {Tryon, Darrell T.}
+}</source>
 </record>
 
 <record>

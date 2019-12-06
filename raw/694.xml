@@ -24,6 +24,24 @@ However, Ostapirat (2000) gives only 5 tones: /33/, /31/, /44/, /21(3)/, and /45
 	<classification>Tai-Kadai, Kra, Central Kra</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{32941,
+  address    = {Canberra},
+  pages      = {231},
+  publisher  = {Research School of Pacific and Asian Studies, Australian National University},
+  series     = {Pacific Linguistics},
+  title      = {The Buyang language of South China: Grammatical notes, glossary, texts and translations},
+  volume     = {607},
+  year       = {2010},
+  bibtexkey  = {li-luo_buyang-translations2010},
+  fn         = {eurasia\li-luo_buyang2010.pdf},
+  hhtype     = {grammar_sketch;text},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Eurasia},
+  src        = {hh},
+  srctrickle = {hh#st:LiLuo:Buyang},
+  author     = {Li, Jinfang and Luo, Yongxian}
+}</source>
 </record>
 
 <record>

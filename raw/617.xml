@@ -9,6 +9,28 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Papuan Tip, Nuclear, North Papuan Mainland-D'Entrecasteaux, Dobu-Duau</classification>
 	<typedby>Ger Reesink</typedby>
 	<checkedby></checkedby>
+	<source>@incollection{48805,
+  address    = {Canberra},
+  booktitle  = {Culture change, language change: Case studies from Melanesia},
+  journal    = {Milne Bay Province, Papua New Guinea. Pacific Linguistics, ed. by Tom Dutton, C 120},
+  number     = {2},
+  pages      = {27-47},
+  publisher  = {Research School of Pacific and Asian Studies, Australian National University},
+  series     = {Pacific Linguistics: Series C},
+  title      = {Language change on Fergusson and Normanby islands, Milne Bay Province, Papua New Guinea},
+  volume     = {120},
+  year       = {1992},
+  bibtexkey  = {lithgow_fergusson-normanby1992},
+  fn         = {papua\dutton_change1992.pdf, papua\lithgow_fergusson-normanby1992.pdf},
+  hhtype     = {overview;comparative;socling},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh, silpng},
+  srctrickle = {hh#hvsoc:Lithgow:Fergusson-Normanby, silpng#silpng1991-2000:linguistics_and_anthropology97, silpng#silpng1991-2000:linguistics_and_anthropology99},
+  author     = {Lithgow, David},
+  editor     = {Dutton, Tom}
+}</source>
 </record>
 
 <record>

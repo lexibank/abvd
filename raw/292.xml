@@ -9,6 +9,25 @@
 	<classification>Austronesian, Malayo-Polynesian, Philippine</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@article{14536,
+  journal               = {Studies in Philippine Linguistics},
+  number                = {2},
+  pages                 = {181-223},
+  title                 = {A Reconstruction of Proto-Southern Mindanaon},
+  volume                = {6},
+  year                  = {1986},
+  bibtexkey             = {savage_reconstruction-mindanaon1986},
+  document_type         = {P},
+  fn                    = {papua\savage_southern-mindanaon1986.pdf, papua\savage_mindanaon1986.pdf},
+  hhtype                = {overview;comparative},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {please see journal section S},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#hv:Savage:SMindanaon, mpieva#Savage1986Areconst},
+  author                = {Savage, Dale T.}
+}</source>
 </record>
 
 <record>

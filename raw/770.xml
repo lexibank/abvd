@@ -23,6 +23,20 @@ Tones:
 	<classification>Tai-Kadai, Kam-Tai, Kam-Sui</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{s_Yang_Mo,
+  title            = {Moyu Yanjiu},
+  publisher        = {Beijing: Central Nationalities University Press},
+  pages            = {313},
+  year             = {2000},
+  fn               = {eurasia\yang_mo2000.pdf, eurasia\yang_moyu2000_o.pdf},
+  glottolog_ref_id = {150523},
+  hhtype           = {grammar_sketch},
+  inlg             = {Chinese Mandarin [cmn]},
+  lgcode           = {Mo here mostly draws on Ai-Cham which is considered a sister dialect = Ai-Cham [aih], Also Mak [mkg]},
+  macro_area       = {Eurasia},
+  title_english    = {A study of Mo},
+  author           = {Yang, Tongyin}
+}</source>
 </record>
 
 <record>

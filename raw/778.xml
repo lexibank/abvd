@@ -19,6 +19,25 @@ Tones:
 	<classification>Tai-Kadai, Kam-Tai, Tai, Southwestern</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{43663,
+  address    = {Canberra},
+  pages      = {298},
+  publisher  = {Pacific Linguistics, Australian National University},
+  series     = {Pacific Linguistics: Series C},
+  title      = {A dictionary of Dehong, Southwest China},
+  volume     = {145},
+  year       = {1999},
+  asjp_name  = {Tai Nüa},
+  bibtexkey  = {luo_dehong-southwest1999},
+  fn         = {eurasia\luo_dehong1999.pdf},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Eurasia},
+  src        = {asjp2010, hh},
+  srctrickle = {asjp2010#1317, hh#d:Luo:Dehong},
+  author     = {Luo, Yongxian}
+}</source>
 </record>
 
 <record>

@@ -9,6 +9,21 @@
 	<classification>Austronesian, Malayo-Polynesian, Northwest Sumatra-Barrier Islands</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{303217,
+  address    = {Jakarta},
+  pages      = {46},
+  publisher  = {Pusat Pembinaan dan Pengembangan Bahasa, Departemen Pendidikan dan Kebudayaan},
+  title      = {Fonologi Bahasa Mentawai},
+  year       = {1992},
+  bibtexkey  = {arifin-kasim-malano_fonologi-mentawai1992},
+  fn         = {papua\kasim_mentawai1992.pdf},
+  hhtype     = {phonology},
+  inlg       = {Indonesian [ind]},
+  macro_area = {Papua},
+  src        = {bahasa, hh},
+  srctrickle = {bahasa#atmajaya1106, hh#phon:Kasim:Mentawai},
+  author     = {Kasim, Yuslina and Arifin, Syamsir and Malano,}
+}</source>
 </record>
 
 <record>

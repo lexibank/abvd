@@ -9,6 +9,18 @@
 	<classification>Austronesian, Malayo-Polynesian, Northwest Sumatra-Barrier Islands</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{302656,
+  address    = {Jakarta},
+  publisher  = {Pusat Pembinaan dan Pengembangan Bahasa, Departemen Pendidikan dan Kebudayaan},
+  title      = {Kamus bahasa Indonesia-Mentawai},
+  year       = {1998},
+  bibtexkey  = {gani-husin-khatib_kamus-mentawai1998},
+  hhtype     = {dictionary},
+  inlg       = {Indonesian [ind]},
+  src        = {bahasa},
+  srctrickle = {bahasa#atmajaya1403, bahasa#atmajaya1405},
+  author     = {Khatib, Yusran and Gani, Erizal and Husin, Nurzuir}
+}</source>
 </record>
 
 <record>

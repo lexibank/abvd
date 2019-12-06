@@ -17,6 +17,24 @@ The Saek tones are:
 	<classification>Tai-Kadai, Kam-Tai, Tai, Northern</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{56276,
+  address        = {Ann Arbor},
+  pages          = {xliv, 989, maps},
+  publisher      = {Center for South and Southeast Asian Studies, University of Michigan},
+  series         = {Michigan papers on South and Southeast Asia},
+  title          = {The Saek language: glossary, texts, and translations},
+  volume         = {41},
+  year           = {1993},
+  bibtexkey      = {gedney_saek-translations1993},
+  inlg           = {English [eng]},
+  inlg_code      = {eng},
+  macro_area     = {Eurasia},
+  seanote        = {edited by Hudak,, Thomas John},
+  shelf_location = {UHM ASIA PL4251.S23 G4 1993 and UCB Main PL4251.S23 G4 1993},
+  src            = {sala},
+  srctrickle     = {sala#3092},
+  author         = {Gedney, William J.}
+}</source>
 </record>
 
 <record>

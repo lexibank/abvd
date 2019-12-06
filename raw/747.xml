@@ -9,6 +9,24 @@
 	<classification>Hmong-Mien, Mienic</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{115285,
+  address    = {Canberra},
+  note       = {Studies in Language Change 8},
+  pages      = {298},
+  publisher  = {Research School of Pacific and Asian Studies, Australian National University},
+  series     = {Pacific Linguistics},
+  title      = {Hmong-Mien Language History},
+  volume     = {613},
+  year       = {2010},
+  bibtexkey  = {ratliff_hmong-mien2010},
+  fn         = {eurasia\ratliff_hmong-mien2010.pdf, eurasia\ratliff_hmong-mien2010_o.pdf},
+  hhtype     = {overview;comparative},
+  inlg       = {English [eng]},
+  macro_area = {Eurasia},
+  src        = {gj, hh},
+  srctrickle = {gj#ratliff10protohm, hh#hv:Ratliff:Hmong-Mien},
+  author     = {Ratliff, Martha S.}
+}</source>
 </record>
 
 <record>

@@ -11,6 +11,24 @@ Enga is the most widely spoken Trans-New Guinea language. Dialects include Laiap
 	<classification>Trans-New Guinea, Engan, Enga</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{141433,
+  address    = {Canberra},
+  pages      = {lxii+219},
+  publisher  = {Research School of Pacific and Asian Studies, Australian National University},
+  series     = {Pacific Linguistics: Series C},
+  title      = {A dictionary of Enga},
+  volume     = {20},
+  year       = {1973},
+  bibtexkey  = {lang_dictionary-enga1973},
+  fn         = {papua\lang_enga1973_o.pdf},
+  hhtype     = {grammar_sketch;dictionary},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#sd:Lang:Enga},
+  author     = {Lang, Adrienne J.}
+}</source>
 </record>
 
 <record>

@@ -9,6 +9,19 @@
 	<classification>Austronesian, Malayo-Polynesian, Palauan</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{134202,
+  address    = {Honolulu},
+  publisher  = {The University Press of Hawaii},
+  title      = {Palauan-English Dictionary},
+  year       = {1977},
+  bibtexkey  = {mcmanus_palauan-dictionary1977},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  macro_area = {Papua},
+  src        = {wals},
+  srctrickle = {wals#4046},
+  author     = {McManus, Edwin G.}
+}</source>
 </record>
 
 <record>

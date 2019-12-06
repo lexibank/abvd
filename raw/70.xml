@@ -9,6 +9,23 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Timor, Extra-Ramelaic, East, Luang-Kisar, Luang</classification>
 	<typedby>Penny Keenan</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{66632,
+  address    = {Bandoeng},
+  pages      = {viii+252},
+  publisher  = {A. C. Nix},
+  series     = {Verhandelingen van het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen},
+  title      = {Lettineesche Taalstudiën},
+  volume     = {69},
+  year       = {1932},
+  bibtexkey  = {jonker_lettineesche-taalstudien1932},
+  fn         = {papua\jonker_lettineesche1932.pdf},
+  hhtype     = {grammar_sketch},
+  inlg       = {Dutch [nld]},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#s:Jonker:Lettineesche},
+  author     = {Jonker, J. C. G.}
+}</source>
 </record>
 
 <record>

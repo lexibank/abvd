@@ -9,6 +9,26 @@
 	<classification>Austronesian, Malayo-Polynesian, Northwest Sumatra-Barrier Islands, Batak, Northern</classification>
 	<typedby>Ger Reesink</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{15258,
+  address               = {Medan},
+  note                  = {Added t.p. in Indonesian: Kamus bahasa Karo-Batak-Belanda At head of title: Lembaga Kebudajaan Indonesia &quot;Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen&quot;},
+  pages                 = {343},
+  publisher             = {Varekamp},
+  title                 = {Karo-Bataks - Nederlands woordenboek},
+  year                  = {1951},
+  bibtexkey             = {neumann_karo-bataks1951},
+  class_loc             = {PL5244.Z9},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {Dutch [nld]},
+  inlg_code             = {nld},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5244 .Z9 NEU 1951},
+  src                   = {mpieva},
+  srctrickle            = {mpieva#Neumann1951KaroBata},
+  subject_headings      = {Karo-Batak dialect–Dictionaries–Dutch, Karo-Batak dialect–Dictionaries–Dutch},
+  author                = {Neumann, Johann Heinrich}
+}</source>
 </record>
 
 <record>

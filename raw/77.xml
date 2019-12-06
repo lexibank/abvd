@@ -9,6 +9,27 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Yapese</classification>
 	<typedby>Peng Du</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{20421,
+  address               = {Honolulu},
+  pages                 = {xx+182},
+  publisher             = {Univ. Press of Hawaii},
+  series                = {PALI language texts : Micronesia},
+  title                 = {Yapese-English dictionary},
+  year                  = {1977},
+  asjp_name             = {Yapese},
+  bibtexkey             = {jensen_yapese-dictionary1977},
+  class_loc             = {PL6341.Z5},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  isbn                  = {0-82480-517-8, 9780824805173},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6341 .Z5 JEN 1977},
+  src                   = {asjp2010, hh, mpieva},
+  srctrickle            = {asjp2010#3810, hh#d:Jensen:Yapese, mpieva#Jensen1977YapeseEn},
+  subject_headings      = {Yapese language–Dictionaries–English, English language–Dictionaries–Yap, Yapese language–Dictionaries–English – English language–Dictionaries–Yap},
+  author                = {Jensen, John Thayer}
+}</source>
 </record>
 
 <record>

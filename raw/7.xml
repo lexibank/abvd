@@ -9,6 +9,21 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Ngero-Vitiaz, Vitiaz, Bel</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{134622,
+  address    = {Columbus, Ohio},
+  pages      = {350},
+  publisher  = {American Lutheran Church, Board of Foreign Missions},
+  title      = {Gedaged-English dictionary},
+  year       = {1952},
+  bibtexkey  = {mager_gedaged-dictionary1952},
+  fn         = {papua\mager_gedaged-dictionary1952.pdf},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#d:Mager:Gedaged},
+  author     = {Mager, John F.}
+}</source>
 </record>
 
 <record>

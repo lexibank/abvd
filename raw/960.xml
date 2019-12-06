@@ -22,6 +22,22 @@ Tones:
 	<classification>Austro-Asiatic, Mon-Khmer, Palyu</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{148506,
+  address       = {Beijing},
+  pages         = {304},
+  publisher     = {The Nationalities Press},
+  title         = {Lai yu yanjiu},
+  year          = {1999},
+  bibtexkey     = {li_lai-yanjiu1999},
+  hhtype        = {grammar},
+  inlg          = {Chinese Mandarin [cmn]},
+  inlg_code     = {cmn},
+  macro_area    = {Eurasia},
+  src           = {hh},
+  srctrickle    = {hh#g:Li:Lai},
+  title_english = {A study of Lai},
+  author        = {Li, Xulian}
+}</source>
 </record>
 
 <record>

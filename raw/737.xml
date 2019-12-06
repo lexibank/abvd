@@ -13,6 +13,36 @@ Source: Campbell, Alexander. 1984 (reprint). A Santali-English Dictionary. 3 par
 	<classification>Austro-Asiatic, Munda, North Munda, Kherwari, Santali</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{59537,
+  address    = {Calcutta},
+  publisher  = {Firma KLM Private Limited},
+  title      = {An Introduction to Santali},
+  year       = {1983},
+  bibtexkey  = {macphail_introduction-santali1983},
+  hhtype     = {grammar_sketch},
+  macro_area = {Eurasia},
+  src        = {wals},
+  srctrickle = {wals#3799},
+  author     = {Macphail, R.M.}
+}
+@book{74964,
+  address    = {In three parts},
+  pages      = {iii+707},
+  publisher  = {Pokhuria, Manbhum: Santal Mission Press},
+  title      = {A Santali-English dictionary},
+  year       = {1899},
+  bibtexkey  = {campbell_santali-dictionary1899},
+  fn         = {eurasia\campbell_santali1899.pdf},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  keywords   = {Santali: Dict, Santali-Eng},
+  macro_area = {Eurasia},
+  src        = {hh, sala, stampe},
+  srctrickle = {hh#d:Campbell:Santali, sala#1205, stampe#136},
+  stampeann  = {#V459; |*},
+  stampedesc = {2d ed., Macphail 1933; 3d ed., Macphail 1953; English-Santali, Macphail 1954},
+  author     = {Campbell, Andrew}
+}</source>
 </record>
 
 <record>

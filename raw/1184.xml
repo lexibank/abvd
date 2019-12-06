@@ -11,6 +11,29 @@ A more appropriate source is the online &quot;Dictionnaire des dialectes sud-oue
 	<classification>Austronesian, Malayo-Polynesian, Greater Barito, East, Malagasy</classification>
 	<typedby>Kirsty Maurits</typedby>
 	<checkedby>Sander Adelaar</checkedby>
+	<source>@book{14148,
+  address               = {Oslo},
+  pages                 = {viii+122},
+  publisher             = {Universitetsforlaget},
+  series                = {Instituttet for Sammenlignende Kulturforskning / Ser. B, Skrifter},
+  title                 = {Contes malgaches en dialecte Sakalava: textes, traduction, grammaire et lexique},
+  volume                = {54},
+  year                  = {1968},
+  bibtexkey             = {dahl_malgaches-sakalava1968},
+  class_loc             = {GR360.M2},
+  document_type         = {B},
+  fn                    = {africa\dahl_contes-malgaches-sakalava1968_o.pdf},
+  hhtype                = {grammar_sketch;text},
+  inlg                  = {French [fra]},
+  inlg_code             = {fra},
+  keywords              = {;eaf;mdg;ltr;y.661;},
+  macro_area            = {Africa},
+  mpi_eva_library_shelf = {GR 360 .M2 DAH 1968},
+  src                   = {eballiso2009, hh, mpieva},
+  srctrickle            = {eballiso2009#8820, hh#st:Dahl:Sakalava, mpieva#Dahl1968Contesma},
+  subject_headings      = {Tales–Madagascar, Sakalava dialect, Tales–Madagascar – Sakalava dialect},
+  author                = {Dahl, Otto Chr.}
+}</source>
 </record>
 
 <record>

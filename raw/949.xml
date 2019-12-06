@@ -17,6 +17,19 @@ Tones:
 	<classification>Tai-Kadai, Kra, Eastern Kra</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{83473,
+  address    = {Moscow},
+  publisher  = {Nauka},
+  title      = {Jazyk Lakha},
+  year       = {1986},
+  bibtexkey  = {solntseva-xoang_jazyk-lakha1986},
+  inlg       = {Russian [rus]},
+  inlg_code  = {rus},
+  macro_area = {Eurasia},
+  src        = {wals},
+  srctrickle = {wals#5646},
+  author     = {Solntseva, N.V. and Xoang, Van Ma}
+}</source>
 </record>
 
 <record>

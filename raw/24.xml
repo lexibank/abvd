@@ -15,6 +15,37 @@ Tried to add Grace materials, but these appear to represent a distinct dialect</
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, South Halmahera-West New Guinea, West New Guinea, Cenderawasih Bay, Mor</classification>
 	<typedby>Penny Keenan</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{121185,
+  address               = {'s-Gravenhage},
+  note                  = {35},
+  pages                 = {166},
+  publisher             = {Martinus Nijhoff},
+  series                = {Verhandelingen van het Koninglijk instituut voor taal-, land- en volkenkunde},
+  title                 = {The Linguistic Situation in the Islands of Yapen, Kurudu, Nau and Miosnum, New Guinea},
+  url                   = {http://www.papuaweb.org/dlib/bk1/kitlv/},
+  volume                = {35},
+  year                  = {1961},
+  bibtexkey             = {anceaux_kurudu-miosnum1961},
+  class_loc             = {PL6265},
+  document_type         = {B},
+  fn                    = {papua\anceaux_yapen1961.pdf, papua\anceaux_yapen1961_o.pdf, papua\anceaux_yapen1961v2_o.pdf, papua\anceaux_miosnumxxxv1961.pdf, papua\anceaux_yapen1961_o.pdf},
+  hhtype                = {overview;comparative;wordlist},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6265 ANC 1961},
+  mpifn                 = {yapen_anceaux1961_o.pdf},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#hvw:Anceaux:Yapen, mpieva#Anceaux1961Thelingu},
+  subject_headings      = {Islands–Geelvink Bay–Languages, Islands–Geelvink Bay–Languages},
+  author                = {Anceaux, Johannes Cornelis}
+}
+@book{Laycock1965,
+  address = {},
+  title   = {Unpublished field notes on Mor},
+  year    = {1965-1966},
+  author  = {Laycock, D. C.}
+}</source>
 </record>
 
 <record>

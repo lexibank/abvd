@@ -12,6 +12,27 @@ Anderson, Astrid &amp; Mats Exter, 2005. Wogeo Texts: Myths, songs and spells fr
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Schouten, Kairiru-Manam, Manam</classification>
 	<typedby>Malcolm Ross</typedby>
 	<checkedby>Malcolm Ross</checkedby>
+	<source>@misc{Ross-1337-2016,
+  author = &quot;Malcolm Ross&quot;,
+  date = &quot;2016&quot;,
+  howpublished = &quot;personal communication&quot;
+}
+@book{t_AndersonExter_Wogeo,
+  title            = {Wogeo Texts: Myths, songs and spells from Wogeo Island, Papua New Guinea},
+  publisher        = {Oslo: Kon Tiki Museum},
+  series           = {Kon Tiki Museum Occasional Papers},
+  volume           = {8},
+  pages            = {100},
+  year             = {2005},
+  fn               = {papua\anderson-exter_wogeo-texts2005.pdf},
+  glottolog_ref_id = {320029},
+  hhtype           = {text},
+  inlg             = {English [eng]},
+  lgcode           = {Wogeo [woc]},
+  macro_area       = {Papua},
+  oclc             = {184742329},
+  author           = {Anderson, Astrid and Exter, Mats}
+}</source>
 </record>
 
 <record>

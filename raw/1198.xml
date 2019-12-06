@@ -21,6 +21,36 @@ Sources:
 	<classification>Turkic, Eastern</classification>
 	<typedby>Kalvin Vasques</typedby>
 	<checkedby></checkedby>
+	<source>@book{gd_Batchelor_Ainu,
+  title            = {An Ainu-English-Japanese Dictionary (Including a grammar of the Ainu Language)},
+  publisher        = {Tokyo: Methodist Publishing House},
+  address          = {Tokyo},
+  pages            = {724},
+  year             = {1905},
+  edition          = {2},
+  fn               = {eurasia\batchelor_ainu-english-japanese1905_o.pdf},
+  gbid             = {http://books.google.com/books?id=eTwmmgEACAAJ},
+  glottolog_ref_id = {41084},
+  hhtype           = {grammar;dictionary},
+  inlg             = {English [eng]},
+  lgcode           = {Tokachi-Saru-Usu = Hokkaido Ainu (Japan) [ain]},
+  macro_area       = {Eurasia},
+  author           = {Batchelor, John}
+}
+@article{73575,
+  journal    = {Mother Tongue},
+  pages      = {219-258},
+  title      = {A Multilateral Look at Greater Austric},
+  volume     = {11},
+  year       = {2006},
+  bibtexkey  = {bengtson_multilateral-austric2006},
+  fn         = {eurasia\bengtson_greater-austric2006v2.pdf, eurasia\bengtson_greater-austric2006.pdf},
+  hhtype     = {overview;comparative},
+  macro_area = {Eurasia},
+  src        = {hh},
+  srctrickle = {hh#hv:Bengtson:Multilateral-Greater-Austric},
+  author     = {Bengtson, John D.}
+}</source>
 </record>
 
 <record>

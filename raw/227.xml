@@ -11,6 +11,26 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Papuan Tip, Nuclear, Suauic</classification>
 	<typedby>Debasish Roy</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@incollection{162411,
+  address    = {Canberra},
+  booktitle  = {Studies in languages of central and south-east Papua},
+  pages      = {227-278},
+  publisher  = {Research School of Pacific and Asian Studies, Australian National University},
+  series     = {Pacific Linguistics: Series C},
+  title      = {Coastal Suau: A preliminary study of internal relationships},
+  volume     = {29},
+  year       = {1975},
+  bibtexkey  = {cooper_coastal-suau1975},
+  fn         = {papua\dutton_central-south-east-papua1975_o.pdf, papua\cooper_coastal-suau1975_o.pdf},
+  hhtype     = {overview;comparative;wordlist},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#hvw:Cooper:Suau},
+  author     = {Cooper, Russell E.},
+  editor     = {Dutton, Tom E.}
+}</source>
 </record>
 
 <record>

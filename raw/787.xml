@@ -11,6 +11,26 @@ Li's tables use Sino-Tibetan reconstructions from Hwang-cherng Gong.</notes>
 	<classification>Sino-Tibetan</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@incollection{73544,
+  address    = {Taipei},
+  booktitle  = {Studies on Sino-Tibetan Languages: Papers in Honor of Professor Hwang-Cherng Gong on his Seventieth Birthday},
+  pages      = {11-42},
+  publisher  = {Institute of Linguistics, Academia Sinica},
+  series     = {Language and Linguistics Monograph},
+  title      = {Establishing genetic relationship between language families in Southeast Asia},
+  volume     = {W-4},
+  year       = {2004},
+  bibtexkey  = {li_establishing-families2004},
+  fn         = {eurasia\li_seasia2004.pdf},
+  hhtype     = {overview;comparative},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Eurasia},
+  src        = {hh},
+  srctrickle = {hh#hv:Li:SEAsia},
+  author     = {Li, Paul Jen-Kuei},
+  editor     = {Lin, Ying-chin and Hsu, Fang-min and Lee, Chun-chih and Sun, Jackson T.-S. and Yang, Hsiu-fang and Ho, Dah-an}
+}</source>
 </record>
 
 <record>

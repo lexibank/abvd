@@ -13,6 +13,27 @@ y is a high front rounded vowel, ' = glottal stop. No evidence for voiced/voicle
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, North and Central Vanuatu, Northeast Vanuatu-Banks Islands, Malekula Coastal</classification>
 	<typedby>John Lynch</typedby>
 	<checkedby></checkedby>
+	<source>@incollection{57209,
+  address               = {Canberra},
+  booktitle             = {Papers in Austronesian Linguistics 5},
+  pages                 = {101-148},
+  publisher             = {Research School of Pacific and Asian Studies, Australian National University},
+  series                = {Pacific Linguistics: Series A},
+  title                 = {A Salvage Sketch of Nāti (Southwest Malakula, Vanuatu)},
+  volume                = {92},
+  year                  = {1998},
+  bibtexkey             = {crowley_nati-malakula1998},
+  document_type         = {CH},
+  fn                    = {papua\crowley_nati1998.pdf},
+  hhtype                = {grammar_sketch},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {bound with PL 5021 PAP - 5},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#s:Crowley:Nati, mpieva#Crowley1998Asalvage},
+  author                = {Crowley, Terry}
+}</source>
 </record>
 
 <record>

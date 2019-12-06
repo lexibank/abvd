@@ -9,6 +9,26 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Micronesian, Micronesian Proper, Ponapeic-Trukic, Ponapeic</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@incollection{21249,
+  address    = {Canberra},
+  booktitle  = {Papers in Kosraean and Ponapeic},
+  pages      = {1-114},
+  publisher  = {Department of Linguistics, Research School of Pacific Studies, the Australian National University},
+  series     = {Pacific Linguistics: Series C},
+  title      = {A preliminary grammar sketch, text and vocabulary of Pingilapese},
+  volume     = {112},
+  year       = {1989},
+  bibtexkey  = {good-welley_text-pingilapese1989},
+  fn         = {papua\good-welley_pingilapese1989.pdf},
+  hhtype     = {grammar_sketch},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh, zurich},
+  srctrickle = {hh#s:GoodWelley:Pingilapese, zurich#Good1989-1},
+  author     = {Good, Elaine M. and Welley, Weldis},
+  editor     = {Good, Elaine M. and Welley, Weldis}
+}</source>
 </record>
 
 <record>

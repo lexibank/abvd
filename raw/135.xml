@@ -9,6 +9,34 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, Lavongai-Nalik</classification>
 	<typedby>Penny Keenan</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{301176,
+  address               = {Canberra},
+  note                  = {A revision of the authors thesis, Australian National University Bibliography: p. 159-163},
+  pages                 = {xi+163},
+  publisher             = {Research School of Pacific and Asian Studies, Australian National University},
+  series                = {Pacific Linguistics: Series B},
+  title                 = {The Tigak Language of New Ireland},
+  volume                = {58},
+  year                  = {1979},
+  added                 = {2013-09-01 12:19:49 +0000},
+  bibtexkey             = {beaumont_tigak-ireland1979},
+  class_loc             = {PL6317.T53},
+  document_type         = {CF},
+  fn                    = {papua\beaumont_tigak1979_o.pdf, papua/beaumont_tigak1979_o.pdf},
+  fnnote                = {pdf, 4,52 MB},
+  hhtype                = {grammar},
+  inlg                  = {English [eng]},
+  isbn                  = {9780858831872},
+  keywords              = {Tigak},
+  macro_area            = {Papua},
+  modified              = {2013-09-01 12:19:49 +0000},
+  mpi_eva_library_shelf = {please ask library staff for CD-ROM &quot;Pacific linguistics A + B&quot;},
+  mpifn                 = {tigak_beaumont1979_o.pdf},
+  src                   = {hh, mpieva, phoible, wals},
+  srctrickle            = {hh#g:Beaumont:Tigak, mpieva#Beaumont1979TheTigak, phoible#Beaumont1979, wals#445},
+  subject_headings      = {Tigak language, Tigak language},
+  author                = {Beaumont, Clive H.}
+}</source>
 </record>
 
 <record>

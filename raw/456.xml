@@ -13,6 +13,30 @@ Also know as Katbol</notes>
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, North and Central Vanuatu, Malekula Interior, Malekula Central</classification>
 	<typedby>Russell Gray</typedby>
 	<checkedby></checkedby>
+	<source>@book{151851,
+  address               = {Canberra},
+  pages                 = {xvi+213},
+  publisher             = {Research School of Pacific and Asian Studies, Australian National University},
+  series                = {Pacific Linguistics},
+  title                 = {The Avava language of central Malakula (Vanuatu)},
+  volume                = {574},
+  year                  = {2006},
+  asjp_name             = {Katbol},
+  bibtexkey             = {crowley_avava-malakula2006},
+  class_loc             = {PL6211.M3},
+  document_type         = {B},
+  fn                    = {papua\crowley_avava2006.pdf},
+  hhtype                = {grammar},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858835641},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6211 .M3 CRO 2006 AVA},
+  src                   = {asjp2010, hh, mpieva},
+  srctrickle            = {asjp2010#3251, hh#g:Crowley:Avava, mpieva#Crowley2006TheAvava},
+  subject_headings      = {Melanesian languages–Vanuatu–Malekula, Malekula (Vanuatu)–Languages, Melanesian languages–Vanuatu–Malekula – Malekula (Vanuatu)–Languages},
+  author                = {Crowley, Terry}
+}</source>
 </record>
 
 <record>
@@ -1765,7 +1789,7 @@ Also know as Katbol</notes>
 	<item>tuswe</item>
 	<annotation>tus+we = water</annotation>
 	<loan></loan>
-	<cognacy>1*</cognacy>
+	<cognacy>1, 47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

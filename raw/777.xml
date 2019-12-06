@@ -14,6 +14,24 @@ PBc = Proto-Baraic</notes>
 	<classification>Trans-New Guinea, Southeast Papuan, Koiarian</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{33063,
+  address    = {Canberra},
+  pages      = {128},
+  publisher  = {Research School of Pacific and Asian Studies, Australian National University},
+  series     = {Pacific Linguistics},
+  title      = {Reconstructing Proto Koiarian: The history of a Papuan language family},
+  volume     = {610},
+  year       = {2010},
+  bibtexkey  = {dutton_reconstructing-koiarian2010},
+  fn         = {papua\dutton_koiarian2010.pdf},
+  hhtype     = {overview;comparative},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#hv:Dutton:Proto-Koiarian},
+  author     = {Dutton, Tom}
+}</source>
 </record>
 
 <record>

@@ -19,6 +19,18 @@ Tones:
 	<classification>Tai-Kadai, Hlai</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{hvphon_OuyangZheng_Li,
+  title            = {Liyu Diaocha Yanjiu},
+  publisher        = {Beijing: Chinese Academy of Social Sciences},
+  pages            = {606},
+  year             = {1983},
+  glottolog_ref_id = {311258},
+  hhtype           = {overview;comparative;phonology},
+  lgcode           = {Hlai [lic]},
+  macro_area       = {Eurasia},
+  title_english    = {Survey of the Li Languages},
+  author           = {Ouyang, Jueya and Zheng, Yiqing}
+}</source>
 </record>
 
 <record>

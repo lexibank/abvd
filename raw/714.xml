@@ -23,6 +23,29 @@ Diwo Ai-Cham has 8 tones:
 	<classification>Tai-Kadai, Kam-Tai, Kam-Sui</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@incollection{11974,
+  address    = {Dallas},
+  booktitle  = {Comparative Kadai: Linguistic Studies Beyond Tai},
+  pages      = {59-85},
+  publisher  = {The Summer Institute of Linguistics and the University of Texas at Arlington},
+  series     = {Summer Institute of Linguistics: Publications in Linguistics},
+  title      = {An Investigation of the Ai-Cham Language},
+  volume     = {86},
+  year       = {1988},
+  bibtexkey  = {jianxin-lin_ai-cham1988},
+  country    = {China [CN]},
+  fn         = {eurasia\lin-jianxin_ai-cham1988.pdf, eurasia\lin-jianxin_ai-cham1988v2.pdf},
+  hhtype     = {phonology;comparative},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Eurasia},
+  sil_id     = {22227},
+  src        = {hh, sil16},
+  srctrickle = {hh#phonv:LinJianxin:Ai-Cham, sil16#22227},
+  subject    = {Comparative and historical studies [CHL], Phonological descriptions [PHD]},
+  author     = {Lin, Shi and Jianxin, Cui},
+  editor     = {Edmondson, Jerold A. and Solnit, David B.}
+}</source>
 </record>
 
 <record>

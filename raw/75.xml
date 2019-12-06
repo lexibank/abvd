@@ -11,6 +11,39 @@ Safioedin, A. (1977) Kamus Bahasa Madura-Indonesia. Jakarta: National Center for
 	<classification>Austronesian, Malayo-Polynesian, Madurese</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{80269,
+  address               = {'s-Gravenhage},
+  note                  = {A revision of the author's thesis, Yale, 1973 Includes index Bibliography: p. xv-xix},
+  pages                 = {xix+317},
+  publisher             = {Nijhoff},
+  series                = {Verhandelingen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde},
+  title                 = {The reconstruction of Proto-Malayo-Javanic},
+  volume                = {73},
+  year                  = {1975},
+  bibtexkey             = {nothofer_malayo-javanic1975},
+  class_loc             = {PL5053},
+  document_type         = {B},
+  fn                    = {papua\nothofer_malayojavanic1974_o.pdf, papua\nothofer_javaniclxxiii1975.pdf},
+  hhtype                = {overview;comparative},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9789024717729},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5053 NOT 1975},
+  mpifn                 = {malayojavanic_nothofer1974_o.pdf},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#hv:Nothofer:Malayo-Javanic:1975, mpieva#Nothofer1975Therecon},
+  subject_headings      = {Proto-Malayan language–Phonology, Proto-Malayan language–Phonology},
+  author                = {Nothofer, Bernd}
+}
+@book{safioedin1977,
+  date        = {1977},
+  title       = {Kamus Bahasa Madura-Indonesia},
+  language    = {es},
+  address     = {Jakarta},
+  institution = {National Center for Language Development},
+  author      = {Safioedin, A.}
+}</source>
 </record>
 
 <record>

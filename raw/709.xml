@@ -11,6 +11,32 @@
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{27594,
+  address               = {Canberra},
+  note                  = {Includes index Bibliography: p. 313-328},
+  pages                 = {xxi+328},
+  publisher             = {Research School of Pacific and Asian Studies, Australian National University},
+  series                = {Pacific Linguistics: Series C},
+  title                 = {The Bisayan Dialects of the Philippines: Subgrouping and Reconstruction},
+  volume                = {44},
+  year                  = {1977},
+  bibtexkey             = {zorc_bisayan-philippines1977},
+  class_loc             = {PL5629},
+  document_type         = {CF},
+  fn                    = {papua\zorc_bisayan1977_o.pdf},
+  fnnote                = {pdf, 3,01 MB},
+  hhtype                = {overview;comparative},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858831575},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {please ask library staff for CD-ROM &quot;Pacific linguistics C + D&quot;},
+  mpifn                 = {bisayan_zorc1977_o.pdf},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#hv:Zorc:Bisayan, mpieva#Zorc1977TheBisay},
+  subject_headings      = {Bisayan languages–Dialects, Bisayan languages–Grammar, Bisayan languages–Classification, Proto-Bisayan language, Bisayan languages–Dialects – Bisayan languages–Grammar – Bisayan languages–Classification – Proto-Bisayan language},
+  author                = {Zorc, R. David Paul}
+}</source>
 </record>
 
 <record>

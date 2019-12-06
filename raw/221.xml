@@ -9,6 +9,22 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Southeast Solomonic, Malaita-San Cristobal, Malaita, Southern</classification>
 	<typedby>Debasish Roy</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@article{58279,
+  journal    = {Anthropos},
+  pages      = {755-773, 926-940},
+  title      = {Grammar of the Language of Sa'a, Malaita, Solomon Islands},
+  volume     = {6},
+  year       = {1911},
+  bibtexkey  = {ivens_saa-malaita1911},
+  fn         = {papua\ivens_saa1911pages.pdf},
+  hhtype     = {grammar_sketch},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#s:Ivens:Saa},
+  author     = {Ivens, W. G.}
+}</source>
 </record>
 
 <record>

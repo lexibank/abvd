@@ -24,6 +24,26 @@ Tones (Shidong 诗洞 dialect):
 	<classification>Tai-Kadai, Kam-Tai, Kam-Sui</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{51026,
+  address               = {Beijing},
+  edition               = {Dai 1 ban},
+  pages                 = {299},
+  publisher             = {Central Nationalities University Press},
+  title                 = {Biao hua yanjiu},
+  year                  = {2002},
+  bibtexkey             = {liang-zhang_biao-hua2002},
+  document_type         = {B},
+  fn                    = {eurasia\liang-zhang_biao2002.pdf, eurasia\liang-zhang_biao2002_o.pdf, eurasia\liang-zhang_biao2002v2.pdf},
+  hhtype                = {grammar},
+  inlg                  = {Chinese-Mandarin [cmn]},
+  inlg_code             = {eng},
+  macro_area            = {Eurasia},
+  mpi_eva_library_shelf = {PL 4251 LIA 2002},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#g:LiangZhang:Biao, mpieva#Liang2002Biaohuay},
+  title_english         = {A study of Biao},
+  author                = {Liang, Min and Zhang, Junru}
+}</source>
 </record>
 
 <record>

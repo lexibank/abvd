@@ -9,6 +9,23 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Papuan Tip, Peripheral, Kilivila-Louisiades, Nimoa-Sudest</classification>
 	<typedby>Ger Reesink</typedby>
 	<checkedby></checkedby>
+	<source>@book{134183,
+  address    = {Ukarumpa, Papua New Guinea},
+  pages      = {x+133},
+  publisher  = {Summer Institute of Linguistics},
+  series     = {Dictionaries of Papua New Guinea},
+  title      = {Sudest field notes},
+  volume     = {11},
+  year       = {1990},
+  bibtexkey  = {anderson_sudest-field1990},
+  hhtype     = {grammar_sketch},
+  inlg       = {English [eng]},
+  macro_area = {Papua},
+  src        = {hh, silpng},
+  srctrickle = {hh#s:Anderson:Sudest, silpng#silpng1956-1990:linguistics_and_anthropology22},
+  author     = {Anderson, Mike},
+  editor     = {Anderson, Mike}
+}</source>
 </record>
 
 <record>

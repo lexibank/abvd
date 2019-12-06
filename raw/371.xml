@@ -13,6 +13,37 @@ Thurgood, G. (1999) From Ancient Cham to Modern Dialects: Two Thousand Years of 
 	<classification>Austronesian, Malayo-Polynesian, Malayo-Chamic, Chamic, Coastal, Cham</classification>
 	<typedby>Graham Thurgood</typedby>
 	<checkedby></checkedby>
+	<source>@book{130362,
+  address    = {Honolulu},
+  pages      = {407},
+  publisher  = {University of Hawaii Press},
+  series     = {Oceanic Linguistics Special Publication},
+  title      = {From Ancient Cham to Modern Dialects: Two Thousand Years of Language Contact and Change with an appendix of Chamic reconstructions and loanwords},
+  volume     = {28},
+  year       = {1999},
+  bibtexkey  = {thurgood_thousand-chamic1999},
+  fn         = {eurasia\thurgood_ancient-cham1999.pdf},
+  hhtype     = {overview;comparative},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Eurasia},
+  src        = {hh},
+  srctrickle = {hh#hv:Thurgood:Cham},
+  author     = {Thurgood, Graham}
+}
+@book{104212,
+  address    = {Phanrang},
+  publisher  = {Centre Culturel Căm},
+  title      = {Dictionnaire căm-vietnamien-français},
+  year       = {1971},
+  bibtexkey  = {moussay_cam-vietnamien1971},
+  hhtype     = {dictionary},
+  inlg       = {French [fra]},
+  macro_area = {Eurasia},
+  src        = {hh},
+  srctrickle = {hh#d:Moussay:Cam},
+  author     = {Moussay, Gerard}
+}</source>
 </record>
 
 <record>

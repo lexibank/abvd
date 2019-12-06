@@ -9,6 +9,26 @@
 	<classification>Austronesian, Malayo-Polynesian, Greater Barito, Sama-Bajaw, Sulu-Borneo, Borneo Coast Bajaw</classification>
 	<typedby>Robert Ross</typedby>
 	<checkedby></checkedby>
+	<source>@book{97255,
+  address               = {Manila},
+  pages                 = {viii+683},
+  publisher             = {SIL},
+  title                 = {Mapun-English dictionary},
+  year                  = {2001},
+  bibtexkey             = {collins-collins_mapun-dictionary2001},
+  class_loc             = {PL 5525},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9789711803537},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5525 COL 2001},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#d:CollinsCollins:Mapun, mpieva#Collins2001MapunEng},
+  subject_headings      = {Jama Mapun language – Dictionaries – English, Jama Mapun language – Dictionaries – English},
+  author                = {Collins, Millard A. and Collins, Virginia R.}
+}</source>
 </record>
 
 <record>

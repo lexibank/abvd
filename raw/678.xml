@@ -11,6 +11,18 @@ Tharp, James A. and Mateo C. Natividad. Itawis-English wordlist with English-Ita
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Northern Cordilleran, Cagayan Valley, Ibanagic</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{151187,
+  address    = {New Haven, Connecticut},
+  publisher  = {Human Relations Area Files, Inc},
+  title      = {Itawis-English Wordlist with English-Itawis Finderlist},
+  year       = {1976},
+  bibtexkey  = {natividad-tharp_itawis-finderlist1976},
+  hhtype     = {wordlist},
+  macro_area = {Papua},
+  src        = {wals},
+  srctrickle = {wals#5952},
+  author     = {Tharp, James A. and Natividad, Mateo C.}
+}</source>
 </record>
 
 <record>

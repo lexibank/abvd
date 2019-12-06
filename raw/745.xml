@@ -10,6 +10,27 @@
 	<classification>Austronesian, Malayo-Polynesian, Malayo-Chamic, Chamic, Highlands, Chru-Northern, Northern Cham</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{161507,
+  address    = {Manila},
+  pages      = {163},
+  publisher  = {Summer Institute of Linguistics},
+  series     = {Tu sách ngôn-ngũ dân-t ôc thiêu-sô Viêt-Nam},
+  title      = {Suraq vungã sanãp Radlai = Ngũ-v\textsubdot{u}ng Roglai = Northern Roglai vocabulary},
+  volume     = {3},
+  year       = {1977},
+  bibtexkey  = {cobbey-cobbey_vunga-sanap1977},
+  country    = {Viet Nam [VN]},
+  fn         = {eurasia\cobbey-cobbey_northern-roglai1977.pdf},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  inlg_code  = {rus},
+  macro_area = {Eurasia},
+  sil_id     = {15507},
+  src        = {hh, sil16},
+  srctrickle = {hh#d:CobbeyCobbey:Roglai, sil16#15507},
+  subject    = {Dictionaries and vocabularies [DAV]},
+  author     = {Cobbey, Vurnell and Cobbey, Maxwell E.}
+}</source>
 </record>
 
 <record>

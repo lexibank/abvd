@@ -11,6 +11,39 @@ Richardson, J. (1885) A new Malagasy-English dictionary. Antananarivo: London Mi
 	<classification>Austronesian, Malayo-Polynesian, Greater Barito, East, Malagasy</classification>
 	<typedby>Penny Keenan</typedby>
 	<checkedby>Simon Greenhill + Sander Adelaar</checkedby>
+	<source>@book{110341,
+  address            = {Tananarive},
+  pages              = {876},
+  publisher          = {Mission Catholique},
+  title              = {Dictionnaire malgache-français},
+  year               = {1899},
+  bibtexkey          = {abinal-malzac_dictionnaire-malgache1899},
+  fn                 = {africa\abinal-malzac_dictionnaire-malgache-francais1899_o.pdf, africa\abinal-malzac_dictionnaire-malgache1899.pdf},
+  hhtype             = {dictionary},
+  inlg               = {French [fra]},
+  internetarchive_id = {dictionnairemal00malzgoog},
+  keywords           = {;eaf;mdg;lng;dct;y.661;},
+  macro_area         = {Africa},
+  src                = {hh},
+  srctrickle         = {hh#d:AbinalMalzac:Malgache},
+  author             = {Abinal, F.G.P. and Malzac, V.}
+}
+@book{81814,
+  address    = {Antananarivo},
+  pages      = {899},
+  publisher  = {London Missionary Society},
+  title      = {A New Malagasy-English Dictionary},
+  year       = {1885},
+  bibtexkey  = {richardson_new-malagasy1885},
+  fn         = {africa\richardson_malagasy1885.pdf},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  keywords   = {;eaf;mdg;lng;dct;y.661;},
+  macro_area = {Africa},
+  src        = {eballiso2009, hh, wals},
+  srctrickle = {eballiso2009#4286, hh#d:Richardson:Malagasy, wals#5048},
+  author     = {Richardson, J.}
+}</source>
 </record>
 
 <record>

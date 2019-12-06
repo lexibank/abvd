@@ -19,6 +19,48 @@ Additions to Word list from &quot;Languages of the Southern Gateway&quot; by SIL
 	<classification>Austronesian, Malayo-Polynesian, Greater Barito, Sama-Bajaw</classification>
 	<typedby>Penny Keenan</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{134664,
+  note                  = {Includes bibliographical references (p. 610).},
+  pages                 = {512},
+  publisher             = {Linguistic Society of the Philippines, Special Monograph Issue, 40},
+  series                = {Philippine journal of linguistics : special monograph issue; 40,2},
+  title                 = {Yakan-English dictionary},
+  volume                = {Philippine journal of linguistics : special monograph issue},
+  year                  = {2002},
+  bibtexkey             = {behrens_yakan-dictionary2002},
+  class_loc             = {PL6115 .Z5},
+  country               = {Philippines [PH]},
+  document_type         = {B},
+  fn                    = {papua\behrens_yakan-dictionary2002.pdf},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9789717800103},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6115 .Z5 BEH 2002},
+  sil_id                = {42725},
+  src                   = {hh, mpieva, sil16},
+  srctrickle            = {hh#d:Behrens:Yakan, mpieva#Behrens2002YakanEng, sil16#42725},
+  subject               = {Dictionaries and vocabularies [DAV]},
+  subject_headings      = {Yakan language–Dictionaries–English, English language–Dictionaries–Yakan, Yakan language–Dictionaries–English – English language–Dictionaries–Yakan},
+  author                = {Behrens, Dietlinde}
+}
+@book{pack1975a,
+  date      = {1975},
+  title     = {Yakan-Pilipino-English Dictionary},
+  publisher = {Summer Institute of Linguistics},
+  language  = {en},
+  address   = {Manila},
+  author    = {Pack, J.}
+}
+@thesis{molony1969a,
+  date     = {1969},
+  title    = {Multilingualism and social behavior in the. southern Philippines},
+  language = {pt},
+  type     = {Ph.D. dissertation},
+  address  = {Stanford, California},
+  author   = {Molony, C.H.}
+}</source>
 </record>
 
 <record>

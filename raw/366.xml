@@ -9,6 +9,19 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Ngero-Vitiaz, Vitiaz, Bel</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@incollection{180592,
+  booktitle  = {The Oceanic Languages},
+  pages      = {216-248},
+  title      = {A grammar sketch of Takia},
+  year       = {2002},
+  bibtexkey  = {ross_sketch-takia2002},
+  hhtype     = {grammar_sketch},
+  inlg       = {English [eng]},
+  src        = {zurich},
+  srctrickle = {zurich#Ross2002-4},
+  author     = {Ross, Malcolm},
+  editor     = {Lynch, J. and Ross, M. and Crowley, T.}
+}</source>
 </record>
 
 <record>
@@ -2542,7 +2555,7 @@
 	<item>siks</item>
 	<annotation>Tok Pisin loanword</annotation>
 	<loan>L</loan>
-	<cognacy>loan</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

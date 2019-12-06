@@ -23,6 +23,20 @@ The selected variant is that of Dongmen (东门镇), Luocheng County (罗城县)
 	<classification>Tai-Kadai, Kam-Tai, Kam-Sui</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{s_JunGuoqiao_Mulao_1980,
+  title            = {Mulao yu jian zhi},
+  publisher        = {Beijing: Min zu chu ban she},
+  pages            = {125},
+  year             = {1980},
+  fn               = {eurasia\jun-guoqiao_mulao1980v2.pdf, eurasia\jun-guoqiao_mulao1980.pdf},
+  glottolog_ref_id = {321531},
+  hhtype           = {grammar_sketch},
+  inlg             = {Chinese Mandarin [cmn]},
+  lgcode           = {Mulam [mlm]},
+  macro_area       = {Eurasia},
+  title_english    = {An Outline Grammar of Mulao},
+  author           = {Jun, Wang and Guoqiao, Zheng}
+}</source>
 </record>
 
 <record>

@@ -13,6 +13,30 @@ Note: &lt;q&gt; is a glottal stop.</notes>
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Tagalog</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{54887,
+  address               = {[Canberra]},
+  note                  = {Publication of Soberano, Rosa P. 1976. The dialects of Marinduque Tagalog. Ph.D. dissertation, Ateneo-Philippine Normal College Consortium.},
+  pages                 = {xii+232},
+  publisher             = {Dept. of Linguistics, Research School of Pacific Studies, Australian National University},
+  series                = {Pacific linguistics: Series B},
+  title                 = {The dialects of Marinduque Tagalog},
+  volume                = {69},
+  year                  = {1980},
+  bibtexkey             = {soberano_marinduque-tagalog1980},
+  class_loc             = {PL6059},
+  document_type         = {B},
+  fn                    = {papua\soberano_marinduquelxviv1980.pdf},
+  hhtype                = {dialectology},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858832169},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6059 SOB 1980},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#dial:Soberano:Marinduque-Tagalog, mpieva#Soberano1980Thediale},
+  subject_headings      = {Tagalog language–Dialects–Philippines–Marinduque, Tagalog language–Dialects–Philippines–Marinduque},
+  author                = {Soberano, Rosa}
+}</source>
 </record>
 
 <record>

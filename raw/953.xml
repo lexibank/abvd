@@ -20,6 +20,20 @@ Mondzi has 6 tones: /55/, /44/, /33/, /53/, /13/, /21/</notes>
 	<classification>Sino-Tibetan, Tibeto-Burman, Lolo-Burmese, Loloish, Mondzish</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@phdthesis{309627,
+  pages      = {399},
+  school     = {University of Texas at Arlington},
+  title      = {Subgrouping Of Nisoic (Yi) Languages: A Study From The Perspectives Of Shared Innovation And Phylogenetic Estimation},
+  year       = {2012},
+  bibtexkey  = {lama_nisoic-estimation2012},
+  fn         = {eurasia\lama_nisoic2012.pdf},
+  hhtype     = {overview;comparative;wordlist},
+  inlg       = {English [eng]},
+  macro_area = {Eurasia},
+  src        = {hh},
+  srctrickle = {hh#hvw_Lama_Nisoic},
+  author     = {Lama, Ziwo Qiu-Fuyuan}
+}</source>
 </record>
 
 <record>

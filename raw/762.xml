@@ -22,6 +22,26 @@ Tones:
 	<classification>Hmong-Mien, Ho Nte</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{132108,
+  address               = {Beijing},
+  edition               = {Dai 1 ban},
+  pages                 = {133},
+  publisher             = {National Minorities Publ.},
+  series                = {Zhongguo shaoshu minzu yuyan jianzhi congshu},
+  title                 = {She-yu jianzhi [Concise grammar of She]},
+  year                  = {1986},
+  bibtexkey             = {mao-zhaoji_she-jianzhi1986},
+  class_loc             = {PL3311.S45},
+  document_type         = {B},
+  inlg                  = {Chinese-Mandarin [cmn]},
+  inlg_code             = {cmn},
+  macro_area            = {Eurasia},
+  mpi_eva_library_shelf = {PL 3311 .S45 MAO 1986},
+  src                   = {mpieva},
+  srctrickle            = {mpieva#Mao1986Sheyujia},
+  subject_headings      = {She (Chinese people)–China–Languages, Minorities–China–Languages, She (Chinese people)–China–Languages – Minorities–China–Languages},
+  author                = {Mao, Zongwu and Zhaoji, Meng}
+}</source>
 </record>
 
 <record>

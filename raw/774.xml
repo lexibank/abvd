@@ -21,6 +21,21 @@ Tones:
 	<classification>Hmong-Mien, Mienic, Mian-Jin</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{304794,
+  address       = {Beijing},
+  pages         = {719},
+  publisher     = {Minzu Chubanshe},
+  title         = {Yaozu Mianyu Fangyan Yanjiu},
+  year          = {2004},
+  bibtexkey     = {mao_yaozu-mianyu2004},
+  fn            = {eurasia\mao_yao2004.pdf, eurasia\mao_yao2004_o.pdf},
+  hhtype        = {grammar_sketch},
+  macro_area    = {Eurasia},
+  src           = {hh},
+  srctrickle    = {hh#s:Mao:Yao},
+  title_english = {A Study of the Mian Dialects of the Yao People},
+  author        = {Mao, Zongwu}
+}</source>
 </record>
 
 <record>

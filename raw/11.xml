@@ -9,6 +9,25 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, East Fijian</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@incollection{120166,
+  address    = {Canberra},
+  booktitle  = {Papers in Linguistics of Melanesia 1},
+  pages      = {1-26},
+  publisher  = {Pacific Linguistics},
+  series     = {Pacific Linguistics: Series A},
+  title      = {Lexicostatical Study of the Languages of Choiseul Island, British Solomon Islands},
+  volume     = {15},
+  year       = {1968},
+  bibtexkey  = {capell_lexicostatical-choiseul1968},
+  fn         = {papua\capell_choiseul1968.pdf},
+  hhtype     = {overview;comparative;wordlist},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#hvw:Capell:Choiseul},
+  author     = {Capell, Arthur}
+}</source>
 </record>
 
 <record>

@@ -11,6 +11,25 @@ McFarland, C.D. (1977) Northern Philippine linguistic geography. Study of Langua
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Central Luzon, Pampangan</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{forman1971a,
+  date      = {1971},
+  title     = {A Kapampangan dictionary},
+  publisher = {University of Hawaii},
+  language  = {en},
+  address   = {Honolulu},
+  author    = {Forman, M.L.}
+}
+@book{h-McFarland-Northern-Philippine,
+  title            = {Northern Philippine linguistic geography},
+  publisher        = {Tokyo: Institute for the Study of Languages and Cultures of Asia and Africa},
+  pages            = {539},
+  year             = {1977},
+  gbid             = {http://books.google.com/books?id=upctAAAAMAAJ},
+  glottolog_ref_id = {320663},
+  hhtype           = {overview},
+  inlg             = {English [eng]},
+  author           = {McFarland, Curtis D.}
+}</source>
 </record>
 
 <record>

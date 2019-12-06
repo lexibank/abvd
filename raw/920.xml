@@ -9,6 +9,21 @@
 	<classification>Sino-Tibetan, Tibeto-Burman, Ngwi-Burmese, Ngwi, Northern</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{153930,
+  address       = {Beijing},
+  publisher     = {Nationalities Press},
+  title         = {Yiyu jianzhi},
+  year          = {1985},
+  bibtexkey     = {shilin-xiuqing_yiyu-jianzhi1985},
+  inlg          = {Mandarin Chinese [cmn]},
+  inlg_code     = {cmn},
+  lapollanote   = {Yi, Xide},
+  src           = {lapolla-tibeto-burman},
+  srctrickle    = {lapolla-tibeto-burman#320},
+  title_english = {A brief description of the Yi language},
+  author        = {Chen Shilin, Bian Shiming and eds Li Xiuqing},
+  editor        = {Chen Shilin, Bian Shiming and Xiuqing, Li}
+}</source>
 </record>
 
 <record>

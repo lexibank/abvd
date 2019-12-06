@@ -9,6 +9,21 @@
 	<classification>Austronesian, Malayo-Polynesian, Javanese</classification>
 	<typedby>Revo Arka Giri Soekatno</typedby>
 	<checkedby>Revo Arka Giri Soekatno</checkedby>
+	<source>@book{320643,
+  address    = {The Hague},
+  note       = {2 vols.},
+  pages      = {2368},
+  publisher  = {Martinus Nijhoff},
+  title      = {Old Javanese-English dictionary},
+  year       = {1982},
+  bibtexkey  = {zoetmulder_old-javanese1982},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#d:Zoetmulder:Old-Javanese},
+  author     = {Zoetmulder, Petrus J.}
+}</source>
 </record>
 
 <record>

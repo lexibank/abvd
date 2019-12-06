@@ -9,6 +9,28 @@
 	<classification>Austronesian, Malayo-Polynesian, Celebic, Eastern, Saluan-Banggai, Eastern</classification>
 	<typedby>Peng Du</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{157306,
+  address               = {The Hague},
+  note                  = {At head of title: Koninklijk Instituut voor Taal-, Land- en Volkenkunde},
+  pages                 = {170},
+  publisher             = {Martinus Nijhoff},
+  title                 = {Spraakkunst van het Banggais},
+  year                  = {1953},
+  bibtexkey             = {bergh_spraakkunst-banggais1953},
+  class_loc             = {PL5228},
+  document_type         = {B},
+  fn                    = {papua\vandenbergh_banggais1953.pdf},
+  hhtype                = {grammar_sketch},
+  inlg                  = {Dutch [nld]},
+  inlg_code             = {nld},
+  lgfamily              = {Austronesian, Malayo-Polynesian, Celebic, Celebic_Eastern, Saluan-Banggai},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5228 BER 1953},
+  src                   = {hh, mpieva, wals},
+  srctrickle            = {hh#s:vandenBergh:Banggais, mpieva#10, wals#6774},
+  subject_headings      = {Banggai language – Grammar, Banggai (Indonesia) – Languages, Banggai language – Grammar – Banggai (Indonesia) – Languages},
+  author                = {van den Bergh, J. D.}
+}</source>
 </record>
 
 <record>

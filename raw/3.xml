@@ -9,6 +9,23 @@
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Palawanic</classification>
 	<typedby>Peng Du</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@article{124789,
+  journal    = {Journal of the Malayan Branch Royal Asiatic Society},
+  number     = {3},
+  pages      = {145-164},
+  title      = {A short vocabulary of the Banggi and Bajau languages},
+  volume     = {15},
+  year       = {1937},
+  bibtexkey  = {schneeberger_banggi-bajau1937},
+  fn         = {papua\schneeberger_banggi-bajau1937.pdf},
+  hhtype     = {wordlist},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#w:Schneeberger:Banggi-Bajau},
+  author     = {Schneeberger, W. F.}
+}</source>
 </record>
 
 <record>

@@ -9,6 +9,30 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, South Halmahera-West New Guinea, South Halmahera, East Makian-Gane</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{109301,
+  address               = {Canberra},
+  pages                 = {459},
+  publisher             = {Research School of Pacific and Asian Studies, Australian National University},
+  series                = {Pacific Linguistics},
+  title                 = {Taba: Description of a Southern Halmahera Language},
+  volume                = {514},
+  year                  = {2001},
+  bibtexkey             = {bowden_taba-halmahera2001},
+  class_loc             = {PL6621.E27},
+  document_type         = {B},
+  fn                    = {papua\bowden_taba2001.pdf},
+  hhtype                = {grammar},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858835177},
+  lgfamily              = {Austronesian, Malayo-Polynesian, Central-Eastern, Eastern Malayo-Polynesian, South Halmahera-West New Guinea, South Halmahera},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6621 .E27 BOW 2001},
+  src                   = {hh, mpieva, wals},
+  srctrickle            = {hh#g:Bowden:Taba, mpieva#Bowden2001Tabadesc, wals#707},
+  subject_headings      = {East Makian language – Grammar, Halmahera (Indonesia) – Languages, East Makian language – Grammar – Halmahera (Indonesia) – Languages},
+  author                = {Bowden, John}
+}</source>
 </record>
 
 <record>

@@ -11,6 +11,23 @@ Available online at http://www-01.sil.org/asia/philippines/online/sgb/dict/index
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Central Luzon, Sambalic</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{13192,
+  address    = {Manila},
+  pages      = {xxii+535},
+  publisher  = {Summer Institute of Linguistics, Philippines},
+  title      = {Ayta mag-antsi-English dictionary},
+  year       = {2005},
+  bibtexkey  = {storck-storck_ayta-antsi2005},
+  country    = {Philippines [PH]},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  macro_area = {Papua},
+  sil_id     = {45894},
+  src        = {hh, sil16},
+  srctrickle = {hh#d:StorckStorck:Ayta-Mag-Antsi, sil16#45894},
+  subject    = {Dictionaries and vocabularies [DAV]},
+  author     = {Storck, Margaret and Storck, Kurt}
+}</source>
 </record>
 
 <record>

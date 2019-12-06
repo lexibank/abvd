@@ -9,6 +9,36 @@
 	<classification>Austronesian, Malayo-Polynesian, Javanese</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>
+@phdthesis{140791,
+  author              = {Conners, Thomas J.},
+  note                = {New Haven, Fac. of the Graduate School of Yale University.},
+  pages               = {x+298},
+  publisher           = {Dissertation},
+  school              = {New Haven: Yale University},
+  title               = {Tengger Javanese},
+  year                = {2008},
+  asjp_name           = {Tengger, Javanese, Old/Middle Javanese},
+  besttxt             = {ptxt2papuaconners_tengger-javanese2008v2.txt},
+  cfn                 = {papuaconners_javanese2008_s.pdf},
+  class_loc           = {PL5161},
+  delivered           = {papuaconners_javanese2008_s.pdf},
+  document_type       = {CF},
+  filenames           = {Tengger.doc},
+  fn                  = {papuaconners_javanese2008_s.pdf, papuaconners_tengger-javanese2008v2.pdf, papua/conners_javanese2008_s.pdf},
+  fnnote              = {pdf, 2,51 MB},
+  hhtype              = {grammar},
+  inlg                = {English [eng]},
+  isbn                = {9781243647115},
+  lgcode              = {Tengger [tes]},
+  macro_area          = {Papunesia},
+  mpifn               = {javanese_conners2008_s.pdf},
+  oclc                = {315735613},
+  phoible_inventoryid = {1700},
+  src                 = {asjp2010, hh, mpieva, phoible},
+  subject_headings    = {Tengger dialect, Javanese language, Tengger dialect - Javanese language}
+}
+</source>
 </record>
 
 <record>

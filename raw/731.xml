@@ -21,6 +21,22 @@ Shorthand notation for tones, though not used here, is:
 	<classification>Tai-Kadai, Kam-Tai, Tai, Northern</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{302418,
+  pages      = {xvi+594},
+  publisher  = {SIL International},
+  series     = {SIL Language and Culture Documentation and Description},
+  title      = {Survey of the Guizhou Bouyei Language},
+  volume     = {1},
+  year       = {2007},
+  bibtexkey  = {snyder-wu-yongshu_guizhou-bouyei2007},
+  fn         = {eurasia\wenyi_bouyei2007_o.pdf},
+  hhtype     = {phonology;dialectology},
+  inlg       = {English [eng]},
+  macro_area = {Eurasia},
+  src        = {hh},
+  srctrickle = {hh#phondial:Wuetal:Bouyei},
+  author     = {Wu, Wenyi and Snyder, Wil C. and Yongshu, Liang}
+}</source>
 </record>
 
 <record>

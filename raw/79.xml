@@ -9,6 +9,27 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, St. Matthias</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@incollection{92079,
+  address               = {Canberra},
+  booktitle             = {Papers in New Guinea Linguistics 23},
+  pages                 = {159-208},
+  publisher             = {Research School of Pacific and Asian Studies, Australian National University},
+  series                = {Pacific Linguistics: Series A},
+  title                 = {A Mussau Vocabulary, with Phonological Notes},
+  volume                = {69},
+  year                  = {1984},
+  bibtexkey             = {blust_mussau-phonological1984},
+  document_type         = {CH},
+  fn                    = {papua\blust_mussau1984pages.pdf},
+  hhtype                = {wordlist},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {bound with PL 6601 PAP NEW - 23},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#w:Blust:Mussau, mpieva#Blust1984AMussauv},
+  author                = {Blust, Robert}
+}</source>
 </record>
 
 <record>

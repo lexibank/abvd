@@ -9,6 +9,25 @@
 	<classification>Austronesian, Tsouic, Tsou</classification>
 	<typedby>Peng Du</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{61369,
+  address    = {Taipei},
+  publisher  = {Institute of History and Philology, Academia Sinica},
+  series     = {Special Publications},
+  title      = {A Descriptive Study of the Tsou Language, Formosa},
+  volume     = {48},
+  year       = {1964},
+  added      = {2013-09-01 12:19:49 +0000},
+  bibtexkey  = {tung_tsou-formosa1964},
+  hhtype     = {grammar},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  keywords   = {Tsou},
+  macro_area = {Papua},
+  modified   = {2013-09-01 12:19:49 +0000},
+  src        = {phoible, wals},
+  srctrickle = {phoible#Tung1964, wals#6129},
+  author     = {Tung, T'ung-Ho}
+}</source>
 </record>
 
 <record>

@@ -9,6 +9,21 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Bima-Sumba</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{150485,
+  address    = {Leiden},
+  pages      = {628},
+  publisher  = {KITLV},
+  title      = {Kamberaas-Nederlands woordenboek},
+  year       = {1984},
+  bibtexkey  = {onvlee_kamberaas-nederlands1984},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#d:Onvlee:Kamberaas},
+  author     = {Onvlee, Louis}
+}</source>
 </record>
 
 <record>

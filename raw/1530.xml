@@ -32,6 +32,33 @@ all the lexical item found for a listed entry has been included.</problems>
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, New Caledonian, Northern</classification>
 	<typedby>David PIEKUT</typedby>
 	<checkedby></checkedby>
+	<source>
+@book{55944,
+  address               = {Paris},
+  author                = {Rivierre, Jean Claude and Ehrhart, Sabine},
+  note                  = {SELAF 435},
+  pages                 = {501},
+  publisher             = {Peeters},
+  series                = {Langues et cultures du Pacifique},
+  title                 = {Le Bwatoo et les dialectes de la région de Koné (Nouvelle-Calédonie)},
+  volume                = {17},
+  year                  = {2006},
+  besttxt               = {ptxt2papuaivierre-ehrhart_bwatoo2006_o.txt},
+  cfn                   = {papuaivierre-ehrhart_bwatoo2006_o.pdf},
+  class_loc             = {PL6226},
+  delivered             = {papuaivierre-ehrhart_bwatoo2006_o.pdf},
+  document_type         = {B},
+  fn                    = {papuaivierre-ehrhart_bwatoo2006_o.pdf},
+  hhtype                = {grammar_sketch;dictionary},
+  inlg                  = {French [fra]},
+  isbn                  = {9789042917910, 978-90429-1791-0, 90-429-1791-1},
+  lgcode                = {Bwatoo [bwa]},
+  macro_area            = {Papunesia},
+  mpi_eva_library_shelf = {PL 6226 BWA 2006},
+  src                   = {hh, mpieva},
+  subject_headings      = {Bwatoo language - Grammar, Bwatoo language - Dictionaries - French, French language - Dictionaries - Bwatoo, Bwatoo language - Texts, Voh Region (New Caledonia) - Languages - Dialects, Koné Region (New Caledonia) - Languages - Dialects, Bwatoo language - Grammar - Bwatoo language - Dictionaries - French - French language - Dictionaries - Bwatoo - Bwatoo language - Texts - Voh Region (New Caledonia) - Languages - Dialects - Koné Region (New Caledonia) - Languages - Dialects}
+}
+</source>
 </record>
 
 <record>

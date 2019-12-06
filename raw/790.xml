@@ -11,6 +11,21 @@ This language is spoken in Asilulu village, located on the western end of Ambon 
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Central Maluku, East, Seram, Nunusaku, Piru Bay, West, Asilulu</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{475179,
+  address    = {Jakarta},
+  pages      = {xlii+209},
+  publisher  = {Badan Penyelenggaraan Seri Nusa, Universitas Katolik Indonesia Atma Jaya},
+  title      = {Asilulu-English Dictionary},
+  year       = {2003},
+  bibtexkey  = {collins_asilulu-dictionary2003},
+  fn         = {papua\collins_asilulu2003.pdf},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#d:Collins:Asilulu},
+  author     = {Collins, James T.}
+}</source>
 </record>
 
 <record>

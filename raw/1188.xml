@@ -9,6 +9,29 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, New Caledonian, Southern, South, Wailic</classification>
 	<typedby>Kirsty Maurits</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{34363,
+  address               = {Paris},
+  pages                 = {vi+412},
+  publisher             = {Institut d'Ethnologie},
+  series                = {Travaux et Mémoires de l'Institut d'Ethnologie},
+  title                 = {Vocabulaire et grammaire de la langue houaïlou},
+  volume                = {10},
+  year                  = {1935},
+  bibtexkey             = {leenhardt_vocabulaire-houailou1935},
+  class_loc             = {PL6263},
+  document_type         = {B},
+  fn                    = {papua\leenhardt_houailou1935.pdf, papua/leenhardt_houailou1935.pdf},
+  hhtype                = {grammar_sketch;dictionary},
+  inlg                  = {French [fra]},
+  inlg_code             = {fra},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6263 LEE 1935},
+  mpifn                 = {houailou_leenhardt1935.pdf},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#sd:Leenhardt:Houailou, mpieva#Leenhardt1935Vocabula},
+  subject_headings      = {New Caledonia–Languages, New Caledonia–Languages},
+  author                = {Leenhardt, Maurice}
+}</source>
 </record>
 
 <record>

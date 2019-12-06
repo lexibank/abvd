@@ -11,6 +11,29 @@ Verbs are entered in the dictionary in citation forms (usually n-initial; the no
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, South Vanuatu, Erromanga</classification>
 	<typedby>John Lynch</typedby>
 	<checkedby></checkedby>
+	<source>@book{41979,
+  address               = {Canberra},
+  pages                 = {xxxi+250},
+  publisher             = {Pacific Linguistics},
+  series                = {Pacific Linguistics},
+  title                 = {An Erromangan (Sye) dictionary},
+  volume                = {508},
+  year                  = {2000},
+  bibtexkey             = {crowley_erromangan-sye2000},
+  class_loc             = {PL6233},
+  document_type         = {B},
+  fn                    = {papua\crowley_erromangan2000.pdf},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858834927},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6233 CRO 2000},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#d:Crowley:Erromangan, mpieva#Crowley2000AnErroma},
+  subject_headings      = {Eromanga language–Dictionaries–English, English language–Dictionaries–Eromanga, Eromanga (Vanuatu)–Languages–Dictionaries, Eromanga language–Dictionaries–English – English language–Dictionaries–Eromanga – Eromanga (Vanuatu)–Languages–Dictionaries},
+  author                = {Crowley, Terry}
+}</source>
 </record>
 
 <record>
@@ -1598,7 +1621,7 @@ Verbs are entered in the dictionary in citation forms (usually n-initial; the no
 	<item>uyowar</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1?, k</cognacy>
+	<cognacy>1?</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

@@ -11,6 +11,22 @@ Source: Kruspe, Nicole. 2009. &quot;Ceq Wong vocabulary&quot; In: Haspelmath, Ma
 	<classification>Austro-Asiatic, Mon-Khmer, Aslian, North Aslian, Chewong</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@incollection{w_Kruspe_Ceq-Wong,
+  title            = {Loanwords in Ceq Wong, an Austroasiatic language of Peninsular Malaysia},
+  booktitle        = {Loanwords in the world's languages: a comparative handbook},
+  publisher        = {Berlin: Mouton},
+  address          = {Berlin},
+  pages            = {659-685},
+  year             = {2011},
+  fn               = {eurasia\kruspe_ceq-wong2011.pdf},
+  glottolog_ref_id = {79765},
+  hhtype           = {wordlist},
+  inlg             = {English [eng]},
+  lgcode           = {Chewong [cwg]},
+  macro_area       = {Eurasia},
+  author           = {Kruspe, Nicole},
+  editor           = {Haspelmath, Martin and Tadmor, Uri}
+}</source>
 </record>
 
 <record>

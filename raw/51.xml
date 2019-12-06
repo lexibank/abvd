@@ -9,6 +9,23 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Papuan Tip, Nuclear, North Papuan Mainland-D'Entrecasteaux, Bwaidoga</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{38225,
+  address    = {New Plymouth, New Zealand},
+  pages      = {viii+270},
+  publisher  = {Polynesian Society},
+  series     = {Polynesian Society Memoir},
+  title      = {Language, Mythology, and Songs of Bwaidoga, Goodenough Island, S. E. Papua},
+  volume     = {8},
+  year       = {1928},
+  bibtexkey  = {ballantyne-jenness_bwaidoga-goodenough1928},
+  hhtype     = {grammar_sketch},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#s:JennessBallantyne:Bwaidoga},
+  author     = {Jenness, D. and Ballantyne, A.}
+}</source>
 </record>
 
 <record>

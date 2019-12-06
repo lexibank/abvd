@@ -11,6 +11,24 @@ The Tianzhu-Shidong (天柱石洞) dialect is used.</notes>
 	<classification>Tai-Kadai, Kam-Tai, Kam-Sui</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{g_YaohongGuoqiao_Dong,
+  title            = {The Dong Language in Guizhou Province, China},
+  publisher        = {Arlington: Summer Institute of Linguistics and University of Texas at Arlington},
+  address          = {Arlington},
+  series           = {Summer Institute of Linguistics and University of Texas at Arlington Publications in Linguistics},
+  volume           = {126},
+  pages            = {288},
+  year             = {1998},
+  fn               = {eurasia\long-zheng_dong1998.pdf},
+  gbid             = {http://books.google.com/books?id=iiJZAAAAMAAJ},
+  glottolog_ref_id = {64462},
+  hhtype           = {grammar},
+  inlg             = {English [eng]},
+  lgcode           = {Kam standard of Rongjiang Zhanglu-Guizhou = Southern Dong not N Dong as erroneously indicated in E17 [kmc]},
+  macro_area       = {Eurasia},
+  note             = {Translated from Chinese by D. Norman Geary},
+  author           = {Long, Yaohong and Zheng, Guoqiao}
+}</source>
 </record>
 
 <record>

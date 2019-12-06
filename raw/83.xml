@@ -10,6 +10,22 @@ vocabulary and summary of the literature. The Sarawak Museum Journal 24.45(N.S.)
 	<classification>Austronesian, Malayo-Polynesian, South Sulawesi, Bugis, Tamanic</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill + Sander Adelaar</checkedby>
+	<source>@article{26070,
+  journal    = {Sarawak Museum Journal},
+  pages      = {137-164},
+  title      = {The Maloh language: A vocabulary and summary of the literature},
+  volume     = {24},
+  year       = {1976},
+  bibtexkey  = {king_maloh-summary1976},
+  fn         = {papua\king_maloh1976.pdf},
+  hhtype     = {wordlist},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#w:King:Maloh},
+  author     = {King, Victor T.}
+}</source>
 </record>
 
 <record>

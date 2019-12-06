@@ -11,6 +11,24 @@ A classified vocabulary: English, Pilipino and Limos Kalinga. 1981. Summer Insti
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Central Cordilleran, North Central Cordilleran, Kalinga-Itneg, Kalinga</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{83052,
+  pages      = {xi+444},
+  publisher  = {Summer Institute of Linguistics},
+  title      = {A classified vocabulary: English, Pilipino and Limos Kalinga},
+  year       = {1981},
+  bibtexkey  = {anonymous_limos-kalinga1981},
+  country    = {Philippines [PH]},
+  fn         = {papua\anonymous_vocabulary-limos-kalinga1981.pdf},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  sil_id     = {18084},
+  src        = {hh},
+  srctrickle = {hh#d:Anonymous:Limos-Kalinga},
+  subject    = {Vocabulary [Zvoc]},
+  author     = {Anonymous}
+}</source>
 </record>
 
 <record>

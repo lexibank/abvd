@@ -9,6 +9,21 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, South New Ireland-Northwest Solomonic, New Georgia, West</classification>
 	<typedby>Peng Du</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{319882,
+  address    = {Sydney},
+  pages      = {245},
+  publisher  = {Epworth Publishin House},
+  title      = {A Roviana and English Dictionary},
+  year       = {1949},
+  bibtexkey  = {jones-waterhouse_roviana-dictionary1949},
+  fn         = {papua\waterhouse-jones_roviana1949.pdf},
+  hhtype     = {grammar_sketch;dictionary},
+  inlg       = {English [eng]},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#sd:WaterhouseJones:Roviana},
+  author     = {Waterhouse, J. H. L. and Jones, L. M.}
+}</source>
 </record>
 
 <record>

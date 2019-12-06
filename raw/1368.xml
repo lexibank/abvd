@@ -9,6 +9,19 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Timor-Babar, Nuclear Timor</classification>
 	<typedby>Antoinette Schapper</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{d_Beloetal_Waimaa,
+  title            = {Glosáriu Waima'a Caisido},
+  publisher        = {Ruhr-University Bochum, Department of Linguistics},
+  pages            = {184},
+  year             = {no date},
+  fn               = {papua\beloetal_waimaa[nd].pdf},
+  glottolog_ref_id = {36501},
+  hhtype           = {dictionary},
+  lgcode           = {Waima'a [wmh]},
+  lgfamily         = {East_Timor},
+  macro_area       = {Papua},
+  author           = {da C.A. Belo, Maurício and Bowden, John and Hajek, John and Himmelmann, Nikolaus P. and Tilman, Alexandre Vital}
+}</source>
 </record>
 
 <record>

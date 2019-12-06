@@ -20,6 +20,30 @@ The Jinxiu (金秀) dialect is used. The tones are:
 	<classification>Tai-Kadai, Kam-Tai, Lakkja</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{33682,
+  address               = {Beijing},
+  edition               = {Dai 1 ban},
+  note                  = {describes Mian, Bunu and Lajia language variants)},
+  pages                 = {241},
+  publisher             = {National Minorities Publ.},
+  series                = {Zhongguo shaoshu minzu yuyan jianzhi congshu},
+  title                 = {Yaozu yuyan jianzhi},
+  year                  = {1982},
+  bibtexkey             = {mao-meng-zheng_yaozu-yuyan1982},
+  class_loc             = {PL4074},
+  document_type         = {B},
+  fn                    = {eurasia\mao_yao1982.pdf},
+  hhtype                = {grammar_sketch},
+  inlg                  = {Chinese-Mandarin [cmn]},
+  inlg_code             = {cmn},
+  macro_area            = {Eurasia},
+  mpi_eva_library_shelf = {PL 4074 MAO 1982},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#s:Maoetal:Yao, mpieva#Mao1982Yaozuyuy},
+  subject_headings      = {Yao language (Southeastern Asia), Yao language (Southeastern Asia)},
+  title_english         = {Description of the languages of the Yaozu},
+  author                = {Mao, Zongwu and Meng, Chaoji and Zheng, Zongze}
+}</source>
 </record>
 
 <record>

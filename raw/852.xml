@@ -9,6 +9,29 @@
 	<classification>Maybrat</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{101229,
+  address               = {Canberra},
+  pages                 = {xvi+328},
+  publisher             = {Pacific Linguistics},
+  series                = {Pacific Linguistics},
+  title                 = {A grammar of Maybrat: a language of the Bird's Head Pennisula, Papua Province, Indonesia},
+  volume                = {586},
+  year                  = {2007},
+  bibtexkey             = {dol_maybrat-pennisula2007},
+  class_loc             = {PL6621.M39},
+  document_type         = {B},
+  fn                    = {papua\dol_maybrat2007.pdf},
+  hhtype                = {grammar},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858835733},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6621 .M39 DOL 2007},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#g:Dol:Maybrat, mpieva#Dol2007Agrammar},
+  subject_headings      = {Maybrat language–Grammar, Papua (Indonesia)–Languages–History, Maybrat language–Grammar – Papua (Indonesia)–Languages–History},
+  author                = {Dol, Philomena}
+}</source>
 </record>
 
 <record>

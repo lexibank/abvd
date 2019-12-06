@@ -11,6 +11,20 @@ Data was collected from July 1993 - May 1994. The Siosio dialect was primarily u
 	<classification>West Papuan, North Halmahera, Ternate-Tidore</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{154897,
+  address    = {Tidore},
+  pages      = {55},
+  publisher  = {Pemerintah Daerah Tingkat II Halmahera Tengah},
+  title      = {Kamus Bahasa Tidore, Indonesia, Inggris},
+  year       = {1994},
+  bibtexkey  = {mahifa-pikkert-pikkert_kamus-tidore1994},
+  hhtype     = {dictionary},
+  inlg       = {Indonesian [ind]},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#d:Pikkertetal:Tidore},
+  author     = {Pikkert, J. J. and Pikkert, Cheryl M. and Mahifa, Husain A.}
+}</source>
 </record>
 
 <record>

@@ -9,6 +9,32 @@
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Manobo, North</classification>
 	<typedby>Janet Moody</typedby>
 	<checkedby></checkedby>
+	<source>@book{136553,
+  address               = {[Honolulu]},
+  note                  = {Bibliography: p. [241]},
+  pages                 = {xii+239},
+  publisher             = {Univ. of Hawaii Press},
+  series                = {Oceanic linguistics special publication},
+  title                 = {Philippine minor languages: word lists and phonologies},
+  volume                = {8},
+  year                  = {1971},
+  bibtexkey             = {reid_minor-phonologies1971},
+  class_loc             = {PL5525},
+  document_type         = {B},
+  fn                    = {papua\reid_philippine-minor1971.pdf},
+  hhtype                = {overview;comparative;wordlist},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  internetarchive_id    = {rosettaproject_syb_phon-1},
+  isbn                  = {9780870226915},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5525 PHI 1971},
+  src                   = {hh, mpieva, wals},
+  srctrickle            = {hh#hvw:Reid:Philippine-Minor, mpieva#1971Philippi, wals#4987},
+  subject_headings      = {Philippine languages–Glossaries, vocabularies, etc., Philippine languages–Phonology, Philippine languages–Glossaries, vocabularies, etc. – Philippine languages–Phonology},
+  author                = {Reid, Lawrence Andrew},
+  editor                = {Reid, Lawrence Andrew}
+}</source>
 </record>
 
 <record>

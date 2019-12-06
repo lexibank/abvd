@@ -9,6 +9,26 @@
 	<classification>Tai-Kadai, Kam-Tai, Tai, Southwestern</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{33471,
+  address               = {Kensington},
+  pages                 = {xxiv+367},
+  publisher             = {Dunwoody Press},
+  title                 = {Shan-English dictionary},
+  year                  = {1995},
+  bibtexkey             = {tern_shan-dictionary1995},
+  class_loc             = {PL4251.S6},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780931745928},
+  macro_area            = {Eurasia},
+  mpi_eva_library_shelf = {PL 4251 .S6 TER 1995},
+  src                   = {mpieva},
+  srctrickle            = {mpieva#Tern1995ShanEngl},
+  subject_headings      = {Shan language–Dictionaries–English, Shan language–Dictionaries–English},
+  author                = {Tern Moeng, Sao}
+}</source>
 </record>
 
 <record>

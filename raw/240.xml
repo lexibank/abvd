@@ -9,6 +9,25 @@
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Gorontalo-Mongondow, Mongondowic</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{163707,
+  address               = {'s Gravenhage},
+  pages                 = {635},
+  publisher             = {M. Nijhoff},
+  title                 = {Bolaang mongondowsch-nederlandsch woordenboek: met nederlandsch-bolaang mongondowsch register},
+  year                  = {1951},
+  bibtexkey             = {dunnebier_bolaang-mongondowsch1951},
+  class_loc             = {PL5291.Z9},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {Dutch [nld]},
+  inlg_code             = {nld},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5291 .Z9 DUN 1951},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#d:Dunnebier:Bolaang-Mongondowsch, mpieva#Dunnebier1951BolaangM},
+  subject_headings      = {Bolaang Mongondow language–Dictionaries–Dutch, Dutch language–Dictionaries–Bolaang Mongondow, Bolaang Mongondow language–Dictionaries–Dutch – Dutch language–Dictionaries–Bolaang Mongondow},
+  author                = {Dunnebier, W.}
+}</source>
 </record>
 
 <record>

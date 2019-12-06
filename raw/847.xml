@@ -21,6 +21,21 @@ Tones:
 	<classification>Tai-Kadai, Kam-Tai, Tai, Central</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{65414,
+  address       = {Chéngdū},
+  pages         = {938},
+  publisher     = {Sichuan Nationalities Press},
+  title         = {Zhuàngyŭ fāngyán yánjiū},
+  year          = {1999},
+  bibtexkey     = {li-liang-ouyang-xie-zhang-zheng_zhuangyu-fangyan1999},
+  fn            = {eurasia\zhang_zhuang1999_o.pdf, eurasia\zhang_zhuang1999.pdf},
+  hhtype        = {overview;comparative;wordlist;phonology},
+  macro_area    = {Eurasia},
+  src           = {hh},
+  srctrickle    = {hh#hvwphon_Zhangetal_Zhuang},
+  title_english = {Zhuang dialect research},
+  author        = {Zhang, Junru and Liang, Min and Ouyang, Jueya and Zheng, Yiqing and Li, Xulian and Xie, Jianyou}
+}</source>
 </record>
 
 <record>

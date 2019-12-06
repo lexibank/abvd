@@ -9,6 +9,29 @@
 	<classification>Trans-New Guinea, West, Timor-Alor-Pantar, Alor-Pantar, Alor</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{95347,
+  address               = {Canberra},
+  pages                 = {xv+242},
+  publisher             = {Pacific Linguistics, Research School of Pacific and Asian Studies, The Australian National University},
+  series                = {Pacific Linguistics},
+  title                 = {A grammar of Klon: a non-Austronesian language of Alor, Indonesia},
+  volume                = {596},
+  year                  = {2008},
+  bibtexkey             = {baird_klon-alor2008},
+  class_loc             = {PL6621.K56},
+  document_type         = {B},
+  fn                    = {papua\baird_klon2008v2.pdf, papua\baird_klon2008.pdf, papua\baird_klon2008v3.pdf},
+  hhtype                = {grammar},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858835948},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6621 .K56 BAI 2008},
+  src                   = {hh, langsci, mpieva},
+  srctrickle            = {hh#g:Baird:Klon, langsci#Baird:08, mpieva#Baird2008Agrammar},
+  subject_headings      = {Alor (Indonesia) –Languages –Grammar, Alor (Indonesia) –Languages –Grammar},
+  author                = {Baird, Louise}
+}</source>
 </record>
 
 <record>

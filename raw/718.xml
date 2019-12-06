@@ -11,6 +11,29 @@ PHF = Proto-Hesperonesian-Formosan (attested in Formosan and Western MP language
 	<classification>Austronesian</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@incollection{109780,
+  address    = {Berlin and New York},
+  booktitle  = {Comparative Austronesian dictionary: an introduction to Austronesian studies Volume 1},
+  pages      = {1105-1149},
+  publisher  = {Mouton de Gruyter},
+  series     = {Trends in Linguistics. Documentation},
+  title      = {A glossary of Austronesian reconstructions},
+  url        = {http://www.degruyter.com/view/books/9783110884012/9783110884012.2.1105/9783110884012.2.1105.xml},
+  volume     = {10},
+  year       = {1995},
+  bibtexkey  = {zorc_glossary-reconstructions1995},
+  doi        = {10.1515/9783110884012.2.1105},
+  fn         = {papua\zorc_austronesian-reconstructions1995.pdf},
+  hhtype     = {comparative},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {degruyter, hh},
+  srctrickle = {degruyter#/books/9783110884012/9783110884012.2.1105/9783110884012.2.1105.xml, hh#v:Zorc:Austronesian},
+  subject    = {Comparative and historical studies [CHL], Phonological descriptions [PHD]},
+  author     = {Zorc, David R.},
+  editor     = {Tryon, Darrell T.}
+}</source>
 </record>
 
 <record>

@@ -11,6 +11,21 @@ Mulao (木佬), a Kra language, is not to be confused with a Kam-Sui language of
 	<classification>Tai-Kadai, Kadai, Ge-Chi</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{g_Bo_Mulao,
+  title            = {Mùlăo yŭ yánjiū},
+  publisher        = {Beijing: The Nationalities Press},
+  address          = {Beijing},
+  pages            = {195},
+  year             = {2003},
+  fn               = {eurasia\bo_mulao2003.pdf, eurasia\bo_mulao2003v3_o.pdf, eurasia\bo_mulao2003v2.pdf, eurasia\bo_mulao2003_o.pdf, eurasia\bo_mulao2003v2_o.pdf},
+  glottolog_ref_id = {88233},
+  hhtype           = {grammar},
+  inlg             = {Chinese Mandarin [cmn]},
+  lgcode           = {Mulao = Mulao [giu]},
+  macro_area       = {Eurasia},
+  title_english    = {A study of Mulao},
+  author           = {Bo, Wenze}
+}</source>
 </record>
 
 <record>

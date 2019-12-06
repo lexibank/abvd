@@ -9,6 +9,25 @@
 	<classification>Austronesian, Malayo-Polynesian, Celebic, Kaili-Pamona, Northern, Pamona</classification>
 	<typedby>Debasish Roy</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{86248,
+  address               = {Leiden},
+  pages                 = {xv+1074},
+  publisher             = {Brill},
+  title                 = {Bare'e-Nederlandsch woordenboek: met Nederlandsch-Bare'e register},
+  year                  = {1928},
+  bibtexkey             = {adriani_baree-nederlandsch1928},
+  class_loc             = {PL5233},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {Dutch [nld]},
+  inlg_code             = {nld},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5233 ADR 1928},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#d:Adriani:Baree, mpieva#Adriani1928BareeNed},
+  subject_headings      = {Bareë dialect–Dictionaries–Dutch, Dutch language–Dictionaries–Bareë, Bareë dialect–Dictionaries–Dutch – Dutch language–Dictionaries–Bareë},
+  author                = {Adriani, Nicolaus}
+}</source>
 </record>
 
 <record>

@@ -9,6 +9,27 @@
 	<classification>Austronesian, Malayo-Polynesian, Chamorro</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{38174,
+  address               = {Honolulu},
+  pages                 = {xxix+336},
+  publisher             = {The University Press of Hawaii},
+  series                = {Pali Language Texts : Micronesia},
+  title                 = {Chamorro-English dictionary},
+  year                  = {1975},
+  asjp_name             = {Chamorro},
+  bibtexkey             = {dungca-ogo-topping_chamorro-dictionary1975},
+  class_loc             = {PL5295.4.T57 1975},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  isbn                  = {9780824803537},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5295.4 TOP 1975},
+  src                   = {asjp2010, mpieva, wals},
+  srctrickle            = {asjp2010#650, mpieva#Topping1975Chamorro, wals#6039},
+  subject_headings      = {Chamorro language–Dictionaries–English, Chamorro language–Dictionaries–English},
+  author                = {Topping, Donald M. and Ogo, Pedro M. and Dungca, Bernadita C.}
+}</source>
 </record>
 
 <record>

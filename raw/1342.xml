@@ -12,6 +12,32 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, South New Ireland-Northwest Solomonic</classification>
 	<typedby>Malcolm Ross</typedby>
 	<checkedby>Malcolm Ross</checkedby>
+	<source>@misc{Ross-1342-2016,
+  author = &quot;Malcolm Ross&quot;,
+  date = &quot;2016&quot;,
+  howpublished = &quot;personal communication&quot;
+}
+@misc{HutchissonND,
+  title        = {Electronic dictionary of Sursurunga},
+  date         = {n.d.},
+  publisher    = {Summer Institute of Linguistics},
+  location     = {Ukarumpa},
+  howpublished = {ms},
+  author       = {Hutchisson, Don}
+}
+@misc{s_Hutchisson_Sursurunga,
+  title            = {Sursurunga grammar essentials},
+  pages            = {121},
+  year             = {1975},
+  glottolog_ref_id = {316678},
+  hhtype           = {grammar_sketch},
+  howpublished     = {Ukarumpa: Summer Institute of Linguistics},
+  inlg             = {English [eng]},
+  lgcode           = {Sursuruga [sgz]},
+  macro_area       = {Papua},
+  nosharefn        = {hutchisson_sursurunga1975.pdf},
+  author           = {Hutchisson, Don}
+}</source>
 </record>
 
 <record>

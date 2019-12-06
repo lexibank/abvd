@@ -9,6 +9,24 @@
 	<classification>Creole, Tetun based</classification>
 	<typedby>Penny Keenan</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{9036,
+  address    = {'s Gravenhage},
+  booktitle  = {Verhandelingen van het Bataviaasch Genootschap van Kunsten en Wetenschappen},
+  pages      = {138},
+  publisher  = {M. Nijhoff},
+  title      = {Tettum-hollandsche woordenlijst, met beknopte spraakkunst},
+  volume     = {LVI:2},
+  year       = {1906},
+  bibtexkey  = {mathijsen_tettum-hollandsche1906},
+  fn         = {papua\mathijsen_tettum1906.pdf},
+  hhtype     = {grammar_sketch},
+  inlg       = {Dutch [nld]},
+  inlg_code  = {nld},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#s:Mathijsen:Tettum},
+  author     = {Mathijsen, A.}
+}</source>
 </record>
 
 <record>

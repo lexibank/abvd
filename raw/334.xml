@@ -18,6 +18,19 @@ only low-tone vowels occur after b, d, g, and gw, mb, nd, Å‹g, ngw, and ns, a
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Huon Gulf, North</classification>
 	<typedby>Francisc Czobor</typedby>
 	<checkedby>Francisc Czobor</checkedby>
+	<source>@book{64760,
+  address    = {Hamburg},
+  publisher  = {Friederichsen, de Gruyter},
+  title      = {Grammatik der Jabêm-sprache auf Neuguinea},
+  year       = {1939},
+  bibtexkey  = {dempwolff_jabem-neuguinea1939},
+  hhtype     = {grammar_sketch},
+  inlg       = {German [deu]},
+  macro_area = {Papua},
+  src        = {hh, wals},
+  srctrickle = {hh#s:Dempwolff:Jabem, wals#1398},
+  author     = {Dempwolff, Otto}
+}</source>
 </record>
 
 <record>
@@ -2298,7 +2311,7 @@ only low-tone vowels occur after b, d, g, and gw, mb, nd, Å‹g, ngw, and ns, a
 	<item>sàmòb</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

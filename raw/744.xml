@@ -10,6 +10,26 @@
 	<classification>Austronesian, Malayo-Polynesian, Malayo-Chamic, Chamic, Highlands</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{119556,
+  address               = {Paris},
+  publisher             = {Ecole Francaise D`Extreme-orient},
+  series                = {Publications d'Ecole Francaise D`Extreme-Orient},
+  title                 = {Lexique francais - jarai - vietnamien ; (parler de la Province de Plei Ku)},
+  volume                = {63},
+  year                  = {1968},
+  bibtexkey             = {lafont_jarai-plei1968},
+  class_loc             = {PL4498.J3},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {French [fra]},
+  inlg_code             = {fra},
+  macro_area            = {Eurasia},
+  mpi_eva_library_shelf = {PL 4498 LAF 1968},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#d:Lafont:Jarai, mpieva#Lafont1968Lexiquef},
+  subject_headings      = {French language–Dictionaries–Jarai, French language–Dictionaries–Vietnamese, French language–Dictionaries–Jarai – French language–Dictionaries–Vietnamese},
+  author                = {Lafont, Pierre-Bernard}
+}</source>
 </record>
 
 <record>

@@ -9,6 +9,26 @@
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, South Mangyan, Hanunoo</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{146364,
+  address               = {Berkeley and Los Angeles},
+  pages                 = {290},
+  publisher             = {University of California Press},
+  series                = {University of California Publications in Linguistics},
+  title                 = {Hanunóo-English vocabulary},
+  volume                = {9},
+  year                  = {1953},
+  bibtexkey             = {conklin_hanunoo-vocabulary1953},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5700 .4 CON 1953},
+  src                   = {hh, mpieva, wals},
+  srctrickle            = {hh#d:Conklin:Hanunoo, mpieva#Conklin1953HanunooE, wals#1161},
+  subject_headings      = {Hanunóo language–Dictionaries–English, Hanunóo language–Dictionaries–English},
+  author                = {Conklin, Harold C.}
+}</source>
 </record>
 
 <record>

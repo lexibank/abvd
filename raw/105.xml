@@ -11,6 +11,35 @@ Todd, E.M. (1978) A sketch of Nissan (Nehan) grammar. In S.A. Wurm &amp; L. Carr
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, South New Ireland-Northwest Solomonic, Nehan-North Bougainville, Nehan</classification>
 	<typedby>Peng Du</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@incollection{162270,
+  address    = {Canberra},
+  booktitle  = {Proceedings of the 2nd International Conference on Austronesian Linguistics: Fascicle 2},
+  pages      = {1181-1239},
+  publisher  = {Research School of Pacific and Asian Studies, Australian National University},
+  series     = {Pacific Linguistics: Series C},
+  title      = {A Sketch of Nissan (Nehan) Grammar},
+  volume     = {61},
+  year       = {1978},
+  bibtexkey  = {todd_nissan-nehan1978},
+  fn         = {papua\wurm-carrington_2-austronesian1978pages.pdf, papua\todd_nissan1978_o.pdf, papua\wurm-carrington_2-austronesian1978pages_o.pdf},
+  hhtype     = {grammar_sketch},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh, wals},
+  srctrickle = {hh#s:Todd:Nissan, wals#6027},
+  author     = {Todd, Evelyn M.},
+  editor     = {Wurm, Stephen and Carrington, Lois}
+}
+@article{mayr1931a,
+  date     = {1931},
+  title    = {Wörter der Nissan-Sprache},
+  journal  = {Zeitschrift für Eingeborenen Sprachen},
+  volume   = {21},
+  pages    = {252–256},
+  language = {de},
+  author   = {Mayr, E.}
+}</source>
 </record>
 
 <record>

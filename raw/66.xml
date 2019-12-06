@@ -9,6 +9,30 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Southeast Solomonic, Malaita-San Cristobal, Malaita, Northern</classification>
 	<typedby>Penny Keenan</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{127160,
+  address               = {Canberra},
+  note                  = {p. 287 + 288 missing Bibliography: p. xxxiv.},
+  pages                 = {xxxiv+296},
+  publisher             = {Dept. of Linguistics, Research School of Pacific Studies, The Australian Natl. Univ.},
+  series                = {Pacific linguistics: Series C},
+  title                 = {Kwaio dictionary},
+  volume                = {35},
+  year                  = {1975},
+  bibtexkey             = {keesing_kwaio-dictionary1975},
+  class_loc             = {PL6252.K924},
+  document_type         = {B},
+  fn                    = {papua\keesing_kwaio1975.pdf},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858831209},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6252 .K924 KEE 1975},
+  src                   = {hh, mpieva, wals},
+  srctrickle            = {hh#d:Keesing:Kwaio, mpieva#Keesing1975Kwaiodic, wals#3127},
+  subject_headings      = {Kwaio language–Dictionaries–English., Kwaio language–Dictionaries–English.},
+  author                = {Keesing, Roger M.}
+}</source>
 </record>
 
 <record>

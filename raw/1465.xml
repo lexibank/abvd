@@ -9,6 +9,21 @@
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Manobo</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@article{147167,
+  journal    = {Oceanic Linguistics},
+  number     = {1/2},
+  pages      = {601-641},
+  title      = {A Proto-Manobo Word List},
+  volume     = {13},
+  year       = {1974},
+  bibtexkey  = {elkins_manobo-list1974},
+  fn         = {papua\elkins_proto-manobo1974.pdf},
+  hhtype     = {overview;comparative},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#hv:Elkins:Proto-Manobo},
+  author     = {Elkins, Richard E.}
+}</source>
 </record>
 
 <record>
@@ -293,7 +308,7 @@
 	<item>*talinga</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>`</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

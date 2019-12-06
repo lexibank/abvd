@@ -17,6 +17,42 @@ I have also checked proto-forms against Titima Suthiwan's list of loanwords in T
 	<classification>Tai-Kadai, Kam-Tai, Be-Tai, Tai-Sek, Tai, Southwestern</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@mastersthesis{hv_Jonsson_SWTai,
+  title            = {Proto Southwestern Tai},
+  school           = {State University of New York at Albany},
+  pages            = {412},
+  year             = {1991},
+  abstract         = {This dissertation is an investigation of the historical linguistics of Southwestern Tai. Based on the data from word lists and dictionaries of ten languages: Siamese or Written Thai, Lao, Black Tai, White Tai, Red Tai, Shan (Burmese and Chinese Shan or Tai Maw), Khamti, Lue, and Tai Neua, the Proto-Southwestern Tai tones, consonants, rhymes, and lexical items are reconstructed. In the reconstruction, evidence from orthography and versification is also considered. Examples and notes on each reconstruction are provided along with the corresponding lexical items in Middle Chinese. The study employs the comparative method, determination of phonological changes, and internal reconstruction. A subgrouping of Southwestern Tai languages is formulated according to specific criteria of shared innovations. The linguistic homeland (Urheimat), migration waves, and time depth are finally postulated on the basis of linguistic and historical evidence. Three tonemes, thirty-seven simple initial consonants, twelve clusters, and seven primary vowels are reconstructed. Each tone is conditioned by voicing. Though the vowel length may generally have been phonemic in the Proto-Southwestern Tai, the data confirm this only for the low mid vowel. It appears possible to explain the varied distribution of complex vowels in the daughter languages by selection and modification processes. Such processes are not only active in Proto-Southwestern Tai, but also in other branches of the Tai languages, and resolve Gedney's Puzzle. This study places Siamese, Lao, Red Tai, Khamti, Burmese Shan, Lue, Tai Neua, and Ahom in one division, and White Tai, Black Tai, and Chinese Shan (Tai Maw) in another. The linguistic homeland is identified around the upper valley of the Red and Black rivers. The earliest wave of migration of the Southwestern Tai is suggested to have taken place between the eighth and tenth centuries. There have since been continuous movements, primarily westward.},
+  adviser          = {Campbell, Lyle},
+  degree           = {DA},
+  digital_formats  = {PDF 8.22Mb image-only PDF},
+  fn               = {eurasia\jonsson_southwestern1991v2.pdf, eurasia\jonsson_southwestern1991.pdf, eurasia\jonsson_tai1991_o.pdf},
+  gbid             = {http://books.google.com/books?id=oKSlSgAACAAJ},
+  glottolog_ref_id = {42229},
+  hhtype           = {overview;comparative},
+  inlg             = {English [eng]},
+  lgcode           = {Siamese or Written Thai, Lao, Black Tai = Tai Dam [blt], White Tai [twh], Red Tai, Shan (Burmese and Chinese Shan or Tai Maw) [shn], Khamti = Khamti [kht], Lue = Lü [khb], Tai Neua = Tai Nüa [tdd]},
+  macro_area       = {Eurasia},
+  source           = {DAI-A 52/03, p. 900, Sep 1991},
+  subject          = {LANGUAGE, LINGUISTICS (0290); ANTHROPOLOGY, CULTURAL (0326); HISTORY, ASIA, AUSTRALIA AND OCEANIA (0332)},
+  umi_id           = {9122763},
+  author           = {Jonsson, Nanna L.}
+}
+@book{hv_Li_Tai,
+  title            = {A Handbook of Comparative Tai},
+  publisher        = {Honolulu: University of Hawaii Press},
+  series           = {Oceanic Linguistics Special Publications},
+  volume           = {15},
+  pages            = {389},
+  year             = {1977},
+  fn               = {eurasia\li_comparative-tai1977.zip},
+  gbid             = {http://books.google.com/books?id=RDoOAAAAYAAJ},
+  glottolog_ref_id = {158254},
+  hhtype           = {overview;comparative},
+  inlg             = {English [eng]},
+  macro_area       = {Eurasia},
+  author           = {Li, Fang Kuei}
+}</source>
 </record>
 
 <record>

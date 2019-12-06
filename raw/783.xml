@@ -9,6 +9,21 @@
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, Central, Warayan, Samar-Waray</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{410676,
+  address    = {Manila},
+  pages      = {18},
+  publisher  = {Institute of National Language (Philippines)},
+  title      = {Tagalog-Samar-Leyte cognate words with identical and different meanings},
+  year       = {1972},
+  bibtexkey  = {tizon_samar-leyte1972},
+  fn         = {papua\tizon_samar-leyte1972.pdf},
+  hhtype     = {wordlist},
+  inlg       = {English [eng]},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#w:Tizon:Samar-Leyte},
+  author     = {Tizon, Alfonsa E.}
+}</source>
 </record>
 
 <record>

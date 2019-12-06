@@ -9,6 +9,27 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Southeast Maluku, Kei-Tanimbar, Yamdena</classification>
 	<typedby>Peng Du</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{72358,
+  pages                 = {93},
+  publisher             = {Batavia},
+  series                = {Verhandelingen van het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen},
+  title                 = {Spraakkunst der Jamdeensche Taal},
+  volume                = {LXVII:2},
+  year                  = {1926},
+  bibtexkey             = {drabbe_spraakkunst-jamdeensche1926},
+  class_loc             = {PL5465.95.Y14},
+  document_type         = {B},
+  fn                    = {papua\drabbe_jamdeensche1926.pdf},
+  hhtype                = {grammar_sketch},
+  inlg                  = {Dutch [nld]},
+  inlg_code             = {nld},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5465 .95 Y14 DRA 1926},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#s:Drabbe:Jamdeensche, mpieva#27},
+  subject_headings      = {Amboinese languages – Dialects, Yamdena Island – Languages, Amboinese languages – Dialects – Yamdena Island – Languages},
+  author                = {Drabbe, Peter}
+}</source>
 </record>
 
 <record>

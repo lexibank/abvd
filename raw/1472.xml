@@ -9,6 +9,25 @@
 	<classification>Austronesian, Malayo-Polynesian, North Borneo, North Sarawakan, Kayan-Kenyah, Kenyah</classification>
 	<typedby>Kwang-Ju Cho</typedby>
 	<checkedby></checkedby>
+	<source>
+@article{478018,
+  author     = {Smith, Alexander D.},
+  journal    = {Oceanic Linguistics},
+  number     = {2},
+  pages      = {333-357},
+  title      = {On the classification of Kenyah and Kayanic languages},
+  volume     = {54},
+  year       = {2015},
+  besttxt    = {ptxt2papuasmith_kenyah-kayanic2015.txt},
+  cfn        = {papuasmith_kenyah-kayanic2015.pdf},
+  fn         = {papuasmith_kenyah-kayanic2015.pdf},
+  hhtype     = {overview;comparative;wordlist},
+  inlg       = {English [eng]},
+  lgcode     = {Lebo' Vo' in Long San = Mboh (a Kenyan lg) = Western Lowland Kenyah [ttw], Uma' Pawe = Eastern Lowland Kenyah [whk], Lepo' Gah, Lepo' Laang, Lepo' Sawa', Lepo' Tau = Kenyah-Mainstream [xkl], Badeng = Kenyah-Mainstream [xkl], Ngorek = Murik (Malaysia) [mxr], Long Naah Kayan = Baram Kayan [kys]},
+  macro_area = {Papunesia},
+  src        = {hh}
+}
+</source>
 </record>
 
 <record>

@@ -9,6 +9,31 @@
 	<classification>Austronesian, Malayo-Polynesian, Greater Barito, Sama-Bajaw</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{58864,
+  address               = {Manila},
+  pages                 = {377},
+  publisher             = {Linguistic Society of the Philippines},
+  series                = {Philippine journal of linguistics : special monograph issue},
+  title                 = {Culture contact and language convergence},
+  volume                = {24},
+  year                  = {1985},
+  bibtexkey             = {pallesen_contact-convergence1985},
+  class_loc             = {PL5507},
+  country               = {Philippines [PH]},
+  document_type         = {B},
+  fn                    = {papua\pallesen_convergence1985.pdf},
+  hhtype                = {overview;comparative;wordlist},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5507 PAL 1985},
+  sil_id                = {16281},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#hvw:Pallesen:Convergence, mpieva#Pallesen1985Culturec},
+  subject               = {Language classification [LCL], Comparative and historical studies [CHL]},
+  subject_headings      = {Philippine languages – History, Language and culture – Philippines, Philippine languages – History – Language and culture – Philippines},
+  author                = {Pallesen, A. Kemp}
+}</source>
 </record>
 
 <record>

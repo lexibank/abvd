@@ -9,6 +9,25 @@
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Central Luzon, Sambalic</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@article{150458,
+  journal    = {Studies in Philippine languages and cultures},
+  pages      = {158-183},
+  title      = {The Sambalic languages of Central Luzon},
+  volume     = {19},
+  year       = {2008},
+  bibtexkey  = {stone_sambalic-luzon2008},
+  country    = {Philippines [PH]},
+  fn         = {papua\stone_sambalic2008.pdf},
+  hhtype     = {overview;comparative;wordlist},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  sil_id     = {51521},
+  src        = {hh, sil16},
+  srctrickle = {hh#hvw:Stone:Sambalic, sil16#51521},
+  subject    = {Language classification [LCL], Grammatical descriptions [GRD]},
+  author     = {Stone, Roger}
+}</source>
 </record>
 
 <record>

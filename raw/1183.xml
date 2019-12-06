@@ -9,6 +9,21 @@
 	<classification>Austronesian, Malayo-Polynesian</classification>
 	<typedby>Kirsty Maurits</typedby>
 	<checkedby></checkedby>
+	<source>@book{325190,
+  publisher  = {Research School of Pacific and Asian Studies, The Australian National University},
+  series     = {Pacific Linguistics: Series D},
+  title      = {Holle Lists: Vocabularies in Languages of Indonesia, Vol.10/3: Islands off the West Coast of Sumatra},
+  volume     = {76},
+  year       = {1987},
+  bibtexkey  = {stokhof_off-sumatra1987},
+  fn         = {papua\stokhof_west-coast-sumatra1987.pdf},
+  hhtype     = {wordlist},
+  inlg       = {English [eng]},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#w:Stokhof:Holle:1987},
+  author     = {Stokhof, W. A. L.}
+}</source>
 </record>
 
 <record>

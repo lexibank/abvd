@@ -11,6 +11,29 @@ Unless indicated otherwise, the Auran (Ailan 愛蘭) dialect is used.</notes>
 	<classification>Austronesian, Northwest Formosan</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{135332,
+  address               = {Taipei},
+  note                  = {Includes bibliographical references and index},
+  pages                 = {xii+391},
+  publisher             = {Institute of Linguistics (Preparatory office)},
+  series                = {Language and linguistics monographs series; A2},
+  title                 = {Pazih dictionary Bazai yu ci dian (Pazih dictionary)},
+  volume                = {Language and linguistics monographs series},
+  year                  = {2001},
+  bibtexkey             = {li-tsuchida_pazih-bazai2001},
+  class_loc             = {PL6158.54},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {Chinese-Mandarin [cmn]},
+  inlg_code             = {cmn},
+  isbn                  = {9789576717901},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6158 .54 LI 2001},
+  src                   = {mpieva},
+  srctrickle            = {mpieva#Li2001Pazihdic},
+  subject_headings      = {Pazeh language–Dictionaries–Chinese, Pazeh language–Dictionaries–English, Pazeh language–Dictionaries–Chinese – Pazeh language–Dictionaries–English},
+  author                = {Li, Paul Jen-kuei and Tsuchida, Shigeru}
+}</source>
 </record>
 
 <record>

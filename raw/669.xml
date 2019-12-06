@@ -9,6 +9,26 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Papuan Tip, Peripheral, Kilivila-Louisiades, Nimoa-Sudest</classification>
 	<typedby>Ger Reesink</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@incollection{135521,
+  address    = {Ukarumpa, Papua New Guinea},
+  booktitle  = {Three studies in languages of eastern Papua},
+  journal    = {Workpapers in Papua New Guinea Languages},
+  pages      = {39-61},
+  publisher  = {The Summer Institute of Linguistics},
+  series     = {Workpapers in Papua New Guinea Linguistics},
+  title      = {Languages of the Louisiade Archipelago and Environs},
+  volume     = {3},
+  year       = {1974},
+  bibtexkey  = {henderson-henderson_louisiade-environs1974},
+  fn         = {papua\henderson-henderson_louisiade1974.pdf},
+  hhtype     = {overview;comparative;wordlist},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Eurasia, Papua},
+  src        = {hh, silpng},
+  srctrickle = {hh#hvw:HendersonHenderson:Louisiade, silpng#silpng1956-1990:linguistics_and_anthropology398},
+  author     = {Henderson, Jim and Henderson, Anne}
+}</source>
 </record>
 
 <record>

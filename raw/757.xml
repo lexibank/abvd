@@ -22,6 +22,23 @@ The Gundong Pa-Hng tones are:
 	<classification>Hmong-Mien, Hmongic, Pa-hng</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{95864,
+  address       = {Shanghai},
+  pages         = {344},
+  publisher     = {Shanghai Far East Publishers},
+  title         = {Bahengyu Yanjiu},
+  year          = {1997},
+  bibtexkey     = {li-mao_bahengyu-yanjiu1997},
+  fn            = {eurasia\mao-li_baheng1997.pdf},
+  hhtype        = {grammar},
+  inlg          = {Chinese Mandarin [cmn]},
+  inlg_code     = {eng},
+  macro_area    = {Eurasia},
+  src           = {hh},
+  srctrickle    = {hh#g:MaoLi:Baheng},
+  title_english = {The Baheng language},
+  author        = {Mao, Zongwu and Li, Yunbing}
+}</source>
 </record>
 
 <record>

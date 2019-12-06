@@ -9,6 +9,29 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, South New Ireland-Northwest Solomonic, Nehan-North Bougainville, Nehan</classification>
 	<typedby>Malcolm Ross</typedby>
 	<checkedby></checkedby>
+	<source>@book{137204,
+  howpublished  = {Ms.},
+  pages         = {240},
+  publisher     = {[Manuscript] 240, 49 p},
+  title         = {Nehan-English dictionary},
+  url           = {http://www.sil.org/pacific/png/abstract.asp?id=20},
+  year          = {2005},
+  bibtexkey     = {glennon-glennon_nehan-dictionary2005},
+  country       = {Papua New Guinea [PG]},
+  document_type = {CF},
+  fn            = {papua\glennon_nehan2005_s.pdf, papua/glennon_nehan2005_s.pdf, papua\glennon-glennon_nehan2005-.pdf},
+  fnnote        = {pdf, 1579 KB},
+  hhtype        = {dictionary},
+  inlg          = {English [eng]},
+  inlg_code     = {neh},
+  macro_area    = {Papua},
+  mpifn         = {nehan_glennon2005_s.pdf},
+  sil_id        = {48016},
+  src           = {hh, mpieva, sil16},
+  srctrickle    = {hh#d:GlennonGlennon:Nehan, mpieva#Glennon2005NehanEng, sil16#48016},
+  subject       = {Dictionaries and vocabularies [DAV]},
+  author        = {Glennon, John and Glennon, Arianna}
+}</source>
 </record>
 
 <record>

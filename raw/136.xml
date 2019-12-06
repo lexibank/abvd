@@ -9,6 +9,25 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Tongic</classification>
 	<typedby>Debasish Roy</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{117207,
+  address               = {London},
+  pages                 = {xiv+836},
+  publisher             = {Oxford Univ. Press},
+  title                 = {Tongan dictionary: Tongan-English and English-Tongan},
+  year                  = {1959},
+  bibtexkey             = {churchward_tongan-dictionary1959},
+  class_loc             = {PL6531},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6531 CHU 1959},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#d:Churchward:Tongan, mpieva#Churchward1959Tongandi},
+  subject_headings      = {Tongan language–Dictionaries–English, English language–Dictionaries–Tonga (Tonga Islands), Tongan language–Dictionaries–English – English language–Dictionaries–Tonga (Tonga Islands)},
+  author                = {Churchward, Clerk Maxwell}
+}</source>
 </record>
 
 <record>

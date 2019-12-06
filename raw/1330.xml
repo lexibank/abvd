@@ -15,6 +15,48 @@ Some cognates are less obvious than they might be because the language has/had a
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Ngero-Vitiaz, Vitiaz</classification>
 	<typedby>Malcolm Ross</typedby>
 	<checkedby>Malcolm Ross</checkedby>
+	<source>@book{303696,
+  address               = {Canberra},
+  edition               = {1},
+  journal               = {Notes on Linguistics},
+  note                  = {Publication of 1991 A functional grammar of Mangap-Mbula, PhD ANU 1991.},
+  number                = {C-101},
+  pages                 = {xiii+418},
+  publisher             = {Research School of Pacific and Asian Studies, Australian National University},
+  series                = {Pacific Linguistics: Series C},
+  title                 = {A Grammar of Mangap-Mbula: An Austronesian Language of Papua New Guinea},
+  volume                = {101},
+  year                  = {1995},
+  bibtexkey             = {bugenhagen_mangap-mbula1995},
+  class_loc             = {PL6621.M26},
+  document_type         = {B},
+  fn                    = {papua\bugenhagen_mangap-mbula1995pages.pdf, papua\bugenhagen_mangap-mbula1995.pdf},
+  hhtype                = {grammar},
+  inlg                  = {English [eng]},
+  isbn                  = {9780858834262},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6621 .M26 BUG 1995},
+  src                   = {hh, langsci, mpieva, silpng, wals},
+  srctrickle            = {hh#g:Bugenhagen:Mangap-Mbula, langsci#Bugenhagen:95, mpieva#Bugenhagen1995Agrammar, silpng#silpng1991-2000:linguistics_and_anthropology18, silpng#silpng1991-2000:linguistics_and_anthropology19, wals#836},
+  subject_headings      = {Mangap language–Grammar, Mangap language–Grammar},
+  author                = {Bugenhagen, Robert D.}
+}
+@book{323381,
+  address    = {Ukarumpa},
+  pages      = {748},
+  publisher  = {SIL},
+  title      = {Ro Ta Ipiyooto Sua Mbula Uunu: Mbula-English Dictionary},
+  volume     = {101},
+  year       = {2007},
+  bibtexkey  = {bugenhagen-bugenhagen_ipiyooto-uunuci2007},
+  fn         = {papua\bugenhagen-bugenhagen_mbula-dictionary2007_s.pdf},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#d:BugenhagenBugenhagen:Mangap-Mbula},
+  author     = {Bugenhagen, Salme and Bugenhagen, Robert D.}
+}</source>
 </record>
 
 <record>

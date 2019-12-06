@@ -9,6 +9,30 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Southeast Solomonic, Malaita-San Cristobal, Malaita, Northern</classification>
 	<typedby>Michael Dunn</typedby>
 	<checkedby></checkedby>
+	<source>@book{85830,
+  address               = {Canberra},
+  note                  = {Bibliography: p. 483-490.},
+  pages                 = {viii+490},
+  publisher             = {Research School of Pacific and Asian Studies, Australian National University},
+  series                = {Pacific Linguistics: Series C},
+  title                 = {Solomon Islands Languages: An Internal Classification},
+  volume                = {72},
+  year                  = {1983},
+  bibtexkey             = {hackman-tryon_solomon-islands1983},
+  class_loc             = {PL6211.S6},
+  document_type         = {B},
+  fn                    = {papua\tryon-hackman_solomon-islands1983.pdf, papua\tryon-hackman_solomon-islands1983pages.pdf, papua\tryon-hackman_solomon-islands1983pages_o.pdf},
+  hhtype                = {overview;comparative;wordlist},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858832923},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6211 .S6 TRY 1983},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#hvw:TryonHackman:Solomon, mpieva#Tryon1983SolomonI},
+  subject_headings      = {Melanesian languages–Solomon Islands–Classification, Solomon Islands–Languages–Classification, Melanesian languages–Solomon Islands–Classification – Solomon Islands–Languages–Classification},
+  author                = {Tryon, Darrell T. and Hackman, B. D.}
+}</source>
 </record>
 
 <record>

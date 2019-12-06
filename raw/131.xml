@@ -9,6 +9,20 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, South New Ireland-Northwest Solomonic</classification>
 	<typedby>Penny Keenan</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{43084,
+  address    = {University of Sydney, Australia},
+  series     = {Oceania Linguistic Monographs},
+  title      = {Tanga-English, English-Tanga Dictionary},
+  volume     = {21},
+  year       = {1977},
+  bibtexkey  = {bell_tanga-dictionary1977},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  macro_area = {Papua},
+  src        = {hh, wals},
+  srctrickle = {hh#d:Bell:Tanga, wals#470},
+  author     = {Bell, F. L. S.}
+}</source>
 </record>
 
 <record>

@@ -13,6 +13,22 @@ Subscript tildes signify tenseness.</notes>
 	<classification>Austro-Asiatic, Mon-Khmer, Palyu</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{326037,
+  address       = {Beijing},
+  pages         = {351},
+  publisher     = {Minzu Chubanshe},
+  title         = {Bugeng yu yanjiu},
+  year          = {2005},
+  bibtexkey     = {li_bugeng-yanjiu2005},
+  fn            = {eurasia\li_bugeng2005.pdf},
+  hhtype        = {grammar},
+  inlg          = {Chinese Mandarin [cmn]},
+  macro_area    = {Eurasia},
+  src           = {hh},
+  srctrickle    = {hh#g:Li:Bugeng},
+  title_english = {A study of Bugeng},
+  author        = {Li, Yunbing}
+}</source>
 </record>
 
 <record>

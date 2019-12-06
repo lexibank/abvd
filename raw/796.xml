@@ -9,6 +9,31 @@
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Sangiric</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{105089,
+  address               = {Canberra},
+  note                  = {Bibliography: p. 134-138},
+  pages                 = {viii+138},
+  publisher             = {Research School of Pacific and Asian Studies, Australian National University},
+  series                = {Pacific Linguistics: Series B},
+  title                 = {Proto-Sangiric and the Sangiric languages},
+  volume                = {91},
+  year                  = {1984},
+  bibtexkey             = {sneddon_proto-sangiric1984},
+  class_loc             = {PL5437},
+  document_type         = {B},
+  fn                    = {papua\sneddon_sangiric1984_o.pdf, papua/sneddon_sangiric1984_o.pdf},
+  hhtype                = {overview;comparative;wordlist},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858833067},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5437 SNE 1984},
+  mpifn                 = {sangiric_sneddon1984_o.pdf},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#hvw:Sneddon:Proto-Sangiric, mpieva#Sneddon1984ProtoSan},
+  subject_headings      = {Sangil language, Austronesian languages, Proto-Austronesian language, Sangil language – Austronesian languages – Proto-Austronesian language},
+  author                = {Sneddon, James N.}
+}</source>
 </record>
 
 <record>

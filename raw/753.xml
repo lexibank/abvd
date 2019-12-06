@@ -11,6 +11,30 @@ Nanumea is spoken on the northernmost island of Tuvalu.</notes>
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, Samoic-Outlier, Ellicean</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{29903,
+  address               = {Canberra},
+  pages                 = {x+243},
+  publisher             = {Pacific Linguistics},
+  series                = {Pacific Linguistics: Series C},
+  title                 = {A Nanumea lexicon},
+  volume                = {65},
+  year                  = {1980},
+  bibtexkey             = {ranby_nanumea-lexicon1980},
+  class_loc             = {PL6541.Z9},
+  document_type         = {B},
+  fn                    = {papua\ranby_nanumea1980_o.pdf, papua/ranby_nanumea1980_o.pdf},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858832275},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6541 .Z9 RAN 1980},
+  mpifn                 = {nanumea_ranby1980_o.pdf},
+  src                   = {hh, mpieva, wals},
+  srctrickle            = {hh#d:Ranby:Nanumea, mpieva#Ranby1980ANanumea, wals#4913},
+  subject_headings      = {Tuvaluan language–Dialects–Tuvalu–Nanumea–Dictionaries–English, English language–Dictionaries–Tuvalu, Proto-Polynesian language–Dictionaries–English, Tuvaluan language–Dialects–Tuvalu–Nanumea–Dictionaries–English – English language–Dictionaries–Tuvalu – Proto-Polynesian language–Dictionaries–English},
+  author                = {Ranby, Peter}
+}</source>
 </record>
 
 <record>

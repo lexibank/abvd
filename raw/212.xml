@@ -9,6 +9,23 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, New Caledonian, Northern, North, Nemi</classification>
 	<typedby>Debasish Roy</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{122134,
+  address    = {Louvain},
+  pages      = {285},
+  publisher  = {Peeters},
+  series     = {LACITO-Documents: Asie-Austronèsie},
+  title      = {Dictionnaire Thématique des Langues de la région de Hienghène (Nouvelle-Calédonie): Pije – Fwâi – Nemi – Jawe},
+  volume     = {4},
+  year       = {1982},
+  bibtexkey  = {haudricourt-ozanne-rivierre_hienghene-jawe1982},
+  hhtype     = {overview;wordlist},
+  inlg       = {French [fra]},
+  inlg_code  = {fra},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#hw:HaudricourtOzanne-Rivierre:Hienghene},
+  author     = {Haudricourt, André-Georges and Ozanne-Rivierre, Françoise}
+}</source>
 </record>
 
 <record>

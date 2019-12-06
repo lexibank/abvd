@@ -9,6 +9,23 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Central Maluku, Sula, Taliabo</classification>
 	<typedby>Peng Du</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{13534,
+  address    = {Canberra},
+  publisher  = {Research School of Pacific and Asian Studies, Australian National University},
+  series     = {Pacific Linguistics: Series D},
+  title      = {Holle lists: vocabularies in languages of Indonesia Vol.2: Sula and Bacan islands, North Halmahera, South and East Halmahera},
+  volume     = {28},
+  year       = {1980},
+  bibtexkey  = {saleh-bronkhorst-stokhof_sula-bacan1980},
+  fn         = {papua\stokhof_2-holle-sula-bacan1980_o.pdf},
+  hhtype     = {overview;wordlist},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#hw:StokhofSaleh-Bronkhorst:Holle:2},
+  author     = {Stokhof, W. A. L. and Saleh-Bronkhorst, Lia}
+}</source>
 </record>
 
 <record>

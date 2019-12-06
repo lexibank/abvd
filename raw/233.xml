@@ -11,6 +11,27 @@ SA: &quot;Sanskrit&quot; stands for loanwords from any period between Classical 
 	<classification>Austronesian, Malayo-Polynesian, Malayo-Chamic, Malayic, Malay</classification>
 	<typedby>Debasish Roy</typedby>
 	<checkedby>Simon Greenhill + Sander Adelaar</checkedby>
+	<source>@book{67091,
+  address               = {Ithaca},
+  edition               = {3},
+  pages                 = {xix+618},
+  publisher             = {Cornell Univ. Press},
+  title                 = {An Indonesian-English dictionary},
+  year                  = {1989},
+  bibtexkey             = {echols-shadily_indonesian-dictionary1989},
+  class_loc             = {PL5076},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780801421273},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 5076 ECH 1989 (3)},
+  src                   = {mpieva},
+  srctrickle            = {mpieva#Echols1989AnIndone},
+  subject_headings      = {Indonesian language–Dictionaries–English, Indonesian language–Dictionaries–English},
+  author                = {Echols, John M. and Shadily, Hassan}
+}</source>
 </record>
 
 <record>

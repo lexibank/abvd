@@ -17,6 +17,21 @@ Some verbs in Hewa agree with person and number of their subject. If this is the
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Timor, Flores-Lembata</classification>
 	<typedby>Hanna Fricke</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{320303,
+  address    = {München},
+  pages      = {104},
+  publisher  = {LINCOM},
+  title      = {Topics in the Grammar of Hewa: A variety of Sika in Eastern Indonesia},
+  year       = {2014},
+  bibtexkey  = {fricke_hewa-sika2014},
+  fn         = {papua\fricke_hewa2014v3.pdf, papua\fricke_hewa2014_s.pdf, papua\fricke_hewa2014v2.pdf, papua\fricke_hewa2014.pdf},
+  hhtype     = {grammar_sketch},
+  inlg       = {English [eng]},
+  macro_area = {Papua},
+  src        = {hh},
+  srctrickle = {hh#s:Fricke:Hewa},
+  author     = {Fricke, Hanna}
+}</source>
 </record>
 
 <record>

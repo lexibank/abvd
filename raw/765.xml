@@ -22,6 +22,19 @@ Tones:
 	<classification>Hmong-Mien, Hmongic, Bunu</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{s_Meng_Bunu,
+  title            = {Yaozu Bunuyu Fangyan Yanjiu},
+  publisher        = {Beijing: Minzu Chubanshe},
+  pages            = {3+2+1+4+354},
+  year             = {2001},
+  fn               = {eurasia\meng_bunu2001.pdf, eurasia\meng_bunu2001pages_o.pdf, eurasia\meng_bunu2001pages.pdf},
+  glottolog_ref_id = {313514},
+  hhtype           = {grammar_sketch},
+  lgcode           = {Lihu = Bunu [bwx], Yaolu = Bunu [bwx], Qibainong = Bunu [bwx]},
+  macro_area       = {Eurasia},
+  title_english    = {A Study of the Bunu Dialects of the Yao People},
+  author           = {Meng, Chaoji}
+}</source>
 </record>
 
 <record>

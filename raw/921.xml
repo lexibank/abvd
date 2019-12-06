@@ -11,6 +11,30 @@ Tai Phake is spoken by perhaps more than 2,000 speakers in Dibrugarh and Tinsuki
 	<classification>Tai-Kadai, Kam-Tai, Tai, Southwestern</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{157565,
+  address               = {Canberra},
+  note                  = {Includes bibliographical references},
+  pages                 = {xxiii+413},
+  publisher             = {Research School of Pacific and Asian Studies, Australian National University},
+  series                = {Pacific Linguistics},
+  title                 = {The Tai languages of Assam},
+  volume                = {565},
+  year                  = {2005},
+  bibtexkey             = {morey_tai-assam2005},
+  class_loc             = {PL4119.5.A88},
+  document_type         = {B},
+  fn                    = {eurasia\morey_tai-assam2005.zip, eurasia\morey_tai-assam2005pages.pdf, eurasia\morey_tai-assam2005.pdf, eurasia\morey_tai-assam2005v2.zip},
+  hhtype                = {overview;comparative;grammar_sketch},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858835498},
+  macro_area            = {Eurasia},
+  mpi_eva_library_shelf = {PL 4119 .5.A88 MOR 2005},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#hvs:Morey:Tai, mpieva#Morey2005TheTaila},
+  subject_headings      = {Tai languages – India – Assam – Grammar, Tai languages – India – Assam – Grammar},
+  author                = {Morey, Stephen}
+}</source>
 </record>
 
 <record>

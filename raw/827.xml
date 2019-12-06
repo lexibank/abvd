@@ -9,6 +9,21 @@
 	<classification>Austro-Asiatic, Mon-Khmer</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{hv_Shorto_Mon-Khmer,
+  title            = {A Mon-Khmer comparative dictionary},
+  publisher        = {Canberra: Research School of Pacific and Asian Studies, Australian National University},
+  series           = {Pacific Linguistics},
+  volume           = {579},
+  pages            = {xxxiii+599},
+  year             = {2006},
+  fn               = {eurasia\shorto_mon-khmer2006.pdf, eurasia\shorto_khmer2006_s.pdf},
+  gbid             = {http://books.google.com/books?id=qduNQgAACAAJ},
+  glottolog_ref_id = {124376},
+  hhtype           = {overview;comparative},
+  inlg             = {English [eng]},
+  macro_area       = {Eurasia},
+  author           = {Shorto, Harry L.}
+}</source>
 </record>
 
 <record>

@@ -11,6 +11,24 @@ A topical vocabulary in English, Pilipino, Ilocano, and Southern Kalinga. 1980. 
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Central Cordilleran, North Central Cordilleran, Kalinga-Itneg, Kalinga</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{65104,
+  pages      = {v+121},
+  publisher  = {Summer Institute of Linguistics},
+  title      = {A topical vocabulary in English, Pilipino, Ilocano, and Southern Kalinga},
+  year       = {1980},
+  bibtexkey  = {anonymous_ilocano-kalinga1980},
+  country    = {Philippines [PH]},
+  fn         = {papua\anonymous_southern-kalinga1980.pdf},
+  hhtype     = {wordlist},
+  inlg       = {English [eng]},
+  inlg_code  = {eng},
+  macro_area = {Papua},
+  sil_id     = {18093},
+  src        = {hh},
+  srctrickle = {hh#w:Anonymous:SKalinga},
+  subject    = {Vocabulary [Zvoc]},
+  author     = {Anonymous}
+}</source>
 </record>
 
 <record>

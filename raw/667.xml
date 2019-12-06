@@ -9,6 +9,26 @@
 	<classification>Austro-Asiatic, Mon-Khmer, Eastern Mon-Khmer, Khmer</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
+	<source>@book{313809,
+  address               = {Kensington},
+  note                  = {Includes bibliographical references (p. xxv-xxx)},
+  pages                 = {xxx+1674},
+  publisher             = {Dunwoody Press},
+  title                 = {Modern Cambodian-English dictionary},
+  year                  = {1997},
+  bibtexkey             = {chim-headley-soeum_modern-cambodian1997},
+  class_loc             = {PL4326},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {English [eng]},
+  isbn                  = {0-931745-78-0},
+  macro_area            = {Eurasia},
+  mpi_eva_library_shelf = {PL 4326 HEA 1997},
+  src                   = {mpieva},
+  srctrickle            = {mpieva#Headley1997ModernCa},
+  subject_headings      = {Khmer language–Dictionaries–English, Khmer language–Dictionaries–English},
+  author                = {Headley, Robert K. and Chim, Rath and Soeum, Ok}
+}</source>
 </record>
 
 <record>

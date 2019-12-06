@@ -14,6 +14,31 @@ The word list in Chung (2005:64-71) seems to incorporate a consistent typographi
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, North and Central Vanuatu, Northeast Vanuatu-Banks Islands, West Santo</classification>
 	<typedby>John Lynch</typedby>
 	<checkedby></checkedby>
+	<source>@book{43178,
+  address               = {Canberra},
+  note                  = {Also as 1998 MA Northern Territory U, Darwin.},
+  pages                 = {xii+74},
+  publisher             = {Research School of Pacific and Asian Studies, Australian National University},
+  series                = {Pacific Linguistics},
+  title                 = {A descriptive grammar of Merei (Vanuatu)},
+  volume                = {573},
+  year                  = {2005},
+  bibtexkey             = {chung_merei-vanuatu2005},
+  country               = {Vanuatu [VU]},
+  document_type         = {B},
+  fn                    = {papua\chung_merei2005.pdf},
+  hhtype                = {grammar_sketch},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858835603},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6211 .V36 CHU 2005},
+  sil_id                = {50959},
+  src                   = {hh, mpieva, sil16},
+  srctrickle            = {hh#s:Chung:Merei, mpieva#Chung2005Adescrip, sil16#50959},
+  subject               = {Grammatical descriptions [GRD]},
+  author                = {Chung, Ying Shing Anthony}
+}</source>
 </record>
 
 <record>

@@ -9,6 +9,27 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, South Halmahera-West New Guinea, South Halmahera, Southeast</classification>
 	<typedby>Peng Du</typedby>
 	<checkedby>Simon Greenhill</checkedby>
+	<source>@book{64947,
+  address               = {Bandoeng},
+  pages                 = {187},
+  publisher             = {A.C. Nix &amp;Co.},
+  series                = {Verhandelingen van het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen},
+  title                 = {Boelisch-Nederlandsche woordenlijst met Nederlandsch-Boelisch register},
+  volume                = {74(3)},
+  year                  = {1940},
+  bibtexkey             = {maan_boelisch-nederlandsche1940},
+  class_loc             = {PL7511.H3},
+  document_type         = {B},
+  hhtype                = {dictionary},
+  inlg                  = {Dutch [nld]},
+  inlg_code             = {nld},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 7511 .H3 MAA 1940},
+  src                   = {hh, mpieva},
+  srctrickle            = {hh#d:Maan:Boelisch, mpieva#Maan1940Boelisch},
+  subject_headings      = {Halmaheran languages–Dictionaries–Dutch, Dutch language–Dictionaries–Halmaheran, Buli language –Dictionaries –Dutch., Halmaheran languages–Dictionaries–Dutch – Dutch language–Dictionaries–Halmaheran – Buli language –Dictionaries –Dutch.},
+  author                = {Maan, G.}
+}</source>
 </record>
 
 <record>

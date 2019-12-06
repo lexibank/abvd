@@ -9,6 +9,27 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, Lavongai-Nalik</classification>
 	<typedby>Eva Lindström</typedby>
 	<checkedby></checkedby>
+	<source>@book{145873,
+  address               = {Canberra},
+  pages                 = {xi+130},
+  publisher             = {Pacific Linguistics},
+  series                = {Pacific Linguistics : Series D, Special Publications},
+  title                 = {Lavongai materials},
+  volume                = {82},
+  year                  = {1986},
+  bibtexkey             = {beaumont-donaldson-stamm_lavongai-materials1986},
+  class_loc             = {PL6253.L42},
+  document_type         = {B},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9780858833784},
+  macro_area            = {Papua},
+  mpi_eva_library_shelf = {PL 6253 .L42 LAV 1986},
+  src                   = {mpieva},
+  srctrickle            = {mpieva#Stamm1986Lavongai},
+  subject_headings      = {Lavongai language, Lavongai language},
+  author                = {Stamm, Josef and Donaldson, Tamsin and Beaumont, Clive H.}
+}</source>
 </record>
 
 <record>
