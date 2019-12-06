@@ -26,7 +26,7 @@ pycldf==1.8.2
 pyclts==2.0.0
 pyconcepticon==2.5.1
 pycountry==19.8.18
--e git+https://github.com/lexibank/pylexibank@80ae8a99dab6d6d53d76447af80b1bef38c9b8a7#egg=pylexibank
+-e git+https://github.com/lexibank/pylexibank@c4bbafe4d76884af96ff96758a04655aa862f953#egg=pylexibank
 pytest==5.2.2
 regex==2019.8.19
 requests==2.22.0

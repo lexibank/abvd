@@ -380,13 +380,24 @@
 </record>
 
 <record>
-	<id>290440</id>
+	<id>3229145</id>
 	<word_id>32</word_id>
 	<word>tongue</word>
-	<item>moː/lidah</item>
-	<annotation>two separate words? lidah is Malay loan (SA)</annotation>
+	<item>moː</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1; 4,31</cognacy>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229146</id>
+	<word_id>32</word_id>
+	<word>tongue</word>
+	<item>lidah</item>
+	<annotation>lidah is Malay loan (SA)</annotation>
+	<loan>L</loan>
+	<cognacy>4, 31</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
