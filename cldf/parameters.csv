@@ -70,7 +70,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 69_tohunt,to hunt,1435,HUNT
 70_toshoot,to shoot,1172,SHOOT
 71_tostabpierce,"to stab, pierce",1434,STAB
-72_tohit,to hit,353,STRIKE
+72_tohit,to hit,1433,HIT
 73_tosteal,to steal,713,STEAL
 74_tokill,to kill,1417,KILL
 75_todiebedead,"to die, be dead",2101,BE DEAD OR DIE
@@ -163,7 +163,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 162_old,old,1229,OLD
 163_new,new,1231,NEW
 164_good,good,1035,GOOD
-165_badevil,"bad, evil",1292,BAD
+165_badevil,"bad, evil",3764,BAD OR EVIL
 166_correcttrue,"correct, true",1725,CORRECT (RIGHT)
 167_night,night,1233,NIGHT
 168_day,day,1225,DAY (NOT NIGHT)
