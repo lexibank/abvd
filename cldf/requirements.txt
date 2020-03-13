@@ -1,7 +1,7 @@
 appdirs==1.4.3
 certifi==2019.11.28
 chardet==3.0.4
-cldfbench==1.2.0
+cldfbench==1.2.1
 cldfcatalog==1.3.0
 clldutils==3.5.0
 colorlog==4.1.0
@@ -12,6 +12,7 @@ idna==2.9
 isodate==0.6.0
 jdcal==1.4.1
 lingpy==2.6.6
+lxml==4.5.0
 Markdown==3.2.1
 networkx==2.2
 newick==1.0.0
@@ -27,8 +28,8 @@ pyclts==2.0.0
 pyconcepticon==2.6.0
 pycountry==19.8.18
 pyglottolog==3.0.0
-pylexibank==2.2.1
-pytest==5.3.5
+pylexibank==2.3.0
+pytest==5.4.0
 regex==2020.2.20
 requests==2.23.0
 rfc3986==1.3.2
