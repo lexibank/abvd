@@ -32,3 +32,11 @@ Conceptlists in Concepticon:
 
 
 - Entries missing sources: 14138/313273 (4.51%)
+
+# Contributors
+
+Name | GitHub user | Role
+--- | --- | ---
+Simon Greenhill | @SimonGreenhill | maintainer
+
+

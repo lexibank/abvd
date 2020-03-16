@@ -18,19 +18,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/abvd",
-            "dc:created": "ab620b8"
+            "dc:created": "f8338f6"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.0"
+            "dc:created": "v4.1"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.2.0"
+            "dc:created": "v2.2.1"
         },
         {
             "rdf:type": "prov:Entity",
