@@ -18,4 +18,4 @@ def test_languages(cldf_dataset):
 
 # test we have some cognates
 def test_cognates(cldf_dataset):
-    assert len(list(cldf_dataset["CognateTable"])) == 1000
+    assert len(list(cldf_dataset["CognateTable"])) == 233260
