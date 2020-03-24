@@ -23,7 +23,7 @@ class Dataset(abvd.BVD):
     form_spec = FormSpec(
         brackets={"[": "]", "{": "}", "(": ")"},
         separators=";/,~",
-        missing_data=("-",),
+        missing_data=("-","ŋO EŋTRY"),
         strip_inside_brackets=True,
     )
 
