@@ -1,4 +1,4 @@
-# CLDF dataset derived from Greenhill et al.'s "Austronesian Basic Vocabulary Database" from 2020.
+# CLDF dataset derived from Greenhill et al.'s "Austronesian Basic Vocabulary Database" from 2020
 
 Cite the source dataset as
 
