@@ -1,5 +1,4 @@
 from setuptools import setup
-import sys
 import json
 
 with open('metadata.json', 'r', encoding='utf-8') as fp:
