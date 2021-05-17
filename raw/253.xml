@@ -4,7 +4,7 @@
 	<author>POLLEX 2000 (Bruce Biggs &amp; Ross Clark)</author>
 	<silcode>aud</silcode>
 	<glottocode>anut1237</glottocode>
-	<notes>Additional Data taken from the Blust's ACD</notes>
+	<notes>Additional Data taken from Blust's ACD</notes>
 	<problems></problems>
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, Samoic-Outlier, Futunic</classification>
 	<typedby>Simon Greenhill</typedby>
@@ -32,7 +32,7 @@
 	<item>rima</item>
 	<annotation>Hand-arm (Yen)</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -41,9 +41,9 @@
 	<word_id>1</word_id>
 	<word>hand</word>
 	<item>nima</item>
-	<annotation>Five, hand-arm (Fbg) B. [&lt;]</annotation>
+	<annotation>L from Tongan </annotation>
 	<loan>L</loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -218,7 +218,7 @@
 	<word>bone</word>
 	<item>ui</item>
 	<annotation>&lt;Ui. :Bone (Yen) B.&gt;</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>52</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -494,7 +494,7 @@
 	<item>kai</item>
 	<annotation>Eat, food (Yen)</annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -505,7 +505,7 @@
 	<item>kamu</item>
 	<annotation>Pollex 06 Kamu. :Chew (Fbg).</annotation>
 	<loan></loan>
-	<cognacy>7?</cognacy>
+	<cognacy>7, 74</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -604,7 +604,7 @@
 	<item>moe</item>
 	<annotation>sleep</annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -701,9 +701,9 @@
 	<word_id>56</word_id>
 	<word>child</word>
 	<item>tamati</item>
-	<annotation>Child (Fbg) B. [&lt;]</annotation>
+	<annotation>L from Tongan (Biggs 1980)</annotation>
 	<loan>L</loan>
-	<cognacy>6,64</cognacy>
+	<cognacy>6,103</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -756,9 +756,9 @@
 	<word_id>60</word_id>
 	<word>father</word>
 	<item>tamai</item>
-	<annotation>Father (Fbg) B. [&lt;]</annotation>
+	<annotation>L from Tongan</annotation>
 	<loan>L</loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 52</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -813,7 +813,7 @@
 	<item>karaŋa</item>
 	<annotation>say</annotation>
 	<loan></loan>
-	<cognacy>60</cognacy>
+	<cognacy>169</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -844,7 +844,7 @@
 	<word_id>66</word_id>
 	<word>to tie up, fasten</word>
 	<item>nonoo</item>
-	<annotation>Tie two pieces of cord together, cord (Fbg) - Ton loan ? - JCM</annotation>
+	<annotation>Tie two pieces of cord together, cord (Fbg) </annotation>
 	<loan></loan>
 	<cognacy>15</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -857,7 +857,7 @@
 	<item>titina</item>
 	<annotation>sew</annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1066,7 +1066,7 @@
 	<item>kakai</item>
 	<annotation>Sharp (as a knife) (Fbg)</annotation>
 	<loan></loan>
-	<cognacy>14,67</cognacy>
+	<cognacy>14</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1328,8 +1328,8 @@
 	<word_id>102</word_id>
 	<word>rat</word>
 	<item>kumaa</item>
-	<annotation>Rat (Fbg)</annotation>
-	<loan></loan>
+	<annotation>L from Tongan</annotation>
+	<loan>L</loan>
 	<cognacy>13</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1462,7 +1462,7 @@
 	<item>rara</item>
 	<annotation>Small branch (Fbg)</annotation>
 	<loan></loan>
-	<cognacy>1,33</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1615,7 +1615,7 @@
 	<word>sea</word>
 	<item>vata</item>
 	<annotation>Open sea (Fbg)</annotation>
-	<loan>L?</loan>
+	<loan></loan>
 	<cognacy>12</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1648,7 +1648,7 @@
 	<word>moon</word>
 	<item>maaina</item>
 	<annotation>Moon, month (Yen) B. [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>37, 5</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1822,10 +1822,10 @@
 	<id>122784</id>
 	<word_id>144</word_id>
 	<word>to burn</word>
-	<item>tungia</item>
-	<annotation>Put fire to something, throw something in fire</annotation>
+	<item>kakaa</item>
+	<annotation>Biggs 1980 </annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1836,7 +1836,7 @@
 	<item>tutu</item>
 	<annotation>Kindle, ignite (Fbg)</annotation>
 	<loan></loan>
-	<cognacy>6</cognacy>
+	<cognacy>1, 6</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1912,8 +1912,8 @@
 	<word>red</word>
 	<item>oata</item>
 	<annotation>Red or reddish-brown (Fbg) b. [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>15</cognacy>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2001,7 +2001,7 @@
 	<item>ro(ro)a</item>
 	<annotation>Long (Yen)</annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2098,7 +2098,7 @@
 	<word_id>165</word_id>
 	<word>bad, evil</word>
 	<item>kovi</item>
-	<annotation>Bad (Fbg). Probable loan from Tongan</annotation>
+	<annotation>L from Tongan</annotation>
 	<loan>L</loan>
 	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2132,7 +2132,7 @@
 	<word>night</word>
 	<item>pouri</item>
 	<annotation>Night, darkness, be dark (Fbg) B. [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -2142,9 +2142,9 @@
 	<word_id>168</word_id>
 	<word>day</word>
 	<item>ao</item>
-	<annotation>Day (not night), day (period of time) (Fbg),  Green 71 notes this is a loan from Tikopia</annotation>
-	<loan>L</loan>
-	<cognacy></cognacy>
+	<annotation>Day (not night), day (period of time) (Fbg),  Green 71 notes this is a loan from Tikopia, but it is not determinable.</annotation>
+	<loan></loan>
+	<cognacy>1, 54</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2417,9 +2417,9 @@
 	<word_id>187</word_id>
 	<word>they</word>
 	<item>na</item>
-	<annotation>They dual (Fbg) [&amp;&lt;]</annotation>
+	<annotation>L from Tongan</annotation>
 	<loan>L</loan>
-	<cognacy>x</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2428,9 +2428,20 @@
 	<word_id>187</word_id>
 	<word>they</word>
 	<item>naaua</item>
-	<annotation>Third person dual pronoun (Fbg) [&amp;&lt;]</annotation>
-	<loan></loan>
-	<cognacy>x</cognacy>
+	<annotation>L from Tongan</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229931</id>
+	<word_id>187</word_id>
+	<word>they</word>
+	<item>natou</item>
+	<annotation>L from Tongan</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2483,8 +2494,8 @@
 	<word_id>192</word_id>
 	<word>and</word>
 	<item>mo</item>
-	<annotation>With</annotation>
-	<loan></loan>
+	<annotation>L from Tongan</annotation>
+	<loan>L</loan>
 	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -2518,7 +2529,7 @@
 	<item>kairo</item>
 	<annotation>no</annotation>
 	<loan></loan>
-	<cognacy>83?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2529,7 +2540,7 @@
 	<item>rau</item>
 	<annotation>Count (Yen)</annotation>
 	<loan></loan>
-	<cognacy>8,62</cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2540,7 +2551,7 @@
 	<item>ta/tau</item>
 	<annotation>Count, read (Fbg)</annotation>
 	<loan></loan>
-	<cognacy>8</cognacy>
+	<cognacy>8,80</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2550,7 +2561,7 @@
 	<word>One</word>
 	<item>tai</item>
 	<annotation>One (Fbg) B. [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>41</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -2604,7 +2615,7 @@
 	<word_id>201</word_id>
 	<word>Five</word>
 	<item>nima</item>
-	<annotation>Five, hand-arm (Fbg) B.[&gt;].(Source: Pollex)</annotation>
+	<annotation>L from Tongan</annotation>
 	<loan>L</loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2649,8 +2660,8 @@
 	<word>Nine</word>
 	<item>iva</item>
 	<annotation>Nine (Yen).(Source: Pollex). Green 71 notes this is a loan from Tikopia</annotation>
-	<loan>L</loan>
-	<cognacy>5,66</cognacy>
+	<loan></loan>
+	<cognacy>5,44, 66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

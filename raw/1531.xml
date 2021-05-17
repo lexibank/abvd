@@ -17,7 +17,12 @@ The numerals in Caac have been collected by Maurice LEENHARDT. To check the Caac
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, New Caledonian, Northern, Extreme Northern</classification>
 	<typedby>David PIEKUT</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@misc{HollymanMweau,
+    author = {Jim Hollyman and Maurice Mwêau},
+    date = {1960},
+    howpublished = {personal communication}
+}
+</source>
 </record>
 
 <record>
@@ -27,7 +32,7 @@ The numerals in Caac have been collected by Maurice LEENHARDT. To check the Caac
 	<item>hik</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -38,7 +43,7 @@ The numerals in Caac have been collected by Maurice LEENHARDT. To check the Caac
 	<item>mɔ</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,59</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1732,7 +1737,7 @@ The numerals in Caac have been collected by Maurice LEENHARDT. To check the Caac
 	<item>dep</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

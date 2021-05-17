@@ -3,7 +3,7 @@
 	<language>Mele</language>
 	<author>Tryon (1976)</author>
 	<silcode>mxe</silcode>
-	<glottocode>mele1250</glottocode>
+	<glottocode>mele1251</glottocode>
 	<notes>Tryon, DT. 1976. New Hebrides Languages: An internal classification. Canberra: Pacific Linguistics.</notes>
 	<problems></problems>
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, Samoic-Outlier, Futunic</classification>
@@ -47,7 +47,7 @@
 	<item>te-rima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -179,7 +179,7 @@
 	<item>tepua</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>11, 62</cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -443,7 +443,7 @@
 	<item>kaina</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -487,7 +487,7 @@
 	<item>komia</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>50</cognacy>
+	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -509,7 +509,7 @@
 	<item>raŋona</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 83</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -542,7 +542,7 @@
 	<item>moe</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -661,8 +661,8 @@
 	<word_id>60</word_id>
 	<word>father</word>
 	<item>emama</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>L from Efate lgs</annotation>
+	<loan>L</loan>
 	<cognacy>1,10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -729,7 +729,7 @@
 	<item>tuitui</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -894,7 +894,7 @@
 	<item>kamoa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>85?</cognacy>
+	<cognacy>1,85</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1244,9 +1244,9 @@
 	<word_id>127</word_id>
 	<word>woods/forest</word>
 	<item>malasi</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>77?</cognacy>
+	<annotation>L from Namakura or Nakanamanga</annotation>
+	<loan>L</loan>
+	<cognacy>18</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1378,7 +1378,7 @@
 	<item>leusa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>11?</cognacy>
+	<cognacy>123</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1497,8 +1497,8 @@
 	<word_id>153</word_id>
 	<word>big</word>
 	<item>poulapa</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>L from Efate lgs</annotation>
+	<loan>L</loan>
 	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1609,7 +1609,7 @@
 	<item>marie</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>105</cognacy>
+	<cognacy>106</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1631,7 +1631,7 @@
 	<item>rea</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>7?</cognacy>
+	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1895,7 +1895,7 @@
 	<item>eueči</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>60?</cognacy>
+	<cognacy>60</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1904,9 +1904,9 @@
 	<word_id>192</word_id>
 	<word>and</word>
 	<item>ŋo</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>9</cognacy>
+	<annotation>L from Nakanamanga</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2049,7 +2049,7 @@
 	<item>siβa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,44,43</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

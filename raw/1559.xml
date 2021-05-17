@@ -4,8 +4,7 @@
 	<author>Huang (2011)</author>
 	<silcode>jio</silcode>
 	<glottocode>jiam1236</glottocode>
-	<notes>
-Huang, Quan 黄权. 2011. Chinese-Hlai dictionary (Sai dialect) [汉黎字典(赛方言)]. Kunming: Yunnan People's Press 云南民族出版社.
+	<notes>Huang, Quan 黄权. 2011. Chinese-Hlai dictionary (Sai dialect) [汉黎字典(赛方言)]. Kunming: Yunnan People's Press 云南民族出版社.
 
 This is the previously undocumented Jiamao dialect of Lingshui County, rather than the previously documented Jiamao dialect of Jiamao Township, Baoting County in Hainan.
 
@@ -15,7 +14,23 @@ Note that there are many nominal prefixes such as kɯ³³.
 	<classification>Tai-Kadai, Hlaic, Jiamao</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby>Andrew Hsiu</checkedby>
-	<source></source>
+	<source>@book{572786,
+  address        = {Kunming},
+  author         = {Huáng, Quán},
+  pages          = {305},
+  publisher      = {Yunnan minzu chubanshe},
+  title          = {Han li zidian},
+  year           = {2011},
+  besttxt        = {ptxt2\eurasia\huang_jiamao2011_o.txt},
+  fn             = {eurasia\huang_jiamao2011.pdf, eurasia\huang_jiamao2011_o.pdf},
+  hhtype         = {dictionary},
+  inlg           = {Chinese Mandarin [cmn]},
+  lgcode         = {Jiamao [jio]},
+  macro_area     = {Eurasia},
+  src            = {hh},
+  title_english  = {Han-Li dictionary},
+  title_original = {汉黎字典}
+}</source>
 </record>
 
 <record>

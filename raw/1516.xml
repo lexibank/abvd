@@ -11,8 +11,7 @@ Adelaar, Alexander. 2011. Siraya: Retrieving the Phonology, Grammar and Lexicon 
 	<classification>Austronesian, East Formosan, Southwest</classification>
 	<typedby>Malcolm Ross</typedby>
 	<checkedby></checkedby>
-	<source>
-@book{17632,
+	<source>@book{17632,
   address    = {Berlin},
   author     = {Adelaar, Alexander},
   pages      = {xvi+413},
@@ -22,11 +21,7 @@ Adelaar, Alexander. 2011. Siraya: Retrieving the Phonology, Grammar and Lexicon 
   url        = {http://www.degruyter.com/view/books/9783110252965/9783110252965/9783110252965.xml},
   volume     = {30},
   year       = {2011},
-  besttxt    = {ptxt2papuadelaar_siraya2011.txt},
-  cfn        = {papuadelaar_siraya2011.pdf},
-  delivered  = {papuadelaar_siraya2011.pdf},
   doi        = {10.1515/9783110252965},
-  fn         = {papuadelaar_siraya2011.pdf},
   hhtype     = {grammar},
   inlg       = {English [eng]},
   isbn       = {9783110252965, 978-3-11-025295-8},

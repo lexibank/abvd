@@ -32,7 +32,7 @@
 	<item>rima</item>
 	<annotation>Five, hand-arm</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -195,7 +195,7 @@
 	<word_id>18</word_id>
 	<word>breast</word>
 	<item>mumu</item>
-	<annotation>Likely loan from Van lgs</annotation>
+	<annotation>L from (likely) Namakura</annotation>
 	<loan>L</loan>
 	<cognacy>30</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -395,7 +395,7 @@
 	<item>keina</item>
 	<annotation>Eat (Clk)</annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -494,7 +494,7 @@
 	<item>fanoŋo</item>
 	<annotation>Listen</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 59</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -516,7 +516,7 @@
 	<item>kutea</item>
 	<annotation>See (Clk)</annotation>
 	<loan></loan>
-	<cognacy>1?</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -527,7 +527,7 @@
 	<item>mamava</item>
 	<annotation>Yawn</annotation>
 	<loan></loan>
-	<cognacy>19</cognacy>
+	<cognacy>19, 39</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -538,7 +538,7 @@
 	<item>moe</item>
 	<annotation>Sleep</annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -636,7 +636,7 @@
 	<word>child</word>
 	<item>tamatiiti</item>
 	<annotation>Child (Clk) [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>6,64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -747,7 +747,7 @@
 	<item>tui/a</item>
 	<annotation>Sew, string (Clk)</annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -755,10 +755,10 @@
 	<id>153879</id>
 	<word_id>70</word_id>
 	<word>to shoot</word>
-	<item>ri/fia</item>
-	<annotation>Pollex 06: Ri/fia. :To blow, shoot with gun, fan.</annotation>
+	<item>fana</item>
+	<annotation>Pollex, from Capell</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -956,7 +956,7 @@
 	<item>ma/kakai/</item>
 	<annotation>Sharp</annotation>
 	<loan></loan>
-	<cognacy>14,16,67</cognacy>
+	<cognacy>14,16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1022,7 +1022,7 @@
 	<item>fota/ia</item>
 	<annotation>Squeeze (Clk)</annotation>
 	<loan></loan>
-	<cognacy>8</cognacy>
+	<cognacy>8, 2, 93</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1132,7 +1132,7 @@
 	<item>bakakau</item>
 	<annotation>Wing (Clk)</annotation>
 	<loan></loan>
-	<cognacy>1,59</cognacy>
+	<cognacy>1,59,88</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1648,7 +1648,7 @@
 	<word>smoke</word>
 	<item>asu/afi</item>
 	<annotation>Smoke (Clk) [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1659,8 +1659,8 @@
 	<word>smoke</word>
 	<item>aasu</item>
 	<annotation>To smoke, give off smoke (Mlr) smoke n. [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>2</cognacy>
+	<loan></loan>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1715,7 +1715,7 @@
 	<item>tiiti</item>
 	<annotation>Small (Clk); with irregular initial t-</annotation>
 	<loan></loan>
-	<cognacy>121</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1814,7 +1814,7 @@
 	<item>suumarie</item>
 	<annotation>Good</annotation>
 	<loan></loan>
-	<cognacy>16</cognacy>
+	<cognacy>16, 141</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1823,9 +1823,9 @@
 	<word_id>165</word_id>
 	<word>bad, evil</word>
 	<item>saa/ti</item>
-	<annotation>Bad (Clk) [&lt;]</annotation>
+	<annotation>L from Van lgs (looks like PNVC *sa'a-ti, not simply a retention of PCP *sa'a)</annotation>
 	<loan>L</loan>
-	<cognacy>1,58</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2188,7 +2188,7 @@
 	<item>siva</item>
 	<annotation>Nine (Clk)[&gt;].(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,44,43</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2199,7 +2199,7 @@
 	<item>ŋahuru</item>
 	<annotation>Ten.(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2210,7 +2210,7 @@
 	<item>gafuru</item>
 	<annotation>Ten.(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

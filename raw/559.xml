@@ -3,7 +3,7 @@
 	<language>Bellona</language>
 	<author>Tryon &amp; Hackman (1983)</author>
 	<silcode>mnv</silcode>
-	<glottocode>renn1242</glottocode>
+	<glottocode>mung1270</glottocode>
 	<notes>Tryon, D.T. &amp; Hackman, B. (1983) Solomon Islands languages: an internal classification.</notes>
 	<problems></problems>
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, Samoic-Outlier, Futunic</classification>
@@ -47,7 +47,7 @@
 	<item>ŋima</item>
 	<annotation>arm</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -476,7 +476,7 @@
 	<item>kai</item>
 	<annotation>eat</annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -564,7 +564,7 @@
 	<item>moe</item>
 	<annotation>sleep</annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -607,7 +607,7 @@
 	<word>person/human being</word>
 	<item>peŋea</item>
 	<annotation>person</annotation>
-	<loan>L?</loan>
+	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -883,7 +883,7 @@
 	<item>togi</item>
 	<annotation>cut (wood)</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -905,7 +905,7 @@
 	<item>haʔahaʔa</item>
 	<annotation>split</annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5, 96</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -916,7 +916,7 @@
 	<item>kakai</item>
 	<annotation>sharp</annotation>
 	<loan></loan>
-	<cognacy>14,67</cognacy>
+	<cognacy>14</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1222,9 +1222,9 @@
 	<word_id>112</word_id>
 	<word>rotten</word>
 	<item>māseʔi</item>
-	<annotation>rotten</annotation>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>117</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1235,7 +1235,7 @@
 	<item>ŋaʔa</item>
 	<annotation>branch</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1378,7 +1378,7 @@
 	<item>mouku</item>
 	<annotation>bush</annotation>
 	<loan></loan>
-	<cognacy>66?</cognacy>
+	<cognacy>66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1576,7 +1576,7 @@
 	<item>beŋa</item>
 	<annotation>burn</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>63</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1708,7 +1708,7 @@
 	<item>ŋoa</item>
 	<annotation>long</annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1818,7 +1818,7 @@
 	<item>māseʔi</item>
 	<annotation>bad</annotation>
 	<loan></loan>
-	<cognacy>42,1?</cognacy>
+	<cognacy>42</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1840,7 +1840,7 @@
 	<item>māʔoŋi</item>
 	<annotation>correct</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2313,7 +2313,7 @@
 	<item>iba</item>
 	<annotation>nine</annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

@@ -4,14 +4,27 @@
 	<author>Abbi (2011)</author>
 	<silcode></silcode>
 	<glottocode>grea1241</glottocode>
-	<notes>
-Abbi, Anvita. 2011. Dictionary of the Great Andamanese language. Port Blair: Ratna Sagar. (Supplementary CD)
+	<notes>Abbi, Anvita. 2011. Dictionary of the Great Andamanese language. Port Blair: Ratna Sagar. (Supplementary CD)
 </notes>
 	<problems></problems>
 	<classification>Great Andamanese</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby>Andrew Hsiu</checkedby>
-	<source></source>
+	<source>@book{37740,
+  address    = {Port Blair},
+  author     = {Anvita Abbi},
+  pages      = {lxxii+480},
+  publisher  = {Ratna Sagar},
+  title      = {Dictionary of the Great Andamanese language},
+  year       = {2011},
+  hhtype     = {dictionary},
+  inlg       = {English [eng]},
+  isbn       = {9789350361252},
+  lgcode     = {Bo = Aka-Bo [akm], Khora = Aka-Kora [ack], Jeru [akj], Sare = Aka-Cari [aci]},
+  macro_area = {Eurasia},
+  src        = {hh}
+}
+</source>
 </record>
 
 <record>

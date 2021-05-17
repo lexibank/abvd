@@ -43,7 +43,7 @@
 	<item>rima</item>
 	<annotation>Five, hand</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -87,7 +87,7 @@
 	<item>katau</item>
 	<annotation>Right (as opposed to left) (Bse)</annotation>
 	<loan></loan>
-	<cognacy>5, 40</cognacy>
+	<cognacy>5,40</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -415,8 +415,8 @@
 	<word_id>22</word_id>
 	<word>to fear</word>
 	<item>iì</item>
-	<annotation>Fear, dread (Sve) [&lt;]</annotation>
-	<loan>L</loan>
+	<annotation></annotation>
+	<loan></loan>
 	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -461,7 +461,7 @@
 	<item>'uru</item>
 	<annotation>Hair (of animals and body-hair of humans), fur, feathers, fleece (Bse)</annotation>
 	<loan></loan>
-	<cognacy>31</cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -615,7 +615,7 @@
 	<item>kai-nga</item>
 	<annotation>Food, eat</annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -637,7 +637,7 @@
 	<item>-ìa</item>
 	<annotation>Chew</annotation>
 	<loan></loan>
-	<cognacy>8</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -691,8 +691,8 @@
 	<word>to bite</word>
 	<item>eti</item>
 	<annotation>Gnaw, tear, bite [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>x</cognacy>
+	<loan></loan>
+	<cognacy>9, 84</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -714,7 +714,7 @@
 	<item>-ìa</item>
 	<annotation>absorb (Bse)  Suck</annotation>
 	<loan></loan>
-	<cognacy>71</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -802,7 +802,7 @@
 	<item>moe</item>
 	<annotation>Sleep</annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -987,8 +987,8 @@
 	<word_id>59</word_id>
 	<word>mother</word>
 	<item>māmā</item>
-	<annotation>borrowing?-MW</annotation>
-	<loan>L?</loan>
+	<annotation>L from English</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1000,7 +1000,7 @@
 	<item>metua</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,9</cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1009,8 +1009,8 @@
 	<word_id>60</word_id>
 	<word>father</word>
 	<item>pā</item>
-	<annotation>borrowing?-MW</annotation>
-	<loan>L?</loan>
+	<annotation>L from English</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1020,8 +1020,8 @@
 	<word_id>60</word_id>
 	<word>father</word>
 	<item>pāpā</item>
-	<annotation>borrowing?-MW</annotation>
-	<loan>L?</loan>
+	<annotation>L from English</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1066,7 +1066,7 @@
 	<item>araara</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>60</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1077,7 +1077,7 @@
 	<item>karanga</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>60</cognacy>
+	<cognacy>169</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1187,7 +1187,7 @@
 	<item>tui</item>
 	<annotation>Sew, thread, pierce (Sve)</annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1550,7 +1550,7 @@
 	<item>ngaàa</item>
 	<annotation>Open, cracked, broken, split, severed</annotation>
 	<loan></loan>
-	<cognacy>5,72</cognacy>
+	<cognacy>5, 97</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -2023,7 +2023,7 @@
 	<item>peeàu</item>
 	<annotation>Wing, pectoral fin (Bse)</annotation>
 	<loan></loan>
-	<cognacy>1,59</cognacy>
+	<cognacy>1,81</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -2098,9 +2098,9 @@
 	<word_id>106</word_id>
 	<word>snake</word>
 	<item>'ōuī</item>
-	<annotation></annotation>
-	<loan>L?</loan>
-	<cognacy>77</cognacy>
+	<annotation>L from Greek</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2199,7 +2199,7 @@
 	<item>raaraa</item>
 	<annotation>Branch, twig, off-shoot</annotation>
 	<loan></loan>
-	<cognacy>1,33</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2408,7 +2408,7 @@
 	<item>uru/raakau</item>
 	<annotation>Clump of trees</annotation>
 	<loan></loan>
-	<cognacy>15, 110</cognacy>
+	<cognacy>15, 13</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2474,7 +2474,7 @@
 	<item>tūrangi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>3, 36</cognacy>
+	<cognacy>3</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2485,7 +2485,7 @@
 	<item>tumurangi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>36</cognacy>
+	<cognacy>3</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2650,7 +2650,7 @@
 	<item>mā'ū</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2661,7 +2661,7 @@
 	<item>mā'ū'ū</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2738,7 +2738,7 @@
 	<item>tutungi</item>
 	<annotation>Pass. tuungia Set fire to, kindle, light (match, lamp, cigarette, etc.) (Buse)</annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy>1,7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2835,7 +2835,7 @@
 	<word_id>149</word_id>
 	<word>red</word>
 	<item>'ute</item>
-	<annotation>Red B. (Mka) [&lt;]</annotation>
+	<annotation>L from Tahitian</annotation>
 	<loan>L</loan>
 	<cognacy>14</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2847,7 +2847,7 @@
 	<word>yellow</word>
 	<item>rengarenga</item>
 	<annotation>Yellow</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>10</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
@@ -2892,7 +2892,7 @@
 	<item>iti</item>
 	<annotation>Small</annotation>
 	<loan></loan>
-	<cognacy>121</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -3024,7 +3024,7 @@
 	<item>roa</item>
 	<annotation>Long a</annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -3750,7 +3750,7 @@
 	<item>tatau</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>8</cognacy>
+	<cognacy>8,80</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3860,7 +3860,7 @@
 	<item>iva</item>
 	<annotation>Nine.(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3871,7 +3871,7 @@
 	<item>nga'uru</item>
 	<annotation>Ten.(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3902,7 +3902,7 @@
 	<word_id>209</word_id>
 	<word>One Hundred</word>
 	<item>tai anere</item>
-	<annotation>English loan (ta'i 'one' ; 'anere 'loan for hundred')</annotation>
+	<annotation>L from English (ta'i 'one' ; 'anere 'loan for hundred')</annotation>
 	<loan>L</loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -3924,7 +3924,7 @@
 	<word_id>210</word_id>
 	<word>One Thousand</word>
 	<item>tavatini</item>
-	<annotation>English Loan</annotation>
+	<annotation>L from English</annotation>
 	<loan>L</loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -3935,7 +3935,7 @@
 	<word_id>210</word_id>
 	<word>One Thousand</word>
 	<item>tauatini</item>
-	<annotation>English Loan</annotation>
+	<annotation>L from English</annotation>
 	<loan>L</loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>

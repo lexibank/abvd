@@ -32,7 +32,7 @@
 	<item>lima</item>
 	<annotation>Five, hand</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -648,7 +648,7 @@
 	<item>kai</item>
 	<annotation>Food, eat</annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -780,7 +780,7 @@
 	<item>momi</item>
 	<annotation>Eat with lips only, suck</annotation>
 	<loan></loan>
-	<cognacy>11</cognacy>
+	<cognacy>71</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -868,7 +868,7 @@
 	<item>tio</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>47</cognacy>
+	<cognacy>132</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -890,7 +890,7 @@
 	<item>moe</item>
 	<annotation>Lie down, sleep (Bgs)</annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1165,7 +1165,7 @@
 	<item>noa/kie</item>
 	<annotation>Ceinture</annotation>
 	<loan></loan>
-	<cognacy>15, 16</cognacy>
+	<cognacy>15</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1187,7 +1187,7 @@
 	<item>tui</item>
 	<annotation>Sew (Bgs)</annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1274,7 +1274,7 @@
 	<word>to hit</word>
 	<item>paatuu</item>
 	<annotation>Strike (Bgs) [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1440,7 +1440,7 @@
 	<item>talai</item>
 	<annotation>Trim branches off tree</annotation>
 	<loan></loan>
-	<cognacy>1?</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1484,7 +1484,7 @@
 	<item>kakai</item>
 	<annotation>Affile, aiguise, tranchant (Gzl)</annotation>
 	<loan></loan>
-	<cognacy>14,67</cognacy>
+	<cognacy>14</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1495,7 +1495,7 @@
 	<item>fakakaa</item>
 	<annotation>Sharpen</annotation>
 	<loan></loan>
-	<cognacy>14,17</cognacy>
+	<cognacy>14,15</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1660,7 +1660,7 @@
 	<item>sufegi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2012,7 +2012,7 @@
 	<item>laàlaà</item>
 	<annotation>Small branch</annotation>
 	<loan></loan>
-	<cognacy>1,33</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2340,7 +2340,7 @@
 	<word_id>134</word_id>
 	<word>thunder</word>
 	<item>mana</item>
-	<annotation>Pollex 06: Mana. :Thunder (Bgs).</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>37</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2350,10 +2350,10 @@
 	<id>170066</id>
 	<word_id>134</word_id>
 	<word>thunder</word>
-	<item>mana</item>
+	<item></item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>37</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2485,7 +2485,7 @@
 	<item>maaluu</item>
 	<annotation>Pollex 06: Maaluu. :Damp, wet (Bgs).</annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>123</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2494,9 +2494,9 @@
 	<word_id>141</word_id>
 	<word>wet</word>
 	<item>mātu'u</item>
-	<annotation>wet for clothes</annotation>
+	<annotation>damp clothes</annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2507,7 +2507,7 @@
 	<item>vikuviku</item>
 	<annotation>for the head</annotation>
 	<loan></loan>
-	<cognacy>48</cognacy>
+	<cognacy>10, 48</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2518,7 +2518,7 @@
 	<item>fakasasau</item>
 	<annotation>by dew</annotation>
 	<loan></loan>
-	<cognacy>11?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2573,7 +2573,7 @@
 	<item>susunu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>6</cognacy>
+	<cognacy>106</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2605,8 +2605,8 @@
 	<word>smoke</word>
 	<item>aau-sia</item>
 	<annotation>Enfume (Mfr) [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>2</cognacy>
+	<loan></loan>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2617,7 +2617,7 @@
 	<item>galafu</item>
 	<annotation>Ashes (Bgs)</annotation>
 	<loan></loan>
-	<cognacy>1, 60</cognacy>
+	<cognacy>67, 60</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2628,7 +2628,7 @@
 	<item>mugālafu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1, 60</cognacy>
+	<cognacy>67, 60</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2636,9 +2636,9 @@
 	<id>122619</id>
 	<word_id>146</word_id>
 	<word>ash</word>
-	<item>lafu</item>
-	<annotation>Ashes B. (Bgs) [&lt;]</annotation>
-	<loan>L</loan>
+	<item>lefu</item>
+	<annotation>Ashes (Mfr)</annotation>
+	<loan></loan>
 	<cognacy>67</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -2671,8 +2671,8 @@
 	<word>red</word>
 	<item>(soa)soata</item>
 	<annotation>Red (Gzl) [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>15</cognacy>
+	<loan></loan>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2747,7 +2747,7 @@
 	<word_id>152</word_id>
 	<word>small</word>
 	<item>ìkiìki</item>
-	<annotation>Small (Bgs) (b) [&lt;]</annotation>
+	<annotation>L likely from Tongan</annotation>
 	<loan>L</loan>
 	<cognacy>66</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2782,7 +2782,7 @@
 	<item>loa</item>
 	<annotation>Long</annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2848,7 +2848,7 @@
 	<item>lau-lasi</item>
 	<annotation>Broad, wide (Bgs)</annotation>
 	<loan></loan>
-	<cognacy>9</cognacy>
+	<cognacy>73, 9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2978,9 +2978,9 @@
 	<word_id>167</word_id>
 	<word>night</word>
 	<item>poo/'uli</item>
-	<annotation>Night</annotation>
+	<annotation>DUP entry</annotation>
 	<loan></loan>
-	<cognacy>1,10</cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2990,7 +2990,7 @@
 	<word>night</word>
 	<item>poo'uli</item>
 	<annotation>Night, be night B. [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>1,10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -3078,8 +3078,8 @@
 	<word>at</word>
 	<item>teì(teì)</item>
 	<annotation>Sur le point de...presque, peu s'en faut,  peu peu s'en est fallu (Gzl) [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>5</cognacy>
+	<loan></loan>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3539,9 +3539,9 @@
 	<word_id>194</word_id>
 	<word>how?</word>
 	<item>fefeàki</item>
-	<annotation>How? [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>11,52</cognacy>
+	<annotation>DUP</annotation>
+	<loan></loan>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3552,7 +3552,7 @@
 	<item>leè</item>
 	<annotation>Not, negativiser (Bgs)</annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>111</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3563,7 +3563,7 @@
 	<item>leè/ai</item>
 	<annotation>No, not, non-existent (Bgs)</annotation>
 	<loan></loan>
-	<cognacy>13,84</cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3574,7 +3574,7 @@
 	<item>'eè/ai</item>
 	<annotation>No, not, non-existent. This may be replacing lee`ai (Bgs)</annotation>
 	<loan></loan>
-	<cognacy>13,84</cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3585,7 +3585,7 @@
 	<item>lè/ikiai see</item>
 	<annotation>Not yet (Bgs)</annotation>
 	<loan></loan>
-	<cognacy>13,10,84</cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3596,7 +3596,7 @@
 	<item>lee/ài</item>
 	<annotation>No (Bgs)</annotation>
 	<loan></loan>
-	<cognacy>13,83</cognacy>
+	<cognacy>111,83</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3618,7 +3618,7 @@
 	<item>lau</item>
 	<annotation>Read, recite (Bgs), Compter</annotation>
 	<loan></loan>
-	<cognacy>8</cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3728,7 +3728,7 @@
 	<item>iva</item>
 	<annotation>Nine.(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

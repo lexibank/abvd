@@ -439,7 +439,7 @@
 	<item>kai</item>
 	<annotation>Eat (Sma)</annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -626,7 +626,7 @@
 	<item>tamaaloa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -785,6 +785,17 @@
 </record>
 
 <record>
+	<id>3229923</id>
+	<word_id>67</word_id>
+	<word>to sew</word>
+	<item>hui</item>
+	<annotation>L from Samoan (Hovdhaugen 2011)</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>91565</id>
 	<word_id>68</word_id>
 	<word>needle</word>
@@ -847,6 +858,17 @@
 	<annotation>Hit, strike; blow (Sma)</annotation>
 	<loan></loan>
 	<cognacy>10</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229918</id>
+	<word_id>73</word_id>
+	<word>to steal</word>
+	<item>gaoi</item>
+	<annotation>L from Samoan (Hovdhaugen 2011)</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -922,8 +944,8 @@
 	<word>sharp</word>
 	<item>kakaha</item>
 	<annotation>Sharpness, keenness (Sma) [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>14,17</cognacy>
+	<loan></loan>
+	<cognacy>14,15</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1082,6 +1104,17 @@
 </record>
 
 <record>
+	<id>3229920</id>
+	<word_id>96</word_id>
+	<word>dog</word>
+	<item>maile</item>
+	<annotation>L from Samoan (Hovdhaugen 2011)</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>34517</id>
 	<word_id>97</word_id>
 	<word>bird</word>
@@ -1108,9 +1141,9 @@
 	<word_id>100</word_id>
 	<word>wing</word>
 	<item>kapahau</item>
-	<annotation>Wing (Sma) [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>1, 59</cognacy>
+	<annotation>phonologically irregular but no clear borrowing</annotation>
+	<loan></loan>
+	<cognacy>1, 81</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1209,7 +1242,7 @@
 	<item>laalaa</item>
 	<annotation>Side branches</annotation>
 	<loan></loan>
-	<cognacy>1,33</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1549,7 +1582,7 @@
 	<word>smoke</word>
 	<item>ahu</item>
 	<annotation>Smoke, smoky B. [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1584,6 +1617,17 @@
 	<annotation>Occurs as an element of names only, meaning pale-coloured (Sma)</annotation>
 	<loan></loan>
 	<cognacy>8</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229922</id>
+	<word_id>148</word_id>
+	<word>white</word>
+	<item>paepae</item>
+	<annotation>L from Samoan (Hovdhaugen 2011)</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1643,6 +1687,17 @@
 </record>
 
 <record>
+	<id>3229921</id>
+	<word_id>156</word_id>
+	<word>thin</word>
+	<item>paē</item>
+	<annotation>L from Samoan (Hovdhaugen 2011)</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>56294</id>
 	<word_id>158</word_id>
 	<word>narrow</word>
@@ -1660,7 +1715,18 @@
 	<item>lau/efa</item>
 	<annotation>Pollex 06: Lau/efa. :Wide.</annotation>
 	<loan></loan>
-	<cognacy>9</cognacy>
+	<cognacy>73, 9</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229919</id>
+	<word_id>160</word_id>
+	<word>painful, sick</word>
+	<item>mai</item>
+	<annotation>L from Samoan (Hovdhaugen 2011)</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1934,7 +2000,7 @@
 	<word>how?</word>
 	<item>vefea</item>
 	<annotation>How? (Sma) [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -2001,7 +2067,7 @@
 	<item>iva</item>
 	<annotation>Nine.(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

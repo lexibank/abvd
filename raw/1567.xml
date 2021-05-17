@@ -10,7 +10,36 @@
 	<classification>Kusunda</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby>Andrew Hsiu</checkedby>
-	<source></source>
+	<source>
+@book{112237,
+  address          = {[Kathmandu]},
+  author           = {David E. Watters},
+  journal          = {Himalayan Linguistics Archive},
+  pages            = {182},
+  publisher        = {Nepal: National Foundation for the Development of Indigenous Nationalities},
+  series           = {Himalayan Linguistics Archive},
+  title            = {Notes on Kusunda Grammar: A Language Isolate of Nepal},
+  url              = {http://www.uwm.edu/Dept/CIE/HimalayanLinguistics/Archive_2006/Watters.Kusunda.pdf},
+  volume           = {3},
+  year             = {2006},
+  besttxt          = {ptxt\eurasia\watters_kusunda2006_o.txt},
+  cfn              = {eurasia\watters_kusunda2006_o.pdf},
+  class_loc        = {PL3801.K9},
+  delivered        = {eurasia\watters_kusunda2006_o.pdf},
+  document_type    = {CF},
+  filenames        = {kgg_watters2006.pdf},
+  fn               = {eurasia\watters_kusunda2006v2_o.pdf, eurasia\watters_kusunda2006_s.pdf, eurasia\watters_kusunda2006_o.pdf, eurasia/watters_kusunda2006_s.pdf},
+  fnnote           = {pdf, 750 KB},
+  hhtype           = {grammar},
+  inlg             = {English [eng]},
+  lgcode           = {Kusunda [kgg]},
+  macro_area       = {Eurasia},
+  mpifn            = {kusunda_watters2006_s.pdf},
+  src              = {hh, ldh, mpieva, phoible},
+  subject_headings = {Kusunda language, Kusunda language}
+}
+
+</source>
 </record>
 
 <record>

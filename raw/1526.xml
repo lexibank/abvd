@@ -9,7 +9,25 @@
 	<classification>Austronesian, Malayo-Polynesian, Greater Barito, East, Malagasy</classification>
 	<typedby>Sander Adelaar</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@incollection{25395,
+  address    = {Berlin},
+  author     = {Adelaar, K. A.},
+  booktitle  = {Comparative Austronesian dictionary: an introduction to Austronesian studies Volume 1},
+  editor     = {Tryon, Darrell T.},
+  pages      = {393-406},
+  publisher  = {Mouton de Gruyter},
+  series     = {Trends in Linguistics: Documentation},
+  title      = {Malagasy},
+  volume     = {10},
+  year       = {1995},
+  besttxt    = {ptxtfricadelaar_malagasy1995_o.txt},
+  fn         = {africadelaar_malagasy1995_o.pdf, africadelaar_malagasy1995.pdf},
+  hhtype     = {grammar_sketch},
+  inlg       = {English [eng]},
+  lgcode     = {Merina [plt]},
+  macro_area = {Africa},
+  src        = {hh}
+}</source>
 </record>
 
 <record>

@@ -3,7 +3,7 @@
 	<language>Fijian (Suva Dialect)</language>
 	<author>J. Saunders from informant Josefa Are Nakaivalu</author>
 	<silcode>fij</silcode>
-	<glottocode>fiji1243</glottocode>
+	<glottocode>sout2864</glottocode>
 	<notes></notes>
 	<problems></problems>
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, East Fijian</classification>
@@ -28,7 +28,7 @@
 	<item>ligamu</item>
 	<annotation>irregular medial C (see Pollex)</annotation>
 	<loan></loan>
-	<cognacy>1, 34</cognacy>
+	<cognacy>1, 64, 34</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -363,6 +363,17 @@
 </record>
 
 <record>
+	<id>3230419</id>
+	<word_id>34</word_id>
+	<word>to cry</word>
+	<item>Mo tagi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>168734</id>
 	<word_id>35</word_id>
 	<word>to vomit</word>
@@ -424,7 +435,7 @@
 	<item>mo domica</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>50</cognacy>
+	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -688,7 +699,7 @@
 	<item>tataya</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>3</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -930,7 +941,7 @@
 	<item>malai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>13</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1038,7 +1049,7 @@
 	<word_id>124</word_id>
 	<word>sea</word>
 	<item>wasawasa</item>
-	<annotation>Loan?</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>12</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1249,7 +1260,7 @@
 	<item>kama</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>62</cognacy>
+	<cognacy>107</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

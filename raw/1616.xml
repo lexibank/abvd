@@ -9,7 +9,27 @@
 	<classification>Nuclear Trans-New Guinea, Asmat-Awyu-Ok, Asmat-Kamoro</classification>
 	<typedby>Andrew C. Hsiu</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@incollection{160174,
+  address    = {Canberra},
+  author     = {Bert Voorhoeve},
+  booktitle  = {Papuan Pasts: Studies in the Cultural, Linguistic and Biological History of the Papuan-speaking Peoples},
+  editor     = {Pawley, Andrew and Robert Attenborough and Golson, Jack and Hide, Robin},
+  pages      = {145-166},
+  publisher  = {Research School of Pacific and Asian Studies, Australian National University},
+  series     = {Pacific Linguistics},
+  title      = {Asmat-Kamoro, Awyu-Dumut and Ok: An enquiry into their linguistic relationship},
+  volume     = {572},
+  year       = {2005},
+  besttxt    = {ptxt\papuaoorhoeve_asmat-kamoro-awyu-dumut-ok2005.txt},
+  cfn        = {papuaoorhoeve_asmat-kamoro-awyu-dumut-ok2005v2.pdf},
+  delivered  = {papuaoorhoeve_asmat-kamoro-awyu-dumut-ok2005v2.pdf},
+  fn         = {papuaoorhoeve_asmat-kamoro-awyu-dumut-ok2005v2.pdf, papuaoorhoeve_asmat-kamoro-awyu-dumut-ok2005.pdf, papuaoorhoeve_asmat-kamoro-awyu-dumut-ok2005_o.pdf, papuaoorhoeve_asmat-kamoro-awyu-dumut-ok2005v2_o.pdf},
+  hhtype     = {overview;comparative},
+  inlg       = {English [eng]},
+  lgcode     = {Sabakor = Kamberau [irx], Kamoro [kgq], Sempan [xse], North Asmat = Asmat-North [nks], Citak Asmat = Citak [txt], Central Asmat = Asmat-Central [cns], Casuarina Coast Asmat [asc], Pisa [psa], Axu = Aghu [ahh], Syiaxa = Awyu-South [aws], Kaeti = Mandobo Bawah [bwp], South Wambon = Mandobo Atas [aax], North Wambon = Upper Wambon = Wambon [wms], Kombai [tyn], Kati [kti], Yonggom [yon], Ninggerum [nxr], Mianmin [mpt], Tifal [tif], Telefol [tlf], Faiwol [fai], Bimin [bhl], Ngalum [szb], Tsakwambo [kvz]},
+  macro_area = {Papunesia},
+  src        = {hh}
+}</source>
 </record>
 
 <record>

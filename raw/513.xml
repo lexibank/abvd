@@ -72,7 +72,7 @@
 	<item>lakát (lumakát)</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>40,110</cognacy>
+	<cognacy>40</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -127,7 +127,7 @@
 	<item>hugaw (mahugaw)</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>119</cognacy>
+	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2656,6 +2656,17 @@
 	<word>in, inside</word>
 	<item>sakáb (sumakáb)</item>
 	<annotation>inside; to enter</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3230424</id>
+	<word_id>174</word_id>
+	<word>in, inside</word>
+	<item>sakob (sumakob)</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>

@@ -4,14 +4,36 @@
 	<author>Larish (1999)</author>
 	<silcode></silcode>
 	<glottocode>moke1241</glottocode>
-	<notes>
-Larish, Michael David. 1999. The Position of Moken and Moklen Within the Austronesian Language Family (Thailand). Ann Arbor: UMI. (Doctoral dissertation, University of Hawai'i at Mānoa; xlv+1200pp.)
+	<notes>Larish, Michael David. 1999. The Position of Moken and Moklen Within the Austronesian Language Family (Thailand). Ann Arbor: UMI. (Doctoral dissertation, University of Hawai'i at Mānoa; xlv+1200pp.)
 </notes>
 	<problems></problems>
 	<classification>Austronesian, Malayo-Polynesian, Moklen</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby>Andrew Hsiu</checkedby>
-	<source></source>
+	<source>@phdthesis{137653,
+  address               = {Ann Arbor},
+  author                = {Larish, Michael David},
+  pages                 = {xlv+1200},
+  publisher             = {UMI},
+  school                = {University of Hawai'i at Mānoa},
+  title                 = {The Position of Moken and Moklen Within the Austronesian Language Family (Thailand)},
+  year                  = {1999},
+  besttxt               = {ptxt\eurasia\larish_austronesian1999_o.txt},
+  cfn                   = {eurasia\larish_austronesian1999_o.pdf},
+  class_loc             = {PL5417.4},
+  delivered             = {eurasia\larish_austronesian1999_o.pdf},
+  document_type         = {B},
+  fn                    = {eurasia\larish_austronesian1999_o.pdf, eurasia\larish_moklen1999.pdf, papua/larish_austronesian1999_o.pdf},
+  hhtype                = {overview;comparative;grammar_sketch},
+  inlg                  = {English [eng]},
+  isbn                  = {9780599248977},
+  lgcode                = {Moken [mwt]},
+  macro_area            = {Eurasia},
+  mpi_eva_library_shelf = {PL 5417 .4 LAR 2007},
+  mpifn                 = {austronesian_larish1999_o.pdf},
+  src                   = {hh, mpieva},
+  subject_headings      = {Moken language, Austronesian languages, Moken language – Austronesian languages}
+}</source>
 </record>
 
 <record>

@@ -4,14 +4,23 @@
 	<author>Sidwell &amp; Rau (2015)</author>
 	<silcode></silcode>
 	<glottocode>aust1305</glottocode>
-	<notes>
-Sidwell, Paul and Felix Rau. 2015. &quot;Austroasiatic Comparative-Historical Reconstruction: An Overview.&quot; In Jenny, Mathias and Paul Sidwell, eds (2015). The Handbook of Austroasiatic Languages. Leiden: Brill.
+	<notes>Sidwell, Paul and Felix Rau. 2015. &quot;Austroasiatic Comparative-Historical Reconstruction: An Overview.&quot; In Jenny, Mathias and Paul Sidwell, eds (2015). The Handbook of Austroasiatic Languages. Leiden: Brill.
 </notes>
 	<problems></problems>
 	<classification>Austroasiatic</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby>Andrew Hsiu</checkedby>
-	<source></source>
+	<source>@book{sidwell2015a,
+  author = {Sidwell, Paul and Rau, Felix},
+  date = {2015},
+  title = {Austroasiatic Comparative-Historical Reconstruction: An Overview},
+  editor = {Jenny, Mathias and Sidwell, Paul},
+  publisher = {Brill},
+  pages = {221–363},
+  language = {en},
+  series = {The Handbook of Austroasiatic Languages},
+  address = {Leiden}
+}</source>
 </record>
 
 <record>

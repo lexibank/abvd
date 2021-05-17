@@ -32,7 +32,7 @@
 	<item>rima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -118,7 +118,7 @@
 	<word_id>5</word_id>
 	<word>to walk</word>
 	<item>haere</item>
-	<annotation>Stroll, walk; excursion (Fts) b. [&lt;]</annotation>
+	<annotation>L from Tahitian</annotation>
 	<loan>L</loan>
 	<cognacy>6</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -131,7 +131,7 @@
 	<item>here</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>6</cognacy>
+	<cognacy>6,9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -208,7 +208,7 @@
 	<item>tioi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -274,7 +274,7 @@
 	<item>huŋa</item>
 	<annotation>Fine dust (Fts) [PPN *funga 'small pieces, crumbs, scraps -MW]</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>90</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -296,7 +296,7 @@
 	<item>huga</item>
 	<annotation>reduced to powder [PPN *funga 'small pieces, crumbs, scraps -MW]</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>90</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -307,7 +307,7 @@
 	<item>garahu</item>
 	<annotation>embers, soot</annotation>
 	<loan></loan>
-	<cognacy>1,68</cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -591,8 +591,8 @@
 	<word_id>22</word_id>
 	<word>to fear</word>
 	<item>riaria</item>
-	<annotation>Tahitian borrowing?  Pollex 06: Riaria. :Dread, fear (Fts).</annotation>
-	<loan>L?</loan>
+	<annotation>L from Tahitian</annotation>
+	<loan>L</loan>
 	<cognacy>8</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -659,7 +659,7 @@
 	<item>huru/huru</item>
 	<annotation>Hair</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>31</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -681,7 +681,7 @@
 	<item>oho</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>36</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -692,7 +692,7 @@
 	<item>rauoho</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>40</cognacy>
+	<cognacy>40, 36</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -901,7 +901,7 @@
 	<item>kai</item>
 	<annotation>Food, eat</annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -955,7 +955,7 @@
 	<word>to suck</word>
 	<item>omo/omo</item>
 	<annotation>Sip, suck B. [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1088,7 +1088,7 @@
 	<item>moe</item>
 	<annotation>Sleep</annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1174,7 +1174,7 @@
 	<word_id>54</word_id>
 	<word>man/male</word>
 	<item>tane</item>
-	<annotation>Male (Fts) B. [&lt;]</annotation>
+	<annotation>L from Tahitian</annotation>
 	<loan>L</loan>
 	<cognacy>1,11</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1196,7 +1196,7 @@
 	<word_id>55</word_id>
 	<word>woman/female</word>
 	<item>bahine</item>
-	<annotation>Woman B. [&lt;]</annotation>
+	<annotation>L from Tahitian</annotation>
 	<loan>L</loan>
 	<cognacy>1,106</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1297,7 +1297,7 @@
 	<item>matu'a</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,9</cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1451,7 +1451,7 @@
 	<item>tui/tui</item>
 	<annotation>Necklace</annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1462,7 +1462,7 @@
 	<item>tui</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1691,7 +1691,7 @@
 	<word_id>78</word_id>
 	<word>to cut, hack</word>
 	<item>a/bahi</item>
-	<annotation>Break, crack, split, tear B. (Fts) [&lt;]</annotation>
+	<annotation>L from Tahitian</annotation>
 	<loan>L</loan>
 	<cognacy>13</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1759,7 +1759,7 @@
 	<item>tata</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>3</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1781,7 +1781,7 @@
 	<item>ŋahaa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5,72</cognacy>
+	<cognacy>5,97</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1792,7 +1792,7 @@
 	<item>gaha</item>
 	<annotation>burst</annotation>
 	<loan></loan>
-	<cognacy>5,72</cognacy>
+	<cognacy>5,97</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2034,7 +2034,7 @@
 	<item>ka/karo/</item>
 	<annotation>To dig, excavate, hollow, shell (e.g. pick nose, pluck out eye) (Fts)</annotation>
 	<loan></loan>
-	<cognacy>1?</cognacy>
+	<cognacy>1, 67</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2056,7 +2056,7 @@
 	<item>kakaro</item>
 	<annotation>carve a hole</annotation>
 	<loan></loan>
-	<cognacy>1?</cognacy>
+	<cognacy>1, 67</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2076,7 +2076,7 @@
 	<word_id>91</word_id>
 	<word>to buy</word>
 	<item>ho'o</item>
-	<annotation>Buy, sell, trade, exchange B. (Fts) [&lt;]</annotation>
+	<annotation>L from Tahitian</annotation>
 	<loan>L</loan>
 	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2318,7 +2318,7 @@
 	<word_id>102</word_id>
 	<word>rat</word>
 	<item>kio'e</item>
-	<annotation>Rat (Fts) B. [&lt;] (Note: Marquesan not Pascuan)</annotation>
+	<annotation>L from Marquesan</annotation>
 	<loan>L</loan>
 	<cognacy>12</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2507,7 +2507,7 @@
 	<item>rara</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,33</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2703,9 +2703,9 @@
 	<word_id>120</word_id>
 	<word>stone</word>
 	<item>poatu</item>
-	<annotation>Probably po'atu, but pohatu would be expected. Borrowing from MGV?</annotation>
+	<annotation>po'atu</annotation>
 	<loan></loan>
-	<cognacy>L</cognacy>
+	<cognacy>1, 19</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2714,9 +2714,9 @@
 	<word_id>120</word_id>
 	<word>stone</word>
 	<item>poatu</item>
-	<annotation>Probably po'atu, but pohatu would be expected. Borrowing from MGV?</annotation>
+	<annotation>DUP</annotation>
 	<loan></loan>
-	<cognacy>L</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2725,9 +2725,9 @@
 	<word_id>120</word_id>
 	<word>stone</word>
 	<item>poatu</item>
-	<annotation>Probably po'atu, but pohatu would be expected. Borrowing from MGV?</annotation>
+	<annotation>DUP</annotation>
 	<loan></loan>
-	<cognacy>L</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2978,9 +2978,9 @@
 	<word_id>131</word_id>
 	<word>cloud</word>
 	<item>ragi</item>
-	<annotation>'sky' - MW</annotation>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>3</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3486,7 +3486,7 @@
 	<item>tutu</item>
 	<annotation>Ignite, kindle, set fire to (Fts)</annotation>
 	<loan></loan>
-	<cognacy>6</cognacy>
+	<cognacy>1,6</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3530,7 +3530,7 @@
 	<item>éoéo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>67</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3541,7 +3541,7 @@
 	<item>ehuehu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>67</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3550,9 +3550,9 @@
 	<word_id>146</word_id>
 	<word>ash</word>
 	<item>ehuehu</item>
-	<annotation></annotation>
+	<annotation>DUP</annotation>
 	<loan></loan>
-	<cognacy>67</cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3561,9 +3561,9 @@
 	<word_id>146</word_id>
 	<word>ash</word>
 	<item>ehuehu</item>
-	<annotation></annotation>
+	<annotation>DUP</annotation>
 	<loan></loan>
-	<cognacy>67</cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3794,7 +3794,7 @@
 	<item>iti</item>
 	<annotation>Small</annotation>
 	<loan></loan>
-	<cognacy>121</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3880,9 +3880,9 @@
 	<word_id>154</word_id>
 	<word>short</word>
 	<item>peti</item>
-	<annotation>borrowing from French?</annotation>
-	<loan></loan>
-	<cognacy>L?</cognacy>
+	<annotation>L from French</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3891,9 +3891,9 @@
 	<word_id>154</word_id>
 	<word>short</word>
 	<item>peti</item>
-	<annotation>borrowing from French?</annotation>
+	<annotation>DUP</annotation>
 	<loan></loan>
-	<cognacy>L?</cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3902,9 +3902,9 @@
 	<word_id>154</word_id>
 	<word>short</word>
 	<item>peti</item>
-	<annotation>borrowing from French?</annotation>
+	<annotation>DUP</annotation>
 	<loan></loan>
-	<cognacy>L?</cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3915,7 +3915,7 @@
 	<item>roa</item>
 	<annotation>Length</annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3946,8 +3946,8 @@
 	<word_id>157</word_id>
 	<word>thick</word>
 	<item>eepe</item>
-	<annotation>possible French borrowing?</annotation>
-	<loan>L?</loan>
+	<annotation>L from French</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -4023,7 +4023,7 @@
 	<word_id>161</word_id>
 	<word>shy, ashamed</word>
 	<item>haa/maa</item>
-	<annotation>Ashamed, shy; shame (Fts) b. [&lt;]</annotation>
+	<annotation>L from Tahitian</annotation>
 	<loan>L</loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -4201,7 +4201,7 @@
 	<item>eke</item>
 	<annotation>Climb, embark, mount (Fts).</annotation>
 	<loan></loan>
-	<cognacy>2</cognacy>
+	<cognacy>32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -4487,7 +4487,7 @@
 	<item>me</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>2</cognacy>
+	<cognacy>2,46</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -4562,7 +4562,7 @@
 	<word_id>194</word_id>
 	<word>how?</word>
 	<item>pehe</item>
-	<annotation>How? [&lt;]</annotation>
+	<annotation>L from Tahitian</annotation>
 	<loan>L</loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -4586,7 +4586,7 @@
 	<item>kai</item>
 	<annotation>Negative imperative, caveat</annotation>
 	<loan></loan>
-	<cognacy>83</cognacy>
+	<cognacy>10, 83</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -4608,7 +4608,7 @@
 	<item>ina kai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>83</cognacy>
+	<cognacy>10, 83</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -4729,7 +4729,7 @@
 	<item>iba</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -4740,7 +4740,7 @@
 	<item>iva</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -4762,7 +4762,7 @@
 	<item>kauatu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>30?</cognacy>
+	<cognacy>30</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -4773,7 +4773,7 @@
 	<item>kumi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -4782,9 +4782,9 @@
 	<word_id>206</word_id>
 	<word>Ten</word>
 	<item>kumi</item>
-	<annotation></annotation>
+	<annotation>DUP</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -4793,9 +4793,9 @@
 	<word_id>206</word_id>
 	<word>Ten</word>
 	<item>kumi</item>
-	<annotation></annotation>
+	<annotation>DUP</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

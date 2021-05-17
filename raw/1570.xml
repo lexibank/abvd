@@ -4,14 +4,27 @@
 	<author>Swastham (1982)</author>
 	<silcode>mkm</silcode>
 	<glottocode>mokl1243</glottocode>
-	<notes>
-Pensiri Swastham. 1982. A description of Moklen: a Malayo-Polynesian language in Thailand. (MA thesis, Mahidol University; 285pp.)
+	<notes>Pensiri Swastham. 1982. A description of Moklen: a Malayo-Polynesian language in Thailand. (MA thesis, Mahidol University; 285pp.)
 </notes>
 	<problems></problems>
 	<classification>Austronesian, Malayo-Polynesian, Moklen</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby>Andrew Hsiu</checkedby>
-	<source></source>
+	<source>@mastersthesis{318891,
+  author     = {Pensiri Swastham},
+  pages      = {285},
+  school     = {Mahidol University},
+  title      = {A description of Moklen: a Malayo-Polynesian language in Thailand},
+  year       = {1982},
+  besttxt    = {ptxt\eurasia\swastham_moklen1982.txt},
+  fn         = {eurasia\swastham_moklen1982_o.pdf, eurasia\swastham_moklen1982.pdf},
+  hhtype     = {grammar_sketch},
+  inlg       = {English [eng]},
+  lgcode     = {Moklen [mkm]},
+  macro_area = {Eurasia},
+  src        = {hh}
+}
+</source>
 </record>
 
 <record>

@@ -3,7 +3,7 @@
 	<language>Futuna-Aniwa (Aniwa)</language>
 	<author>Tryon (1976)</author>
 	<silcode>fut</silcode>
-	<glottocode>futu1245</glottocode>
+	<glottocode>aniw1237</glottocode>
 	<notes>Tryon, DT. 1976. New Hebrides Languages: An internal classification. Canberra: Pacific Linguistics.</notes>
 	<problems></problems>
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, Samoic-Outlier, Futunic</classification>
@@ -47,7 +47,7 @@
 	<item>rima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -179,7 +179,7 @@
 	<item>pua</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>11, 62</cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -232,9 +232,9 @@
 	<word_id>18</word_id>
 	<word>breast</word>
 	<item>nunu</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>1</cognacy>
+	<annotation>Dty 1984 does not report this form. L from Van languages</annotation>
+	<loan>L</loan>
+	<cognacy>3</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -443,7 +443,7 @@
 	<item>kai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -463,9 +463,9 @@
 	<word_id>40</word_id>
 	<word>to drink</word>
 	<item>ñimia</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>1,34</cognacy>
+	<annotation>L from SV lgs.</annotation>
+	<loan>L</loan>
+	<cognacy>1, 72</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -476,7 +476,7 @@
 	<item>mauča</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -509,7 +509,7 @@
 	<item>roŋona</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 83</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -531,7 +531,7 @@
 	<item>fačiŋia</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>104?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -619,7 +619,7 @@
 	<item>tamasisi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>6,64?</cognacy>
+	<cognacy>6,103</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -650,9 +650,9 @@
 	<word_id>59</word_id>
 	<word>mother</word>
 	<item>mama</item>
-	<annotation>borrowing?-MW</annotation>
-	<loan>L?</loan>
-	<cognacy></cognacy>
+	<annotation>L from Tanna</annotation>
+	<loan>L</loan>
+	<cognacy>5</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -718,7 +718,7 @@
 	<item>nauča</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>15,16</cognacy>
+	<cognacy>15</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -848,9 +848,9 @@
 	<word_id>81</word_id>
 	<word>sharp</word>
 	<item>emtakoi</item>
-	<annotation></annotation>
+	<annotation>koi looks EP but based on other forms cited for FA, I'm assuming this koi is either a chance variant or was incorrectly reported</annotation>
 	<loan></loan>
-	<cognacy>14,67,66</cognacy>
+	<cognacy>14,16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1277,9 +1277,9 @@
 	<word_id>131</word_id>
 	<word>cloud</word>
 	<item>pa</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>67</cognacy>
+	<annotation>L from SVan lgs</annotation>
+	<loan>L</loan>
+	<cognacy>16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1378,7 +1378,7 @@
 	<item>maru</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>123</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1433,7 +1433,7 @@
 	<item>čiafu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>67</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1488,7 +1488,7 @@
 	<item>sisi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>81,83</cognacy>
+	<cognacy>141</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1609,7 +1609,7 @@
 	<item>tamari</item>
 	<annotation>good</annotation>
 	<loan></loan>
-	<cognacy>105</cognacy>
+	<cognacy>106</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1884,7 +1884,7 @@
 	<item>oči</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>60?</cognacy>
+	<cognacy>60</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2038,7 +2038,7 @@
 	<item>iβa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

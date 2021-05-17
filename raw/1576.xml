@@ -18,7 +18,14 @@ Methodology used here to enter the lexical data :
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, New Caledonian, Southern, South, Xaracuu-Xaragure</classification>
 	<typedby>David VUILLAUME-PIEKUT</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@misc{moysefaurie1986a,
+  title = {Dictionnaire Xârâcùù-Français (Nouvelle-Calédonie), Nouméa : Les Editions Populaires},
+  author = {Moyse-Faurie, Claire and Néchérü-Jorédié, Marie-Adèle},
+  date = {1986},
+  language = {fr},
+  address = {Nouméa},
+  publisher = {Edipop}
+}</source>
 </record>
 
 <record>
@@ -28,7 +35,7 @@ Methodology used here to enter the lexical data :
 	<item>xɛ̃</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>33</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -39,7 +46,7 @@ Methodology used here to enter the lexical data :
 	<item>çɛ̃ⁿdɛja:</item>
 	<annotation>Means 'left', or 'left handed'</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>39</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -50,7 +57,7 @@ Methodology used here to enter the lexical data :
 	<item>çɛ̃ⁿdɛnũrũ</item>
 	<annotation>Means 'right' or 'right handed'</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>23</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -61,7 +68,7 @@ Methodology used here to enter the lexical data :
 	<item>pa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>33</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -248,7 +255,7 @@ Methodology used here to enter the lexical data :
 	<item>ᶮɟi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1381,7 +1388,7 @@ Methodology used here to enter the lexical data :
 	<item>mũⁿda</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>119</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1612,7 +1619,7 @@ Methodology used here to enter the lexical data :
 	<item>kɔ</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>12</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1810,7 +1817,7 @@ Methodology used here to enter the lexical data :
 	<item>xatɛ</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>94</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

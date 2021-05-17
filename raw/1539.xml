@@ -11,7 +11,25 @@ Stokhof WAL (1982) Holle Lists: Vocabularies in languages of Indonesia. Vol 5/1:
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Sarmi-Jayapura Bay, Jayapura Bay</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@book{142054,
+  author     = {W. A. L. Stokhof},
+  pages      = {189},
+  publisher  = {Research School of Pacific and Asian Studies, The Australian National University},
+  series     = {Pacific Linguistics: Series D},
+  title      = {Holle Lists: Vocabularies in Languages of Indonesia, Vol.5/1: Irian Jaya: Austronesian Languages; Papuan Languages, Digul Area},
+  volume     = {52},
+  year       = {1982},
+  besttxt    = {ptxt\papua\stokhof_holle1982_o.txt},
+  cfn        = {papua\stokhof_holle1982_o.pdf},
+  delivered  = {papua\stokhof_holle1982_o.pdf},
+  fn         = {papua\stokhof_holle1982_o.pdf},
+  hhtype     = {overview;wordlist},
+  inlg       = {English [eng]},
+  lgcode     = {Mafor = Biak [bhw], Numfor = Biak [bhw], Biak = Biak [bhw], Wandesi = Wandamen [wad], Windesi = Wandamen [wad], Waropen Coast [wrp], Waropen [wrp], Jautefa [tti], Upper Uwimerah = Upper Kao BT numerals single out a Dumut variety as is consistent with geography = Wambon [wms], Central and Lower Uwimerah ca 30 words acc to Tim Usher 2011 = Muyu-South [kts], Uwimerah Proa Bivouac BT = Morop-Dintere [iwo], Uwimerah observation post = Kokenop Mandobo [NOCODE_Kokenop-Mandobo], Uwimerah Source 19 words = Morop-Dintere [iwo], Digoel Mappi = Aghu [ahh], Digoel Mandobo = Drabbe 1954 Oambon Dumut = Mandobo Atas [aax], Kaôh = Muyu-South [kts], Muyuh = Muyu-North [kti], Tanah Merah Digul (parallel lists) = Kati = Muyu-South [kts] and Muyu-North [kti]},
+  macro_area = {Papunesia},
+  src        = {hh}
+}
+</source>
 </record>
 
 <record>

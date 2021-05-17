@@ -32,7 +32,7 @@
 	<item>rima</item>
 	<annotation>Five; hand-arm</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -75,8 +75,8 @@
 	<word>to walk</word>
 	<item>sale</item>
 	<annotation>Walk in free-and -easy way, stroll, float, drift, put out to  sea B. [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>6</cognacy>
+	<loan></loan>
+	<cognacy>6, 76</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -140,8 +140,8 @@
 	<word_id>16</word_id>
 	<word>intestines</word>
 	<item>sinae</item>
-	<annotation>Guts [&lt;]</annotation>
-	<loan>L</loan>
+	<annotation>irregular </annotation>
+	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -318,7 +318,7 @@
 	<item>kai</item>
 	<annotation>Eat, food</annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -362,7 +362,7 @@
 	<item>koom/ia</item>
 	<annotation>Suck on something in the mouth (Clk)</annotation>
 	<loan></loan>
-	<cognacy>50</cognacy>
+	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -406,7 +406,7 @@
 	<item>moe</item>
 	<annotation>Sleep, lie down (Clk)</annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -593,7 +593,7 @@
 	<item>tui/a</item>
 	<annotation>Sew, string (Clk)</annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -702,7 +702,7 @@
 	<word>to scratch</word>
 	<item>karu/karu</item>
 	<annotation>Scratch B. [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -780,7 +780,7 @@
 	<item>maji/kai/</item>
 	<annotation>Sharp (Clk)</annotation>
 	<loan></loan>
-	<cognacy>14,16,67</cognacy>
+	<cognacy>14,16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -966,7 +966,7 @@
 	<word>spider</word>
 	<item>kalaalaa</item>
 	<annotation>Spider [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>1?</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1042,8 +1042,8 @@
 	<word_id>119</word_id>
 	<word>earth/soil</word>
 	<item>lepa</item>
-	<annotation>Mud (Clk) [&lt;]</annotation>
-	<loan>L?</loan>
+	<annotation>L from Efate lgs (Clark 1998)</annotation>
+	<loan>L</loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1371,9 +1371,9 @@
 	<id>55577</id>
 	<word_id>156</word_id>
 	<word>thin</word>
-	<item>manivinivi</item>
-	<annotation>Thin [&lt;]</annotation>
-	<loan>L</loan>
+	<item>maamaa</item>
+	<annotation></annotation>
+	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1560,7 +1560,7 @@
 	<word>below</word>
 	<item>aro</item>
 	<annotation>Below, beneath [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>8</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1747,7 +1747,7 @@
 	<word>all</word>
 	<item>sara</item>
 	<annotation>All, every kind of ?B. (Clk) [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>49</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1880,7 +1880,7 @@
 	<item>siva</item>
 	<annotation>Nine (Clk)[&gt;].(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,44,43</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1891,7 +1891,7 @@
 	<item>gafuru</item>
 	<annotation>Ten.(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

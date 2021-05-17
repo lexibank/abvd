@@ -4,8 +4,7 @@
 	<author>Caabay &amp; Melvin (2018)</author>
 	<silcode>agn</silcode>
 	<glottocode>agut1237</glottocode>
-	<notes>
-Caabay, Marilyn A. and Melissa S. Melvin. 2018. &quot;Agutaynen - English
+	<notes>Caabay, Marilyn A. and Melissa S. Melvin. 2018. &quot;Agutaynen - English
 Dictionary.&quot; Webonary.org. Linguistic Society of The Philippines.
 https://agutaynen.webonary.org/
 </notes>
@@ -13,7 +12,16 @@ https://agutaynen.webonary.org/
 	<classification>Austronesian, Malayo-Polynesian, Kalamian</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby>Andrew Hsiu</checkedby>
-	<source></source>
+	<source>@book{caabay2018a,
+  author = {Caabay, Marilyn A. and Melvin, Melissa S.},
+  date = {2018},
+  title = {Agutaynen - English Dictionary},
+  publisher = {Linguistic Society of The Philippines},
+  url = {https://agutaynen.webonary.org/},
+  language = {en},
+  address = {Webonary.org}
+}
+</source>
 </record>
 
 <record>

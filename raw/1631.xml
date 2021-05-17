@@ -9,7 +9,12 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, East, Central, Tahitic</classification>
 	<typedby>Mary Walworth</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@misc{MaukeOD,
+    author = {Dictionary, Ma'uke Online},
+    date = {2019},
+    url = {http://araaramauke.cookislandsdictionary.com/}
+}
+</source>
 </record>
 
 <record>
@@ -19,7 +24,7 @@
 	<item>rima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -30,7 +35,7 @@
 	<item>vāvia</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,100</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -52,7 +57,7 @@
 	<item>tua</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -85,7 +90,7 @@
 	<item>ū</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -96,7 +101,7 @@
 	<item>mataku</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -115,10 +120,10 @@
 	<id>3228581</id>
 	<word_id>25</word_id>
 	<word>neck</word>
-	<item>tapono</item>
-	<annotation>karaponga</annotation>
+	<item>karaponga</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>132</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -140,7 +145,7 @@
 	<item>kai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

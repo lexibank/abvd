@@ -77,13 +77,24 @@
 </record>
 
 <record>
-	<id>290049</id>
+	<id>3230898</id>
 	<word_id>6</word_id>
 	<word>road/path</word>
-	<item>dalan/tinampo</item>
+	<item>dalan</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3230899</id>
+	<word_id>6</word_id>
+	<word>road/path</word>
+	<item>tinampo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>75</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

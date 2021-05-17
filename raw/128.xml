@@ -3,7 +3,7 @@
 	<language>Rurutuan</language>
 	<author>David Meyer</author>
 	<silcode>aut</silcode>
-	<glottocode>aust1304</glottocode>
+	<glottocode>ruru1237</glottocode>
 	<notes>Rurutuan has, and continues to be, heavily influenced by Tahitian.  Most of the data was elicited in 1990.  Ethnologue identifies Rurutuan as a dialect of Austral (Ethnologue code: AUT).</notes>
 	<problems></problems>
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, East, Central, Tahitic</classification>
@@ -28,7 +28,7 @@
 	<item>rima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -81,9 +81,9 @@
 	<word_id>5</word_id>
 	<word>to walk</word>
 	<item>ʔaere</item>
-	<annotation>go - likely a Tahitian loanword</annotation>
+	<annotation>L from Tahitian</annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>6</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -114,9 +114,9 @@
 	<word_id>6</word_id>
 	<word>road/path</word>
 	<item>poroomu</item>
-	<annotation>road - Tahitian borrowing</annotation>
+	<annotation>L from Tahitian</annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>3</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -125,9 +125,9 @@
 	<word_id>6</word_id>
 	<word>road/path</word>
 	<item>puruumu</item>
-	<annotation>road</annotation>
+	<annotation>L from Tahitian</annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>3</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -169,7 +169,7 @@
 	<word_id>7</word_id>
 	<word>to come</word>
 	<item>ʔaere mai</item>
-	<annotation>/ʔaere/ is likely a Tahitian loanword</annotation>
+	<annotation>L from Tahitian</annotation>
 	<loan>L</loan>
 	<cognacy>1,42</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -182,7 +182,7 @@
 	<item>tiipuʔu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -213,9 +213,9 @@
 	<word_id>11</word_id>
 	<word>dust</word>
 	<item>ʔuʔaʔuʔa</item>
-	<annotation>loan from Tahitian</annotation>
-	<loan>L</loan>
-	<cognacy>X</cognacy>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>90</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -280,7 +280,7 @@
 	<word>liver</word>
 	<item>ʔupaʔa</item>
 	<annotation>liver of all beings but fish</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>6</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -292,7 +292,7 @@
 	<item>ate</item>
 	<annotation>fish liver</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -301,9 +301,9 @@
 	<word_id>18</word_id>
 	<word>breast</word>
 	<item>tiitii</item>
-	<annotation>breast</annotation>
-	<loan></loan>
-	<cognacy>6</cognacy>
+	<annotation>L from French</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -356,8 +356,8 @@
 	<word_id>22</word_id>
 	<word>to fear</word>
 	<item>riʔariʔa</item>
-	<annotation>tahitian borrowing?</annotation>
-	<loan>L?</loan>
+	<annotation>L from Tahitian</annotation>
+	<loan>L</loan>
 	<cognacy>8</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -543,7 +543,7 @@
 	<word_id>36</word_id>
 	<word>to spit</word>
 	<item>tutuʔa</item>
-	<annotation>possible Tahitian borrowing</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>120</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -556,7 +556,7 @@
 	<item>ʔai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -710,7 +710,7 @@
 	<item>moe</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -774,8 +774,8 @@
 	<word_id>51</word_id>
 	<word>to sit</word>
 	<item>araʔi</item>
-	<annotation>Tahitian borrowing</annotation>
-	<loan>L</loan>
+	<annotation></annotation>
+	<loan></loan>
 	<cognacy>17</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -884,8 +884,8 @@
 	<word_id>59</word_id>
 	<word>mother</word>
 	<item>maamaa</item>
-	<annotation>borrowing?-MW</annotation>
-	<loan>L?</loan>
+	<annotation>L from English via Tahitian</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -906,7 +906,7 @@
 	<word_id>60</word_id>
 	<word>father</word>
 	<item>paapaa</item>
-	<annotation>borrowing from French-MW</annotation>
+	<annotation>L from English via Tahitian</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -919,7 +919,7 @@
 	<item>metua taane</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,9</cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1005,7 +1005,7 @@
 	<word_id>67</word_id>
 	<word>to sew</word>
 	<item>nira</item>
-	<annotation>loanword of English 'needle'</annotation>
+	<annotation>L from French via Tahitian</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1018,7 +1018,7 @@
 	<item>tiiʔai</item>
 	<annotation>to darn, patch</annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1027,7 +1027,7 @@
 	<word_id>68</word_id>
 	<word>needle</word>
 	<item>nira</item>
-	<annotation>/nira/ is an English loanword</annotation>
+	<annotation>L from French via Tahitian</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1049,8 +1049,8 @@
 	<word_id>70</word_id>
 	<word>to shoot</word>
 	<item>teʔa</item>
-	<annotation>Tahitian borrowing?</annotation>
-	<loan>L</loan>
+	<annotation></annotation>
+	<loan></loan>
 	<cognacy>3</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1148,8 +1148,8 @@
 	<word_id>78</word_id>
 	<word>to cut, hack</word>
 	<item>taapuu</item>
-	<annotation>Tahitian Loan</annotation>
-	<loan>L</loan>
+	<annotation></annotation>
+	<loan></loan>
 	<cognacy>12</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1205,7 +1205,7 @@
 	<item>naʔaʔa</item>
 	<annotation>(to split in many places)</annotation>
 	<loan></loan>
-	<cognacy>5,72</cognacy>
+	<cognacy>5, 96</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1610,9 +1610,9 @@
 	<word_id>106</word_id>
 	<word>snake</word>
 	<item>ooʔii</item>
-	<annotation>/ooʔii/ is a Greek loanword via /oofii/ from the Tahitian bible</annotation>
+	<annotation>L from Greek via Tahitian</annotation>
 	<loan>L</loan>
-	<cognacy>77</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1688,7 +1688,7 @@
 	<word>branch</word>
 	<item>ʔaamaʔa</item>
 	<annotation></annotation>
-	<loan>L?</loan>
+	<loan></loan>
 	<cognacy>2,35</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1742,8 +1742,8 @@
 	<word_id>117</word_id>
 	<word>fruit</word>
 	<item>maaʔa</item>
-	<annotation>Tahitian borrowing meaning 'food'-MW</annotation>
-	<loan>L</loan>
+	<annotation></annotation>
+	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1777,7 +1777,7 @@
 	<item>ʔooʔaʔi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>3</cognacy>
+	<cognacy>1,39, 3</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1907,9 +1907,9 @@
 	<word_id>130</word_id>
 	<word>star</word>
 	<item>fetiʔa</item>
-	<annotation>Tahitian loanword, as /f/ -&gt; /ʔ/ has not occurred, and /fetiʔa/ instead of /fetuu/ suggests Pomare I taboo replacement</annotation>
+	<annotation>L from Tahitian:/f/ -&gt; /ʔ/ has not occurred</annotation>
 	<loan>L</loan>
-	<cognacy>1</cognacy>
+	<cognacy>32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1918,8 +1918,8 @@
 	<word_id>131</word_id>
 	<word>cloud</word>
 	<item>ata</item>
-	<annotation>Modern Tahitian borrowing</annotation>
-	<loan>L</loan>
+	<annotation>Possible Tahitian borrowing but difficult to det.</annotation>
+	<loan></loan>
 	<cognacy>118</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1984,7 +1984,7 @@
 	<word_id>137</word_id>
 	<word>to blow</word>
 	<item>farara</item>
-	<annotation>to blow - of the wind (likely a recent Tahitian loanword as /f/ -&gt; /ʔ/ has not occurred)</annotation>
+	<annotation>L from Tahitian: /f/ -&gt; /ʔ/ has not occurred</annotation>
 	<loan>L</loan>
 	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2184,7 +2184,7 @@
 	<item>maaitiiti</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>121</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2217,7 +2217,7 @@
 	<item>roa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2325,8 +2325,8 @@
 	<word_id>162</word_id>
 	<word>old</word>
 	<item>ruuʔau</item>
-	<annotation>possible Tahitian loan</annotation>
-	<loan>L?</loan>
+	<annotation></annotation>
+	<loan></loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -2336,8 +2336,8 @@
 	<word_id>163</word_id>
 	<word>new</word>
 	<item>ʔaapii</item>
-	<annotation>Tahitian Loan - also this form does not begin with a glottal</annotation>
-	<loan>L</loan>
+	<annotation></annotation>
+	<loan></loan>
 	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -2391,7 +2391,7 @@
 	<word_id>166</word_id>
 	<word>correct, true</word>
 	<item>ʔaafaro</item>
-	<annotation>likely a recent Tahitian loanword as /f/ -&gt; /ʔ/ has not occurred)</annotation>
+	<annotation>L from Tahitian: /f/ -&gt; /ʔ/ has not occurred</annotation>
 	<loan>L</loan>
 	<cognacy>39</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2402,8 +2402,8 @@
 	<word_id>166</word_id>
 	<word>correct, true</word>
 	<item>mau</item>
-	<annotation>Tahitian Loan (true)</annotation>
-	<loan>L</loan>
+	<annotation></annotation>
+	<loan></loan>
 	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -2413,7 +2413,7 @@
 	<word_id>166</word_id>
 	<word>correct, true</word>
 	<item>parau mau</item>
-	<annotation>Tahitian Loan (the truth - literally 'true word')</annotation>
+	<annotation>L from Tahitian: parau is a borrowing</annotation>
 	<loan>L</loan>
 	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2446,7 +2446,7 @@
 	<word_id>168</word_id>
 	<word>day</word>
 	<item>maʔana</item>
-	<annotation>Tahitian Loan</annotation>
+	<annotation>L from Tahitian</annotation>
 	<loan>L</loan>
 	<cognacy>8</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2855,7 +2855,7 @@
 	<item>mai te mea</item>
 	<annotation>(if - literally 'like the thing/manner')</annotation>
 	<loan></loan>
-	<cognacy>5?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2866,7 +2866,7 @@
 	<item>mai te peu</item>
 	<annotation>(if - literally 'like the thing/manner')</annotation>
 	<loan></loan>
-	<cognacy>5?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2877,7 +2877,7 @@
 	<item>mai te paʔau</item>
 	<annotation>(if - literally 'like the thing/manner')</annotation>
 	<loan></loan>
-	<cognacy>5?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2963,7 +2963,7 @@
 	<word_id>198</word_id>
 	<word>Two</word>
 	<item>piti</item>
-	<annotation>Tahitian borrowing</annotation>
+	<annotation>L from Tahitian</annotation>
 	<loan>L</loan>
 	<cognacy>4</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2996,9 +2996,9 @@
 	<word_id>200</word_id>
 	<word>Four</word>
 	<item>maʔa</item>
-	<annotation>Tahitian borrowing</annotation>
+	<annotation>L from Tahitian</annotation>
 	<loan>L</loan>
-	<cognacy>1,66</cognacy>
+	<cognacy>1,66, 4</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3018,7 +3018,7 @@
 	<word_id>201</word_id>
 	<word>Five</word>
 	<item>pae</item>
-	<annotation>Tahitian Borrowing</annotation>
+	<annotation>L from Tahitian</annotation>
 	<loan>L</loan>
 	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -3064,7 +3064,7 @@
 	<item>iva</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3074,8 +3074,8 @@
 	<word>Ten</word>
 	<item>ʔaʔuru</item>
 	<annotation></annotation>
-	<loan>L?</loan>
-	<cognacy>5</cognacy>
+	<loan></loan>
+	<cognacy>5,32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3084,7 +3084,7 @@
 	<word_id>207</word_id>
 	<word>Twenty</word>
 	<item>piti ʔaʔuru</item>
-	<annotation>Tahitian borrowing</annotation>
+	<annotation>L from Tahitian</annotation>
 	<loan>L</loan>
 	<cognacy>28,6</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -3095,7 +3095,7 @@
 	<word_id>208</word_id>
 	<word>Fifty</word>
 	<item>pae ʔaʔuru</item>
-	<annotation>Tahitian loan with hyper-nativization</annotation>
+	<annotation>L from Tahitian</annotation>
 	<loan>L</loan>
 	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -3106,7 +3106,7 @@
 	<word_id>209</word_id>
 	<word>One Hundred</word>
 	<item>ʔaanere</item>
-	<annotation>English loan</annotation>
+	<annotation>L from English via Tahitian</annotation>
 	<loan>L</loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -3117,7 +3117,7 @@
 	<word_id>210</word_id>
 	<word>One Thousand</word>
 	<item>tauatini</item>
-	<annotation>English Loan</annotation>
+	<annotation>L from English via Tahitian</annotation>
 	<loan>L</loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>

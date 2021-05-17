@@ -28,7 +28,7 @@
 	<item>rima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -248,7 +248,7 @@
 	<item>tapono</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>9</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -435,7 +435,7 @@
 	<item>'ai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -578,7 +578,7 @@
 	<item>moe</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -787,7 +787,7 @@
 	<item>tui</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy>?</pmpcognacy>
 </record>
 
@@ -1315,7 +1315,7 @@
 	<item>'oofa'i</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>3</cognacy>
+	<cognacy>1,39,3</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1458,7 +1458,7 @@
 	<item>feti'a</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1711,7 +1711,7 @@
 	<item>iti</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>121</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1766,7 +1766,7 @@
 	<item>roa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1854,7 +1854,7 @@
 	<item>ruhiruhia</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>11</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2151,7 +2151,7 @@
 	<item>tatau</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>8</cognacy>
+	<cognacy>8,80</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2250,7 +2250,7 @@
 	<item>iva</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2261,7 +2261,7 @@
 	<item>'ahuru</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2281,9 +2281,9 @@
 	<word_id>209</word_id>
 	<word>One Hundred</word>
 	<item>nanaihere</item>
-	<annotation>Counting by couples, it is 200</annotation>
-	<loan></loan>
-	<cognacy>11?</cognacy>
+	<annotation>English loan</annotation>
+	<loan>L</loan>
+	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

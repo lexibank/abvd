@@ -16,7 +16,20 @@ In addition :
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, New Caledonian, Northern, Central</classification>
 	<typedby>David PIEKUT</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@book{116802,
+  address    = {Paris},
+  author     = {Rivierre, Jean-Claude},
+  publisher  = {Peeters/SELAF},
+  series     = {Langues et Cultures du Pacifique},
+  title      = {Dictionnaire cèmuhî-français},
+  volume     = {9},
+  year       = {1994},
+  hhtype     = {dictionary (computerized assignment from &quot;dictionnaire&quot;)},
+  inlg       = {French [fra]},
+  lgcode     = {Cemuhî [cam]},
+  macro_area = {Papunesia},
+  src        = {wals}
+}</source>
 </record>
 
 <record>
@@ -26,7 +39,7 @@ In addition :
 	<item>i˦-</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -37,7 +50,7 @@ In addition :
 	<item>a:˧mu˧</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,59</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -48,7 +61,7 @@ In addition :
 	<item>ɛa˧mu˧</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,59</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -59,7 +72,7 @@ In addition :
 	<item>pwɔ˧-ᶮju˧-i˦</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>24</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -70,7 +83,7 @@ In addition :
 	<item>a˦-</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -268,7 +281,7 @@ In addition :
 	<item>ti˦-</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

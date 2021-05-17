@@ -10,7 +10,12 @@ Corrections appear to have been made on multiple entries; I've used the correcte
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, New Caledonian, Northern, North</classification>
 	<typedby>Mary Walworth</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@misc{HollymanND,
+    author = {K.J. Hollyman},
+    date = {n.d.},
+    howpublished = {personal communication}
+}
+</source>
 </record>
 
 <record>
@@ -31,7 +36,7 @@ Corrections appear to have been made on multiple entries; I've used the correcte
 	<item>mo ⁿdjī</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,59</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -42,7 +47,7 @@ Corrections appear to have been made on multiple entries; I've used the correcte
 	<item>du</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>24</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -53,7 +58,7 @@ Corrections appear to have been made on multiple entries; I've used the correcte
 	<item>xʷēn</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1285,7 +1290,7 @@ Corrections appear to have been made on multiple entries; I've used the correcte
 	<item>ⁿdap</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

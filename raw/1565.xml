@@ -4,14 +4,31 @@
 	<author>Sidwell (2018)</author>
 	<silcode></silcode>
 	<glottocode>nico1262</glottocode>
-	<notes>
-Sidwell, Paul. 2018. Proto-Nicobarese phonology. In Papers from the Seventh International Conference on Austroasiatic Linguistics, 101-131. Journal of the Southeast Asian Linguistics Society Special Publication No. 3. University of Hawai’i Press.
+	<notes>Sidwell, Paul. 2018. Proto-Nicobarese phonology. In Papers from the Seventh International Conference on Austroasiatic Linguistics, 101-131. Journal of the Southeast Asian Linguistics Society Special Publication No. 3. University of Hawai’i Press.
 </notes>
 	<problems></problems>
 	<classification>Austroasiatic, Nicobaric</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby>Andrew Hsiu</checkedby>
-	<source></source>
+	<source>@incollection{577234,
+  address    = {Honolulu},
+  author     = {Paul Sidwell},
+  booktitle  = {Papers from the seventh international conference on Austroasiatic Linguistics},
+  editor     = {Hiram Ring and Felix Rau},
+  pages      = {101-132},
+  publisher  = {University of Hawai'i Press},
+  title      = {Proto-Nicobarese phonology},
+  year       = {2018},
+  besttxt    = {ptxt2\eurasia\sidwell_nicobarese2018.txt},
+  cfn        = {eurasia\sidwell_nicobarese2018.pdf},
+  fn         = {eurasia\sidwell_nicobarese2018.pdf, eurasia
+ing-rau_austroasiatic2018.pdf, eurasia\sidwell_nicobarese2018_o.pdf},
+  hhtype     = {overview;comparative},
+  inlg       = {English [eng]},
+  lgcode     = {Namsang township of Shan State in Myanmar Riang Lang = Riang [ril]},
+  macro_area = {Eurasia},
+  src        = {hh}
+}</source>
 </record>
 
 <record>

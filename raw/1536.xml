@@ -4,14 +4,29 @@
 	<author>Li &amp; Wu 2017</author>
 	<silcode></silcode>
 	<glottocode>jizh1234</glottocode>
-	<notes>
-Li Jinfang [李锦芳]; Wu Yan [吴艳]. 2017. &quot;Guangdong Wuchuan Jizhaohua gaikuang&quot; [广东吴川吉兆话概况]. In Minzu Yuwen [民族语文] 2017:4.
+	<notes>Li Jinfang [李锦芳]; Wu Yan [吴艳]. 2017. &quot;Guangdong Wuchuan Jizhaohua gaikuang&quot; [广东吴川吉兆话概况]. In Minzu Yuwen [民族语文] 2017:4.
 </notes>
 	<problems></problems>
 	<classification>Tai-Kadai, Kam-Tai, Lakkja</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@article{553453,
+  author         = {Lǐ, Jǐnfāng and Wú, Yàn},
+  journal        = {Mínzú Yǔwén},
+  number         = {4},
+  pages          = {1-19},
+  title          = {Guǎngdōng wúchuān jízhào huà gàikuàng},
+  volume         = {2017},
+  year           = {2017},
+  besttxt        = {ptxt2\eurasia\li-wu_jizhao2017.txt},
+  fn             = {eurasia\li-wu_jizhao2017_o.pdf, eurasia\li-wu_jizhao2017.pdf},
+  hhtype         = {grammar_sketch},
+  inlg           = {Chinese [cmn]},
+  lgcode         = {Jizhao [NOCODE_Jizhao]},
+  macro_area     = {Eurasia},
+  src            = {hh},
+  title_original = {广东吴川吉兆话概况}
+}</source>
 </record>
 
 <record>

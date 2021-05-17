@@ -32,7 +32,7 @@
 	<item>rima</item>
 	<annotation>hand/arm</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -54,7 +54,7 @@
 	<item>maa/tu</item>
 	<annotation>Go</annotation>
 	<loan></loan>
-	<cognacy>1?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -63,8 +63,8 @@
 	<word_id>8</word_id>
 	<word>to turn</word>
 	<item>ʔuri</item>
-	<annotation>possible L, rapanized</annotation>
-	<loan>L?</loan>
+	<annotation></annotation>
+	<loan></loan>
 	<cognacy>15</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -175,7 +175,7 @@
 	<item>raukaa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>40</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -186,7 +186,7 @@
 	<item>ʔakaea</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>8080</cognacy>
+	<cognacy>80</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -252,7 +252,7 @@
 	<item>kaikai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -274,7 +274,7 @@
 	<item>ngaʔu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -307,7 +307,7 @@
 	<item>ʔaka/moe</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -504,7 +504,7 @@
 	<word>to throw</word>
 	<item>tira</item>
 	<annotation></annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -536,7 +536,7 @@
 	<word_id>102</word_id>
 	<word>rat</word>
 	<item>kioʔe</item>
-	<annotation></annotation>
+	<annotation>L from Marquesan </annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -571,7 +571,7 @@
 	<item>parapara</item>
 	<annotation>soil</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -679,9 +679,9 @@
 	<word_id>131</word_id>
 	<word>cloud</word>
 	<item>ata</item>
-	<annotation>Modern Tahitian borrowing</annotation>
-	<loan>L</loan>
-	<cognacy></cognacy>
+	<annotation>Possible Tahitian borrowing but difficult to det.</annotation>
+	<loan></loan>
+	<cognacy>118</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -703,7 +703,7 @@
 	<item>teimaʔa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>46,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -747,7 +747,7 @@
 	<item>vera</item>
 	<annotation>intr.</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>63</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -813,7 +813,7 @@
 	<item>riki/riki</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -835,7 +835,7 @@
 	<item>ka/kuumi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>63</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1088,7 +1088,7 @@
 	<item>iva</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1099,7 +1099,7 @@
 	<item>ro/ngouru</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5,32</cognacy>
+	<cognacy>5,32,52</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

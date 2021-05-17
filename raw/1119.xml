@@ -47,7 +47,7 @@
 	<item>rima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -179,7 +179,7 @@
 	<item>pua</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>11, 62</cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -443,7 +443,7 @@
 	<item>kai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -463,9 +463,9 @@
 	<word_id>40</word_id>
 	<word>to drink</word>
 	<item>numʷia</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>1,34</cognacy>
+	<annotation>L from  SV lgs.</annotation>
+	<loan>L</loan>
+	<cognacy>1, 72</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -509,7 +509,7 @@
 	<item>roŋona</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 83</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1288,9 +1288,9 @@
 	<word_id>131</word_id>
 	<word>cloud</word>
 	<item>poa</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>12, 67</cognacy>
+	<annotation>L from SVan lgs</annotation>
+	<loan>L</loan>
+	<cognacy>16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1389,7 +1389,7 @@
 	<item>nupu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>68?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1442,9 +1442,9 @@
 	<word_id>146</word_id>
 	<word>ash</word>
 	<item>namul̥aŋa</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>44</cognacy>
+	<annotation>L from SVan Lgs</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1466,7 +1466,7 @@
 	<item>keŋo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1488,7 +1488,7 @@
 	<item>wewe</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>61?</cognacy>
+	<cognacy>88</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1510,7 +1510,7 @@
 	<item>sisi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>81,83</cognacy>
+	<cognacy>141</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1519,8 +1519,8 @@
 	<word_id>153</word_id>
 	<word>big</word>
 	<item>sore</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>L from Tanna lgs</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1640,8 +1640,8 @@
 	<word_id>166</word_id>
 	<word>correct, true</word>
 	<item>tau</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>L from SVan lgs</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1662,8 +1662,8 @@
 	<word_id>168</word_id>
 	<word>day</word>
 	<item>no-poŋi</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>L from Tanna lgs.</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1917,7 +1917,7 @@
 	<item>oči</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>60?</cognacy>
+	<cognacy>60</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2071,7 +2071,7 @@
 	<item>iβa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

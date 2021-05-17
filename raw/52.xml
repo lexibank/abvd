@@ -37,7 +37,7 @@
 	<item>lima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -59,7 +59,7 @@
 	<item> 'ākau</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5, 40</cognacy>
+	<cognacy>5,40</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -81,7 +81,7 @@
 	<item>hele</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>6</cognacy>
+	<cognacy>6,9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -334,7 +334,7 @@
 	<item>lauoho</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>40</cognacy>
+	<cognacy>40, 36</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -356,7 +356,7 @@
 	<item>aho</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>9</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -488,7 +488,7 @@
 	<item>'ai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -609,7 +609,7 @@
 	<item>moe</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -661,7 +661,7 @@
 	<id>18259</id>
 	<word_id>52</word_id>
 	<word>to stand</word>
-	<item>ku</item>
+	<item>kū</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>2</cognacy>
@@ -752,7 +752,7 @@
 	<item>makua kāne</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,9</cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1235,7 +1235,7 @@
 	<word>dog</word>
 	<item> 'īlio</item>
 	<annotation></annotation>
-	<loan>Loan &lt; Tua</loan>
+	<loan></loan>
 	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1280,7 +1280,7 @@
 	<item> 'ēheu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,59</cognacy>
+	<cognacy>1,81</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1344,7 +1344,7 @@
 	<word_id>106</word_id>
 	<word>snake</word>
 	<item>naheka</item>
-	<annotation>Hebrew &quot;nahas&quot;, snake (WOLD)</annotation>
+	<annotation>L from Hebrew &quot;nahas&quot;, snake </annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1377,7 +1377,7 @@
 	<word_id>109</word_id>
 	<word>mosquito</word>
 	<item>makika</item>
-	<annotation></annotation>
+	<annotation>L from English</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1423,7 +1423,7 @@
 	<item>lālā</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,33</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1819,7 +1819,7 @@
 	<item>kuni</item>
 	<annotation>(&lt;i)</annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy>1,7</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1918,7 +1918,7 @@
 	<item>iki</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>121</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1962,7 +1962,7 @@
 	<item>loa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2490,7 +2490,7 @@
 	<item>apau</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>59?</cognacy>
+	<cognacy>59</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2501,7 +2501,7 @@
 	<item>a</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>2</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2512,7 +2512,7 @@
 	<item>a me</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>2</cognacy>
+	<cognacy>2,46</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2666,7 +2666,7 @@
 	<item>iwa</item>
 	<annotation>Nine.(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2688,7 +2688,7 @@
 	<item>'umi</item>
 	<annotation>this may be a term meaning 'fathom' or similqr ,easure for water depth.  A cognate is found in Old Rapa kumi, but this should not be included for the number 10-MW</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2719,7 +2719,7 @@
 	<word_id>209</word_id>
 	<word>One Hundred</word>
 	<item>hanele</item>
-	<annotation>English loan</annotation>
+	<annotation>L from English</annotation>
 	<loan>L</loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2730,7 +2730,7 @@
 	<word_id>210</word_id>
 	<word>One Thousand</word>
 	<item>kaukani</item>
-	<annotation></annotation>
+	<annotation>L from English</annotation>
 	<loan>L</loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>

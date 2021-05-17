@@ -1,18 +1,30 @@
 <record>
 	<id>35</id>
-	<language>Erai</language>
-	<author>Blust</author>
+	<language>Iliun (Erai)</language>
+	<author>Blust, from J de Jong (1947)</author>
 	<silcode>ilu</silcode>
-	<glottocode>iliu1237</glottocode>
-	<notes>From J de Jong</notes>
+	<glottocode>eray1237</glottocode>
+	<notes>From J de Jong (1947)</notes>
 	<problems></problems>
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Timor, Extra-Ramelaic, North, Wetar</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby>Simon Greenhill</checkedby>
-	<source>@misc{Blust-35-2005,
-  author = &quot;Robert A. Blust&quot;,
-  date = &quot;2005&quot;,
-  howpublished = &quot;personal communication&quot;
+	<source>@book{116668,
+  address    = {Amsterdam},
+  author     = {de Josselin de Jong, Jan Petrus Benjamin},
+  pages      = {152},
+  publisher  = {Noord-Hollandsche Uitgevers-Maatschappij},
+  series     = {Verhandelingen van het Koninklijke Nederlandsche Akademie van Wetenschappen, Adf.~Letterkunde: Nieuwe Reeks},
+  title      = {Studies in Indonesian Culture II: The community of Erai (Wetar) (Texts and Notes)},
+  volume     = {L:2},
+  year       = {1947},
+  besttxt    = {ptxt2\papua\dejosselindejong_wetar1947pages_o.txt},
+  fn         = {papua\dejosselindejong_wetar1947pages_o.pdf},
+  hhtype     = {ethnographic;grammar_sketch;text},
+  inlg       = {English [eng]},
+  lgcode     = {Erai = Ili'uun [ilu]},
+  macro_area = {Papunesia},
+  src        = {hh}
 }</source>
 </record>
 

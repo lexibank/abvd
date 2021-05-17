@@ -27,7 +27,36 @@ The items borrowed to other languages have not been included. For the most part,
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, New Caledonian, Northern, North, Hmwaveke</classification>
 	<typedby>David PIEKUT (EPHE/LACITO-CNRS)</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@book{55944,
+  address               = {Paris},
+  author                = {Rivierre, Jean Claude and Ehrhart, Sabine},
+  note                  = {SELAF 435},
+  pages                 = {501},
+  publisher             = {Peeters},
+  series                = {Langues et cultures du Pacifique},
+  title                 = {Le Bwatoo et les dialectes de la région de Koné (Nouvelle-Calédonie)},
+  volume                = {17},
+  year                  = {2006},
+  besttxt               = {ptxt\papua
+ivierre-ehrhart_bwatoo2006.txt},
+  cfn                   = {papua
+ivierre-ehrhart_bwatoo2006_o.pdf},
+  class_loc             = {PL6226},
+  delivered             = {papua
+ivierre-ehrhart_bwatoo2006_o.pdf},
+  document_type         = {B},
+  fn                    = {papua
+ivierre-ehrhart_bwatoo2006.pdf, papua
+ivierre-ehrhart_bwatoo2006_o.pdf},
+  hhtype                = {grammar_sketch;dictionary},
+  inlg                  = {French [fra]},
+  isbn                  = {9789042917910, 978-90429-1791-0, 90-429-1791-1},
+  lgcode                = {Bwatoo [bwa]},
+  macro_area            = {Papunesia},
+  mpi_eva_library_shelf = {PL 6226 BWA 2006},
+  src                   = {hh, mpieva},
+  subject_headings      = {Bwatoo language - Grammar, Bwatoo language - Dictionaries - French, French language - Dictionaries - Bwatoo, Bwatoo language - Texts, Voh Region (New Caledonia) - Languages - Dialects, Koné Region (New Caledonia) - Languages - Dialects, Bwatoo language - Grammar - Bwatoo language - Dictionaries - French - French language - Dictionaries - Bwatoo - Bwatoo language - Texts - Voh Region (New Caledonia) - Languages - Dialects - Koné Region (New Caledonia) - Languages - Dialects}
+}</source>
 </record>
 
 <record>
@@ -48,7 +77,7 @@ The items borrowed to other languages have not been included. For the most part,
 	<item>wala:be</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -59,7 +88,7 @@ The items borrowed to other languages have not been included. For the most part,
 	<item>ᶮjuƟi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>24</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -70,7 +99,7 @@ The items borrowed to other languages have not been included. For the most part,
 	<item>xan</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -257,7 +286,7 @@ The items borrowed to other languages have not been included. For the most part,
 	<item>tʰin</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

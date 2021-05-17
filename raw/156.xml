@@ -32,7 +32,7 @@
 	<item>rima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -175,7 +175,7 @@
 	<item>bua</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>11, 62</cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -615,7 +615,7 @@
 	<item>kai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -626,7 +626,7 @@
 	<item>kai kai</item>
 	<annotation>Food, eat (Dty)</annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -637,7 +637,7 @@
 	<item>keina</item>
 	<annotation>Eat (Trans.)</annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -758,7 +758,7 @@
 	<item>rangona</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 83</cognacy>
 	<pmpcognacy>?</pmpcognacy>
 </record>
 
@@ -802,7 +802,7 @@
 	<item>(h)mava</item>
 	<annotation>Yawn,  pull in breath (Dty)</annotation>
 	<loan></loan>
-	<cognacy>19</cognacy>
+	<cognacy>19, 39</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -813,7 +813,7 @@
 	<item>moeroa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1152,9 +1152,9 @@
 	<word_id>66</word_id>
 	<word>to tie up, fasten</word>
 	<item>rishia</item>
-	<annotation>not a Fut word - JCM</annotation>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>14,16</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1187,7 +1187,7 @@
 	<item>tui</item>
 	<annotation>To thread,  string something (Dty)</annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1196,7 +1196,7 @@
 	<word_id>68</word_id>
 	<word>needle</word>
 	<item>nil</item>
-	<annotation>[borrowed - 'nail']</annotation>
+	<annotation>L from English</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2131,7 +2131,7 @@
 	<word_id>125</word_id>
 	<word>salt</word>
 	<item>sol</item>
-	<annotation>borrowed</annotation>
+	<annotation>L from English</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2153,9 +2153,9 @@
 	<word_id>127</word_id>
 	<word>woods/forest</word>
 	<item>ngamotu hmara [ṃara]</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>66?</cognacy>
+	<annotation>L from Namakura or Nakanamanga</annotation>
+	<loan>L</loan>
+	<cognacy>18</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2221,7 +2221,7 @@
 	<item>boa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>12, 67</cognacy>
+	<cognacy>67</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2419,7 +2419,7 @@
 	<item>hnupu [n̥upu]</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>68?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2496,7 +2496,7 @@
 	<item>tuŋ/tuŋia/</item>
 	<annotation>Burn many things</annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy>1,7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2527,9 +2527,9 @@
 	<word_id>146</word_id>
 	<word>ash</word>
 	<item>namuhlanga</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>44</cognacy>
+	<annotation>L from SVan Lgs</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2540,7 +2540,7 @@
 	<item>efu</item>
 	<annotation>Pollex 06: Efu. :Ashes.</annotation>
 	<loan></loan>
-	<cognacy>67</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2551,7 +2551,7 @@
 	<item>magarafu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>67</cognacy>
+	<cognacy>67, 60</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2661,7 +2661,7 @@
 	<item>sisi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>81,83</cognacy>
+	<cognacy>141</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2914,7 +2914,7 @@
 	<item>nomari</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>105</cognacy>
+	<cognacy>106?</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3376,7 +3376,7 @@
 	<item>otshi</item>
 	<annotation>Pollex 06: Otshi. :All.</annotation>
 	<loan></loan>
-	<cognacy>60?</cognacy>
+	<cognacy>60</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3541,7 +3541,7 @@
 	<item>iva</item>
 	<annotation>Nine (Dty).(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3552,7 +3552,7 @@
 	<item>-gafuru</item>
 	<annotation>Ten (Dty).(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

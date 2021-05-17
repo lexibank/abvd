@@ -35,7 +35,7 @@ Notes:
 	<item>rima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -530,7 +530,7 @@ Notes:
 	<item>kai</item>
 	<annotation>(s.)</annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -561,7 +561,7 @@ Notes:
 	<word_id>39</word_id>
 	<word>to cook</word>
 	<item>kuki</item>
-	<annotation>(prepare food) (English/Tok Pisin) (Loan)</annotation>
+	<annotation>L from Tok Pisin</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -607,7 +607,7 @@ Notes:
 	<item>takiluu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>8</cognacy>
+	<cognacy>83</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -618,7 +618,7 @@ Notes:
 	<item>homohomo</item>
 	<annotation>(one's fingers)</annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -629,7 +629,7 @@ Notes:
 	<item>umiumi</item>
 	<annotation>(one's fingers)</annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -706,7 +706,7 @@ Notes:
 	<item>maava</item>
 	<annotation>(s.)</annotation>
 	<loan></loan>
-	<cognacy>19</cognacy>
+	<cognacy>19, 39</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -717,7 +717,7 @@ Notes:
 	<item>moe</item>
 	<annotation>(s.)</annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1036,7 +1036,7 @@ Notes:
 	<item>ttui</item>
 	<annotation>(s.)</annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1056,7 +1056,7 @@ Notes:
 	<word_id>68</word_id>
 	<word>needle</word>
 	<item>niila</item>
-	<annotation>English/Tok Pisin (Loan)</annotation>
+	<annotation>L from Tok Pisin</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1639,8 +1639,8 @@ Notes:
 	<word_id>106</word_id>
 	<word>snake</word>
 	<item>kata (generic)</item>
-	<annotation>(Loan)</annotation>
-	<loan>L</loan>
+	<annotation>Phonologically irregular</annotation>
+	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1738,8 +1738,8 @@ Notes:
 	<word_id>112</word_id>
 	<word>rotten</word>
 	<item>mmahi</item>
-	<annotation>(sour, bad of food)</annotation>
-	<loan></loan>
+	<annotation>L from Micronesian lgs</annotation>
+	<loan>L</loan>
 	<cognacy>50</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1815,7 +1815,7 @@ Notes:
 	<word_id>116</word_id>
 	<word>flower</word>
 	<item>haraoa</item>
-	<annotation>from English flower (Loan)</annotation>
+	<annotation>L from English</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1936,7 +1936,7 @@ Notes:
 	<word_id>125</word_id>
 	<word>salt</word>
 	<item>horo</item>
-	<annotation>Post-Contact, from Tok Pisin/English (Loan)</annotation>
+	<annotation>L from Tok Pisin</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2103,7 +2103,7 @@ Notes:
 	<item>iri</item>
 	<annotation>b. (also fan)</annotation>
 	<loan></loan>
-	<cognacy>11?</cognacy>
+	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2180,7 +2180,7 @@ Notes:
 	<item>ttuni</item>
 	<annotation>(s.)</annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy>1,7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2235,7 +2235,7 @@ Notes:
 	<item>maatea</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>8</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2268,7 +2268,7 @@ Notes:
 	<item>uri</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>61?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2312,7 +2312,7 @@ Notes:
 	<item>rooroa</item>
 	<annotation>(s.)</annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2389,7 +2389,7 @@ Notes:
 	<item>raharaha</item>
 	<annotation>(s.)</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>48</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2563,7 +2563,7 @@ Notes:
 	<word_id>169</word_id>
 	<word>year</word>
 	<item>kirimahi</item>
-	<annotation>Tok Pisin (Loan)</annotation>
+	<annotation>L from Tok Pisin</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2939,7 +2939,7 @@ Notes:
 	<item>noo</item>
 	<annotation>(verbal phrases)</annotation>
 	<loan></loan>
-	<cognacy>9</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2950,7 +2950,7 @@ Notes:
 	<item>roo</item>
 	<annotation>(verbal phrases)</annotation>
 	<loan></loan>
-	<cognacy>9?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2983,7 +2983,7 @@ Notes:
 	<item>te</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>111</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2994,7 +2994,7 @@ Notes:
 	<item>ppau</item>
 	<annotation>(s.)</annotation>
 	<loan></loan>
-	<cognacy>8,63</cognacy>
+	<cognacy>63</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3126,7 +3126,7 @@ Notes:
 	<item>sivo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,44,43</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3137,7 +3137,7 @@ Notes:
 	<item>siva</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,44,43</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

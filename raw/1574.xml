@@ -26,7 +26,14 @@ Data entry general remarks :
 </classification>
 	<typedby>David VUILLAUME-PIEKUT</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@book{haudricourt1982a,
+  author = {Haudricourt, A.G. and Ozanne-Rivierre, F.},
+  date = {1982},
+  title = {Dictionnaire thématique des langues de la région de Hienghène (Nouvelle-Calédonie) : Pije, Fwâi, Nemi, Jawe - Précédé d'une phonologie comparée des langues de Hienghène et du Proto-Océanien},
+  publisher = {Société d'Etudes Linguistiques et Anthropologiques de France},
+  language = {fr},
+  address = {Paris}
+}</source>
 </record>
 
 <record>
@@ -36,7 +43,7 @@ Data entry general remarks :
 	<item>hi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -47,7 +54,7 @@ Data entry general remarks :
 	<item>mo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,59</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -58,7 +65,7 @@ Data entry general remarks :
 	<item>ⁿduhi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>24</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -234,7 +241,7 @@ Data entry general remarks :
 	<item>thi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1301,7 +1308,7 @@ Data entry general remarks :
 	<item>hɲat</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>118</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1686,7 +1693,7 @@ Data entry general remarks :
 	<item>ⁿdap</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

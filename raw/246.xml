@@ -43,7 +43,7 @@
 	<item>rima</item>
 	<annotation>Five, hand</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -284,8 +284,8 @@
 	<word>shoulder</word>
 	<item>pakihui</item>
 	<annotation>Collarbone, part of shoulder on which, carrying pole rests (Stn) [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>8</cognacy>
+	<loan></loan>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -593,7 +593,7 @@
 	<item>kai</item>
 	<annotation>Food, eat</annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -659,7 +659,7 @@
 	<item>momi</item>
 	<annotation>Swallow, suck</annotation>
 	<loan></loan>
-	<cognacy>11?</cognacy>
+	<cognacy>71</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -747,7 +747,7 @@
 	<item>moe</item>
 	<annotation>Sleep</annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -813,7 +813,7 @@
 	<item>haakoi</item>
 	<annotation>Mature, well-built man</annotation>
 	<loan></loan>
-	<cognacy>17?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -912,7 +912,7 @@
 	<item>metua taane</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,9</cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1044,7 +1044,7 @@
 	<item>tui</item>
 	<annotation>Thread pierced objects, sew</annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1064,8 +1064,8 @@
 	<word_id>68</word_id>
 	<word>needle</word>
 	<item>/hau/ato</item>
-	<annotation>Barbed thatching needle [&lt;]</annotation>
-	<loan>L</loan>
+	<annotation>Barbed thatching needle; ato = thatch</annotation>
+	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1308,7 +1308,7 @@
 	<item>ŋa/faa</item>
 	<annotation>Burst open, split apart, crack (Stn)</annotation>
 	<loan></loan>
-	<cognacy>5,72</cognacy>
+	<cognacy>5, 97</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1440,7 +1440,7 @@
 	<item>ŋiŋiti</item>
 	<annotation>Pollex 06: 9i9iti. :Squeeze, compress, grip tightly; pinch, pinch off (Stn).</annotation>
 	<loan></loan>
-	<cognacy>11?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1528,7 +1528,7 @@
 	<item>toro</item>
 	<annotation>Cast, hurl</annotation>
 	<loan></loan>
-	<cognacy>10?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2023,7 +2023,7 @@
 	<item>uru/raakau</item>
 	<annotation>Grove, clump</annotation>
 	<loan></loan>
-	<cognacy>15, 110</cognacy>
+	<cognacy>15, 13</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2185,10 +2185,10 @@
 	<id>108068</id>
 	<word_id>136</word_id>
 	<word>wind</word>
-	<item>hau/mataŋi</item>
+	<item>mataŋi</item>
 	<annotation>Refreshing gentle breeze</annotation>
 	<loan></loan>
-	<cognacy>10/1,66</cognacy>
+	<cognacy>1,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2353,7 +2353,7 @@
 	<item>tuŋi</item>
 	<annotation>Light, kindle, set fire to (Stn)</annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy>1,7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2485,7 +2485,7 @@
 	<item>iti</item>
 	<annotation>Small</annotation>
 	<loan></loan>
-	<cognacy>121</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2529,7 +2529,7 @@
 	<item>roa</item>
 	<annotation>Long a</annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2705,7 +2705,7 @@
 	<item>ruki</item>
 	<annotation>Dark, night</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>70</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3167,7 +3167,7 @@
 	<item>iva</item>
 	<annotation>Nine.(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3178,7 +3178,7 @@
 	<item>ŋahuru</item>
 	<annotation>Ten.(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

@@ -9,7 +9,29 @@
 	<classification>Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Danao</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby>Simon Greenhill</checkedby>
-	<source></source>
+	<source>@incollection{48550,
+  address    = {Canberra},
+  author     = {Allison, E. Joe},
+  booktitle  = {Papers in Philippine Linguistics No.~10},
+  journal    = {Pacific Linguistics A},
+  pages      = {53-112},
+  publisher  = {Research School of Pacific and Asian Studies, Australian National University},
+  series     = {Pacific Linguistics: Series A},
+  title      = {Proto-Danaw: A comparative study of Maranaw, Magindanaw, and Iranun},
+  volume     = {55},
+  year       = {1979},
+  besttxt    = {ptxt2\papuallison_proto-danaw1979_o.txt},
+  country    = {Philippines [PH]},
+  fn         = {papuallison_proto-danaw1979.pdf, papuallison_proto-danaw1979_o.pdf},
+  hhtype     = {overview;comparative},
+  inlg       = {English [eng]},
+  lgcode     = {Maranao, Magindanaw, Iranun [ill]},
+  macro_area = {Papunesia},
+  sil_id     = {15289},
+  src        = {hh, sil16},
+  subject    = {Comparative and historical studies [CHL]}
+}
+</source>
 </record>
 
 <record>
@@ -19,7 +41,7 @@
 	<item>*(b,d)iwaŋ</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>24,37</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -30,7 +52,7 @@
 	<item>*kawanan</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -41,7 +63,7 @@
 	<item>*aʔi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -52,7 +74,7 @@
 	<item>*(la)lakaw</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -63,7 +85,7 @@
 	<item>*lalan</item>
 	<annotation>trail</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -74,7 +96,7 @@
 	<item>*(s,t)aliŋgiʔ</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>132</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -85,7 +107,7 @@
 	<item>*laŋuy</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -96,7 +118,7 @@
 	<item>*r(ɨ)dsik</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>144</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

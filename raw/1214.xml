@@ -28,7 +28,7 @@
 	<item>rima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -135,10 +135,10 @@
 	<id>345738</id>
 	<word_id>11</word_id>
 	<word>dust</word>
-	<item>reporepo</item>
+	<item>'unga'unga</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>90</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -147,7 +147,7 @@
 	<word_id>12</word_id>
 	<word>skin</word>
 	<item>kiri</item>
-	<annotation>skin (^casing or shell is &quot;paka&quot; -MW)</annotation>
+	<annotation>skin (casing or shell is &quot;paka&quot; -MW)</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -201,9 +201,9 @@
 	<id>291373</id>
 	<word_id>17</word_id>
 	<word>liver</word>
-	<item>kupaŋa</item>
-	<annotation></annotation>
-	<loan>L?</loan>
+	<item>kūpaŋa</item>
+	<annotation>L from Tahitian</annotation>
+	<loan>L</loan>
 	<cognacy>6</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -212,7 +212,7 @@
 	<id>291374</id>
 	<word_id>18</word_id>
 	<word>breast</word>
-	<item>umauma</item>
+	<item>kouma</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>7</cognacy>
@@ -303,7 +303,7 @@
 	<item>raukaʔa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>40</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -413,7 +413,7 @@
 	<item>kaikai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -421,7 +421,7 @@
 	<id>345786</id>
 	<word_id>38</word_id>
 	<word>to chew</word>
-	<item>ngaungau</item>
+	<item>ŋauŋau</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>8</cognacy>
@@ -534,7 +534,7 @@
 	<item>komo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -609,7 +609,7 @@
 	<word_id>55</word_id>
 	<word>woman/female</word>
 	<item>pēʔā</item>
-	<annotation>rapa innovation-MW</annotation>
+	<annotation>rapa innovation</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -741,7 +741,7 @@
 	<word_id>68</word_id>
 	<word>needle</word>
 	<item>nira</item>
-	<annotation>borrowed from English</annotation>
+	<annotation>L from English</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -776,7 +776,7 @@
 	<item>tātā</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -864,7 +864,7 @@
 	<item>kōpanga</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>96</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -930,7 +930,7 @@
 	<item>'akatē</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1027,9 +1027,9 @@
 	<word_id>98</word_id>
 	<word>egg</word>
 	<item>huero</item>
-	<annotation>borrowing from Tahitian</annotation>
-	<loan>L</loan>
-	<cognacy></cognacy>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>94</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1203,7 +1203,7 @@
 	<word_id>118</word_id>
 	<word>grass</word>
 	<item>matie</item>
-	<annotation>this general term is a borrowing from Tahitian</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>13</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1326,7 +1326,7 @@
 	<item>'etika</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1337,7 +1337,7 @@
 	<item>ata</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>118</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1357,7 +1357,7 @@
 	<word_id>133</word_id>
 	<word>rain</word>
 	<item>kōno'u</item>
-	<annotation></annotation>
+	<annotation>innovation</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1578,7 +1578,7 @@
 	<word>short</word>
 	<item>poto</item>
 	<annotation></annotation>
-	<loan>L?</loan>
+	<loan></loan>
 	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1689,7 +1689,7 @@
 	<item>maria</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>105</cognacy>
+	<cognacy>106</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1983,10 +1983,10 @@
 	<id>345727</id>
 	<word_id>191</word_id>
 	<word>all</word>
-	<item>paatongaʔ</item>
+	<item>paʔatonga</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>97</cognacy>
+	<cognacy>13</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2017,7 +2017,7 @@
 	<word_id>195</word_id>
 	<word>no, not</word>
 	<item>eʔere</item>
-	<annotation>Tahitian borrowing</annotation>
+	<annotation>L from Tahitian</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2129,7 +2129,7 @@
 	<item>iva</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2140,7 +2140,7 @@
 	<item>roŋouru</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5,32</cognacy>
+	<cognacy>5,32,52</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

@@ -9,7 +9,16 @@
 	<classification>Austronesian, Malayo-Polynesian, Celebic, Eastern, Southeastern, Muna-Buton, Nuclear Muna-Buton, Buton, East Buton</classification>
 	<typedby>David Mead</typedby>
 	<checkedby>Simon Greenhill</checkedby>
-	<source></source>
+	<source>@techreport{MeadWakole,
+  author = &quot;Mead, David&quot;,
+  title = &quot;Wakole dialect of Kumbewaha word lists and notes&quot;,
+  institution = &quot;Sulawesi Language Alliance&quot;,
+  series = &quot;Sulang Language Data and Working Papers: Word Lists&quot;,
+  number = &quot;8&quot;,
+  date = &quot;2017&quot;,
+  url = &quot;http://sulang.org/resources/word-lists/008&quot;
+}
+</source>
 </record>
 
 <record>
@@ -1317,7 +1326,7 @@
 	<item>moɓoŋko</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>114</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

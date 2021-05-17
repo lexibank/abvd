@@ -129,7 +129,7 @@
 	<item>ágiyan</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>56</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -140,7 +140,7 @@
 	<item>rarán</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -162,7 +162,7 @@
 	<item>magbirik</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>4,75</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -173,7 +173,7 @@
 	<item>mag libot</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -184,7 +184,7 @@
 	<item>magsiko</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -645,6 +645,17 @@
 	<word>to dream</word>
 	<item>túrog</item>
 	<annotation>= sleep</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229932</id>
+	<word_id>50</word_id>
+	<word>to dream</word>
+	<item>pangaturogan</item>
+	<annotation>= dream</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1480,6 +1491,17 @@
 	<word_id>131</word_id>
 	<word>cloud</word>
 	<item>dag-óm</item>
+	<annotation>rain cloud</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229934</id>
+	<word_id>131</word_id>
+	<word>cloud</word>
+	<item>panganuron</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1494,6 +1516,17 @@
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229933</id>
+	<word_id>134</word_id>
+	<word>thunder</word>
+	<item>dagul-dul</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

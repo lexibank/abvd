@@ -9,7 +9,20 @@
 	<classification>Austronesian, Malayo-Polynesian, Malayo-Chamic, Malayic, Malay</classification>
 	<typedby>Dario Marticio</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@book{552133,
+  address    = {Singapore},
+  author     = {Shellabear, William Girdlestone},
+  pages      = {83},
+  publisher  = {The Methodist Printing House},
+  title      = {A practical Malay grammar},
+  year       = {1912},
+  hhtype     = {grammar_sketch},
+  inlg       = {English [eng]},
+  lgcode     = {Malay [zlm]},
+  macro_area = {Eurasia},
+  src        = {hh}
+}
+</source>
 </record>
 
 <record>

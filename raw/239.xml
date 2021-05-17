@@ -4,7 +4,8 @@
 	<author>POLLEX 2000 (Bruce Biggs &amp; Ross Clark)</author>
 	<silcode>mrv</silcode>
 	<glottocode>mang1401</glottocode>
-	<notes></notes>
+	<notes>These are  primarily a mix of items from Tregear and Rensch with corrections from Mary Walworth's fieldwork (mostly corrected orthography)
+*s , *f &gt; glottal stop</notes>
 	<problems></problems>
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, East, Central, Marquesic</classification>
 	<typedby>Simon Greenhill</typedby>
@@ -43,7 +44,7 @@
 	<item>rima</item>
 	<annotation>Five; hand-arm</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -54,7 +55,7 @@
 	<item>rima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -131,7 +132,7 @@
 	<item>'ere</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>6</cognacy>
+	<cognacy>6,9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -505,7 +506,7 @@
 	<item>rauo'o</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>40</cognacy>
+	<cognacy>40, 36</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -524,10 +525,10 @@
 	<id>321452</id>
 	<word_id>28</word_id>
 	<word>to breathe</word>
-	<item>'au</item>
+	<item>'akaea </item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>9</cognacy>
+	<cognacy>80</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -714,7 +715,7 @@
 	<item>kai</item>
 	<annotation>Food, eat</annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -725,7 +726,7 @@
 	<item>kai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -791,7 +792,7 @@
 	<item>eti</item>
 	<annotation>Tear with teeth</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>9, 84</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -967,7 +968,7 @@
 	<item>moe</item>
 	<annotation>Sleep</annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -978,7 +979,7 @@
 	<item>moe</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1165,7 +1166,7 @@
 	<item>toromiki</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>6,63</cognacy>
+	<cognacy>102, 63</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1207,7 +1208,7 @@
 	<word_id>58</word_id>
 	<word>wife</word>
 	<item>ve'ine</item>
-	<annotation>borrowing from Marquesan</annotation>
+	<annotation>L from Marquesan</annotation>
 	<loan>L</loan>
 	<cognacy>5,68</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1396,7 +1397,7 @@
 	<item>tui</item>
 	<annotation>Sew</annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1407,7 +1408,7 @@
 	<item>tue</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1416,7 +1417,7 @@
 	<word_id>68</word_id>
 	<word>needle</word>
 	<item>nira</item>
-	<annotation>loanword from English </annotation>
+	<annotation>L from English </annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1627,7 +1628,7 @@
 	<item>a'ae</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>5, 96</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1658,7 +1659,7 @@
 	<word_id>83</word_id>
 	<word>to work</word>
 	<item>haga</item>
-	<annotation>Work, labour</annotation>
+	<annotation>Work, labour (no [h])</annotation>
 	<loan></loan>
 	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1715,7 +1716,7 @@
 	<item>romi/romi</item>
 	<annotation>Cover, press upon</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1944,9 +1945,9 @@
 	<word_id>100</word_id>
 	<word>wing</word>
 	<item>pehau</item>
-	<annotation></annotation>
+	<annotation>pe'au</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>1, 81</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2218,10 +2219,10 @@
 	<id>40223</id>
 	<word_id>113</word_id>
 	<word>branch</word>
-	<item>'a'ie</item>
+	<item>rara</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2870,7 +2871,7 @@
 	<item>tutu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>6</cognacy>
+	<cognacy>1,6</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2903,7 +2904,7 @@
 	<item>e'u</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>67</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2914,7 +2915,7 @@
 	<item>ngara'u</item>
 	<annotation>soot, charcoal</annotation>
 	<loan></loan>
-	<cognacy>1,60</cognacy>
+	<cognacy>67, 60</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3035,7 +3036,7 @@
 	<item>riki/riki</item>
 	<annotation>Etre petit</annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3112,7 +3113,7 @@
 	<item>roa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -4036,7 +4037,7 @@
 	<item>iva</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -4047,7 +4048,7 @@
 	<item>rongo'uru</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5,32</cognacy>
+	<cognacy>5,32,52</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

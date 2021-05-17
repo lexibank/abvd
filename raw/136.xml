@@ -42,7 +42,7 @@
 	<item>nima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -295,7 +295,7 @@
 	<item>manavahē</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1?</cognacy>
+	<cognacy>92</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -460,7 +460,7 @@
 	<item>kai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -559,7 +559,7 @@
 	<item>fenoŋo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 59</cognacy>
 	<pmpcognacy>1?</pmpcognacy>
 </record>
 
@@ -581,7 +581,7 @@
 	<item>sio</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>47</cognacy>
+	<cognacy>132</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -603,7 +603,7 @@
 	<item>mohe</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -702,7 +702,7 @@
 	<item>tamasiʔi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>6,63?</cognacy>
+	<cognacy>6,103</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -746,7 +746,7 @@
 	<item>tama|i</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 52</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -823,7 +823,7 @@
 	<item>tuitui</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1109,7 +1109,7 @@
 	<item>fakaava</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>9</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1362,7 +1362,7 @@
 	<item>vaʔakau</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,4</cognacy>
+	<cognacy>65</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1692,7 +1692,7 @@
 	<item>[vi]viku</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>48</cognacy>
+	<cognacy>10, 48</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1725,7 +1725,7 @@
 	<item>tutu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>6</cognacy>
+	<cognacy>1, 6</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1747,7 +1747,7 @@
 	<item>efuefu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>67</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy>?</pmpcognacy>
 </record>
 
@@ -1813,7 +1813,7 @@
 	<item>siʔi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>81,83</cognacy>
+	<cognacy>141</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1857,7 +1857,7 @@
 	<item>lōloa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1901,7 +1901,7 @@
 	<item>laulahi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>9</cognacy>
+	<cognacy>73, 9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2055,7 +2055,7 @@
 	<item>kaka</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>32</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2308,7 +2308,7 @@
 	<item>pea</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>24?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2352,7 +2352,7 @@
 	<item>lau-a</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>8,62</cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2451,7 +2451,7 @@
 	<item>hiva</item>
 	<annotation>Nine.(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,44</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2489,11 +2489,22 @@
 </record>
 
 <record>
-	<id>83356</id>
+	<id>3230664</id>
 	<word_id>209</word_id>
 	<word>One Hundred</word>
-	<item>-nge/au/</item>
+	<item>-nge</item>
 	<annotation>Hundreds.(Source: Pollex)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3230665</id>
+	<word_id>209</word_id>
+	<word>One Hundred</word>
+	<item>teau</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>

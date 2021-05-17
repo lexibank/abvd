@@ -28,7 +28,7 @@
 	<item>lima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -48,9 +48,9 @@
 	<word_id>3</word_id>
 	<word>right</word>
 	<item>toilo</item>
-	<annotation></annotation>
-	<loan>L?</loan>
-	<cognacy></cognacy>
+	<annotation> L from (likely) Solomons</annotation>
+	<loan>L</loan>
+	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -488,7 +488,7 @@
 	<word_id>34</word_id>
 	<word>to cry</word>
 	<item>knghaa</item>
-	<annotation>loan from NW Solomonic</annotation>
+	<annotation>L from NW Solomonic</annotation>
 	<loan>L</loan>
 	<cognacy>5</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -534,7 +534,7 @@
 	<item>kai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -556,7 +556,7 @@
 	<item>kamu</item>
 	<annotation>chew betel</annotation>
 	<loan></loan>
-	<cognacy>7?</cognacy>
+	<cognacy>7, 74</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -611,7 +611,7 @@
 	<item>esia</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy>9, 84</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -633,7 +633,7 @@
 	<item>ngalia</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -699,7 +699,7 @@
 	<item>moe</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -862,9 +862,9 @@
 	<word_id>60</word_id>
 	<word>father</word>
 	<item>mha-</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>1,10?</cognacy>
+	<annotation>L from Solomon lgs</annotation>
+	<loan>L</loan>
+	<cognacy>1,10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -941,7 +941,7 @@
 	<item>hihia.</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>16</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -963,7 +963,7 @@
 	<item>tohia</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -972,7 +972,7 @@
 	<word_id>68</word_id>
 	<word>needle</word>
 	<item>nila</item>
-	<annotation>Loan?</annotation>
+	<annotation>L from English</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1128,7 +1128,7 @@
 	<item>hangaa</item>
 	<annotation>metathesis?-MW</annotation>
 	<loan></loan>
-	<cognacy>5,72</cognacy>
+	<cognacy>5, 97</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1568,7 +1568,7 @@
 	<item>laalakau</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,33,4</cognacy>
+	<cognacy>1,4</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1722,7 +1722,7 @@
 	<item>mouku</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>66?</cognacy>
+	<cognacy>66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2030,7 +2030,7 @@
 	<item>uiui</item>
 	<annotation>green</annotation>
 	<loan></loan>
-	<cognacy>61</cognacy>
+	<cognacy>88</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2085,7 +2085,7 @@
 	<item>loa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2195,7 +2195,7 @@
 	<item>lavoi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>58?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2635,7 +2635,7 @@
 	<item>oi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>9?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2646,7 +2646,7 @@
 	<item>ioko</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>9?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2712,7 +2712,7 @@
 	<item>phaua</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>8,63</cognacy>
+	<cognacy>63</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2833,7 +2833,7 @@
 	<item>iva</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

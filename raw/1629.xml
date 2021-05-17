@@ -29,7 +29,14 @@ translate)  in Javanese which (speaker option) sounds to me like [ iwa paus bund
 	<classification>Isolate</classification>
 	<typedby>Donald Alexander Barnett</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@book{Howley1915,
+  address               = {Cambridge},
+  author                = {Howley, James Patrick},
+  publisher             = {Cambridge University Press},
+  title                 = {The Beothucks, or Red Indians, the aboriginal inhabitants of Newfoundland},
+  year                  = {1915},
+  url                   = {https://archive.org/details/beothucksorredin00howl}
+}</source>
 </record>
 
 <record>

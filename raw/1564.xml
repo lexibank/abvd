@@ -10,7 +10,23 @@
 	<classification>Kenaboi</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby>Andrew Hsiu</checkedby>
-	<source></source>
+	<source>@article{86940,
+  author     = {John Hajek},
+  journal    = {Mon-Khmer Studies},
+  pages      = {137-149},
+  title      = {Kenaboi: An extinct unclassified language of the Malay Peninsula},
+  url        = {http://purl.org/sealang/hajek1998kenaboi.pdf},
+  volume     = {28},
+  year       = {1998},
+  besttxt    = {ptxt2\eurasia\hajek_kenaboi1998_o.txt},
+  fn         = {eurasia\hajek_kenaboi1998_o.pdf, eurasia\hajek_kenaboi1998.pdf},
+  hhtype     = {wordlist},
+  inlg       = {English [eng]},
+  lgcode     = {Kenaboi [xbn]},
+  macro_area = {Eurasia},
+  source     = {sealang},
+  src        = {hh, sala}
+}</source>
 </record>
 
 <record>

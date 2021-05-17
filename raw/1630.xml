@@ -9,7 +9,13 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, East, Central, Tahitic</classification>
 	<typedby>Mary Walworth</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@misc{Walworth2019,
+    author = {Walworth, Mary},
+    date = {2019},
+    howpublished = {personal communication}
+}
+
+</source>
 </record>
 
 <record>
@@ -85,7 +91,7 @@
 	<item>kai manga</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1, 44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

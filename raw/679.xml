@@ -33,7 +33,7 @@ Source: A handy guidebook to the Ibaloi language. Baguio City, Philippines. Tebt
 	<item>takdai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>30</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -143,7 +143,7 @@ Source: A handy guidebook to the Ibaloi language. Baguio City, Philippines. Tebt
 	<item>bodih'dih</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>102</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2414,6 +2414,17 @@ Source: A handy guidebook to the Ibaloi language. Baguio City, Philippines. Tebt
 </record>
 
 <record>
+	<id>3230422</id>
+	<word_id>175</word_id>
+	<word>above</word>
+	<item>kayang </item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>216917</id>
 	<word_id>176</word_id>
 	<word>below</word>
@@ -2656,6 +2667,17 @@ Source: A handy guidebook to the Ibaloi language. Baguio City, Philippines. Tebt
 </record>
 
 <record>
+	<id>3230423</id>
+	<word_id>193</word_id>
+	<word>if</word>
+	<item>nu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>176701</id>
 	<word_id>194</word_id>
 	<word>how?</word>
@@ -2832,6 +2854,17 @@ Source: A handy guidebook to the Ibaloi language. Baguio City, Philippines. Tebt
 </record>
 
 <record>
+	<id>3230421</id>
+	<word_id>207</word_id>
+	<word>Twenty</word>
+	<item>baente</item>
+	<annotation></annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>176643</id>
 	<word_id>208</word_id>
 	<word>Fifty</word>
@@ -2839,6 +2872,17 @@ Source: A handy guidebook to the Ibaloi language. Baguio City, Philippines. Tebt
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1,2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3230420</id>
+	<word_id>208</word_id>
+	<word>Fifty</word>
+	<item>singkwenta</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

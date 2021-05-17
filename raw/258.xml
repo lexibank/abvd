@@ -30,9 +30,9 @@
 	<word_id>1</word_id>
 	<word>hand</word>
 	<item>nima</item>
-	<annotation>Loan (Pawley 2010) [&lt;]</annotation>
+	<annotation>Loan from Tongan (Pawley 2010)</annotation>
 	<loan>L</loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -261,8 +261,8 @@
 	<word_id>15</word_id>
 	<word>bone</word>
 	<item>hui</item>
-	<annotation> &lt;Hui. :Os (Btn) B.&gt;.</annotation>
-	<loan></loan>
+	<annotation>L from Tongan (Marck 1999) PPN *h &gt; ∅</annotation>
+	<loan>L</loan>
 	<cognacy>52</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -294,7 +294,7 @@
 	<word_id>18</word_id>
 	<word>breast</word>
 	<item>huhu</item>
-	<annotation>Breast [&lt;]</annotation>
+	<annotation>L from Tongan (likely)</annotation>
 	<loan>L</loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -426,7 +426,7 @@
 	<word_id>25</word_id>
 	<word>neck</word>
 	<item>kia</item>
-	<annotation>Gorge, gosier, cou (Btn) [&lt;]</annotation>
+	<annotation>L from Tongan</annotation>
 	<loan>L</loan>
 	<cognacy>20</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -580,7 +580,7 @@
 	<word_id>36</word_id>
 	<word>to spit</word>
 	<item>kisu</item>
-	<annotation>Rejeter de la bouche en soufflant; cracher (Btn)</annotation>
+	<annotation>L from East Futunan</annotation>
 	<loan>L</loan>
 	<cognacy>14,56</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -626,7 +626,7 @@
 	<item>kai</item>
 	<annotation>Food, eat</annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -724,7 +724,7 @@
 	<word>to suck</word>
 	<item>mihi</item>
 	<annotation>Sucer (Ren) [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>8</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -736,7 +736,7 @@
 	<item>momi</item>
 	<annotation>Manger sans dents, sucer</annotation>
 	<loan></loan>
-	<cognacy>11?</cognacy>
+	<cognacy>71</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -758,7 +758,7 @@
 	<item>fanogo</item>
 	<annotation>Ecouter</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 59</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -769,7 +769,7 @@
 	<item>fagono</item>
 	<annotation>Ecouter</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 59</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -800,9 +800,9 @@
 	<word_id>46</word_id>
 	<word>to see</word>
 	<item>sio</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>47</cognacy>
+	<annotation>L from Tongan (Biggs 1980)</annotation>
+	<loan>L</loan>
+	<cognacy>132</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -812,7 +812,7 @@
 	<word>to yawn</word>
 	<item>mamaao</item>
 	<annotation>Bíiller, fumer; s'evaporer (Btn) [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>19,28</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -824,7 +824,7 @@
 	<item>moe</item>
 	<annotation>Sleep</annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -932,9 +932,9 @@
 	<word_id>56</word_id>
 	<word>child</word>
 	<item>tamasiì</item>
-	<annotation>Child (Btn) B. [&lt;]</annotation>
+	<annotation>L from Tongan</annotation>
 	<loan>L</loan>
-	<cognacy>6,63?</cognacy>
+	<cognacy>6,103</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -943,9 +943,9 @@
 	<word_id>56</word_id>
 	<word>child</word>
 	<item>tamasiì</item>
-	<annotation>Child (Btn) [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>6,63?</cognacy>
+	<annotation>DUP</annotation>
+	<loan></loan>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -976,9 +976,9 @@
 	<word_id>60</word_id>
 	<word>father</word>
 	<item>tamai</item>
-	<annotation>Father B. [&lt;]</annotation>
+	<annotation>L from Tongan</annotation>
 	<loan>L</loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 52</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1009,7 +1009,7 @@
 	<word_id>63</word_id>
 	<word>name</word>
 	<item>higoa</item>
-	<annotation>Name [&lt;]</annotation>
+	<annotation>L from Tongan</annotation>
 	<loan>L</loan>
 	<cognacy>6</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1055,7 +1055,7 @@
 	<item>tui</item>
 	<annotation>Sew</annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1064,8 +1064,8 @@
 	<word_id>68</word_id>
 	<word>needle</word>
 	<item>hau</item>
-	<annotation>Tattooing needle (Btn)</annotation>
-	<loan></loan>
+	<annotation>L from Tongan (Biggs 1980) PPN *h &gt; ∅</annotation>
+	<loan>L</loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1170,6 +1170,17 @@
 </record>
 
 <record>
+	<id>3229916</id>
+	<word_id>73</word_id>
+	<word>to steal</word>
+	<item>kaiha'a</item>
+	<annotation>L from Tongan</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>167998</id>
 	<word_id>74</word_id>
 	<word>to kill</word>
@@ -1219,8 +1230,8 @@
 	<word>to scratch</word>
 	<item>alasi</item>
 	<annotation>To scratch B. [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>10</cognacy>
+	<loan></loan>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1295,7 +1306,7 @@
 	<word_id>79</word_id>
 	<word>stick/wood</word>
 	<item>àkau</item>
-	<annotation>Tree, plant, wood (Btn) B. [&lt;]</annotation>
+	<annotation>L from Tongan</annotation>
 	<loan>L</loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1308,7 +1319,7 @@
 	<item>ta'aga</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>72</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1317,8 +1328,8 @@
 	<word_id>81</word_id>
 	<word>sharp</word>
 	<item>maasila</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>L from Tongan</annotation>
+	<loan>L</loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1328,8 +1339,8 @@
 	<word_id>83</word_id>
 	<word>to work</word>
 	<item>ngaaue</item>
-	<annotation>Travail, ouvrage, action, occupation, profession (Rch)</annotation>
-	<loan></loan>
+	<annotation>L from Tongan</annotation>
+	<loan>L</loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1350,7 +1361,7 @@
 	<word_id>83</word_id>
 	<word>to work</word>
 	<item>gaaue</item>
-	<annotation>Travail (Rch) B. [&lt;]</annotation>
+	<annotation>L from Tongan</annotation>
 	<loan>L</loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1418,7 +1429,7 @@
 	<item>fota</item>
 	<annotation>Palper, frotter avec les mains</annotation>
 	<loan></loan>
-	<cognacy>8</cognacy>
+	<cognacy>8, 2, 93</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1549,8 +1560,8 @@
 	<word>to fall</word>
 	<item>mokulu</item>
 	<annotation>Tomber (Btn) B. [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>11</cognacy>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1669,7 +1680,7 @@
 	<word_id>104</word_id>
 	<word>fat/grease</word>
 	<item>huni</item>
-	<annotation>Huile cuite avec des pierres rougies au feu (Btn) B. [&lt;]</annotation>
+	<annotation>L from Tongan</annotation>
 	<loan>L</loan>
 	<cognacy>12</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1690,7 +1701,7 @@
 	<id>168003</id>
 	<word_id>107</word_id>
 	<word>worm (earthworm)</word>
-	<item>'ulukele</item>
+	<item>kelemutu</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>9</cognacy>
@@ -1790,9 +1801,9 @@
 	<word_id>113</word_id>
 	<word>branch</word>
 	<item>vaà</item>
-	<annotation>Branch (Rch) B. [&lt;]</annotation>
+	<annotation>L from Tongan</annotation>
 	<loan>L</loan>
-	<cognacy>1</cognacy>
+	<cognacy>65</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1801,7 +1812,7 @@
 	<word_id>113</word_id>
 	<word>branch</word>
 	<item>àkau</item>
-	<annotation>Tree, plant, wood (Btn) B. [&lt;]</annotation>
+	<annotation>L from Tongan</annotation>
 	<loan>L</loan>
 	<cognacy>1,4</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1857,7 +1868,7 @@
 	<word>grass</word>
 	<item>mohuku</item>
 	<annotation>Herbe (Btn) B. [&lt;]</annotation>
-	<loan>L?</loan>
+	<loan></loan>
 	<cognacy>58</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1956,7 +1967,7 @@
 	<word>sea</word>
 	<item>vaha</item>
 	<annotation>Distance, haute mer, espace (Rch)</annotation>
-	<loan>L?</loan>
+	<loan></loan>
 	<cognacy>12</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1988,7 +1999,7 @@
 	<word_id>126</word_id>
 	<word>lake</word>
 	<item>ano</item>
-	<annotation>Lake B. [&lt;]</annotation>
+	<annotation>L from Tongan</annotation>
 	<loan>L</loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2131,7 +2142,7 @@
 	<word_id>135</word_id>
 	<word>lightning</word>
 	<item>'uhila</item>
-	<annotation>Eclaire (Rch), Loan (Pawley 2010)</annotation>
+	<annotation>L from Tongan (Pawley 2010; Biggs 1980)</annotation>
 	<loan>L</loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2320,7 +2331,18 @@
 	<item>tutu</item>
 	<annotation>Mettre le feu a (Rch)</annotation>
 	<loan></loan>
-	<cognacy>6</cognacy>
+	<cognacy>1,6</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229917</id>
+	<word_id>144</word_id>
+	<word>to burn</word>
+	<item>kakaha</item>
+	<annotation>L from Tongan (Biggs 1980)</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2329,7 +2351,7 @@
 	<word_id>145</word_id>
 	<word>smoke</word>
 	<item>àhu</item>
-	<annotation>Smoke B. [&lt;]</annotation>
+	<annotation>Likely L from Tongan</annotation>
 	<loan>L</loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2407,8 +2429,8 @@
 	<word>small</word>
 	<item>siì</item>
 	<annotation>Petit, un peu (Rch) B. [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>81,83</cognacy>
+	<loan></loan>
+	<cognacy>141</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2452,7 +2474,7 @@
 	<item>loa</item>
 	<annotation>Long</annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2529,7 +2551,7 @@
 	<item>laulahi</item>
 	<annotation>Largeur</annotation>
 	<loan></loan>
-	<cognacy>9</cognacy>
+	<cognacy>73, 9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2615,7 +2637,7 @@
 	<word_id>165</word_id>
 	<word>bad, evil</word>
 	<item>kovi</item>
-	<annotation>Bad B. [&lt;]</annotation>
+	<annotation>L from Tongan</annotation>
 	<loan>L</loan>
 	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2649,7 +2671,7 @@
 	<word>night</word>
 	<item>poo'uli</item>
 	<annotation>Nuit, tenebres, obscurite (Rch) B. [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>1,10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -2659,9 +2681,9 @@
 	<word_id>168</word_id>
 	<word>day</word>
 	<item>àho</item>
-	<annotation>Day, not night B. [&lt;]</annotation>
+	<annotation> L from Tongan</annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>1, 54</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2670,9 +2692,9 @@
 	<word_id>168</word_id>
 	<word>day</word>
 	<item>àho</item>
-	<annotation>Day</annotation>
+	<annotation>DUP</annotation>
 	<loan></loan>
-	<cognacy>1, 54</cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2737,7 +2759,7 @@
 	<word>at</word>
 	<item>tei</item>
 	<annotation>Presque; sur le point de; quasi (Btn) [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>5</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -2759,7 +2781,7 @@
 	<word>above</word>
 	<item>'o/luga/</item>
 	<annotation>Above (Rch) B. [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -2769,9 +2791,9 @@
 	<word_id>175</word_id>
 	<word>above</word>
 	<item>'o/luga/</item>
-	<annotation>Above (Rch) B. [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>9</cognacy>
+	<annotation>DUP</annotation>
+	<loan></loan>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2989,9 +3011,9 @@
 	<word_id>187</word_id>
 	<word>they</word>
 	<item>naaua</item>
-	<annotation>Pron. pers. tonique. Ils, elles, eux. (3-ieme pers. du duel) (Rch [&lt;]</annotation>
+	<annotation>3P dual (L form Tongan)</annotation>
 	<loan>L</loan>
-	<cognacy>x</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3078,7 +3100,7 @@
 	<word>how?</word>
 	<item>feafeaì</item>
 	<annotation>How? [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -3101,7 +3123,7 @@
 	<item>lau</item>
 	<annotation>Compter, calculer</annotation>
 	<loan></loan>
-	<cognacy>8,62</cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3112,7 +3134,7 @@
 	<item>lau</item>
 	<annotation>Compter</annotation>
 	<loan></loan>
-	<cognacy>8,62</cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3165,7 +3187,7 @@
 	<word_id>201</word_id>
 	<word>Five</word>
 	<item>nima</item>
-	<annotation>Main, bras, cinq (Rch)[&gt;].(Source: Pollex), Loan (Pawley 2010)</annotation>
+	<annotation>L from Tongan (Pawley 2010)</annotation>
 	<loan>L</loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -3209,9 +3231,9 @@
 	<word_id>205</word_id>
 	<word>Nine</word>
 	<item>hiva</item>
-	<annotation>Nine[&gt;].(Source: Pollex)</annotation>
+	<annotation>L from Tongan</annotation>
 	<loan>L</loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,44</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3220,9 +3242,9 @@
 	<word_id>206</word_id>
 	<word>Ten</word>
 	<item>hogofulu</item>
-	<annotation>Ten[&gt;].(Source: Pollex)</annotation>
+	<annotation>L from Tongan</annotation>
 	<loan>L</loan>
-	<cognacy>5,32?</cognacy>
+	<cognacy>5</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3231,7 +3253,7 @@
 	<word_id>209</word_id>
 	<word>One Hundred</word>
 	<item>te/au/</item>
-	<annotation>Hundred (Btn) B.[&gt;].(Source: Pollex)</annotation>
+	<annotation>L from Tongan</annotation>
 	<loan>L</loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>

@@ -28,7 +28,7 @@
 	<item>rima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -149,7 +149,7 @@
 	<item>tiipu'u</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -182,7 +182,7 @@
 	<item>hu'ahuaa</item>
 	<annotation>hu'ahuaa (little bits of anything)</annotation>
 	<loan></loan>
-	<cognacy>X</cognacy>
+	<cognacy>90</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -268,9 +268,9 @@
 	<word_id>18</word_id>
 	<word>breast</word>
 	<item>tiitii</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>6</cognacy>
+	<annotation>L from French</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -281,7 +281,7 @@
 	<item>tapono</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>9</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -787,7 +787,7 @@
 	<item>metua taane</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,9</cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1062,7 +1062,7 @@
 	<item>'ohipa</item>
 	<annotation>tahitian innovation</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>92</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1139,7 +1139,7 @@
 	<item>'eru</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 69</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1173,6 +1173,17 @@
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>72</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229395</id>
+	<word_id>93</word_id>
+	<word>to pound, beat</word>
+	<item>tu'i</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1346,9 +1357,9 @@
 	<word_id>106</word_id>
 	<word>snake</word>
 	<item>'oofii</item>
-	<annotation></annotation>
-	<loan>L?</loan>
-	<cognacy>77</cognacy>
+	<annotation>Greek Loan </annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1513,7 +1524,7 @@
 	<item>'oofa'i</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>3</cognacy>
+	<cognacy>1,39, 3</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1634,7 +1645,7 @@
 	<item>feti'a</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1656,7 +1667,7 @@
 	<item>ruupehu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1810,7 +1821,7 @@
 	<item>tutu'i</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy>1,7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1854,7 +1865,7 @@
 	<item>'uo'uo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>108</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1942,7 +1953,7 @@
 	<item>roa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2580,7 +2591,7 @@
 	<item>maha</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,66</cognacy>
+	<cognacy>1,66, 4</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2657,7 +2668,7 @@
 	<item>iva</item>
 	<annotation>Nine.(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2668,7 +2679,7 @@
 	<item>'afulu</item>
 	<annotation>Ten, Ten[&gt;](Source: Pollex), probably not a tahitian form?</annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2679,7 +2690,7 @@
 	<item>'ahuru</item>
 	<annotation>Ten, Ten[&gt;](Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2690,7 +2701,7 @@
 	<item>'ahuru</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

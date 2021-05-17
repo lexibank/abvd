@@ -4,14 +4,35 @@
 	<author>Thiessen (1980)</author>
 	<silcode></silcode>
 	<glottocode>pala1354</glottocode>
-	<notes>
-Thiessen, Henry Arnold. 1980. Phonological reconstruction of Proto-Palawan. Arlington. MA thesis, University of Texas at Arlington.
+	<notes>Thiessen, Henry Arnold. 1980. Phonological reconstruction of Proto-Palawan. Arlington. MA thesis, University of Texas at Arlington.
 </notes>
 	<problems></problems>
 	<classification>Austronesian, Malayo-Polynesian, Greater Central Philippine, Palawanic</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby>Andrew Hsiu</checkedby>
-	<source></source>
+	<source>@mastersthesis{141579,
+  author           = {Thiessen, Henry Arnold},
+  pages            = {vii+94},
+  publisher        = {Arlington},
+  school           = {University of Texas at Arlington},
+  title            = {Phonological reconstruction of Proto-Palawan},
+  year             = {1980},
+  besttxt          = {ptxt\papua	hiessen_palawan1980_o.txt},
+  cfn              = {papua	hiessen_palawan1980_o.pdf},
+  class_loc        = {PL5985},
+  delivered        = {papua	hiessen_palawan1980_o.pdf},
+  document_type    = {CF},
+  fn               = {papua	hiessen_palawan1980_o.pdf, papua/thiessen_palawan1980_o.pdf},
+  fnnote           = {pdf, 3,38 MB},
+  hhtype           = {overview;comparative},
+  inlg             = {English [eng]},
+  lgcode           = {Brooke's Point Palawano [plw], Canipaan Palawan = Southwest Palawano [plv], Taut Batu [NOCODE_Taut-Batu]},
+  macro_area       = {Papunesia},
+  mpifn            = {palawan_thiessen1980_o.pdf},
+  oclc             = {702398688},
+  src              = {hh, mpieva},
+  subject_headings = {Proto-Palawanic language - Phonology, Proto-Palawanic language - Phonology}
+}</source>
 </record>
 
 <record>
@@ -21,7 +42,7 @@ Thiessen, Henry Arnold. 1980. Phonological reconstruction of Proto-Palawan. Arli
 	<item>(*)lima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -32,7 +53,7 @@ Thiessen, Henry Arnold. 1980. Phonological reconstruction of Proto-Palawan. Arli
 	<item>*gibang</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>24</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -43,7 +64,7 @@ Thiessen, Henry Arnold. 1980. Phonological reconstruction of Proto-Palawan. Arli
 	<item>(*)wanan</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -54,7 +75,7 @@ Thiessen, Henry Arnold. 1980. Phonological reconstruction of Proto-Palawan. Arli
 	<item>*panaw</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -65,7 +86,7 @@ Thiessen, Henry Arnold. 1980. Phonological reconstruction of Proto-Palawan. Arli
 	<item>*dalan</item>
 	<annotation>trail</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -76,7 +97,7 @@ Thiessen, Henry Arnold. 1980. Phonological reconstruction of Proto-Palawan. Arli
 	<item>(*)libu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -87,7 +108,7 @@ Thiessen, Henry Arnold. 1980. Phonological reconstruction of Proto-Palawan. Arli
 	<item>*languy</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

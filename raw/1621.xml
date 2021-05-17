@@ -4,13 +4,33 @@
 	<author>Yang (2002)</author>
 	<silcode></silcode>
 	<glottocode>bata1315</glottocode>
-	<notes>
-Yang, Doris Hsiao-Fang (楊曉芳). 2002. Subgrouping and reconstruction of Batanic languages (巴丹語言的分群與擬測). MA thesis. Taichung, Taiwan: Providence University.</notes>
+	<notes>Yang, Doris Hsiao-Fang (楊曉芳). 2002. Subgrouping and reconstruction of Batanic languages (巴丹語言的分群與擬測). MA thesis. Taichung, Taiwan: Providence University.</notes>
 	<problems></problems>
 	<classification>Austronesian, Malayo-Polynesian, Bashiic, Ivatan</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby>Andrew Hsiu</checkedby>
-	<source></source>
+	<source>@mastersthesis{45143,
+  author        = {Hsiao-Fang Yang, Doris},
+  pages         = {vii+87},
+  school        = {Taijung, Taiwan: Providence University},
+  title         = {Subgrouping and reconstruction of Batanic languages},
+  url           = {http://ethesys.lib.pu.edu.tw/ETD-db/ETD-search/view_etd?URN=etd-0905103-135942},
+  year          = {2002},
+  besttxt       = {ptxt\papua\yang_batanic2002.txt},
+  cfn           = {papua\yang_batanic2002.pdf},
+  delivered     = {papua\yang_batanic2002.pdf},
+  document_type = {CF},
+  fn            = {papua\yang_batanic2002_o.pdf, papua\yang_batanic2002.pdf, papua\yang _batanic2002.pdf},
+  fnnote        = {pfd, 1,39 MB},
+  hhtype        = {overview;comparative},
+  inlg          = {English [eng]},
+  lgcode        = {Yami [tao], Itbayat = Ivatan [ivv], Ivatan [ivv] = Ibatan [ivb], Babuyan = Ibatan [ivb]},
+  macro_area    = {Papunesia},
+  mpifn         = {batanic_yang2002_s.pdf},
+  oclc          = {729338631},
+  src           = {hh, mpieva}
+}
+</source>
 </record>
 
 <record>

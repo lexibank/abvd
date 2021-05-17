@@ -49,6 +49,28 @@
 </record>
 
 <record>
+	<id>3229862</id>
+	<word_id>2</word_id>
+	<word>left</word>
+	<item>kais</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229863</id>
+	<word_id>3</word_id>
+	<word>right</word>
+	<item>sut</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>84004</id>
 	<word_id>4</word_id>
 	<word>leg/foot</word>
@@ -467,6 +489,17 @@
 </record>
 
 <record>
+	<id>3229864</id>
+	<word_id>38</word_id>
+	<word>to chew</word>
+	<item>tokol</item>
+	<annotation>b.</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>84039</id>
 	<word_id>39</word_id>
 	<word>to cook</word>
@@ -745,7 +778,7 @@
 	<id>84939</id>
 	<word_id>54</word_id>
 	<word>man/male</word>
-	<item>higenen</item>
+	<item>igenen</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -756,8 +789,8 @@
 	<id>84938</id>
 	<word_id>54</word_id>
 	<word>man/male</word>
-	<item>anutan</item>
-	<annotation></annotation>
+	<item>anitun</item>
+	<annotation>person/human being</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -804,6 +837,17 @@
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>5</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229865</id>
+	<word_id>57</word_id>
+	<word>husband</word>
+	<item>kisŋag</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -923,6 +967,17 @@
 	<word>to tie up, fasten</word>
 	<item>dikut</item>
 	<annotation>'tie together'</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229866</id>
+	<word_id>69</word_id>
+	<word>to hunt</word>
+	<item>akalat</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2506,6 +2561,17 @@
 	<word_id>181</word_id>
 	<word>where?</word>
 	<item>nei</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229867</id>
+	<word_id>181</word_id>
+	<word>where?</word>
+	<item>voe</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>

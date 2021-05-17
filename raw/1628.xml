@@ -4,12 +4,36 @@
 	<author>Online dictionary of Penrhyn</author>
 	<silcode>pnh</silcode>
 	<glottocode>penr1237</glottocode>
-	<notes>presence of s is important - only EP lang. retaining s.</notes>
+	<notes>Shibata 2003 via the Online Dictionary of Penrhyn at http://penrhyn.cookislandsdictionary.com</notes>
 	<problems></problems>
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, East, Central, Tahitic</classification>
 	<typedby>Mary Walworth</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@misc{PenrhynOD,
+  author = &quot;Penrhyn Online Dictionary&quot;,
+  date = &quot;2019&quot;,
+  url = &quot;http://penrhyn.cookislandsdictionary.com&quot;
+}
+
+@book{Shibata2003,
+  address               = {Osaka},
+  author                = {Shibata, Norio},
+  pages                 = {xiv+237},
+  publisher             = {ELPR},
+  series                = {Endangered Languages of the Pacific Rim Publications Series},
+  title                 = {Penrhyn-English dictionary},
+  volume                = {A1-005},
+  year                  = {2003},
+  class_loc             = {PL6499.Z9},
+  document_type         = {B},
+  hhtype                = {dictionary (computerized assignment from &quot;dictionary&quot;)},
+  inlg                  = {English [eng]},
+  lgcode                = {Penrhyn [pnh]},
+  macro_area            = {Papunesia},
+  mpi_eva_library_shelf = {PL 6499 .Z9 PEN 2003},
+  src                   = {mpieva},
+  subject_headings      = {Polynesian languages–Dictionaries–English, Penrhyn language–Dictionaries–English, Polynesian languages–Dictionaries–English – Penrhyn language–Dictionaries–English}
+}</source>
 </record>
 
 <record>
@@ -19,7 +43,7 @@
 	<item>rima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -61,7 +85,7 @@
 	<word_id>5</word_id>
 	<word>to walk</word>
 	<item>saere</item>
-	<annotation>soro</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>6</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -116,7 +140,7 @@
 	<word_id>10</word_id>
 	<word>dirty</word>
 	<item>parapara</item>
-	<annotation>toketoke</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -204,7 +228,7 @@
 	<word_id>18</word_id>
 	<word>breast</word>
 	<item>umauma</item>
-	<annotation>vakavaka</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -336,9 +360,20 @@
 	<word_id>30</word_id>
 	<word>mouth</word>
 	<item>ngutu</item>
-	<annotation>vaha</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229897</id>
+	<word_id>30</word_id>
+	<word>mouth</word>
+	<item>vaha</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,8</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -415,7 +450,7 @@
 	<item>kakai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -536,7 +571,7 @@
 	<item>moe</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -589,7 +624,7 @@
 	<word_id>53</word_id>
 	<word>person/human being</word>
 	<item>tangata</item>
-	<annotation>hare</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1,66</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -668,7 +703,7 @@
 	<item>matua</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,9</cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -712,7 +747,7 @@
 	<item>karanga</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>60</cognacy>
+	<cognacy>169</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -745,7 +780,7 @@
 	<item>tuitui</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -754,7 +789,7 @@
 	<word_id>68</word_id>
 	<word>needle</word>
 	<item>nira</item>
-	<annotation></annotation>
+	<annotation>L from English</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -886,7 +921,7 @@
 	<word_id>80</word_id>
 	<word>to split</word>
 	<item>vāsi</item>
-	<annotation>totoe</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>4</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -899,7 +934,7 @@
 	<item>keo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>14,66, </cognacy>
+	<cognacy>83</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -974,9 +1009,20 @@
 	<word_id>88</word_id>
 	<word>to squeeze</word>
 	<item>kumu</item>
-	<annotation>tatau</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>14</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229898</id>
+	<word_id>88</word_id>
+	<word>to squeeze</word>
+	<item>tatau</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>13</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -996,9 +1042,20 @@
 	<word_id>90</word_id>
 	<word>to dig</word>
 	<item>keri</item>
-	<annotation>keru</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229899</id>
+	<word_id>90</word_id>
+	<word>to dig</word>
+	<item>keru</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,69</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1172,9 +1229,9 @@
 	<word_id>106</word_id>
 	<word>snake</word>
 	<item>ōvī</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>77</cognacy>
+	<annotation>Greek Loan </annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1238,9 +1295,20 @@
 	<word_id>112</word_id>
 	<word>rotten</word>
 	<item>pirau</item>
-	<annotation>pē</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>15</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229900</id>
+	<word_id>112</word_id>
+	<word>rotten</word>
+	<item>pē</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1249,9 +1317,31 @@
 	<word_id>113</word_id>
 	<word>branch</word>
 	<item>ātava</item>
-	<annotation>manga, rārā</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>13</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229901</id>
+	<word_id>113</word_id>
+	<word>branch</word>
+	<item>manga</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2,35</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229902</id>
+	<word_id>113</word_id>
+	<word>branch</word>
+	<item> rārā</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1315,9 +1405,20 @@
 	<word_id>119</word_id>
 	<word>earth/soil</word>
 	<item>one</item>
-	<annotation>repo</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>35</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229903</id>
+	<word_id>119</word_id>
+	<word>earth/soil</word>
+	<item>repo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1392,7 +1493,7 @@
 	<word_id>126</word_id>
 	<word>lake</word>
 	<item>roto</item>
-	<annotation>taungāsoa</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>6</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1667,8 +1768,8 @@
 	<word_id>153</word_id>
 	<word>big</word>
 	<item>poria</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>L from 'fat' in Tahitian. </annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1691,7 +1792,7 @@
 	<item>roa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1702,7 +1803,7 @@
 	<item>angiangi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>18</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1887,7 +1988,7 @@
 	<word_id>175</word_id>
 	<word>above</word>
 	<item>runga</item>
-	<annotation>ngake</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2098,7 +2199,7 @@
 	<item>iva</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2109,7 +2210,7 @@
 	<item>ngahuru</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

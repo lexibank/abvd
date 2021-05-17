@@ -4,14 +4,33 @@
 	<author>Liu (2008)</author>
 	<silcode>jio</silcode>
 	<glottocode>jiam1236</glottocode>
-	<notes>
-Liu, Yuanchao 刘援朝. 2008. &quot;Liyu Jiamaohua gaikuang 黎语加茂话概况.&quot; In Minzu Yuwen 民族语文, 2008(1).
+	<notes>Liu, Yuanchao 刘援朝. 2008. &quot;Liyu Jiamaohua gaikuang 黎语加茂话概况.&quot; In Minzu Yuwen 民族语文, 2008(1).
 </notes>
 	<problems></problems>
 	<classification>Tai-Kadai, Hlaic, Jiamao</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby>Andrew Hsiu</checkedby>
-	<source></source>
+	<source>@article{321595,
+  author         = {Liú, Yuáncháo},
+  journal        = {Minzu Yuwen},
+  number         = {1},
+  pages          = {64-81},
+  title          = {Lí yŭ jiāmào huà gàikuàng},
+  volume         = {2008},
+  year           = {2008},
+  besttxt        = {ptxt2\eurasia\liu_jiamao2008_o.txt},
+  cfn            = {eurasia\liu_jiamao2008_o.pdf},
+  delivered      = {eurasia\liu_jiamao2008_o.pdf},
+  fn             = {eurasia\liu_jiamao2008v2.pdf, eurasia\liu_jiamao2008.pdf, eurasia\liu_jiamao2008_o.pdf},
+  hhtype         = {grammar_sketch},
+  inlg           = {Chinese Mandarin [cmn]},
+  lgcode         = {Jiamao [jio]},
+  macro_area     = {Eurasia},
+  src            = {hh},
+  title_english  = {A Brief Description of the Jiamao Language},
+  title_original = {黎语加茂话概况}
+}
+</source>
 </record>
 
 <record>

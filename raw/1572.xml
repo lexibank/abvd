@@ -4,14 +4,37 @@
 	<author>Nagaraja (2014)</author>
 	<silcode>nll</silcode>
 	<glottocode>niha1238</glottocode>
-	<notes>
-K. S. Nagaraja. 2014. The Nihali Language (Grammar, Texts, Vocabulary). Mysore: Central Institute of Indian Languages. xii+332pp.
+	<notes>K. S. Nagaraja. 2014. The Nihali Language (Grammar, Texts, Vocabulary). Mysore: Central Institute of Indian Languages. xii+332pp.
 </notes>
 	<problems></problems>
 	<classification>Nihali</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby>Andrew Hsiu</checkedby>
-	<source></source>
+	<source>
+@book{326395,
+  address    = {Mysore},
+  author     = {K. S. Nagaraja},
+  pages      = {xii+332},
+  publisher  = {Central Institute of Indian Languages},
+  title      = {The Nihali Language (Grammar, Texts, Vocabulary)},
+  year       = {2014},
+  besttxt    = {ptxt\eurasia
+agaraja_nihali2014.txt},
+  cfn        = {eurasia
+agaraja_nihali2014.pdf},
+  fn         = {eurasia
+agaraja_nihali2014.pdf, eurasia
+agaraja_nihali2014_o.pdf, eurasia
+agaraja_nihali2014v2_o.pdf, eurasia
+agaraja_nihali2014pages.pdf},
+  hhtype     = {grammar},
+  inlg       = {English [eng]},
+  lgcode     = {Nihali [nll]},
+  macro_area = {Eurasia},
+  src        = {hh}
+}
+
+</source>
 </record>
 
 <record>

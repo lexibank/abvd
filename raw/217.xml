@@ -32,7 +32,7 @@
 	<item>rima</item>
 	<annotation>Pollex 06: Rima. :Five, hand n (Ebt).</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -43,7 +43,7 @@
 	<item>lima</item>
 	<annotation>64Pollex 06: Lima. :Hand, arm, five (Lbr).</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -64,7 +64,7 @@
 	<word>right</word>
 	<item>tau</item>
 	<annotation>Right (not left) [&lt;]</annotation>
-	<loan>L?</loan>
+	<loan></loan>
 	<cognacy>5, 25</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -73,9 +73,9 @@
 	<id>108920</id>
 	<word_id>3</word_id>
 	<word>right</word>
-	<item>tonu</item>
-	<annotation>Right (not left) [&lt;]</annotation>
-	<loan>L?</loan>
+	<item>gau </item>
+	<annotation>Lbr (irregular)</annotation>
+	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -417,7 +417,7 @@
 	<item>ŋahuru</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>29,3</cognacy>
+	<cognacy>29, 31</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -535,9 +535,9 @@
 	<id>11284</id>
 	<word_id>32</word_id>
 	<word>tongue</word>
-	<item>horore</item>
+	<item>holole</item>
 	<annotation>Tongue [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>15</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -615,7 +615,7 @@
 	<item>gai</item>
 	<annotation>Eat (Lbr)</annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1044,7 +1044,7 @@
 	<item>tui</item>
 	<annotation>Thread pierced objects, sew (I) (Lbr)</annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1055,7 +1055,7 @@
 	<item>dui</item>
 	<annotation>Sew, pierce (Lbr)</annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1570,7 +1570,7 @@
 	<word_id>104</word_id>
 	<word>fat/grease</word>
 	<item>kiris</item>
-	<annotation>Loan - English 'Grease'</annotation>
+	<annotation>L from English</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1935,7 +1935,7 @@
 	<item>kororangi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>36</cognacy>
+	<cognacy>3</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2111,7 +2111,7 @@
 	<item>tungi</item>
 	<annotation>Set light to (Ebt)</annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy>1,7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2122,7 +2122,7 @@
 	<item>dudu</item>
 	<annotation>Kindle fire or lantern (Lbr)</annotation>
 	<loan></loan>
-	<cognacy>6</cognacy>
+	<cognacy>1,6</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2276,7 +2276,7 @@
 	<item>loo</item>
 	<annotation>Long (used only in compounds) (Lbr)</annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2287,7 +2287,7 @@
 	<item>l/loo/</item>
 	<annotation>Long (Plural) (used only in compounds) (Lbr)</annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2441,7 +2441,7 @@
 	<item>humalia</item>
 	<annotation>Good, goodness (Lbr)</annotation>
 	<loan></loan>
-	<cognacy>16</cognacy>
+	<cognacy>16, 141</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2518,7 +2518,7 @@
 	<item>aal</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>7?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2847,7 +2847,7 @@
 	<word>how?</word>
 	<item>pehee</item>
 	<annotation>How [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -3024,7 +3024,7 @@
 	<item>hiwa</item>
 	<annotation>Nine (Lbr)[&gt;].(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,44</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

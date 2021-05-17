@@ -9,7 +9,12 @@
 	<classification>Austronesian, Malayo-Polynesian, Bilic</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@misc{Zorc2018,
+  author = &quot;R David Zorc&quot;,
+  date = &quot;2018&quot;,
+  howpublished = &quot;personal communication&quot;
+}
+</source>
 </record>
 
 <record>
@@ -19,7 +24,7 @@
 	<item>limo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

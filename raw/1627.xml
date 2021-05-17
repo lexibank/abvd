@@ -1,6 +1,6 @@
 <record>
 	<id>1627</id>
-	<language>Tokelau Fijian - Vanuabalavu &amp; Moce</language>
+	<language>Tokelau Fijian</language>
 	<author>Paul Geraghty, Fieldnotes</author>
 	<silcode>fij</silcode>
 	<glottocode>fiji1243</glottocode>
@@ -11,7 +11,11 @@ Some alternative forms for the Moce variety are also included. These are not eno
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, East Fijian</classification>
 	<typedby>Mary Walworth</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@misc{Geraghty2019,
+  author = &quot;Paul Geraghty&quot;,
+  date = &quot;2019&quot;,
+  howpublished = &quot;personal communication&quot;
+}</source>
 </record>
 
 <record>
@@ -230,7 +234,7 @@ Some alternative forms for the Moce variety are also included. These are not eno
 	<item>rere</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>8?</cognacy>
+	<cognacy>93</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -417,7 +421,7 @@ Some alternative forms for the Moce variety are also included. These are not eno
 	<item>domi-c</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>50</cognacy>
+	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -516,7 +520,7 @@ Some alternative forms for the Moce variety are also included. These are not eno
 	<item>tagane</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,11</cognacy>
+	<cognacy>1,14</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -734,9 +738,9 @@ Some alternative forms for the Moce variety are also included. These are not eno
 	<word_id>80</word_id>
 	<word>to split</word>
 	<item>isi-k</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
+	<annotation>This looks like a borrowing from Pn</annotation>
+	<loan>L</loan>
+	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1099,7 +1103,7 @@ Some alternative forms for the Moce variety are also included. These are not eno
 	<item>lekutu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>13?</cognacy>
+	<cognacy>66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1253,7 +1257,7 @@ Some alternative forms for the Moce variety are also included. These are not eno
 	<item>koma</item>
 	<annotation>udre</annotation>
 	<loan></loan>
-	<cognacy>62</cognacy>
+	<cognacy>107</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1605,7 +1609,7 @@ Some alternative forms for the Moce variety are also included. These are not eno
 	<item>yau</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1616,7 +1620,7 @@ Some alternative forms for the Moce variety are also included. These are not eno
 	<item>u</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>21</cognacy>
+	<cognacy>1, 21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

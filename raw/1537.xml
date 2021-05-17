@@ -4,8 +4,7 @@
 	<author>Shao 2016, Shao &amp; Meng 2016</author>
 	<silcode></silcode>
 	<glottocode>jizh1234</glottocode>
-	<notes>
-Shao Lanzhu [邵兰珠]. 2016. Guangdong Jizhaohua yanjiu [广东吉兆话研究]. M.A. dissertation: Guangxi University for Nationalities [广西民族大学].
+	<notes>Shao Lanzhu [邵兰珠]. 2016. Guangdong Jizhaohua yanjiu [广东吉兆话研究]. M.A. dissertation: Guangxi University for Nationalities [广西民族大学].
 
 Shao Lanzhu [邵兰珠]; Meng Yuanyao [蒙元耀]. 2016. &quot;Loanwords of Min dialect in Jizhao dialect in Guangdong&quot; [广东吉兆话中的闽方言借词]. In Journal of Guangdong University of Petrochemical Technology [广东石油化工学院学报], Vol. 26, No. 2, April 2016.
 </notes>
@@ -13,7 +12,40 @@ Shao Lanzhu [邵兰珠]; Meng Yuanyao [蒙元耀]. 2016. &quot;Loanwords of Min 
 	<classification>Tai-Kadai, Kam-Tai, Lakkja</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@mastersthesis{553635,
+  author         = {Shao, Lanzhu},
+  pages          = {92},
+  school         = {Guangxi University for Nationalities},
+  title          = {Guǎngdōng jízhàohuà yánjiū},
+  year           = {2016},
+  hhtype         = {phonology;comparative;wordlist},
+  inlg           = {Chinese [cmn]},
+  lgcode         = {Jizhao [NOCODE_Jizhao]},
+  macro_area     = {Eurasia},
+  src            = {hh},
+  title_english  = {A study of Jizhao language in Guangdong},
+  title_original = {广东吉兆话研究}
+}
+
+@article{553512,
+  author         = {Shao, Lanzhu and Meng, Yuanyao},
+  journal        = {Journal of Guangdong University of Petrochemical Technology},
+  number         = {2},
+  pages          = {23-26},
+  title          = {Guǎngdōng jízhào huà zhōng de mǐn fāngyán jiècí},
+  volume         = {26},
+  year           = {2016},
+  besttxt        = {ptxt2\eurasia\shao-meng_jizhao2016_o.txt},
+  fn             = {eurasia\shao-meng_jizhao2016_o.pdf, eurasia\shao_jizhao2016.pdf, eurasia\shao-meng_jizhao2016.pdf, eurasia\shao_jizhao2016_o.pdf},
+  hhtype         = {comparative;minimal},
+  inlg           = {Chinese [cmn]},
+  lgcode         = {Jizhao [NOCODE_Jizhao]},
+  macro_area     = {Eurasia},
+  src            = {hh},
+  title_english  = {Loanwords of Min dialect in Jizhao dialect in Guangdong},
+  title_original = {广东吉兆话中的闽方言借词}
+}
+</source>
 </record>
 
 <record>

@@ -17,7 +17,14 @@ Note that the problem is the same with the two oral vowels [o] and [ɔ] ending u
 </classification>
 	<typedby>David PIEKUT</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@book{lercari1994a,
+  author = {Lecari, Claude},
+  title = {Textes Sichëë (Nouvelle-Caldonie) : Esquisse phonologique, lexique},
+  date = {1994},
+  publisher = {INALCO},
+  language = {fr},
+  address = {Paris}
+}</source>
 </record>
 
 <record>
@@ -27,7 +34,7 @@ Note that the problem is the same with the two oral vowels [o] and [ɔ] ending u
 	<item>mãrã</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>14</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -38,7 +45,7 @@ Note that the problem is the same with the two oral vowels [o] and [ɔ] ending u
 	<item>xɔ̃rɔ̃mi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -49,7 +56,7 @@ Note that the problem is the same with the two oral vowels [o] and [ɔ] ending u
 	<item>xõrõmi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -60,7 +67,7 @@ Note that the problem is the same with the two oral vowels [o] and [ɔ] ending u
 	<item>xaru</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>87</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -214,7 +221,7 @@ Note that the problem is the same with the two oral vowels [o] and [ɔ] ending u
 	<item>ɟi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

@@ -2,14 +2,19 @@
 	<id>1547</id>
 	<language>Bulalakawnon</language>
 	<author>R David Zorc</author>
-	<silcode></silcode>
-	<glottocode>bula1258</glottocode>
+	<silcode>loc</silcode>
+	<glottocode>bula1256</glottocode>
 	<notes></notes>
 	<problems></problems>
 	<classification>Austronesian, Malayo-Polynesian, Greater Central Philippine, Central Philippine, Bisayan, West</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@misc{Zorc2018,
+  author = &quot;R David Zorc&quot;,
+  date = &quot;2018&quot;,
+  howpublished = &quot;personal communication&quot;
+}
+</source>
 </record>
 
 <record>
@@ -19,7 +24,7 @@
 	<item>limá</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1,64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -52,7 +57,7 @@
 	<item>tuʔú</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>5,25</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -63,7 +68,7 @@
 	<item>páʔa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>103</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -74,7 +79,7 @@
 	<item>dálan</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -85,7 +90,7 @@
 	<item>sudlay</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>68</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -96,7 +101,7 @@
 	<item>sigpit</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>67</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -107,7 +112,7 @@
 	<item>-abót</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>15</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -118,7 +123,7 @@
 	<item>balík</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>4,75</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -129,7 +134,7 @@
 	<item>laŋúy</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -140,7 +145,7 @@
 	<item>-hígkuʔ</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

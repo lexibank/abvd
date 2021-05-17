@@ -4,14 +4,27 @@
 	<author>Phillips (2012)</author>
 	<silcode></silcode>
 	<glottocode>asli1243</glottocode>
-	<notes>
-Phillips, Timothy C. 2012. Proto-Aslian: towards an understanding of its historical linguistic systems, principles and processes. Ph.D. thesis, Institut Alam Dan Tamadun Melayu Universiti Kebangsaan Malaysia, Bangi.
+	<notes>Phillips, Timothy C. 2012. Proto-Aslian: towards an understanding of its historical linguistic systems, principles and processes. Ph.D. thesis, Institut Alam Dan Tamadun Melayu Universiti Kebangsaan Malaysia, Bangi.
 </notes>
 	<problems></problems>
 	<classification>Austroasiatic, Aslian</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby>Andrew Hsiu</checkedby>
-	<source></source>
+	<source>@phdthesis{551500,
+  author     = {Timothy C. Phillips},
+  pages      = {268},
+  school     = {Bangi: Universiti Kebangsaan Malaysia},
+  title      = {Proto-Aslian: towards an understanding of its historical linguistic systems, principles and processes},
+  year       = {2012},
+  besttxt    = {ptxt2\eurasia\phillips_aslian2012.txt},
+  cfn        = {eurasia\phillips_aslian2012.pdf},
+  delivered  = {eurasia\phillips_aslian2012.pdf},
+  fn         = {eurasia\phillips_proto-aslian2012.pdf, eurasia\phillips_proto-aslian2012_o.pdf, eurasia\phillips_aslian2012.pdf},
+  hhtype     = {overview;comparative},
+  inlg       = {English [eng]},
+  macro_area = {Eurasia},
+  src        = {hh}
+}</source>
 </record>
 
 <record>

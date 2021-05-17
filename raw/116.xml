@@ -135,7 +135,7 @@
 	<id>3329</id>
 	<word_id>10</word_id>
 	<word>dirty</word>
-	<item>pearpera</item>
+	<item>perapera</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>7</cognacy>
@@ -147,8 +147,8 @@
 	<word_id>11</word_id>
 	<word>dust</word>
 	<item>kefkefu</item>
-	<annotation>&quot;f&quot;&lt; Pn; POc *p &gt; Rot h (loan)</annotation>
-	<loan>Pn</loan>
+	<annotation>&quot;f&quot;&lt; Pn; POc *p &gt; Rot h (L from PN)</annotation>
+	<loan>L</loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -169,9 +169,9 @@
 	<word_id>13</word_id>
 	<word>back</word>
 	<item>fomafua</item>
-	<annotation></annotation>
+	<annotation>*t &gt;f</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -279,8 +279,8 @@
 	<word_id>23</word_id>
 	<word>blood</word>
 	<item>toto</item>
-	<annotation>Pn loan</annotation>
-	<loan>Pn</loan>
+	<annotation>L from PN</annotation>
+	<loan>L</loan>
 	<cognacy>4</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -301,8 +301,8 @@
 	<word_id>25</word_id>
 	<word>neck</word>
 	<item>kia</item>
-	<annotation>Pn loan</annotation>
-	<loan>Pn</loan>
+	<annotation>L from Tongan, Niuean, or East Uvean</annotation>
+	<loan>L</loan>
 	<cognacy>20</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -314,7 +314,7 @@
 	<item>leva</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>22</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -422,7 +422,7 @@
 	<word_id>36</word_id>
 	<word>to spit</word>
 	<item>ạnusi</item>
-	<annotation>possible loan but probably not</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>14,84</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -433,9 +433,9 @@
 	<word_id>37</word_id>
 	<word>to eat</word>
 	<item>'ā</item>
-	<annotation>Pn loan</annotation>
-	<loan>Pn</loan>
-	<cognacy>1,44</cognacy>
+	<annotation>L from PN</annotation>
+	<loan>L</loan>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -444,7 +444,7 @@
 	<word_id>38</word_id>
 	<word>to chew</word>
 	<item>mama</item>
-	<annotation>loan status indeterminate</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -466,7 +466,7 @@
 	<word_id>40</word_id>
 	<word>to drink</word>
 	<item>'imo</item>
-	<annotation>not cognate - JCM</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -708,7 +708,7 @@
 	<word_id>62</word_id>
 	<word>thatch/roof</word>
 	<item>hata</item>
-	<annotation>iireg. as loan or regular cognate</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -765,7 +765,7 @@
 	<item>susu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>17, 48</cognacy>
+	<cognacy>17</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -774,9 +774,9 @@
 	<word_id>67</word_id>
 	<word>to sew</word>
 	<item>tui</item>
-	<annotation>Pn loan</annotation>
+	<annotation>L from PN</annotation>
 	<loan>L</loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -807,8 +807,8 @@
 	<word_id>70</word_id>
 	<word>to shoot</word>
 	<item>fana</item>
-	<annotation>Pn loan</annotation>
-	<loan>Pn</loan>
+	<annotation>*p &gt; h (L from PN)</annotation>
+	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
@@ -873,7 +873,7 @@
 	<word_id>76</word_id>
 	<word>to live, be alive</word>
 	<item>mauri</item>
-	<annotation></annotation>
+	<annotation>Schmidt 2003 claims this is a loan from Samoan or E. Uvean; PCP *q &gt; ∅, so I think this is impossible to detect indirect inheritance in this case.</annotation>
 	<loan></loan>
 	<cognacy>1, 76</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -917,9 +917,9 @@
 	<word_id>80</word_id>
 	<word>to split</word>
 	<item>fa'a</item>
-	<annotation>Pn Loan</annotation>
-	<loan>Pn</loan>
-	<cognacy>5</cognacy>
+	<annotation>L from Tongan</annotation>
+	<loan>L</loan>
+	<cognacy>5, 96</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -928,9 +928,9 @@
 	<word_id>81</word_id>
 	<word>sharp</word>
 	<item>'ā</item>
-	<annotation>possibility of Ellicean loan seems high - JCM</annotation>
-	<loan>L?</loan>
-	<cognacy></cognacy>
+	<annotation>L from E Futunan, Tokelau, or N Outliers </annotation>
+	<loan>L</loan>
+	<cognacy>14,15</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -950,9 +950,9 @@
 	<word_id>83</word_id>
 	<word>to work</word>
 	<item>garue</item>
-	<annotation></annotation>
+	<annotation>L from PN</annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1018,7 +1018,7 @@
 	<item>hō</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>8,2, 93</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1049,7 +1049,7 @@
 	<word_id>91</word_id>
 	<word>to buy</word>
 	<item>togi</item>
-	<annotation>Pn loan</annotation>
+	<annotation>L from E Futunan, E Uvean, Tongan, Samoan, or Niue</annotation>
 	<loan>L</loan>
 	<cognacy>10?</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1071,8 +1071,8 @@
 	<word_id>93</word_id>
 	<word>to pound, beat</word>
 	<item>tuki</item>
-	<annotation>Pn loan</annotation>
-	<loan>Pn</loan>
+	<annotation>POc *k &gt;ʔ (L from PN)</annotation>
+	<loan>L</loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
@@ -1148,9 +1148,9 @@
 	<word_id>100</word_id>
 	<word>wing</word>
 	<item>papạ'u</item>
-	<annotation>&quot;p&quot; should be &quot;h&quot; - loan</annotation>
+	<annotation>POc *p &gt; h, so likely L from PN that has since undergone internal change.</annotation>
 	<loan>L</loan>
-	<cognacy>1</cognacy>
+	<cognacy>1,59</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1159,7 +1159,7 @@
 	<word_id>101</word_id>
 	<word>to fly</word>
 	<item>fere</item>
-	<annotation>possible cognate, not a great one - JCM</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1236,8 +1236,8 @@
 	<word_id>107</word_id>
 	<word>worm (earthworm)</word>
 	<item>kermutu</item>
-	<annotation>Pn loan - JCM</annotation>
-	<loan>Pn</loan>
+	<annotation>L from E Futunan, E Uvean, Niuean, Toongan, Tookelauan, or Tuvaluan</annotation>
+	<loan>L</loan>
 	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1313,8 +1313,8 @@
 	<word_id>112</word_id>
 	<word>rotten</word>
 	<item>para</item>
-	<annotation>Pn loan - JCM</annotation>
-	<loan>Pn</loan>
+	<annotation>L from PN</annotation>
+	<loan>L</loan>
 	<cognacy>13</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1335,8 +1335,8 @@
 	<word_id>114</word_id>
 	<word>leaf</word>
 	<item>rau</item>
-	<annotation>Pn loan - JCM</annotation>
-	<loan>Pn</loan>
+	<annotation></annotation>
+	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
@@ -1391,7 +1391,7 @@
 	<word>earth/soil</word>
 	<item>pera</item>
 	<annotation></annotation>
-	<loan>Pn</loan>
+	<loan></loan>
 	<cognacy>32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1445,7 +1445,7 @@
 	<word_id>124</word_id>
 	<word>sea</word>
 	<item>sạsi</item>
-	<annotation>irreg. but not Pn - JCM</annotation>
+	<annotation>phonologically irregular</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1?</pmpcognacy>
@@ -1533,8 +1533,8 @@
 	<word_id>132</word_id>
 	<word>fog</word>
 	<item>kakạpu</item>
-	<annotation>Pn loan - JCM</annotation>
-	<loan>Pn</loan>
+	<annotation>L from Tongan</annotation>
+	<loan>L</loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1548,6 +1548,17 @@
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>3229405</id>
+	<word_id>133</word_id>
+	<word>rain</word>
+	<item>timu</item>
+	<annotation>L from Samoan</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
@@ -1599,9 +1610,9 @@
 	<word_id>137</word_id>
 	<word>to blow</word>
 	<item>iri</item>
-	<annotation>(a)</annotation>
-	<loan></loan>
-	<cognacy>5</cognacy>
+	<annotation>L from Tongan</annotation>
+	<loan>L</loan>
+	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1610,9 +1621,9 @@
 	<word_id>137</word_id>
 	<word>to blow</word>
 	<item>ui</item>
-	<annotation>(b)</annotation>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>4</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1654,8 +1665,8 @@
 	<word_id>141</word_id>
 	<word>wet</word>
 	<item>mata</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>L from Tuvaluan</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1687,9 +1698,9 @@
 	<word_id>144</word_id>
 	<word>to burn</word>
 	<item>susunu</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>1, 6</cognacy>
+	<annotation>L from Samoan or E Futunan</annotation>
+	<loan>L</loan>
+	<cognacy>106</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1753,8 +1764,8 @@
 	<word_id>150</word_id>
 	<word>yellow</word>
 	<item>perpero</item>
-	<annotation>Pn loan - JCM</annotation>
-	<loan>Pn</loan>
+	<annotation></annotation>
+	<loan></loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1774,7 +1785,7 @@
 	<id>54023</id>
 	<word_id>152</word_id>
 	<word>small</word>
-	<item>mea'me'a</item>
+	<item>me'ame'a</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>35</cognacy>
@@ -1819,9 +1830,9 @@
 	<word_id>155</word_id>
 	<word>long</word>
 	<item>roā</item>
-	<annotation>Pn loan - JCM</annotation>
-	<loan>Pn</loan>
-	<cognacy>12</cognacy>
+	<annotation>L from PN</annotation>
+	<loan>L</loan>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1863,9 +1874,9 @@
 	<word_id>159</word_id>
 	<word>wide</word>
 	<item>ofrau</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
+	<annotation>L from Samoan or EUvean</annotation>
+	<loan>L</loan>
+	<cognacy>73</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1918,8 +1929,8 @@
 	<word_id>163</word_id>
 	<word>new</word>
 	<item>fo'ou</item>
-	<annotation>Pn loan - JCM</annotation>
-	<loan>Pn</loan>
+	<annotation>L from Tongan or E Uvean </annotation>
+	<loan>L</loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
@@ -1929,8 +1940,8 @@
 	<word_id>164</word_id>
 	<word>good</word>
 	<item>lelei</item>
-	<annotation>Pn loan on distributional grounds - JCM</annotation>
-	<loan>Pn</loan>
+	<annotation>L from WPn lgs</annotation>
+	<loan>L</loan>
 	<cognacy>17</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -2017,8 +2028,8 @@
 	<word_id>172</word_id>
 	<word>to climb</word>
 	<item>hako</item>
-	<annotation>a.</annotation>
-	<loan></loan>
+	<annotation> L from Tongan</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -2490,8 +2501,8 @@
 	<word_id>209</word_id>
 	<word>One Hundred</word>
 	<item>tarau</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>L from Samoan</annotation>
+	<loan>L</loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>

@@ -3,7 +3,7 @@
 	<language>Marquesan (Nukuhiva dialect)</language>
 	<author>Andrew Pawley</author>
 	<silcode>mrq</silcode>
-	<glottocode>nort2845</glottocode>
+	<glottocode>nuku1261</glottocode>
 	<notes></notes>
 	<problems></problems>
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, East, Central, Marquesic</classification>
@@ -28,7 +28,7 @@
 	<item>'ima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -281,7 +281,7 @@
 	<item>ouoho</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>40</cognacy>
+	<cognacy>40, 36</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -413,7 +413,7 @@
 	<item>kaikai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -490,7 +490,7 @@
 	<item>ti'ohi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>47</cognacy>
+	<cognacy>132</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -501,7 +501,7 @@
 	<item>hiamoe</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -578,7 +578,7 @@
 	<item>to'iki</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>6,63?</cognacy>
+	<cognacy>63, 102</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -598,8 +598,8 @@
 	<word_id>59</word_id>
 	<word>mother</word>
 	<item>maamaa</item>
-	<annotation>borrowing?-MW</annotation>
-	<loan>L?</loan>
+	<annotation>L from French</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -655,7 +655,7 @@
 	<item>tui</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -721,7 +721,7 @@
 	<item>tuve'e</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>33</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -840,7 +840,7 @@
 	<word_id>96</word_id>
 	<word>dog</word>
 	<item>peto</item>
-	<annotation>Spanish</annotation>
+	<annotation>L from Spanish</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -875,7 +875,7 @@
 	<item>pekeheu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,59</cognacy>
+	<cognacy>1,81</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -895,8 +895,8 @@
 	<word_id>104</word_id>
 	<word>fat/grease</word>
 	<item>kerehi</item>
-	<annotation>Eng. Loan?</annotation>
-	<loan>L?</loan>
+	<annotation>L from English</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1392,7 +1392,7 @@
 	<item>'oa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1403,7 +1403,7 @@
 	<item>kahikahi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1413,7 +1413,7 @@
 	<word>thick</word>
 	<item>pipi'i</item>
 	<annotation></annotation>
-	<loan>L?</loan>
+	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1722,7 +1722,7 @@
 	<item>paotuu te mou mea</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>59?</cognacy>
+	<cognacy>59</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1755,7 +1755,7 @@
 	<item>tatau</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>8</cognacy>
+	<cognacy>8,80</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

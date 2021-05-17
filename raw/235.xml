@@ -32,7 +32,7 @@
 	<item>rima</item>
 	<annotation>Five; hand-arm</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -439,7 +439,7 @@
 	<item>kai</item>
 	<annotation>Food, eat</annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -549,7 +549,7 @@
 	<item>moe</item>
 	<annotation>Sleep</annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -679,8 +679,8 @@
 	<word_id>60</word_id>
 	<word>father</word>
 	<item>paa</item>
-	<annotation>Pollex 06: Paa/paa. :Father, uncle; grandfather, granduncle (Sta).</annotation>
-	<loan>L?</loan>
+	<annotation>L from English</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -769,7 +769,7 @@
 	<item>tui</item>
 	<annotation>Sew; needle</annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -934,7 +934,7 @@
 	<item>ŋa/haa</item>
 	<annotation>To be broken, as, for example, a coconut shell (Rsn)</annotation>
 	<loan></loan>
-	<cognacy>5,72</cognacy>
+	<cognacy>5, 97</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -945,7 +945,7 @@
 	<item>keo</item>
 	<annotation>Pollex 06: Keo. :Sharp point; sharp.</annotation>
 	<loan></loan>
-	<cognacy>14,66, 82</cognacy>
+	<cognacy>83</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1075,8 +1075,8 @@
 	<word_id>91</word_id>
 	<word>to buy</word>
 	<item>hoko</item>
-	<annotation>Buy, sell B. [&lt;] (loan from?-MW)</annotation>
-	<loan>L?</loan>
+	<annotation>L from likely Rarotongan  w/nativisation</annotation>
+	<loan>L</loan>
 	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1330,7 +1330,7 @@
 	<item>raaraa</item>
 	<annotation>Small branch</annotation>
 	<loan></loan>
-	<cognacy>1,33</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1792,7 +1792,7 @@
 	<item>iti</item>
 	<annotation>Small, small portion</annotation>
 	<loan></loan>
-	<cognacy>121</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1858,7 +1858,7 @@
 	<item>roa</item>
 	<annotation>Long, tall</annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1968,7 +1968,7 @@
 	<item>suumaringa</item>
 	<annotation>Beautiful, good, nice (Hnt)</annotation>
 	<loan></loan>
-	<cognacy>16?</cognacy>
+	<cognacy>16, 141</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2252,8 +2252,8 @@
 	<word_id>195</word_id>
 	<word>no, not</word>
 	<item>kaare</item>
-	<annotation>Pollex 06: Kaare. :No, nothing, zero; no! [loan from Rarotongan](Sta).</annotation>
-	<loan></loan>
+	<annotation>L from Rarotongan</annotation>
+	<loan>L</loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -2276,7 +2276,7 @@
 	<item>ta/tau</item>
 	<annotation>Pollex 06: Ta/tau. :Read, count (Sta).</annotation>
 	<loan></loan>
-	<cognacy>8</cognacy>
+	<cognacy>8,80</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2375,7 +2375,7 @@
 	<item>iva</item>
 	<annotation>Nine.(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2386,7 +2386,7 @@
 	<item>ngahuru</item>
 	<annotation>Ten.(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

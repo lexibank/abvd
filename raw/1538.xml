@@ -4,14 +4,31 @@
 	<author>Zhang 1992</author>
 	<silcode></silcode>
 	<glottocode>jizh1234</glottocode>
-	<notes>
-Zhang Zhenxing [张振兴]. 1992. &quot;Guangdongsheng Wuchuan fangyan jilve&quot; [广东省吴川方言记略]. In Fangyan [方言] 1992(3).
+	<notes>Zhang Zhenxing [张振兴]. 1992. &quot;Guangdongsheng Wuchuan fangyan jilve&quot; [广东省吴川方言记略]. In Fangyan [方言] 1992(3).
 </notes>
 	<problems></problems>
 	<classification>Tai-Kadai, Kam-Tai, Lakkja</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@article{553096,
+  author         = {Zhang, Zhenxing},
+  journal        = {Fangyan},
+  number         = {3},
+  pages          = {195-213},
+  title          = {Guǎngdōng shěng wúchuān fāngyán jìlüè},
+  volume         = {1992},
+  year           = {1992},
+  besttxt        = {ptxt\eurasia\zhang_wuchuan-guangdong1992.txt},
+  fn             = {eurasia\zhang_wuchuan-guangdong1992_o.pdf, eurasia\zhang_wuchuan-guangdong1992.pdf},
+  hhtype         = {wordlist},
+  inlg           = {Chinese [cmn]},
+  lgcode         = {Wuyang = Yue Chinese [yue], Meilu = Yue Chinese [yue], Jizhao = Jizhao [NOCODE_Jizhao], Lanshi = Yue Chinese [yue]},
+  macro_area     = {Eurasia},
+  src            = {hh},
+  title_english  = {A sketch of the Wuchuan dialects of Guangdong},
+  title_original = {广东省吴川方言记略}
+}
+</source>
 </record>
 
 <record>

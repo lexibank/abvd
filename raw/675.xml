@@ -32,7 +32,7 @@
 	<item>rima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -43,7 +43,7 @@
 	<item>nima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -64,7 +64,7 @@
 	<word>right</word>
 	<item>katea</item>
 	<annotation>RH</annotation>
-	<loan>L?</loan>
+	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -141,7 +141,7 @@
 	<word>skin</word>
 	<item>na tiri</item>
 	<annotation></annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -472,7 +472,7 @@
 	<item>hu/kai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -482,7 +482,7 @@
 	<word>to chew</word>
 	<item>vaiu</item>
 	<annotation></annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -593,7 +593,7 @@
 	<item>u/moe</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -646,8 +646,8 @@
 	<word_id>55</word_id>
 	<word>woman/female</word>
 	<item>wahine</item>
-	<annotation></annotation>
-	<loan>L</loan>
+	<annotation>irregular or error, Davletshin proposed hahine (see Nukeria list)</annotation>
+	<loan></loan>
 	<cognacy>1,106,116</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -945,7 +945,7 @@
 	<item>para</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>9?</cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1539,7 +1539,7 @@
 	<item>mau/luna</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1581,9 +1581,9 @@
 	<word_id>164</word_id>
 	<word>good</word>
 	<item>laui</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>17?</cognacy>
+	<annotation>L from Micronesian lgs</annotation>
+	<loan>L</loan>
+	<cognacy>18</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1726,7 +1726,7 @@
 	<item>a/pau</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>8,63</cognacy>
+	<cognacy>63</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1824,8 +1824,8 @@
 	<word>Nine</word>
 	<item>siva</item>
 	<annotation></annotation>
-	<loan>L</loan>
-	<cognacy>5</cognacy>
+	<loan></loan>
+	<cognacy>5,44, 43</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1836,7 +1836,7 @@
 	<item>nahulu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

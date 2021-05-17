@@ -1,22 +1,36 @@
 <record>
 	<id>163</id>
 	<language>Tuvalu</language>
-	<author>POLLEX 2000 (Bruce Biggs &amp; Ross Clark)</author>
+	<author>Geoffrey Jackson </author>
 	<silcode>tvl</silcode>
 	<glottocode>tuva1244</glottocode>
-	<notes></notes>
+	<notes>Jackson, Geoffrey. 2001. Tuvaluan Dictionary. Suva, Fiji: Oceania Printers.
+
+g = velar nasal
+macron indicates long vowels
+</notes>
 	<problems></problems>
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, Samoic-Outlier, Ellicean</classification>
-	<typedby>Simon Greenhill</typedby>
-	<checkedby>Simon Greenhill</checkedby>
-	<source>@article{POLLEX,
-  journal = {Oceanic Linguistics},
-  number  = {2},
-  pages   = {551--559},
-  title   = {{POLLEX-Online: The Polynesian Lexicon Project Online}},
-  volume  = {50},
-  year    = {2011},
-  author  = {Greenhill, Simon J. and Clark, Ross}
+	<typedby>Mary Walworth</typedby>
+	<checkedby></checkedby>
+	<source>@book{Jackson2001,
+  address               = {Suva, Fiji},
+  author                = {Jackson, Geoffrey W.},
+  note                  = {&quot;First published in 1993 and revised and reprinted [in] 1994 under the title Te Tikisionale o te ?Gana Tuvalu-A Tuvaluan-English Dictionary&quot;--T.p. verso Includes bibliographical references (p. 8)},
+  pages                 = {448},
+  publisher             = {Geoff &amp; Jenny Jackson},
+  title                 = {Tuvaluan dictionary: Tuvaluan-English, English-Tuvaluan},
+  year                  = {2001},
+  class_loc             = {PL6541.Z5},
+  document_type         = {B},
+  hhtype                = {dictionary (computerized assignment from &quot;dictionary&quot;)},
+  inlg                  = {English [eng]},
+  isbn                  = {9789829027047},
+  lgcode                = {Tuvalu [tvl]},
+  macro_area            = {Papunesia},
+  mpi_eva_library_shelf = {PL 6541 .Z5 JAC 2001},
+  src                   = {mpieva},
+  subject_headings      = {Tuvaluan language – Dictionaries – English, English language – Dictionaries – Tuvalu, Tuvaluan language – Dictionaries – English – English language – Dictionaries – Tuvalu}
 }</source>
 </record>
 
@@ -30,9 +44,9 @@
 	<word_id>1</word_id>
 	<word>hand</word>
 	<item>lima</item>
-	<annotation>Five; hand-arm</annotation>
+	<annotation>hand</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -40,8 +54,8 @@
 	<id>90400</id>
 	<word_id>2</word_id>
 	<word>left</word>
-	<item>maui</item>
-	<annotation>Pollex 06: Maui. :Left (not right).</annotation>
+	<item>fakamaui</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1,59</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -51,10 +65,10 @@
 	<id>877</id>
 	<word_id>3</word_id>
 	<word>right</word>
-	<item>matau</item>
-	<annotation>Right (not left)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5,13</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -62,10 +76,10 @@
 	<id>83950</id>
 	<word_id>4</word_id>
 	<word>leg/foot</word>
-	<item>tapuvae</item>
-	<annotation>Calf of leg</annotation>
+	<item>vae</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,100</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -73,10 +87,10 @@
 	<id>83951</id>
 	<word_id>4</word_id>
 	<word>leg/foot</word>
-	<item>vae</item>
-	<annotation>Leg</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1, 100</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -84,10 +98,21 @@
 	<id>1591</id>
 	<word_id>5</word_id>
 	<word>to walk</word>
-	<item>saale</item>
-	<annotation>Go, walk (I. Howard 1981)</annotation>
+	<item>sale</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>6</cognacy>
+	<cognacy>6,76</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229868</id>
+	<word_id>5</word_id>
+	<word>to walk</word>
+	<item>saere</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -95,8 +120,8 @@
 	<id>1948</id>
 	<word_id>6</word_id>
 	<word>road/path</word>
-	<item>ala/tuu</item>
-	<annotation>Road, path (Rby)</annotation>
+	<item>ala</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -106,8 +131,8 @@
 	<id>90401</id>
 	<word_id>8</word_id>
 	<word>to turn</word>
-	<item>ui</item>
-	<annotation>Pollex 06: Ui. :TaKe a direction, turn, go (all involving choice from several options) (Nks).</annotation>
+	<item>fuli</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>15</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -117,8 +142,8 @@
 	<id>3019</id>
 	<word_id>9</word_id>
 	<word>to swim</word>
-	<item>kakau</item>
-	<annotation>Swim</annotation>
+	<item>kau</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>5</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -128,10 +153,10 @@
 	<id>3376</id>
 	<word_id>10</word_id>
 	<word>dirty</word>
-	<item>palapala</item>
-	<annotation>Mud (Rby)</annotation>
+	<item>lailai</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -139,8 +164,8 @@
 	<id>4090</id>
 	<word_id>11</word_id>
 	<word>dust</word>
-	<item>pa/efu/</item>
-	<annotation>Dust (Rby)</annotation>
+	<item>pefu</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1, 74</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -150,10 +175,10 @@
 	<id>90402</id>
 	<word_id>11</word_id>
 	<word>dust</word>
-	<item>pa/efu/</item>
-	<annotation>Pollex 06: &lt;Pa/efu/. :Dust (Rby).</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1, 74</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -161,10 +186,10 @@
 	<id>88022</id>
 	<word_id>14</word_id>
 	<word>belly</word>
-	<item>kona</item>
-	<annotation>Lower abdomen</annotation>
+	<item>tinae</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>8</cognacy>
+	<cognacy>19,34</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -172,10 +197,10 @@
 	<id>88023</id>
 	<word_id>14</word_id>
 	<word>belly</word>
-	<item>koopuu</item>
-	<annotation>Gullet</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>2</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -184,7 +209,7 @@
 	<word_id>14</word_id>
 	<word>belly</word>
 	<item>manava</item>
-	<annotation>Adam's apple</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -195,7 +220,7 @@
 	<word_id>14</word_id>
 	<word>belly</word>
 	<item>alo</item>
-	<annotation>Belly, seat of the emotions, entrails (Bsr)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -206,7 +231,7 @@
 	<word_id>15</word_id>
 	<word>bone</word>
 	<item>ivi</item>
-	<annotation>Bone; energy; strong (of people) (Rby)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>52,5</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -216,8 +241,8 @@
 	<id>88317</id>
 	<word_id>16</word_id>
 	<word>intestines</word>
-	<item>gaakau</item>
-	<annotation>Gut, intestines (Rby)</annotation>
+	<item>gakau</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>12</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -227,10 +252,10 @@
 	<id>88318</id>
 	<word_id>16</word_id>
 	<word>intestines</word>
-	<item>vava</item>
-	<annotation>(Rby)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>11</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -239,7 +264,7 @@
 	<word_id>17</word_id>
 	<word>liver</word>
 	<item>ate</item>
-	<annotation>Liver</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -249,8 +274,8 @@
 	<id>6232</id>
 	<word_id>18</word_id>
 	<word>breast</word>
-	<item>uu</item>
-	<annotation>Breast</annotation>
+	<item>u</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -260,10 +285,10 @@
 	<id>88387</id>
 	<word_id>20</word_id>
 	<word>to know, be knowledgeable</word>
-	<item>matau</item>
-	<annotation>Clever, experienced, right hand [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>1</cognacy>
+	<item></item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -272,7 +297,7 @@
 	<word_id>20</word_id>
 	<word>to know, be knowledgeable</word>
 	<item>iloa</item>
-	<annotation>Know; understanding</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>13</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -282,10 +307,10 @@
 	<id>88389</id>
 	<word_id>20</word_id>
 	<word>to know, be knowledgeable</word>
-	<item>kkafi</item>
-	<annotation>Know well, be familiar with</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>16</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -294,7 +319,7 @@
 	<word_id>21</word_id>
 	<word>to think</word>
 	<item>manatu</item>
-	<annotation>Think, have an idea, have an opinion (Rby)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>9</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -305,7 +330,7 @@
 	<word_id>22</word_id>
 	<word>to fear</word>
 	<item>mataku</item>
-	<annotation>Afraid, fear</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -316,7 +341,7 @@
 	<word_id>23</word_id>
 	<word>blood</word>
 	<item>toto</item>
-	<annotation>Blood</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>4</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -327,7 +352,7 @@
 	<word_id>24</word_id>
 	<word>head</word>
 	<item>ulu</item>
-	<annotation>Head</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -337,10 +362,10 @@
 	<id>88591</id>
 	<word_id>25</word_id>
 	<word>neck</word>
-	<item>kaakii</item>
-	<annotation>Throat (Rby)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>20</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -348,8 +373,8 @@
 	<id>88592</id>
 	<word_id>25</word_id>
 	<word>neck</word>
-	<item>uà</item>
-	<annotation>Neck (Rby)</annotation>
+	<item>ua</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>18</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -359,10 +384,10 @@
 	<id>88609</id>
 	<word_id>26</word_id>
 	<word>hair</word>
-	<item>fulu/fulu</item>
-	<annotation>Hair, fur</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>31</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -370,10 +395,10 @@
 	<id>88610</id>
 	<word_id>26</word_id>
 	<word>hair</word>
-	<item>fulu</item>
-	<annotation>Feather, hair on arms</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>31</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -382,7 +407,7 @@
 	<word_id>26</word_id>
 	<word>hair</word>
 	<item>lauulu</item>
-	<annotation>Hair of head (Bsr)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>40</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -393,7 +418,7 @@
 	<word_id>27</word_id>
 	<word>nose</word>
 	<item>ihu</item>
-	<annotation>Nose</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -403,8 +428,8 @@
 	<id>9802</id>
 	<word_id>28</word_id>
 	<word>to breathe</word>
-	<item>maanava</item>
-	<annotation>Breathe (Bsr)</annotation>
+	<item>mānava</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -414,10 +439,21 @@
 	<id>10159</id>
 	<word_id>29</word_id>
 	<word>to sniff, smell</word>
-	<item>hohoŋi</item>
-	<annotation>Smell</annotation>
+	<item>hogi</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>9</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229869</id>
+	<word_id>29</word_id>
+	<word>to sniff, smell</word>
+	<item>manogi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -426,7 +462,7 @@
 	<word_id>31</word_id>
 	<word>tooth</word>
 	<item>nifo</item>
-	<annotation>Tooth</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -437,7 +473,7 @@
 	<word_id>32</word_id>
 	<word>tongue</word>
 	<item>alelo</item>
-	<annotation>Tongue</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>15</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -448,7 +484,7 @@
 	<word_id>33</word_id>
 	<word>to laugh</word>
 	<item>kata</item>
-	<annotation>Laugh, laughter (Rby)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>7</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -459,7 +495,7 @@
 	<word_id>35</word_id>
 	<word>to vomit</word>
 	<item>lua</item>
-	<annotation>Vomit</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>8</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -470,7 +506,7 @@
 	<word_id>36</word_id>
 	<word>to spit</word>
 	<item>puaki</item>
-	<annotation>Rinse mouth and spit out</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>16</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -480,10 +516,10 @@
 	<id>88904</id>
 	<word_id>36</word_id>
 	<word>to spit</word>
-	<item>anu</item>
-	<annotation>(v.)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>14,84, 121</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -492,9 +528,9 @@
 	<word_id>37</word_id>
 	<word>to eat</word>
 	<item>kai</item>
-	<annotation>Food, eat</annotation>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -503,7 +539,7 @@
 	<word_id>38</word_id>
 	<word>to chew</word>
 	<item>lamu</item>
-	<annotation>Pollex 06: Lamu. :Chew (Rby).</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -514,7 +550,7 @@
 	<word_id>39</word_id>
 	<word>to cook</word>
 	<item>tunu</item>
-	<annotation>Pollex 06: Tunu. :Cook (Rby).</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -525,7 +561,7 @@
 	<word_id>40</word_id>
 	<word>to drink</word>
 	<item>inu</item>
-	<annotation>Drink</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -536,7 +572,7 @@
 	<word_id>42</word_id>
 	<word>to suck</word>
 	<item>miti</item>
-	<annotation>Sip, suck up</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>8</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -547,7 +583,7 @@
 	<word_id>43</word_id>
 	<word>ear</word>
 	<item>taliga</item>
-	<annotation>Ear</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -558,7 +594,7 @@
 	<word_id>45</word_id>
 	<word>eye</word>
 	<item>mata</item>
-	<annotation>Face, eye</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -568,7 +604,7 @@
 	<id>73933</id>
 	<word_id>47</word_id>
 	<word>to yawn</word>
-	<item>maavava</item>
+	<item>māvava</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>19</cognacy>
@@ -579,10 +615,10 @@
 	<id>73934</id>
 	<word_id>47</word_id>
 	<word>to yawn</word>
-	<item>maavaava</item>
+	<item></item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>19</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -591,9 +627,9 @@
 	<word_id>48</word_id>
 	<word>to sleep</word>
 	<item>moe</item>
-	<annotation>Sleep</annotation>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -601,8 +637,8 @@
 	<id>17656</id>
 	<word_id>50</word_id>
 	<word>to dream</word>
-	<item>miti</item>
-	<annotation>Dream</annotation>
+	<item>moemiti</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>36</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -613,17 +649,28 @@
 	<word_id>51</word_id>
 	<word>to sit</word>
 	<item>nofo</item>
-	<annotation>Sit</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>16</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
 <record>
+	<id>3229870</id>
+	<word_id>51</word_id>
+	<word>to sit</word>
+	<item>sagasaga</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>18370</id>
 	<word_id>52</word_id>
 	<word>to stand</word>
-	<item>tuu</item>
+	<item>tu</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>2</cognacy>
@@ -634,10 +681,10 @@
 	<id>18727</id>
 	<word_id>53</word_id>
 	<word>person/human being</word>
-	<item>tagata</item>
-	<annotation>Man</annotation>
+	<item>tino</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,66, 97</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -645,10 +692,10 @@
 	<id>19084</id>
 	<word_id>54</word_id>
 	<word>man/male</word>
-	<item>taane</item>
-	<annotation>Male</annotation>
+	<item>tagata</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,11</cognacy>
+	<cognacy>12,14</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -657,7 +704,7 @@
 	<word_id>55</word_id>
 	<word>woman/female</word>
 	<item>fafine</item>
-	<annotation>Woman</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1,106</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -667,10 +714,10 @@
 	<id>91056</id>
 	<word_id>55</word_id>
 	<word>woman/female</word>
-	<item>-fine</item>
-	<annotation>Female</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,41</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -679,7 +726,7 @@
 	<word_id>56</word_id>
 	<word>child</word>
 	<item>tamaliki</item>
-	<annotation>Child, children</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>6,63</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -689,8 +736,8 @@
 	<id>20155</id>
 	<word_id>57</word_id>
 	<word>husband</word>
-	<item>aavaga</item>
-	<annotation>Marry, spouse, intended spouse</annotation>
+	<item>avaga</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>13</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -700,10 +747,10 @@
 	<id>20512</id>
 	<word_id>58</word_id>
 	<word>wife</word>
-	<item>ama</item>
-	<annotation>Wife (jocular)</annotation>
+	<item>avaga</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>2</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -711,8 +758,8 @@
 	<id>90405</id>
 	<word_id>59</word_id>
 	<word>mother</word>
-	<item>maatua</item>
-	<annotation>Pollex 06: Maatua. :Mother, parents (Nks).</annotation>
+	<item>mātua</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>4</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -722,8 +769,8 @@
 	<id>21226</id>
 	<word_id>60</word_id>
 	<word>father</word>
-	<item>tama/na</item>
-	<annotation>Father</annotation>
+	<item>tamana</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -733,8 +780,8 @@
 	<id>21583</id>
 	<word_id>61</word_id>
 	<word>house</word>
-	<item>hale</item>
-	<annotation>House</annotation>
+	<item>fale</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>14</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -744,10 +791,10 @@
 	<id>21940</id>
 	<word_id>62</word_id>
 	<word>thatch/roof</word>
-	<item>ato</item>
-	<annotation>Thatch</annotation>
+	<item>lau</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>55</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -756,7 +803,7 @@
 	<word_id>63</word_id>
 	<word>name</word>
 	<item>igoa</item>
-	<annotation>Name</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>6</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -767,7 +814,7 @@
 	<word_id>65</word_id>
 	<word>rope</word>
 	<item>maea</item>
-	<annotation>Rope of foreign manufacture (Rby)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -777,10 +824,10 @@
 	<id>91474</id>
 	<word_id>66</word_id>
 	<word>to tie up, fasten</word>
-	<item>fa/fau</item>
-	<annotation>Lash</annotation>
+	<item>fakamau</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>11</cognacy>
+	<cognacy>149</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -788,10 +835,10 @@
 	<id>91475</id>
 	<word_id>66</word_id>
 	<word>to tie up, fasten</word>
-	<item>lii/lii</item>
-	<annotation>Bind, gird</annotation>
+	<item>fakapiki</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>14</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -799,10 +846,10 @@
 	<id>91476</id>
 	<word_id>66</word_id>
 	<word>to tie up, fasten</word>
-	<item>noa</item>
-	<annotation>To bind, tie</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>15</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -811,20 +858,31 @@
 	<word_id>67</word_id>
 	<word>to sew</word>
 	<item>tui</item>
-	<annotation>Thread on a string (as fish) (Rby)</annotation>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>3229871</id>
+	<word_id>67</word_id>
+	<word>to sew</word>
+	<item>sui</item>
+	<annotation>L from Samoa</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
 	<id>24082</id>
 	<word_id>68</word_id>
 	<word>needle</word>
-	<item>paki/au/</item>
-	<annotation>Tattooing pen</annotation>
-	<loan></loan>
-	<cognacy>1</cognacy>
+	<item>nila</item>
+	<annotation>L from English</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -832,8 +890,8 @@
 	<id>90406</id>
 	<word_id>69</word_id>
 	<word>to hunt</word>
-	<item>tu/tuli</item>
-	<annotation>Pollex 06: Tu/tuli/. :Hunt; be sent away by someone who dislikes you.</annotation>
+	<item>tuli</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>8</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -844,7 +902,7 @@
 	<word_id>70</word_id>
 	<word>to shoot</word>
 	<item>fana</item>
-	<annotation>Shoot with a gun (Rby)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -854,10 +912,10 @@
 	<id>91607</id>
 	<word_id>71</word_id>
 	<word>to stab, pierce</word>
-	<item>ho/hoka/</item>
-	<annotation>Insert an instrument</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>67</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -865,8 +923,8 @@
 	<id>91608</id>
 	<word_id>71</word_id>
 	<word>to stab, pierce</word>
-	<item>huki</item>
-	<annotation>Pierce (Rby)</annotation>
+	<item>suki</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1, 8</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -876,8 +934,8 @@
 	<id>91699</id>
 	<word_id>72</word_id>
 	<word>to hit</word>
-	<item>paa</item>
-	<annotation>Beat (e.g. a drum)</annotation>
+	<item>pā</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>13</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -887,10 +945,10 @@
 	<id>91700</id>
 	<word_id>72</word_id>
 	<word>to hit</word>
-	<item>patu</item>
-	<annotation>Kick</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -898,10 +956,10 @@
 	<id>91701</id>
 	<word_id>72</word_id>
 	<word>to hit</word>
-	<item>taa</item>
-	<annotation>Beat, chop</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -909,10 +967,10 @@
 	<id>91702</id>
 	<word_id>72</word_id>
 	<word>to hit</word>
-	<item>tuki</item>
-	<annotation>Strike, pound</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>8</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -920,8 +978,8 @@
 	<id>91794</id>
 	<word_id>73</word_id>
 	<word>to steal</word>
-	<item>kaiaa</item>
-	<annotation>Steal</annotation>
+	<item>kaiā</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -931,10 +989,10 @@
 	<id>91795</id>
 	<word_id>73</word_id>
 	<word>to steal</word>
-	<item>k/kamo/</item>
-	<annotation>Stalk, steal (I.Howard 1981</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>6</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -943,7 +1001,7 @@
 	<word_id>75</word_id>
 	<word>to die, be dead</word>
 	<item>mate</item>
-	<annotation>Die, dead. death; funeral wake (Rby)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -954,7 +1012,7 @@
 	<word_id>76</word_id>
 	<word>to live, be alive</word>
 	<item>ola</item>
-	<annotation>Alive, healthy, recover from illness</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>6</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -964,8 +1022,8 @@
 	<id>27295</id>
 	<word_id>77</word_id>
 	<word>to scratch</word>
-	<item>alati</item>
-	<annotation>Scratch, as when itchy (Rby)</annotation>
+	<item>lati</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>10</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -975,10 +1033,10 @@
 	<id>92045</id>
 	<word_id>78</word_id>
 	<word>to cut, hack</word>
-	<item>ihi</item>
-	<annotation>Split cut, clip (Bsr)</annotation>
+	<item>tipi</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -986,10 +1044,10 @@
 	<id>92046</id>
 	<word_id>78</word_id>
 	<word>to cut, hack</word>
-	<item>motu</item>
-	<annotation>To cut, break (of string), be separated</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>54, 14</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -997,10 +1055,10 @@
 	<id>92047</id>
 	<word_id>78</word_id>
 	<word>to cut, hack</word>
-	<item>he/hele/</item>
-	<annotation>Cut off a piece</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>16</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1008,10 +1066,10 @@
 	<id>92048</id>
 	<word_id>78</word_id>
 	<word>to cut, hack</word>
-	<item>talai</item>
-	<annotation>Hew, carve</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1019,8 +1077,8 @@
 	<id>28009</id>
 	<word_id>79</word_id>
 	<word>stick/wood</word>
-	<item>aakau</item>
-	<annotation>Tree, stick, plant, penis</annotation>
+	<item>lakau</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1030,10 +1088,10 @@
 	<id>28366</id>
 	<word_id>80</word_id>
 	<word>to split</word>
-	<item>ma/faa</item>
-	<annotation>Broken (of a vessel); split (Rby)</annotation>
+	<item>fakamaisi</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>7</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1042,7 +1100,7 @@
 	<word_id>81</word_id>
 	<word>sharp</word>
 	<item>kai</item>
-	<annotation>Sharp (Rby)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>14</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1052,10 +1110,10 @@
 	<id>29437</id>
 	<word_id>83</word_id>
 	<word>to work</word>
-	<item>haga</item>
-	<annotation>Work, attend to one's task (Rby)</annotation>
+	<item>galue</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>11</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1063,8 +1121,8 @@
 	<id>30151</id>
 	<word_id>85</word_id>
 	<word>to choose</word>
-	<item>fili</item>
-	<annotation>Select, choose</annotation>
+	<item>filifili</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1074,10 +1132,10 @@
 	<id>92540</id>
 	<word_id>86</word_id>
 	<word>to grow</word>
-	<item>homo</item>
-	<annotation>come into leaf, sprout (of coconut from husk.(Rby)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1086,7 +1144,7 @@
 	<word_id>86</word_id>
 	<word>to grow</word>
 	<item>tupu</item>
-	<annotation>Grow; shoot (of plant) (Rby)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1097,7 +1155,7 @@
 	<word_id>87</word_id>
 	<word>to swell</word>
 	<item>fete</item>
-	<annotation>Swollen, to swell (Rby)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>5</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1107,10 +1165,10 @@
 	<id>92569</id>
 	<word_id>87</word_id>
 	<word>to swell</word>
-	<item>fe/fete/</item>
-	<annotation>To swell (Rby)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1118,10 +1176,10 @@
 	<id>92570</id>
 	<word_id>87</word_id>
 	<word>to swell</word>
-	<item>fu/fula</item>
-	<annotation>To swell, swollen</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1129,10 +1187,10 @@
 	<id>92612</id>
 	<word_id>88</word_id>
 	<word>to squeeze</word>
-	<item>lomi</item>
-	<annotation>Press upon, massage</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1140,10 +1198,10 @@
 	<id>92613</id>
 	<word_id>88</word_id>
 	<word>to squeeze</word>
-	<item>tau</item>
-	<annotation>Wring, squeeze (Rby)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1151,8 +1209,8 @@
 	<id>92614</id>
 	<word_id>88</word_id>
 	<word>to squeeze</word>
-	<item>kukumi</item>
-	<annotation>Squeeze, strangle (Rby)</annotation>
+	<item>kumi</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>14</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1163,7 +1221,7 @@
 	<word_id>89</word_id>
 	<word>to hold</word>
 	<item>puke</item>
-	<annotation>Hold, catch, restrain</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>13</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1173,10 +1231,10 @@
 	<id>92670</id>
 	<word_id>89</word_id>
 	<word>to hold</word>
-	<item>tago</item>
-	<annotation>Grasp, hold, touch</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>14</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1185,7 +1243,7 @@
 	<word_id>90</word_id>
 	<word>to dig</word>
 	<item>keli</item>
-	<annotation>Dig</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1195,10 +1253,10 @@
 	<id>93430</id>
 	<word_id>90</word_id>
 	<word>to dig</word>
-	<item>kenu</item>
-	<annotation>Dig</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>6</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1206,8 +1264,8 @@
 	<id>90407</id>
 	<word_id>92</word_id>
 	<word>to open, uncover</word>
-	<item>ta/tala</item>
-	<annotation>Pollex 06: Ta/tala/. :Open.</annotation>
+	<item>tala</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1218,7 +1276,7 @@
 	<word_id>93</word_id>
 	<word>to pound, beat</word>
 	<item>tuki</item>
-	<annotation>Strike, pound</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1228,10 +1286,10 @@
 	<id>90408</id>
 	<word_id>94</word_id>
 	<word>to throw</word>
-	<item>tupe</item>
-	<annotation>Pollex 06: Tupe. :Throw.</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>66</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1240,7 +1298,7 @@
 	<word_id>94</word_id>
 	<word>to throw</word>
 	<item>pei</item>
-	<annotation>Pollex 06: Pei. :Break coconut, head, canoe, cup (Rby); cast, toss, throw (Bsr).</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>12</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1250,10 +1308,10 @@
 	<id>104580</id>
 	<word_id>95</word_id>
 	<word>to fall</word>
-	<item>higa</item>
-	<annotation>To topple (Rby)</annotation>
+	<item>pakū</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>44</cognacy>
+	<cognacy>59</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1261,8 +1319,8 @@
 	<id>104581</id>
 	<word_id>95</word_id>
 	<word>to fall</word>
-	<item>too</item>
-	<annotation>Fall, drop, sink (of the sun)</annotation>
+	<item>tō</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>14</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1272,8 +1330,8 @@
 	<id>34078</id>
 	<word_id>96</word_id>
 	<word>dog</word>
-	<item>kulii</item>
-	<annotation>Dog</annotation>
+	<item>kuli</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>7</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1283,8 +1341,8 @@
 	<id>34435</id>
 	<word_id>97</word_id>
 	<word>bird</word>
-	<item>manu lele</item>
-	<annotation>Bird</annotation>
+	<item>manu </item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1294,8 +1352,8 @@
 	<id>90410</id>
 	<word_id>98</word_id>
 	<word>egg</word>
-	<item>fua</item>
-	<annotation>Pollex 06: Fua. :Fruit, egg, testicle, bear fruit</annotation>
+	<item>fuā</item>
+	<annotation>unsure about the vowel length, only forms given were compounds (p. 334)</annotation>
 	<loan></loan>
 	<cognacy>5</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1305,8 +1363,8 @@
 	<id>90411</id>
 	<word_id>99</word_id>
 	<word>feather</word>
-	<item>fulu</item>
-	<annotation>Pollex -6: Fulu. :Feather, hair on arms.</annotation>
+	<item>fulufulu</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1317,10 +1375,21 @@
 	<word_id>100</word_id>
 	<word>wing</word>
 	<item>kapakau</item>
-	<annotation>Wing, arm, lateral fin</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1,59</cognacy>
 	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>3229872</id>
+	<word_id>100</word_id>
+	<word>wing</word>
+	<item>pakau</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1, 59</cognacy>
+	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
@@ -1328,7 +1397,7 @@
 	<word_id>101</word_id>
 	<word>to fly</word>
 	<item>eva</item>
-	<annotation>Fly, jump, hop (Rby)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>12</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1338,10 +1407,10 @@
 	<id>104673</id>
 	<word_id>101</word_id>
 	<word>to fly</word>
-	<item>kopa</item>
-	<annotation>Flap wing</annotation>
+	<item>lele</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1350,9 +1419,20 @@
 	<word_id>102</word_id>
 	<word>rat</word>
 	<item>kimoa</item>
-	<annotation>Pollex 06: Kimoa. :Rat (Nks).</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>14</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229873</id>
+	<word_id>102</word_id>
+	<word>rat</word>
+	<item>kiole</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>12</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1360,8 +1440,8 @@
 	<id>36577</id>
 	<word_id>103</word_id>
 	<word>meat/flesh</word>
-	<item>kanofi</item>
-	<annotation>Flesh, of fruit, animal, man (Rby)</annotation>
+	<item>kano</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>14</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1371,10 +1451,10 @@
 	<id>36934</id>
 	<word_id>104</word_id>
 	<word>fat/grease</word>
-	<item>hinu</item>
-	<annotation>Oil, grease</annotation>
+	<item>gako</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>14</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1383,20 +1463,64 @@
 	<word_id>105</word_id>
 	<word>tail</word>
 	<item>velo</item>
-	<annotation>Tail (not of fish) (Rby)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>10</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
 <record>
+	<id>3229874</id>
+	<word_id>105</word_id>
+	<word>tail</word>
+	<item>felo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>90413</id>
 	<word_id>107</word_id>
 	<word>worm (earthworm)</word>
-	<item>kelemutu</item>
-	<annotation>Pollex 06: Kelemutu. :Earthworm.</annotation>
+	<item>kalemutu</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>9</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229875</id>
+	<word_id>107</word_id>
+	<word>worm (earthworm)</word>
+	<item>anufe</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>45</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229876</id>
+	<word_id>107</word_id>
+	<word>worm (earthworm)</word>
+	<item>ilo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>80</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229877</id>
+	<word_id>107</word_id>
+	<word>worm (earthworm)</word>
+	<item>ipo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1405,7 +1529,7 @@
 	<word_id>108</word_id>
 	<word>louse</word>
 	<item>kutu</item>
-	<annotation>Louse</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1416,7 +1540,7 @@
 	<word_id>109</word_id>
 	<word>mosquito</word>
 	<item>namu</item>
-	<annotation>Mosquito</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1426,10 +1550,10 @@
 	<id>105174</id>
 	<word_id>110</word_id>
 	<word>spider</word>
-	<item>pogaaleveleve</item>
-	<annotation>Spider (Rby)</annotation>
+	<item>naleau</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,57</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1437,10 +1561,10 @@
 	<id>105175</id>
 	<word_id>110</word_id>
 	<word>spider</word>
-	<item>pogaa/leveleve/</item>
-	<annotation>Spider (Rby)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,57</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1449,7 +1573,7 @@
 	<word_id>111</word_id>
 	<word>fish</word>
 	<item>ika</item>
-	<annotation>Fish n</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1459,10 +1583,10 @@
 	<id>39790</id>
 	<word_id>112</word_id>
 	<word>rotten</word>
-	<item>popo</item>
-	<annotation>Rotten (of tree, house, canoe, fruit etc.) (Rby)</annotation>
+	<item>pala masei</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>14</cognacy>
+	<cognacy>13, 117</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1470,10 +1594,10 @@
 	<id>105273</id>
 	<word_id>113</word_id>
 	<word>branch</word>
-	<item>laalaa</item>
-	<annotation>Small branch (Bsn)</annotation>
+	<item>kaula</item>
+	<annotation>metathesis</annotation>
 	<loan></loan>
-	<cognacy>1,33</cognacy>
+	<cognacy>1, 4, 66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1481,10 +1605,10 @@
 	<id>105274</id>
 	<word_id>113</word_id>
 	<word>branch</word>
-	<item>aakau</item>
-	<annotation>Tree, stick, plant, penis</annotation>
+	<item>maga</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,4</cognacy>
+	<cognacy>2,35</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1493,7 +1617,7 @@
 	<word_id>115</word_id>
 	<word>root</word>
 	<item>aka</item>
-	<annotation>Root</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1504,7 +1628,7 @@
 	<word_id>117</word_id>
 	<word>fruit</word>
 	<item>fua</item>
-	<annotation>Fruit, egg, testicle, bear fruit</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1514,8 +1638,8 @@
 	<id>41932</id>
 	<word_id>118</word_id>
 	<word>grass</word>
-	<item>mauku</item>
-	<annotation>Term for about fifteen kinds of grass (Rby)</annotation>
+	<item>mouku</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>58</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1526,7 +1650,7 @@
 	<word_id>119</word_id>
 	<word>earth/soil</word>
 	<item>kele</item>
-	<annotation>Soil</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>10</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1537,7 +1661,7 @@
 	<word_id>120</word_id>
 	<word>stone</word>
 	<item>fatu</item>
-	<annotation>Stone (Rby)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1547,10 +1671,10 @@
 	<id>43003</id>
 	<word_id>121</word_id>
 	<word>sand</word>
-	<item>fuu</item>
-	<annotation>(Rby)</annotation>
-	<loan>L?</loan>
-	<cognacy>3?</cognacy>
+	<item>one</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1559,7 +1683,7 @@
 	<word_id>122</word_id>
 	<word>water</word>
 	<item>vai</item>
-	<annotation>Water</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1570,7 +1694,7 @@
 	<word_id>124</word_id>
 	<word>sea</word>
 	<item>moana</item>
-	<annotation>Ocean</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1581,9 +1705,20 @@
 	<word_id>124</word_id>
 	<word>sea</word>
 	<item>vaha</item>
-	<annotation>Ocean</annotation>
-	<loan>L?</loan>
+	<annotation></annotation>
+	<loan></loan>
 	<cognacy>12</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229878</id>
+	<word_id>124</word_id>
+	<word>sea</word>
+	<item>tai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1591,10 +1726,10 @@
 	<id>44431</id>
 	<word_id>125</word_id>
 	<word>salt</word>
-	<item>miti</item>
-	<annotation>Sauce of salt-water, coconut cream and onions (Bsr)</annotation>
+	<item>masima</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1602,10 +1737,10 @@
 	<id>44788</id>
 	<word_id>126</word_id>
 	<word>lake</word>
-	<item>namo</item>
-	<annotation>Lagoon</annotation>
+	<item>vaituloto</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy>6</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1613,10 +1748,10 @@
 	<id>107849</id>
 	<word_id>127</word_id>
 	<word>woods/forest</word>
-	<item>ulu</item>
-	<annotation>Grove of trees (Rby)</annotation>
+	<item>togā lakau</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>15</cognacy>
+	<cognacy>13</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1625,7 +1760,7 @@
 	<word_id>127</word_id>
 	<word>woods/forest</word>
 	<item>vao</item>
-	<annotation>Forest (Rby)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>14</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1636,7 +1771,7 @@
 	<word_id>128</word_id>
 	<word>sky</word>
 	<item>lagi</item>
-	<annotation>Sky</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1647,7 +1782,7 @@
 	<word_id>129</word_id>
 	<word>moon</word>
 	<item>masina</item>
-	<annotation>Moon (Fny)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>37, 5</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1657,8 +1792,8 @@
 	<id>46216</id>
 	<word_id>130</word_id>
 	<word>star</word>
-	<item>fetuu</item>
-	<annotation>Star, shine (of stars) (Rby)</annotation>
+	<item>fetū</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1669,7 +1804,7 @@
 	<word_id>133</word_id>
 	<word>rain</word>
 	<item>ua</item>
-	<annotation>Rain</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1679,8 +1814,8 @@
 	<id>47644</id>
 	<word_id>134</word_id>
 	<word>thunder</word>
-	<item>fatitili</item>
-	<annotation>Thunder (Rby)</annotation>
+	<item>fatili</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>14</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1690,10 +1825,10 @@
 	<id>170069</id>
 	<word_id>134</word_id>
 	<word>thunder</word>
-	<item>mana</item>
+	<item></item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>37</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1701,10 +1836,10 @@
 	<id>48001</id>
 	<word_id>135</word_id>
 	<word>lightning</word>
-	<item>lapa</item>
-	<annotation>Lightning flash@d</annotation>
+	<item>uila</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>9</cognacy>
+	<cognacy>2</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1713,7 +1848,7 @@
 	<word_id>136</word_id>
 	<word>wind</word>
 	<item>matagi</item>
-	<annotation>Wind; blow (of wind) (Rby)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1,66</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1724,7 +1859,7 @@
 	<word_id>137</word_id>
 	<word>to blow</word>
 	<item>agi</item>
-	<annotation>Blow (of wind) (Rby)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>8</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1734,8 +1869,8 @@
 	<id>108120</id>
 	<word_id>137</word_id>
 	<word>to blow</word>
-	<item>puhi</item>
-	<annotation>Blow with mouth</annotation>
+	<item>pusi</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>6</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1745,8 +1880,8 @@
 	<id>49072</id>
 	<word_id>138</word_id>
 	<word>warm</word>
-	<item>ma/fana</item>
-	<annotation>Warm; rebake</annotation>
+	<item>mafanafana</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1, 72</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1757,7 +1892,7 @@
 	<word_id>139</word_id>
 	<word>cold</word>
 	<item>makalili</item>
-	<annotation>Cold</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1,52</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1767,8 +1902,8 @@
 	<id>122712</id>
 	<word_id>139</word_id>
 	<word>cold</word>
-	<item>moko/tia</item>
-	<annotation>Chilly, freezing (Bsr)</annotation>
+	<item>moko</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1778,8 +1913,8 @@
 	<id>49786</id>
 	<word_id>140</word_id>
 	<word>dry</word>
-	<item>maloo</item>
-	<annotation>Dry (of body) (Rby)</annotation>
+	<item>malō</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>13</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1789,8 +1924,8 @@
 	<id>122730</id>
 	<word_id>141</word_id>
 	<word>wet</word>
-	<item>hihiu</item>
-	<annotation>(Rby)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1800,8 +1935,8 @@
 	<id>122731</id>
 	<word_id>141</word_id>
 	<word>wet</word>
-	<item>si(s)iu</item>
-	<annotation>(Bsr)</annotation>
+	<item>siu</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1811,8 +1946,8 @@
 	<id>50500</id>
 	<word_id>142</word_id>
 	<word>heavy</word>
-	<item>mamafa</item>
-	<annotation>Heavy</annotation>
+	<item>mafa</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>46</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1823,7 +1958,7 @@
 	<word_id>143</word_id>
 	<word>fire</word>
 	<item>afi</item>
-	<annotation>Fire</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1833,10 +1968,10 @@
 	<id>122760</id>
 	<word_id>144</word_id>
 	<word>to burn</word>
-	<item>tuugina</item>
-	<annotation>Be set alight, burnt (Rby)</annotation>
+	<item>ka</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,7</cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1844,10 +1979,10 @@
 	<id>122761</id>
 	<word_id>144</word_id>
 	<word>to burn</word>
-	<item>tutu</item>
-	<annotation>Set alight (Rby)</annotation>
+	<item>sunu</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1, 6</cognacy>
+	<cognacy>106</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1856,20 +1991,42 @@
 	<word_id>145</word_id>
 	<word>smoke</word>
 	<item>au</item>
-	<annotation>To smoke</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
 <record>
+	<id>3229398</id>
+	<word_id>146</word_id>
+	<word>ash</word>
+	<item>lefu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>67</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229399</id>
+	<word_id>147</word_id>
+	<word>black</word>
+	<item>uli</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>7</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>52642</id>
 	<word_id>148</word_id>
 	<word>white</word>
-	<item>tea</item>
-	<annotation>White</annotation>
+	<item>kena</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>8</cognacy>
+	<cognacy>10</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1878,7 +2035,7 @@
 	<word_id>149</word_id>
 	<word>red</word>
 	<item>kula</item>
-	<annotation>Red</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>13</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -1888,10 +2045,10 @@
 	<id>123137</id>
 	<word_id>149</word_id>
 	<word>red</word>
-	<item>mea/mea/</item>
-	<annotation>Red, as sunburnt skin (Bsr)</annotation>
+	<item>lanu</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1899,10 +2056,10 @@
 	<id>123138</id>
 	<word_id>149</word_id>
 	<word>red</word>
-	<item>mmelo</item>
-	<annotation>Reddish (Bsr)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1, 16</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1910,10 +2067,10 @@
 	<id>122886</id>
 	<word_id>150</word_id>
 	<word>yellow</word>
-	<item>fe/felo</item>
-	<annotation>Yellow; pale complexioned (Rby)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>11</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1921,8 +2078,8 @@
 	<id>122887</id>
 	<word_id>150</word_id>
 	<word>yellow</word>
-	<item>hega/hega</item>
-	<annotation>Yellow (Rby)</annotation>
+	<item>sega</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>12</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1932,10 +2089,10 @@
 	<id>53713</id>
 	<word_id>151</word_id>
 	<word>green</word>
-	<item>moto</item>
-	<annotation>Green, unripe (Bsr)</annotation>
+	<item>lanu launiu</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1, 10</cognacy>
+	<cognacy>12</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1943,8 +2100,8 @@
 	<id>123722</id>
 	<word_id>152</word_id>
 	<word>small</word>
-	<item>liki</item>
-	<annotation>Small (of person or chicken) (Rby)</annotation>
+	<item>foliki</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>66</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1954,10 +2111,10 @@
 	<id>123723</id>
 	<word_id>152</word_id>
 	<word>small</word>
-	<item>pukupuku</item>
-	<annotation>Short and fat (of people)</annotation>
+	<item>foniki</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1965,10 +2122,10 @@
 	<id>123062</id>
 	<word_id>153</word_id>
 	<word>big</word>
-	<item>fuaefa</item>
-	<annotation>Large (Rby)</annotation>
+	<item>matugā</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>73</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1976,8 +2133,8 @@
 	<id>123063</id>
 	<word_id>153</word_id>
 	<word>big</word>
-	<item>lahi</item>
-	<annotation>Big</annotation>
+	<item>lasi</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>12</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1987,10 +2144,10 @@
 	<id>123064</id>
 	<word_id>153</word_id>
 	<word>big</word>
-	<item>nui</item>
-	<annotation>Full (of belly)</annotation>
+	<item>māfaga</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>11</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1998,10 +2155,10 @@
 	<id>123065</id>
 	<word_id>153</word_id>
 	<word>big</word>
-	<item>lau/efa/</item>
-	<annotation>Wide (Rby)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2009,10 +2166,10 @@
 	<id>54784</id>
 	<word_id>154</word_id>
 	<word>short</word>
-	<item>pukupuku</item>
-	<annotation>Short and fat (of people)</annotation>
+	<item>toetoe</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>3</cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -2021,9 +2178,9 @@
 	<word_id>155</word_id>
 	<word>long</word>
 	<item>loa</item>
-	<annotation>Long, tall, high</annotation>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -2031,10 +2188,10 @@
 	<id>123229</id>
 	<word_id>156</word_id>
 	<word>thin</word>
-	<item>manifi</item>
-	<annotation>Thin</annotation>
+	<item>kauvikiviki</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2042,8 +2199,8 @@
 	<id>123230</id>
 	<word_id>156</word_id>
 	<word>thin</word>
-	<item>pakapaka</item>
-	<annotation>Emaciated</annotation>
+	<item>paka</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>6</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2053,8 +2210,8 @@
 	<id>55855</id>
 	<word_id>157</word_id>
 	<word>thick</word>
-	<item>maatolu</item>
-	<annotation>Thick; third night of the moon (Rby)</annotation>
+	<item>matolu</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>3</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2064,8 +2221,8 @@
 	<id>90414</id>
 	<word_id>158</word_id>
 	<word>narrow</word>
-	<item>lau/liki</item>
-	<annotation>Pollex 06: Lau/liki. :Narrow (Johnson).</annotation>
+	<item>lauliki</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>84</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2075,10 +2232,10 @@
 	<id>56569</id>
 	<word_id>159</word_id>
 	<word>wide</word>
-	<item>lafalafa</item>
-	<annotation>Width, side, go sideways (Bsr)</annotation>
+	<item>lauefa</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>48</cognacy>
+	<cognacy>73, 48</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -2086,10 +2243,10 @@
 	<id>123018</id>
 	<word_id>160</word_id>
 	<word>painful, sick</word>
-	<item>usu</item>
-	<annotation>Hurt, ache (NTO) (FFI) (Nks)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -2097,10 +2254,10 @@
 	<id>123019</id>
 	<word_id>160</word_id>
 	<word>painful, sick</word>
-	<item>mamae</item>
-	<annotation>Pain</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2108,8 +2265,8 @@
 	<id>123020</id>
 	<word_id>160</word_id>
 	<word>painful, sick</word>
-	<item>mahaki</item>
-	<annotation>Sick, sick person, illness</annotation>
+	<item>masaki</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2119,8 +2276,8 @@
 	<id>122995</id>
 	<word_id>161</word_id>
 	<word>shy, ashamed</word>
-	<item>maa</item>
-	<annotation>Feel ashamed (Rby); embarrassed (Fny)</annotation>
+	<item>mata mā</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2130,10 +2287,10 @@
 	<id>122996</id>
 	<word_id>161</word_id>
 	<word>shy, ashamed</word>
-	<item>mamaa</item>
-	<annotation>Feel ashamed (Plural) (Rby)</annotation>
+	<item>taema</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1?</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2142,7 +2299,7 @@
 	<word_id>162</word_id>
 	<word>old</word>
 	<item>matua</item>
-	<annotation>Pollex 06: Matua. :Old (of people).</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2152,11 +2309,33 @@
 	<id>57997</id>
 	<word_id>163</word_id>
 	<word>new</word>
-	<item>foou</item>
-	<annotation>New</annotation>
+	<item>fou</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>3229400</id>
+	<word_id>164</word_id>
+	<word>good</word>
+	<item>lei</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229401</id>
+	<word_id>165</word_id>
+	<word>bad, evil</word>
+	<item>masei</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>42</cognacy>
+	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
@@ -2164,18 +2343,29 @@
 	<word_id>166</word_id>
 	<word>correct, true</word>
 	<item>tonu</item>
-	<annotation>Right, correct; straight</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>8</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
 <record>
+	<id>3229879</id>
+	<word_id>166</word_id>
+	<word>correct, true</word>
+	<item>sao</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>107</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>123211</id>
 	<word_id>167</word_id>
 	<word>night</word>
-	<item>poo</item>
-	<annotation>Night, day (as time unit)</annotation>
+	<item>po</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2185,10 +2375,10 @@
 	<id>123212</id>
 	<word_id>167</word_id>
 	<word>night</word>
-	<item>poouli</item>
-	<annotation>Night, dark [&lt;] B</annotation>
-	<loan>L</loan>
-	<cognacy>1,10</cognacy>
+	<item></item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2196,8 +2386,8 @@
 	<id>119461</id>
 	<word_id>168</word_id>
 	<word>day</word>
-	<item>ao</item>
-	<annotation>Day (not night)</annotation>
+	<item>aso</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1, 54</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2207,10 +2397,10 @@
 	<id>119462</id>
 	<word_id>168</word_id>
 	<word>day</word>
-	<item>aho</item>
-	<annotation>Day (24 hour period)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1, 54</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2218,8 +2408,8 @@
 	<id>60139</id>
 	<word_id>169</word_id>
 	<word>year</word>
-	<item>tau/naga</item>
-	<annotation>Year</annotation>
+	<item>tausaga</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2229,8 +2419,8 @@
 	<id>60496</id>
 	<word_id>170</word_id>
 	<word>when?</word>
-	<item>aafea</item>
-	<annotation>When? (in the future) (Rby)</annotation>
+	<item>fea</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>5</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2240,10 +2430,10 @@
 	<id>60853</id>
 	<word_id>171</word_id>
 	<word>to hide</word>
-	<item>mmuni</item>
-	<annotation>Hide (Fny). Hide an object</annotation>
+	<item>pakili</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1, 67</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -2251,8 +2441,8 @@
 	<id>62281</id>
 	<word_id>175</word_id>
 	<word>above</word>
-	<item>mau/aluŋa/</item>
-	<annotation>Above</annotation>
+	<item>i luga</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>9</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2262,8 +2452,8 @@
 	<id>62638</id>
 	<word_id>176</word_id>
 	<word>below</word>
-	<item>lalo</item>
-	<annotation>Under, below; the bottom (Rby)</annotation>
+	<item>i lalo</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>8</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2274,7 +2464,7 @@
 	<word_id>179</word_id>
 	<word>near</word>
 	<item>pili</item>
-	<annotation>Pollex 06: Pili. :Near (Rby).</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>30</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2284,8 +2474,8 @@
 	<id>64066</id>
 	<word_id>180</word_id>
 	<word>far</word>
-	<item>mama'o</item>
-	<annotation>Distant, far off</annotation>
+	<item>mao</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>13</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2295,8 +2485,8 @@
 	<id>64423</id>
 	<word_id>181</word_id>
 	<word>where?</word>
-	<item>fea</item>
-	<annotation>Where?</annotation>
+	<item>tefea</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>3,35</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2307,7 +2497,7 @@
 	<word_id>182</word_id>
 	<word>I</word>
 	<item>au</item>
-	<annotation>I, me (Nks)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1,21</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2317,10 +2507,10 @@
 	<id>123654</id>
 	<word_id>182</word_id>
 	<word>I</word>
-	<item>kau</item>
-	<annotation>(Ply 1970)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,21</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2328,10 +2518,10 @@
 	<id>123655</id>
 	<word_id>182</word_id>
 	<word>I</word>
-	<item>-ku</item>
-	<annotation>First person singular possessive (Rby)0</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2339,10 +2529,10 @@
 	<id>123538</id>
 	<word_id>183</word_id>
 	<word>thou</word>
-	<item>ke</item>
-	<annotation>Thou (preverbal subject pronoun) (Rby)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2351,7 +2541,7 @@
 	<word_id>183</word_id>
 	<word>thou</word>
 	<item>koe</item>
-	<annotation>You (Sing.)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2361,10 +2551,10 @@
 	<id>123539</id>
 	<word_id>183</word_id>
 	<word>thou</word>
-	<item>koe</item>
-	<annotation>You (Sing.)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2373,7 +2563,7 @@
 	<word_id>184</word_id>
 	<word>he/she</word>
 	<item>ia</item>
-	<annotation>Third person singular personal pronoun</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2383,10 +2573,10 @@
 	<id>123771</id>
 	<word_id>185</word_id>
 	<word>we</word>
-	<item>maa</item>
-	<annotation>First person dual exclusive subject and possessive preposed pronoun (Rby)</annotation>
+	<item>mātou</item>
+	<annotation>excl. </annotation>
 	<loan></loan>
-	<cognacy>2</cognacy>
+	<cognacy>2, 39</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2394,10 +2584,10 @@
 	<id>123772</id>
 	<word_id>185</word_id>
 	<word>we</word>
-	<item>t/tou/</item>
-	<annotation>We, our (inclusive) plural preverbal and posessive form) (Rby)</annotation>
+	<item>tātou</item>
+	<annotation>incl.</annotation>
 	<loan></loan>
-	<cognacy>39</cognacy>
+	<cognacy>1, 39</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2405,10 +2595,10 @@
 	<id>123290</id>
 	<word_id>186</word_id>
 	<word>you</word>
-	<item>ke</item>
-	<annotation>Thou (preverbal subject pronoun) (Rby)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2416,10 +2606,10 @@
 	<id>123292</id>
 	<word_id>186</word_id>
 	<word>you</word>
-	<item>koulua</item>
-	<annotation>Second person dual pronoun, you (Ply)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>x</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2428,7 +2618,7 @@
 	<word_id>186</word_id>
 	<word>you</word>
 	<item>koutou</item>
-	<annotation>Second person plural pronoun in nucleus of the phrase (Ply)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>16</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2438,8 +2628,8 @@
 	<id>66922</id>
 	<word_id>188</word_id>
 	<word>what?</word>
-	<item>aa</item>
-	<annotation>What?</annotation>
+	<item>ā</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2449,8 +2639,8 @@
 	<id>67279</id>
 	<word_id>189</word_id>
 	<word>who?</word>
-	<item>ai</item>
-	<annotation>Who?</annotation>
+	<item>ko oi</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2461,7 +2651,7 @@
 	<word_id>191</word_id>
 	<word>all</word>
 	<item>katoa</item>
-	<annotation>All, the full complement (Rby)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>13</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2471,10 +2661,10 @@
 	<id>122956</id>
 	<word_id>192</word_id>
 	<word>and</word>
-	<item>maa</item>
-	<annotation>And (with numerals)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>2</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2483,7 +2673,7 @@
 	<word_id>192</word_id>
 	<word>and</word>
 	<item>mo</item>
-	<annotation>And, with (Fny)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2493,10 +2683,10 @@
 	<id>68707</id>
 	<word_id>193</word_id>
 	<word>if</word>
-	<item>me/ehe mea</item>
-	<annotation>If [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>5</cognacy>
+	<item>kafai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2504,10 +2694,10 @@
 	<id>119422</id>
 	<word_id>194</word_id>
 	<word>how?</word>
-	<item>feefea</item>
-	<annotation>How? how so? (Nks)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>11</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2515,8 +2705,8 @@
 	<id>119423</id>
 	<word_id>194</word_id>
 	<word>how?</word>
-	<item>peehea</item>
-	<annotation>How? (Nce)</annotation>
+	<item>pefea</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2526,10 +2716,10 @@
 	<id>119424</id>
 	<word_id>194</word_id>
 	<word>how?</word>
-	<item>peefea</item>
-	<annotation>How? (Sce)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>11</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2537,10 +2727,10 @@
 	<id>119425</id>
 	<word_id>194</word_id>
 	<word>how?</word>
-	<item>peehee</item>
-	<annotation>How? (Nukulaelae) (Bsr)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>11</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2548,21 +2738,43 @@
 	<id>69421</id>
 	<word_id>195</word_id>
 	<word>no, not</word>
-	<item>hee</item>
-	<annotation>Negative; to be not the case (Rby)</annotation>
+	<item>se</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>13</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
 <record>
+	<id>3229880</id>
+	<word_id>195</word_id>
+	<word>no, not</word>
+	<item>ikai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>10,83</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229881</id>
+	<word_id>195</word_id>
+	<word>no, not</word>
+	<item>seai</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>13</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>123105</id>
 	<word_id>196</word_id>
 	<word>to count</word>
-	<item>lau</item>
-	<annotation>Count, recite</annotation>
+	<item>lau aka</item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>8,62</cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -2570,10 +2782,10 @@
 	<id>123106</id>
 	<word_id>196</word_id>
 	<word>to count</word>
-	<item>lau</item>
-	<annotation>To count</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>8,62</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -2581,8 +2793,8 @@
 	<id>123107</id>
 	<word_id>196</word_id>
 	<word>to count</word>
-	<item>tau</item>
-	<annotation>Count, read (Rby)</annotation>
+	<item>faitau</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>8</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2592,11 +2804,22 @@
 	<id>70135</id>
 	<word_id>197</word_id>
 	<word>One</word>
-	<item>tahi</item>
-	<annotation>One</annotation>
+	<item>tasi</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>41</cognacy>
 	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>3229402</id>
+	<word_id>198</word_id>
+	<word>Two</word>
+	<item>lua</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
@@ -2604,7 +2827,7 @@
 	<word_id>199</word_id>
 	<word>Three</word>
 	<item>tolu</item>
-	<annotation>Three</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2614,8 +2837,8 @@
 	<id>71206</id>
 	<word_id>200</word_id>
 	<word>Four</word>
-	<item>faa</item>
-	<annotation>Four</annotation>
+	<item>fā</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1,66</cognacy>
 	<pmpcognacy>1</pmpcognacy>
@@ -2626,7 +2849,18 @@
 	<word_id>201</word_id>
 	<word>Five</word>
 	<item>lima</item>
-	<annotation>Five, hand-arm.(Source: Pollex)</annotation>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229403</id>
+	<word_id>202</word_id>
+	<word>Six</word>
+	<item>ono</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2637,7 +2871,7 @@
 	<word_id>203</word_id>
 	<word>Seven</word>
 	<item>fitu</item>
-	<annotation>Seven.(Source: Pollex)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2648,7 +2882,7 @@
 	<word_id>204</word_id>
 	<word>Eight</word>
 	<item>valu</item>
-	<annotation>Pollex 06: Valu. :Eight.</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>3</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2659,9 +2893,9 @@
 	<word_id>205</word_id>
 	<word>Nine</word>
 	<item>iva</item>
-	<annotation>Nine.(Source: Pollex)</annotation>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2669,10 +2903,21 @@
 	<id>83436</id>
 	<word_id>206</word_id>
 	<word>Ten</word>
-	<item>gafulu</item>
-	<annotation>Ten.(Source: Pollex)</annotation>
+	<item>sefulu</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>5</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229404</id>
+	<word_id>207</word_id>
+	<word>Twenty</word>
+	<item>lua sefulu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>3,6</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2680,8 +2925,8 @@
 	<id>83358</id>
 	<word_id>209</word_id>
 	<word>One Hundred</word>
-	<item>rau</item>
-	<annotation>One hundred bonito or nuts (Rby), a hundred of anything (Fny).(Source: Pollex)</annotation>
+	<item>selau</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2692,7 +2937,7 @@
 	<word_id>210</word_id>
 	<word>One Thousand</word>
 	<item>afe</item>
-	<annotation>Thousand, Thousand (Rby).(Source: Pollex)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>3</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2702,10 +2947,10 @@
 	<id>83341</id>
 	<word_id>210</word_id>
 	<word>One Thousand</word>
-	<item>mano</item>
-	<annotation>Thousand, Thousand (Rby).(Source: Pollex)</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>2</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

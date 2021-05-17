@@ -32,7 +32,7 @@
 	<item>lima</item>
 	<annotation>Five; hand-arm</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -74,8 +74,8 @@
 	<word_id>5</word_id>
 	<word>to walk</word>
 	<item>haele</item>
-	<annotation>Aller (Hmn)</annotation>
-	<loan></loan>
+	<annotation>L from EUvea or Tongan</annotation>
+	<loan>L</loan>
 	<cognacy>6</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -121,6 +121,17 @@
 	<annotation>Swim (Hmn)</annotation>
 	<loan></loan>
 	<cognacy>5</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229928</id>
+	<word_id>11</word_id>
+	<word>dust</word>
+	<item>sasa</item>
+	<annotation>L from NC lgs - likely Iaai (Ozanne-Rivierre 1994)</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -307,7 +318,7 @@
 	<item>kai</item>
 	<annotation>Food, eat</annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -360,9 +371,9 @@
 	<word_id>41</word_id>
 	<word>to bite</word>
 	<item>uutia</item>
-	<annotation>Pollex 06: Bite (Hmn).</annotation>
+	<annotation>DUP</annotation>
 	<loan></loan>
-	<cognacy>9</cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -400,13 +411,24 @@
 </record>
 
 <record>
+	<id>3229930</id>
+	<word_id>47</word_id>
+	<word>to yawn</word>
+	<item>ohaem</item>
+	<annotation>L from NC lgs - likely Iaai (Ozanne-Rivierre 1994)</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>17038</id>
 	<word_id>48</word_id>
 	<word>to sleep</word>
 	<item>moe</item>
 	<annotation>Sleep</annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -554,6 +576,17 @@
 </record>
 
 <record>
+	<id>3229929</id>
+	<word_id>62</word_id>
+	<word>thatch/roof</word>
+	<item>hagoe</item>
+	<annotation>L from NC lgs - likely Iaai (Ozanne-Rivierre 1994)</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>90918</id>
 	<word_id>63</word_id>
 	<word>name</word>
@@ -604,7 +637,7 @@
 	<item>tui/a</item>
 	<annotation>Sew</annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -613,7 +646,7 @@
 	<word_id>68</word_id>
 	<word>needle</word>
 	<item>sau</item>
-	<annotation>Needle</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -660,6 +693,17 @@
 	<annotation>Steal</annotation>
 	<loan></loan>
 	<cognacy>7</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229926</id>
+	<word_id>74</word_id>
+	<word>to kill</word>
+	<item>hlingeina</item>
+	<annotation>L from Iaai (Ozanne-Rivierre 1994)</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -736,7 +780,7 @@
 	<item>mata/kakai</item>
 	<annotation>Pollex 06: Mata/kakai. :Sharp, pointed (Hmn).</annotation>
 	<loan></loan>
-	<cognacy>14,16,67</cognacy>
+	<cognacy>14,16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -857,7 +901,7 @@
 	<item>pakakau</item>
 	<annotation>Epaule, aile, nageoire de tortue (Hmn)</annotation>
 	<loan></loan>
-	<cognacy>1,59</cognacy>
+	<cognacy>1,59,88</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -899,9 +943,20 @@
 	<word_id>106</word_id>
 	<word>snake</word>
 	<item>fei</item>
-	<annotation>Pollex 06: &lt;Fei. :Snake (1888)&gt;.</annotation>
+	<annotation>Pollex 06: &lt;Fei. :Snake (1888)&gt;.; This may very well be a Greek loan?</annotation>
 	<loan></loan>
-	<cognacy>77</cognacy>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229925</id>
+	<word_id>107</word_id>
+	<word>worm (earthworm)</word>
+	<item>biget</item>
+	<annotation>L from Iaai (Ozanne-Rivierre 1994)</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -945,7 +1000,7 @@
 	<item>laalaa</item>
 	<annotation>Branch</annotation>
 	<loan></loan>
-	<cognacy>1,33</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1021,7 +1076,7 @@
 	<word>stone</word>
 	<item>koofatu</item>
 	<annotation>Hard, light-brown stone [&lt;]</annotation>
-	<loan>L?</loan>
+	<loan></loan>
 	<cognacy>1,39</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1100,6 +1155,17 @@
 	<annotation>Lune, mois (Hmn)</annotation>
 	<loan></loan>
 	<cognacy>37, 5</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3229927</id>
+	<word_id>132</word_id>
+	<word>fog</word>
+	<item>sahot</item>
+	<annotation>L from NC lgs -likely Iaai (Ozanne-Rivierre 1994)</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1319,7 +1385,7 @@
 	<item>toko/isi</item>
 	<annotation>Pollex 06: Toko/isi/ (WUH) (Hmn)., small.</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>141</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1330,7 +1396,7 @@
 	<item>loa</item>
 	<annotation>Long</annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1625,7 +1691,7 @@
 	<word_id>185</word_id>
 	<word>we</word>
 	<item>gima</item>
-	<annotation>(Ply 1970) [&lt;]</annotation>
+	<annotation>L from Iaai</annotation>
 	<loan>L</loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1676,12 +1742,23 @@
 </record>
 
 <record>
+	<id>3229924</id>
+	<word_id>195</word_id>
+	<word>no, not</word>
+	<item>hee</item>
+	<annotation>L from Euvean or Tongan (Ozanne-Rivierre 1994)</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>70231</id>
 	<word_id>197</word_id>
 	<word>One</word>
 	<item>tahi</item>
-	<annotation>One</annotation>
-	<loan></loan>
+	<annotation>L from EUvea </annotation>
+	<loan>L</loan>
 	<cognacy>41</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>

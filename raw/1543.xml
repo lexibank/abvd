@@ -9,7 +9,12 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Southeast Solomonic, Malaita-San Cristobal, Malaita, Southern</classification>
 	<typedby>Lana Takau</typedby>
 	<checkedby></checkedby>
-	<source>Murray Garde</source>
+	<source>@misc{Garde2018b,
+  author = &quot;Murray Garde&quot;,
+  date = &quot;2018&quot;,
+  howpublished = &quot;personal communication&quot;
+}
+</source>
 </record>
 
 <record>
@@ -1306,7 +1311,7 @@
 	<item>bedlap</item>
 	<annotation>big</annotation>
 	<loan></loan>
-	<cognacy>10, 83</cognacy>
+	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1526,7 +1531,7 @@
 	<item>nɪ</item>
 	<annotation>I, me</annotation>
 	<loan></loan>
-	<cognacy>,21,22</cognacy>
+	<cognacy>1,21,22</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

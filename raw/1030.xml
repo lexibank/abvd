@@ -47,7 +47,7 @@
 	<item>rima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -232,8 +232,8 @@
 	<word_id>18</word_id>
 	<word>breast</word>
 	<item>mumu</item>
-	<annotation>Likely loan from Van lgs</annotation>
-	<loan>L?</loan>
+	<annotation>L from (likely) Namakura</annotation>
+	<loan>L</loan>
 	<cognacy>30</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -443,7 +443,7 @@
 	<item>kaikai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -496,9 +496,9 @@
 	<word_id>42</word_id>
 	<word>to suck</word>
 	<item>mumu</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>11,12</cognacy>
+	<annotation>L from (likely) Namakura</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -520,7 +520,7 @@
 	<item>fanoŋo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 59</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -564,7 +564,7 @@
 	<item>moe</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -641,7 +641,7 @@
 	<item>tamati·ti</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>6,64</cognacy>
+	<cognacy>6,103</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -762,7 +762,7 @@
 	<item>tuitui</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -916,7 +916,7 @@
 	<item>toβia</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>14?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1026,7 +1026,7 @@
 	<item>pakakau</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,59</cognacy>
+	<cognacy>1,59,88</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1334,7 +1334,7 @@
 	<item>pauri</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>12, 67</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1343,9 +1343,9 @@
 	<word_id>131</word_id>
 	<word>cloud</word>
 	<item>ᵐboroa</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>12, 67</cognacy>
+	<annotation>L from Vanuatu lgs</annotation>
+	<loan>L</loan>
+	<cognacy>38</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1455,7 +1455,7 @@
 	<item>roro</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>9?</cognacy>
+	<cognacy>123</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1488,7 +1488,7 @@
 	<item>tuŋia</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy>1,7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1532,7 +1532,7 @@
 	<item>tea</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>8</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1541,8 +1541,8 @@
 	<word_id>149</word_id>
 	<word>red</word>
 	<item>loa</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>L from (likely) Namakura</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1576,7 +1576,7 @@
 	<item>ti·ti</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>121</cognacy>
+	<cognacy>141</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1596,9 +1596,9 @@
 	<word_id>155</word_id>
 	<word>long</word>
 	<item>leβaleβa</item>
-	<annotation>POSSIBLE LOAN</annotation>
-	<loan>L</loan>
-	<cognacy>6</cognacy>
+	<annotation>WPN languages exhibit &quot;leva&quot; for 'a long time'</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1675,7 +1675,7 @@
 	<item>sumarie</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>16</cognacy>
+	<cognacy>16, 141</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1684,8 +1684,8 @@
 	<word_id>165</word_id>
 	<word>bad, evil</word>
 	<item>sati</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>L from Van lgs (This looks like PNVC *sa'a-ti, not simply a retention of PCP *sa'a)</annotation>
+	<loan>L</loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1697,7 +1697,7 @@
 	<item>sumarie</item>
 	<annotation>good</annotation>
 	<loan></loan>
-	<cognacy>105</cognacy>
+	<cognacy>106</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1994,7 +1994,7 @@
 	<item>mare</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>2, 46</cognacy>
+	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2027,7 +2027,7 @@
 	<item>e·</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>13?</cognacy>
+	<cognacy>13</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2137,7 +2137,7 @@
 	<item>siβa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,44,43</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2148,7 +2148,7 @@
 	<item>ŋafuru</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5,32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

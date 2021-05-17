@@ -3,7 +3,7 @@
 	<language>Rennellese</language>
 	<author>POLLEX 2000 (Bruce Biggs &amp; Ross Clark)</author>
 	<silcode>mnv</silcode>
-	<glottocode>renn1242</glottocode>
+	<glottocode>mung1271</glottocode>
 	<notes></notes>
 	<problems></problems>
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, Samoic-Outlier, Futunic</classification>
@@ -32,7 +32,7 @@
 	<item>gima</item>
 	<annotation>Hand, arm, five (Ebt)</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -505,7 +505,7 @@
 	<item>kai</item>
 	<annotation>Food, eat</annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -538,7 +538,7 @@
 	<item>b/inu/-mia</item>
 	<annotation>Drink (Ebt)</annotation>
 	<loan></loan>
-	<cognacy>1,34</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -659,7 +659,7 @@
 	<item>moe</item>
 	<annotation>Sleep, lie down, have sex (Ebt)</annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -832,9 +832,9 @@
 	<id>21269</id>
 	<word_id>60</word_id>
 	<word>father</word>
-	<item>tama/u</item>
-	<annotation>Father [&lt;]</annotation>
-	<loan>L</loan>
+	<item>tamana</item>
+	<annotation>Elbert (p. 284)</annotation>
+	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -934,7 +934,7 @@
 	<item>tui</item>
 	<annotation>Sew, string together, awl (Ebt)</annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1176,7 +1176,7 @@
 	<item>hahaʔa</item>
 	<annotation>split</annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5, 96</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1187,7 +1187,7 @@
 	<item>kakai</item>
 	<annotation>To be sharp</annotation>
 	<loan></loan>
-	<cognacy>14,67</cognacy>
+	<cognacy>14</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1198,7 +1198,7 @@
 	<item>hakakaa</item>
 	<annotation>Sharpen</annotation>
 	<loan></loan>
-	<cognacy>14,17</cognacy>
+	<cognacy>14,15</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1571,7 +1571,7 @@
 	<word>spider</word>
 	<item>gaba</item>
 	<annotation>Spider (Ebt). B. [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -2056,7 +2056,7 @@
 	<item>tuungia</item>
 	<annotation>To be burned or on fire (Ebt)</annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy>1,7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2067,7 +2067,7 @@
 	<item>tutu</item>
 	<annotation>Ignite, light (Ebt)</annotation>
 	<loan></loan>
-	<cognacy>6</cognacy>
+	<cognacy>1,6</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2199,7 +2199,7 @@
 	<item>ìti/ìti</item>
 	<annotation>Be small, not much (Ebt)</annotation>
 	<loan></loan>
-	<cognacy>121</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2298,7 +2298,7 @@
 	<item>goa</item>
 	<annotation>Length, tallness (Ebt)</annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2441,7 +2441,7 @@
 	<item>māseʔi</item>
 	<annotation>bad</annotation>
 	<loan></loan>
-	<cognacy>42,1?</cognacy>
+	<cognacy>42</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2660,8 +2660,8 @@
 	<word>I</word>
 	<item>kau</item>
 	<annotation>Portmanteau pronoun, first person singular I (Ebt) [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>1,21</cognacy>
+	<loan></loan>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2713,8 +2713,8 @@
 	<id>123811</id>
 	<word_id>185</word_id>
 	<word>we</word>
-	<item>kita(a)-</item>
-	<annotation>First person inclusive marker (Ebt)</annotation>
+	<item>kitaaua</item>
+	<annotation>First person dual inclusive marker (Ebt)</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2724,9 +2724,9 @@
 	<id>123812</id>
 	<word_id>185</word_id>
 	<word>we</word>
-	<item>kimaa</item>
+	<item>kimaaua</item>
 	<annotation>First person dual exclusive preposed pronoun (Ebt) [&lt;]</annotation>
-	<loan>L</loan>
+	<loan></loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -2912,9 +2912,9 @@
 	<word_id>197</word_id>
 	<word>One</word>
 	<item>tahi</item>
-	<annotation>One (Ebt) [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>41</cognacy>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3002,7 +3002,7 @@
 	<item>iba</item>
 	<annotation>Nine (Ebt).(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

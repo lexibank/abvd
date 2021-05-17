@@ -4,7 +4,8 @@
 	<author>Mary &amp; Kevin Salisbury</author>
 	<silcode>pkp</silcode>
 	<glottocode>puka1242</glottocode>
-	<notes></notes>
+	<notes>*s &gt; y (y = ð)
+*f &gt; w</notes>
 	<problems></problems>
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, Samoic-Outlier, Pukapuka</classification>
 	<typedby>Mary Salisbury</typedby>
@@ -28,7 +29,7 @@
 	<item>lima </item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -37,7 +38,7 @@
 	<word_id>2</word_id>
 	<word>left</word>
 	<item>māyui </item>
-	<annotation>y = ð</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1,59, 74</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -204,7 +205,7 @@
 	<item>tipa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>11?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -787,7 +788,7 @@
 	<item>kai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -798,7 +799,7 @@
 	<item>kaikai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -952,7 +953,7 @@
 	<item>langona </item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 83</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1007,7 +1008,7 @@
 	<item>moe</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1018,7 +1019,7 @@
 	<item>momoe</item>
 	<annotation>pl</annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1071,7 +1072,7 @@
 	<word_id>50</word_id>
 	<word>to dream</word>
 	<item>moemiti</item>
-	<annotation>moemiti = (rar)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>7,36</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1170,7 +1171,7 @@
 	<word_id>55</word_id>
 	<word>woman/female</word>
 	<item>wawine</item>
-	<annotation>(sg) (likely EPn loan-MW)</annotation>
+	<annotation>(sg) </annotation>
 	<loan></loan>
 	<cognacy>1,106</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1181,7 +1182,7 @@
 	<word_id>55</word_id>
 	<word>woman/female</word>
 	<item>wāwine</item>
-	<annotation>(pl) (likely EPn loan-MW)</annotation>
+	<annotation>(pl) *f &gt; w</annotation>
 	<loan></loan>
 	<cognacy>1,106</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1249,7 +1250,7 @@
 	<item>matua tāne </item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,9</cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1326,7 +1327,7 @@
 	<item>yele </item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>16, 14</cognacy>
+	<cognacy>14</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1337,7 +1338,7 @@
 	<item>tui </item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1346,7 +1347,7 @@
 	<word_id>68</word_id>
 	<word>needle</word>
 	<item>nila</item>
-	<annotation>Eng.</annotation>
+	<annotation>L from English</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1392,7 +1393,7 @@
 	<item>wena </item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1?</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1621,7 +1622,7 @@
 	<word_id>81</word_id>
 	<word>sharp</word>
 	<item>kokoi </item>
-	<annotation>EP loan - JCM</annotation>
+	<annotation>L from EP</annotation>
 	<loan>L</loan>
 	<cognacy>14,66</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1821,7 +1822,7 @@
 	<item>tolo </item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2085,7 +2086,7 @@
 	<item>pakayau </item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,59</cognacy>
+	<cognacy>1,59,88</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2204,9 +2205,9 @@
 	<word_id>106</word_id>
 	<word>snake</word>
 	<item>ōvī</item>
-	<annotation>(rar &lt; gk) loan -JCM</annotation>
-	<loan></loan>
-	<cognacy>77</cognacy>
+	<annotation>L from Greek via Rarotongan</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2237,7 +2238,7 @@
 	<word_id>108</word_id>
 	<word>louse</word>
 	<item>lia</item>
-	<annotation>'nit'�</annotation>
+	<annotation>'nit'</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2424,7 +2425,7 @@
 	<word_id>121</word_id>
 	<word>sand</word>
 	<item>kelekele</item>
-	<annotation>one (rar)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>30,74</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2435,7 +2436,7 @@
 	<word_id>121</word_id>
 	<word>sand</word>
 	<item>tini</item>
-	<annotation>one (rar)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2446,7 +2447,7 @@
 	<word_id>121</word_id>
 	<word>sand</word>
 	<item>one</item>
-	<annotation>one (rar)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2677,7 +2678,7 @@
 	<word_id>139</word_id>
 	<word>cold</word>
 	<item>makalili</item>
-	<annotation>anu (rar)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1,52</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2789,7 +2790,7 @@
 	<item>tutu </item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>6</cognacy>
+	<cognacy>1, 6</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3020,7 +3021,7 @@
 	<item>loa </item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3152,7 +3153,7 @@
 	<item>pōvī</item>
 	<annotation>n. old person</annotation>
 	<loan></loan>
-	<cognacy>49?</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3240,7 +3241,7 @@
 	<item>yako</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>107</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3249,8 +3250,8 @@
 	<word_id>166</word_id>
 	<word>correct, true</word>
 	<item>tika</item>
-	<annotation></annotation>
-	<loan></loan>
+	<annotation>L from EP lgs</annotation>
+	<loan>L</loan>
 	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -3878,7 +3879,7 @@
 	<item>pau</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>59?</cognacy>
+	<cognacy>59</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3977,7 +3978,7 @@
 	<item>kāe</item>
 	<annotation>neg exist</annotation>
 	<loan></loan>
-	<cognacy>83</cognacy>
+	<cognacy>10, 83</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -4032,7 +4033,7 @@
 	<item>wakalau</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>8,62</cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -4041,9 +4042,9 @@
 	<word_id>196</word_id>
 	<word>to count</word>
 	<item>tatau </item>
-	<annotation>(rar)</annotation>
-	<loan>L</loan>
-	<cognacy>8</cognacy>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>8,80</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -4142,7 +4143,7 @@
 	<item>iva</item>
 	<annotation>Nine (Bge).(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5,66</cognacy>
+	<cognacy>5,44,66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -4173,7 +4174,7 @@
 	<word_id>207</word_id>
 	<word>Twenty</word>
 	<item>luangaulu</item>
-	<annotation>(Rarotongan)</annotation>
+	<annotation>L from Rarotongan</annotation>
 	<loan>L</loan>
 	<cognacy>3,6</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -4195,7 +4196,7 @@
 	<word_id>208</word_id>
 	<word>Fifty</word>
 	<item>limangaulu</item>
-	<annotation>(Raro.)</annotation>
+	<annotation>L from Rarotongan</annotation>
 	<loan>L</loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -4239,7 +4240,7 @@
 	<word_id>209</word_id>
 	<word>One Hundred</word>
 	<item>ānele</item>
-	<annotation>(Eng)</annotation>
+	<annotation>L from English </annotation>
 	<loan>L</loan>
 	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -4261,7 +4262,7 @@
 	<word_id>210</word_id>
 	<word>One Thousand</word>
 	<item>mano</item>
-	<annotation>Thousand (Bge).(Source: Pollex)</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>

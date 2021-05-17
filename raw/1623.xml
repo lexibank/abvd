@@ -4,14 +4,30 @@
 	<author>Himes (2006)</author>
 	<silcode></silcode>
 	<glottocode>kala1389</glottocode>
-	<notes>
-Himes, Ronald S. 2006. The Kalamian Microgroup of Philippine Languages. Paper Presented at the Tenth International Conference on Austronesian Linguistics, 17-20 January 2006, Palawan, Philippines.
+	<notes>Himes, Ronald S. 2006. The Kalamian Microgroup of Philippine Languages. Paper Presented at the Tenth International Conference on Austronesian Linguistics, 17-20 January 2006, Palawan, Philippines.
 </notes>
 	<problems></problems>
 	<classification>Austronesian, Malayo-Polynesian, Kalamian</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby>Andrew Hsiu</checkedby>
-	<source></source>
+	<source>@misc{130643,
+  author       = {Ronald S. Himes},
+  howpublished = {Paper Presented at the Tenth International Conference on Austronesian Linguistics 17-20 January 2006 Palawan, Philippines},
+  pages        = {23},
+  title        = {The Kalamian Microgroup of Philippine Languages},
+  url          = {http://www.sil.org/asia/philippines/ical/papers.html},
+  year         = {2006},
+  besttxt      = {ptxt\papua\himes_kalamian2006.txt},
+  country      = {Philippines [PH]},
+  fn           = {papua\himes_kalamian2006.pdf},
+  hhtype       = {overview;comparative},
+  inlg         = {English [eng]},
+  lgcode       = {Agutaynen [agn], Calamian Tagbanwa [tbk]},
+  macro_area   = {Papunesia},
+  sil_id       = {48323},
+  src          = {hh, sil16},
+  subject      = {Comparative and historical studies [CHL]}
+}</source>
 </record>
 
 <record>

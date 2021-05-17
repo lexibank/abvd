@@ -32,7 +32,7 @@
 	<item>lima</item>
 	<annotation>Hand, arm</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1, 64</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -362,7 +362,7 @@
 	<item>ngangailu</item>
 	<annotation>as hair generally on head</annotation>
 	<loan></loan>
-	<cognacy>29, 3</cognacy>
+	<cognacy>29 </cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -373,7 +373,7 @@
 	<item>ŋaŋaulu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>29, 3</cognacy>
+	<cognacy>29</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -516,7 +516,7 @@
 	<item>gai</item>
 	<annotation>Eat</annotation>
 	<loan></loan>
-	<cognacy>1,44</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -636,8 +636,8 @@
 	<word>to yawn</word>
 	<item>maava</item>
 	<annotation>Yawn [&lt;]</annotation>
-	<loan>L</loan>
-	<cognacy>19</cognacy>
+	<loan></loan>
+	<cognacy>19, 39</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -648,7 +648,7 @@
 	<item>moe</item>
 	<annotation>Sleep</annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10, 109</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -857,7 +857,7 @@
 	<item>dui</item>
 	<annotation>Sew (Crl)</annotation>
 	<loan></loan>
-	<cognacy>13</cognacy>
+	<cognacy>13, 16</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1242,7 +1242,7 @@
 	<item>pakhau</item>
 	<annotation>Wing (Ebt)</annotation>
 	<loan></loan>
-	<cognacy>1,59</cognacy>
+	<cognacy>1,81</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1264,7 +1264,7 @@
 	<item>pakhau</item>
 	<annotation>Wing (Ebt)</annotation>
 	<loan></loan>
-	<cognacy>1,59</cognacy>
+	<cognacy>1,81</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1880,7 +1880,7 @@
 	<item>lloa</item>
 	<annotation>Long a</annotation>
 	<loan></loan>
-	<cognacy>12</cognacy>
+	<cognacy>12,105</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -2375,7 +2375,7 @@
 	<item>siva</item>
 	<annotation>Nine.(Source: Pollex)</annotation>
 	<loan></loan>
-	<cognacy>5</cognacy>
+	<cognacy>5, 44, 43</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

@@ -4,14 +4,29 @@
 	<author>Himes (2012)</author>
 	<silcode></silcode>
 	<glottocode>cent2080</glottocode>
-	<notes>
-Himes, Ronald S. 2012. “The Central Luzon Group of Languages”. Oceanic Linguistics 51 (2). University of Hawai'i Press: 490–537.
+	<notes>Himes, Ronald S. 2012. “The Central Luzon Group of Languages”. Oceanic Linguistics 51 (2). University of Hawai'i Press: 490–537.
 </notes>
 	<problems></problems>
 	<classification>Austronesian, Malayo-Polynesian, Central Luzon, Pampangan</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby>Andrew Hsiu</checkedby>
-	<source></source>
+	<source>@article{318700,
+  author     = {Ronald S. Himes},
+  journal    = {Oceanic Linguistics},
+  number     = {2},
+  pages      = {490-537},
+  title      = {The Central Luzon Group of Languages},
+  volume     = {51},
+  year       = {2012},
+  besttxt    = {ptxt2\papua\himes_central-luzon2012.txt},
+  cfn        = {papua\himes_central-luzon2012.pdf},
+  delivered  = {papua\himes_central-luzon2012.pdf},
+  fn         = {papua\himes_central-luzon2012.pdf},
+  hhtype     = {overview;comparative},
+  inlg       = {English [eng]},
+  macro_area = {Papua},
+  src        = {hh}
+}</source>
 </record>
 
 <record>

@@ -9,7 +9,23 @@
 	<classification>Austronesian, East Formosan, Southwest</classification>
 	<typedby>Sander Adelaar</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@article{474357,
+  author     = {Alexander K. Adelaar},
+  journal    = {Cahiers de Linguistique Asie Orientale},
+  pages      = {1-31},
+  title      = {Proto-Siraya Phonology: A Reconstruction},
+  volume     = {43},
+  year       = {2014},
+  besttxt    = {ptxt2\papuadelaar_proto-siraya2014.txt},
+  cfn        = {papuadelaar_proto-siraya2014.pdf},
+  delivered  = {papuadelaar_proto-siraya2014.pdf},
+  fn         = {papuadelaar_proto-siraya2014.pdf},
+  hhtype     = {comparative},
+  inlg       = {English [eng]},
+  lgcode     = {Siraya [fos]},
+  macro_area = {Papunesia},
+  src        = {hh}
+}</source>
 </record>
 
 <record>
