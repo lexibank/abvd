@@ -25,19 +25,19 @@ Conceptlists in Concepticon:
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 1,640
+- **Varieties:** 1,641
 - **Concepts:** 210
-- **Lexemes:** 314,874
-- **Sources:** 898
+- **Lexemes:** 315,100
+- **Sources:** 899
 - **Synonymy:** 1.14
-- **Cognacy:** 235,204 cognates in 17,994 cognate sets (433 singletons)
+- **Cognacy:** 235,257 cognates in 17,992 cognate sets (434 singletons)
 - **Cognate Diversity:** 0.06
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 240/314874 (0.08%)
+- Entries missing sources: 240/315100 (0.08%)
 
 # Contributors
 

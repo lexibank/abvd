@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/abvd",
-            "dc:created": "18d8d8f"
+            "dc:created": "a9a4263"
         },
         {
             "rdf:type": "prov:Entity",
@@ -30,13 +30,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0"
+            "dc:created": "v2.5.0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4"
+            "dc:created": "v2.1.0"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 314874,
+            "dc:extent": 315100,
             "tableSchema": {
                 "columns": [
                     {
@@ -160,7 +160,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 1640,
+            "dc:extent": 1641,
             "tableSchema": {
                 "columns": [
                     {
@@ -282,7 +282,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 235204,
+            "dc:extent": 235257,
             "tableSchema": {
                 "columns": [
                     {
