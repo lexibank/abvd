@@ -164,7 +164,7 @@
 	<id>3048</id>
 	<word_id>9</word_id>
 	<word>to swim</word>
-	<item>poŋano</item>
+	<item>poŋaŋo</item>
 	<annotation>(&lt;M)</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -1341,33 +1341,33 @@
 	<id>76862</id>
 	<word_id>95</word_id>
 	<word>to fall</word>
-	<item>ndawu</item>
+	<item></item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
-	<pmpcognacy>1</pmpcognacy>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
 	<id>76863</id>
 	<word_id>95</word_id>
 	<word>to fall</word>
-	<item>kutibu</item>
+	<item></item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
-	<pmpcognacy>1</pmpcognacy>
+	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
 	<id>76864</id>
 	<word_id>95</word_id>
 	<word>to fall</word>
-	<item>manduli</item>
+	<item></item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
-	<pmpcognacy>1</pmpcognacy>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
@@ -1495,22 +1495,22 @@
 	<id>77437</id>
 	<word_id>107</word_id>
 	<word>worm (earthworm)</word>
-	<item>loloulo</item>
+	<item></item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
-	<pmpcognacy>1</pmpcognacy>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
 	<id>77438</id>
 	<word_id>107</word_id>
 	<word>worm (earthworm)</word>
-	<item>lolati</item>
+	<item></item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
-	<pmpcognacy>1</pmpcognacy>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
@@ -1529,7 +1529,7 @@
 	<word_id>109</word_id>
 	<word>mosquito</word>
 	<item>buroto</item>
-	<annotation>(kind of big spider)</annotation>
+	<annotation>gnat</annotation>
 	<loan></loan>
 	<cognacy>23</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1540,7 +1540,7 @@
 	<word_id>109</word_id>
 	<word>mosquito</word>
 	<item>kawaowaode</item>
-	<annotation></annotation>
+	<annotation>(kind of big spider)</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2100,7 +2100,7 @@
 	<id>79900</id>
 	<word_id>152</word_id>
 	<word>small</word>
-	<item>maiidiidi</item>
+	<item>maidiidii</item>
 	<annotation>(&lt;M)</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -2254,7 +2254,7 @@
 	<id>119439</id>
 	<word_id>162</word_id>
 	<word>old</word>
-	<item>mañucuana</item>
+	<item>mancuana</item>
 	<annotation>(human)</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -2276,7 +2276,7 @@
 	<id>58026</id>
 	<word_id>163</word_id>
 	<word>new</word>
-	<item>bau</item>
+	<item>baau</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -2287,7 +2287,7 @@
 	<id>58383</id>
 	<word_id>164</word_id>
 	<word>good</word>
-	<item>malápe</item>
+	<item>malape</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -2353,8 +2353,8 @@
 	<id>132646</id>
 	<word_id>170</word_id>
 	<word>when?</word>
-	<item>naipiaʔ</item>
-	<annotation>[in future]</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2364,11 +2364,11 @@
 	<id>132647</id>
 	<word_id>170</word_id>
 	<word>when?</word>
-	<item>piamo</item>
-	<annotation>[in past]</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
-	<pmpcognacy>1</pmpcognacy>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
@@ -2518,7 +2518,7 @@
 	<id>64809</id>
 	<word_id>182</word_id>
 	<word>I</word>
-	<item>i aku</item>
+	<item>iaku</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -2595,7 +2595,7 @@
 	<id>66951</id>
 	<word_id>188</word_id>
 	<word>what?</word>
-	<item>opeaʔ</item>
+	<item>opea</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>12?,1?</cognacy>
@@ -2606,7 +2606,7 @@
 	<id>67308</id>
 	<word_id>189</word_id>
 	<word>who?</word>
-	<item>incemaʔ</item>
+	<item>incema</item>
 	<annotation>(Cp. Mori)</annotation>
 	<loan></loan>
 	<cognacy>16</cognacy>
@@ -2694,7 +2694,7 @@
 	<id>69093</id>
 	<word_id>194</word_id>
 	<word>how?</word>
-	<item>tua apaʔ</item>
+	<item>tua apa</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -2787,5 +2787,126 @@
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy>1</pmpcognacy>
+</record>
+
+<record>
+	<id>3231333</id>
+	<word_id>201</word_id>
+	<word>Five</word>
+	<item>lima</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231331</id>
+	<word_id>202</word_id>
+	<word>Six</word>
+	<item>nama</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231332</id>
+	<word_id>202</word_id>
+	<word>Six</word>
+	<item>ʔana</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231330</id>
+	<word_id>203</word_id>
+	<word>Seven</word>
+	<item>pitu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231329</id>
+	<word_id>204</word_id>
+	<word>Eight</word>
+	<item>walu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231328</id>
+	<word_id>205</word_id>
+	<word>Nine</word>
+	<item>sio</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231327</id>
+	<word_id>206</word_id>
+	<word>Ten</word>
+	<item>sapulu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231326</id>
+	<word_id>207</word_id>
+	<word>Twenty</word>
+	<item>rua pulu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231325</id>
+	<word_id>208</word_id>
+	<word>Fifty</word>
+	<item>lima pulu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231324</id>
+	<word_id>209</word_id>
+	<word>One Hundred</word>
+	<item>saatu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231323</id>
+	<word_id>210</word_id>
+	<word>One Thousand</word>
+	<item>sarewu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
 </record>
 
