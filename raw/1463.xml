@@ -103,6 +103,17 @@ Standard Isinay as spoken in Dupax del Sur municipality, Nueva Vizcaya province,
 </record>
 
 <record>
+	<id>3231348</id>
+	<word_id>8</word_id>
+	<word>to turn</word>
+	<item>ibaleng</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>334615</id>
 	<word_id>9</word_id>
 	<word>to swim</word>
@@ -400,11 +411,33 @@ Standard Isinay as spoken in Dupax del Sur municipality, Nueva Vizcaya province,
 </record>
 
 <record>
+	<id>3231364</id>
+	<word_id>32</word_id>
+	<word>tongue</word>
+	<item>dila</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>334638</id>
 	<word_id>33</word_id>
 	<word>to laugh</word>
 	<item>mantatawa</item>
 	<annotation>man.ta.'ta?.wa</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231369</id>
+	<word_id>34</word_id>
+	<word>to cry</word>
+	<item>man-ivil</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -438,6 +471,28 @@ Standard Isinay as spoken in Dupax del Sur municipality, Nueva Vizcaya province,
 	<word>to eat</word>
 	<item>mangan</item>
 	<annotation>ma.'?an</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231368</id>
+	<word_id>38</word_id>
+	<word>to chew</word>
+	<item>ngot-ngoton</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231367</id>
+	<word_id>39</word_id>
+	<word>to cook</word>
+	<item>manlutu</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -570,6 +625,17 @@ Standard Isinay as spoken in Dupax del Sur municipality, Nueva Vizcaya province,
 	<word>to lie down</word>
 	<item>umboh</item>
 	<annotation>'?um.boh (to lie on side)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231366</id>
+	<word_id>50</word_id>
+	<word>to dream</word>
+	<item>na-in-inop</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -829,6 +895,17 @@ Standard Isinay as spoken in Dupax del Sur municipality, Nueva Vizcaya province,
 </record>
 
 <record>
+	<id>3231349</id>
+	<word_id>70</word_id>
+	<word>to shoot</word>
+	<item>barilom</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>334671</id>
 	<word_id>71</word_id>
 	<word>to stab, pierce</word>
@@ -983,6 +1060,17 @@ Standard Isinay as spoken in Dupax del Sur municipality, Nueva Vizcaya province,
 </record>
 
 <record>
+	<id>3231365</id>
+	<word_id>83</word_id>
+	<word>to work</word>
+	<item>mantalavaho</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>334683</id>
 	<word_id>84</word_id>
 	<word>to plant</word>
@@ -1010,6 +1098,17 @@ Standard Isinay as spoken in Dupax del Sur municipality, Nueva Vizcaya province,
 	<word>to choose</word>
 	<item>talenan</item>
 	<annotation>ta.le.'nan</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231363</id>
+	<word_id>86</word_id>
+	<word>to grow</word>
+	<item>pa-ammaiyon</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1423,6 +1522,17 @@ Standard Isinay as spoken in Dupax del Sur municipality, Nueva Vizcaya province,
 </record>
 
 <record>
+	<id>3231362</id>
+	<word_id>117</word_id>
+	<word>fruit</word>
+	<item>bunga</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>334715</id>
 	<word_id>118</word_id>
 	<word>grass</word>
@@ -1643,6 +1753,17 @@ Standard Isinay as spoken in Dupax del Sur municipality, Nueva Vizcaya province,
 </record>
 
 <record>
+	<id>3231361</id>
+	<word_id>133</word_id>
+	<word>rain</word>
+	<item>uran</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>334730</id>
 	<word_id>134</word_id>
 	<word>thunder</word>
@@ -1841,6 +1962,28 @@ Standard Isinay as spoken in Dupax del Sur municipality, Nueva Vizcaya province,
 </record>
 
 <record>
+	<id>3231360</id>
+	<word_id>150</word_id>
+	<word>yellow</word>
+	<item>duyaw</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231359</id>
+	<word_id>151</word_id>
+	<word>green</word>
+	<item>berde</item>
+	<annotation></annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>335073</id>
 	<word_id>152</word_id>
 	<word>small</word>
@@ -1995,6 +2138,17 @@ Standard Isinay as spoken in Dupax del Sur municipality, Nueva Vizcaya province,
 </record>
 
 <record>
+	<id>3231358</id>
+	<word_id>161</word_id>
+	<word>shy, ashamed</word>
+	<item>mavayin</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>334755</id>
 	<word_id>162</word_id>
 	<word>old</word>
@@ -2105,11 +2259,66 @@ Standard Isinay as spoken in Dupax del Sur municipality, Nueva Vizcaya province,
 </record>
 
 <record>
+	<id>3231357</id>
+	<word_id>171</word_id>
+	<word>to hide</word>
+	<item>i-ap-ap</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231355</id>
+	<word_id>172</word_id>
+	<word>to climb</word>
+	<item>eyavon</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>334764</id>
 	<word_id>173</word_id>
 	<word>at</word>
 	<item>siri</item>
 	<annotation>si.'ri?</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231356</id>
+	<word_id>174</word_id>
+	<word>in, inside</word>
+	<item>deyom</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231354</id>
+	<word_id>175</word_id>
+	<word>above</word>
+	<item>uddu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231353</id>
+	<word_id>176</word_id>
+	<word>below</word>
+	<item>deya</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2336,6 +2545,17 @@ Standard Isinay as spoken in Dupax del Sur municipality, Nueva Vizcaya province,
 </record>
 
 <record>
+	<id>3231351</id>
+	<word_id>193</word_id>
+	<word>if</word>
+	<item>nu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>334781</id>
 	<word_id>194</word_id>
 	<word>how?</word>
@@ -2473,6 +2693,28 @@ Standard Isinay as spoken in Dupax del Sur municipality, Nueva Vizcaya province,
 	<word>Ten</word>
 	<item>simpiyu</item>
 	<annotation>sim.'pi?.ju</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231352</id>
+	<word_id>207</word_id>
+	<word>Twenty</word>
+	<item>duwampiyu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3231350</id>
+	<word_id>208</word_id>
+	<word>Fifty</word>
+	<item>limampiyu</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>

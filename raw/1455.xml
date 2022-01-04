@@ -74,7 +74,7 @@ See Schlossberg 2012 for details</notes>
 	<item>laulau</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -393,7 +393,7 @@ See Schlossberg 2012 for details</notes>
 	<item>memena</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>7</cognacy>
+	<cognacy>7,40</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -525,7 +525,7 @@ See Schlossberg 2012 for details</notes>
 	<item>bea-</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>66</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -877,7 +877,7 @@ See Schlossberg 2012 for details</notes>
 	<item>ibo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>129</cognacy>
+	<cognacy>51</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -932,7 +932,7 @@ See Schlossberg 2012 for details</notes>
 	<item>umai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1080,13 +1080,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>333103</id>
+	<id>3232962</id>
 	<word_id>100</word_id>
 	<word>wing</word>
-	<item>bala-@mabe</item>
+	<item>mabe</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>86</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3232961</id>
+	<word_id>100</word_id>
+	<word>wing</word>
+	<item>bala-</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1284,7 +1295,7 @@ See Schlossberg 2012 for details</notes>
 	<item>lagau</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>101</cognacy>
+	<cognacy>33</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1482,7 +1493,7 @@ See Schlossberg 2012 for details</notes>
 	<item>mana</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1647,7 +1658,7 @@ See Schlossberg 2012 for details</notes>
 	<item>buyabuya</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>26</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1680,7 +1691,7 @@ See Schlossberg 2012 for details</notes>
 	<item>gagili-</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>68</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1757,7 +1768,7 @@ See Schlossberg 2012 for details</notes>
 	<item>tabataba</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>51</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1812,7 +1823,7 @@ See Schlossberg 2012 for details</notes>
 	<item>baʔaya</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>18</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2142,7 +2153,7 @@ See Schlossberg 2012 for details</notes>
 	<item>hinage</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>31</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

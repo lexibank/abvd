@@ -118,7 +118,7 @@ See Schlossberg 2012 for details</notes>
 	<item>nahu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>51</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -316,7 +316,7 @@ See Schlossberg 2012 for details</notes>
 	<item>hui</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>31</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -327,7 +327,7 @@ See Schlossberg 2012 for details</notes>
 	<item>udu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>27</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -492,7 +492,7 @@ See Schlossberg 2012 for details</notes>
 	<item>topo-a</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -503,7 +503,7 @@ See Schlossberg 2012 for details</notes>
 	<item>taia</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -547,7 +547,7 @@ See Schlossberg 2012 for details</notes>
 	<item>mava</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>19</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -602,7 +602,7 @@ See Schlossberg 2012 for details</notes>
 	<item>gini</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>67</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1460,18 +1460,29 @@ See Schlossberg 2012 for details</notes>
 	<item>lai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
-	<id>331014</id>
+	<id>3233036</id>
 	<word_id>136</word_id>
 	<word>wind</word>
-	<item>lahara@laurabada</item>
+	<item>lahara</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>74</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233037</id>
+	<word_id>136</word_id>
+	<word>wind</word>
+	<item>laurabada</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>20</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1658,7 +1669,7 @@ See Schlossberg 2012 for details</notes>
 	<item>maragi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>71</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1746,7 +1757,7 @@ See Schlossberg 2012 for details</notes>
 	<item>lababa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>48</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1963,7 +1974,7 @@ See Schlossberg 2012 for details</notes>
 	<id>331059</id>
 	<word_id>176</word_id>
 	<word>below</word>
-	<item>henuai@</item>
+	<item>henuai</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>56</cognacy>
@@ -1977,7 +1988,7 @@ See Schlossberg 2012 for details</notes>
 	<item>ina</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>67</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1988,7 +1999,7 @@ See Schlossberg 2012 for details</notes>
 	<item>ena</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1999,7 +2010,7 @@ See Schlossberg 2012 for details</notes>
 	<item>una</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

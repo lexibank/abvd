@@ -1199,7 +1199,7 @@ See Schlossberg 2012 for details</notes>
 	<id>331974</id>
 	<word_id>133</word_id>
 	<word>rain</word>
-	<item>*qusan@</item>
+	<item>*qusan</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1284,10 +1284,21 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>331982</id>
+	<id>3232995</id>
 	<word_id>144</word_id>
 	<word>to burn</word>
-	<item>*gabu@*qarat</item>
+	<item>*gabu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3232996</id>
+	<word_id>144</word_id>
+	<word>to burn</word>
+	<item>*qarat</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>

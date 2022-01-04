@@ -15,34 +15,38 @@
     "dcat:accessURL": "https://github.com/lexibank/abvd",
     "prov:wasDerivedFrom": [
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/abvd",
-            "dc:created": "f61f619"
+            "rdf:type": "prov:Entity",
+            "dc:created": "e8c1fb3",
+            "dc:title": "Repository"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.4"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v4.5",
+            "dc:title": "Glottolog"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.5.0"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.5.0-47-g176a1946",
+            "dc:title": "Concepticon"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v2.1.0"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.1.0-13-gd42171f",
+            "dc:title": "CLTS"
         }
     ],
     "prov:wasGeneratedBy": [
         {
+            "dc:title": "lingpy-rcParams",
+            "dc:relation": "lingpy-rcParams.json"
+        },
+        {
             "dc:title": "python",
-            "dc:description": "3.7.0"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
@@ -57,7 +61,8 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 315100,
+            "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
+            "dc:extent": 317117,
             "tableSchema": {
                 "columns": [
                     {
@@ -160,7 +165,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 1641,
+            "dc:extent": 1653,
             "tableSchema": {
                 "columns": [
                     {
@@ -282,7 +287,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 235257,
+            "dc:extent": 240814,
             "tableSchema": {
                 "columns": [
                     {

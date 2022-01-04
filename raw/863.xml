@@ -1,6 +1,6 @@
 <record>
 	<id>863</id>
-	<language>Angkola / Mandailing</language>
+	<language>Angkola</language>
 	<author>A. Bazar Harahap</author>
 	<silcode>akb</silcode>
 	<glottocode>bata1290</glottocode>
@@ -203,17 +203,6 @@ Angkola and Mandailing are linguistically very similar, but are sociolinguistica
 </record>
 
 <record>
-	<id>218601</id>
-	<word_id>14</word_id>
-	<word>belly</word>
-	<item>boltok</item>
-	<annotation>Mandailing</annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>218432</id>
 	<word_id>15</word_id>
 	<word>bone</word>
@@ -342,17 +331,6 @@ Angkola and Mandailing are linguistically very similar, but are sociolinguistica
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>218609</id>
-	<word_id>23</word_id>
-	<word>blood</word>
-	<item>daro</item>
-	<annotation>Mandailing</annotation>
-	<loan></loan>
-	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -659,7 +637,7 @@ Angkola and Mandailing are linguistically very similar, but are sociolinguistica
 	<word>person/human being</word>
 	<item>jolma</item>
 	<annotation>ult. &lt; Sanskrit</annotation>
-	<loan></loan>
+	<loan>L</loan>
 	<cognacy>16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -670,7 +648,7 @@ Angkola and Mandailing are linguistically very similar, but are sociolinguistica
 	<word>man/male</word>
 	<item>halaklahi</item>
 	<annotation>SA: lit. 'male person'</annotation>
-	<loan></loan>
+	<loan>L</loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -1182,17 +1160,6 @@ Angkola and Mandailing are linguistically very similar, but are sociolinguistica
 </record>
 
 <record>
-	<id>218646</id>
-	<word_id>99</word_id>
-	<word>feather</word>
-	<item>abong</item>
-	<annotation>Mandailing</annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>218495</id>
 	<word_id>100</word_id>
 	<word>wing</word>
@@ -1374,17 +1341,6 @@ Angkola and Mandailing are linguistically very similar, but are sociolinguistica
 	<word>rotten</word>
 	<item>busuk</item>
 	<annotation></annotation>
-	<loan></loan>
-	<cognacy>56</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>218656</id>
-	<word_id>112</word_id>
-	<word>rotten</word>
-	<item>bucuk</item>
-	<annotation>Mandailing</annotation>
 	<loan></loan>
 	<cognacy>56</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1721,17 +1677,6 @@ Angkola and Mandailing are linguistically very similar, but are sociolinguistica
 </record>
 
 <record>
-	<id>218666</id>
-	<word_id>141</word_id>
-	<word>wet</word>
-	<item>maek</item>
-	<annotation>Mandailing</annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>218667</id>
 	<word_id>142</word_id>
 	<word>heavy</word>
@@ -1941,17 +1886,6 @@ Angkola and Mandailing are linguistically very similar, but are sociolinguistica
 </record>
 
 <record>
-	<id>218678</id>
-	<word_id>155</word_id>
-	<word>long</word>
-	<item>lanjang</item>
-	<annotation>Mandailing</annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>218548</id>
 	<word_id>156</word_id>
 	<word>thin</word>
@@ -2023,17 +1957,6 @@ Angkola and Mandailing are linguistically very similar, but are sociolinguistica
 	<word>wide</word>
 	<item>bidang</item>
 	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>218684</id>
-	<word_id>159</word_id>
-	<word>wide</word>
-	<item>lidang</item>
-	<annotation>Mandailing</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>

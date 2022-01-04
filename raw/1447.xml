@@ -289,7 +289,7 @@ See Schlossberg 2012 for details</notes>
 	<item>*gado</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>30</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -311,7 +311,7 @@ See Schlossberg 2012 for details</notes>
 	<item>*iru</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -630,7 +630,7 @@ See Schlossberg 2012 for details</notes>
 	<item>*vavine</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,106</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -924,10 +924,10 @@ See Schlossberg 2012 for details</notes>
 	<id>331594</id>
 	<word_id>103</word_id>
 	<word>meat/flesh</word>
-	<item>*vidiɣo@</item>
+	<item>*vidiɣo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1081,7 +1081,7 @@ See Schlossberg 2012 for details</notes>
 	<item>*vela</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>17</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1276,7 +1276,7 @@ See Schlossberg 2012 for details</notes>
 	<id>331626</id>
 	<word_id>132</word_id>
 	<word>fog</word>
-	<item>*ɣavu@</item>
+	<item>*ɣavu</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1295,10 +1295,21 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>331628</id>
+	<id>3232918</id>
 	<word_id>133</word_id>
 	<word>rain</word>
-	<item>*kuba@*timu</item>
+	<item>*timu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3232917</id>
+	<word_id>133</word_id>
+	<word>rain</word>
+	<item>*kuba</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1444,7 +1455,7 @@ See Schlossberg 2012 for details</notes>
 	<item>*lavu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>67</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1455,7 +1466,7 @@ See Schlossberg 2012 for details</notes>
 	<item>*kavu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

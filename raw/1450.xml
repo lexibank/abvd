@@ -289,7 +289,7 @@ See Schlossberg 2012 for details</notes>
 	<item>*(me)mena</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>7,40</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -498,7 +498,7 @@ See Schlossberg 2012 for details</notes>
 	<item>*tamwata</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>68</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -888,13 +888,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>332114</id>
+	<id>3232968</id>
 	<word_id>100</word_id>
 	<word>wing</word>
-	<item>*pepe@*mabe</item>
+	<item>*mabe</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>86</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3232967</id>
+	<word_id>100</word_id>
+	<word>wing</word>
+	<item>*pepe</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -910,10 +921,21 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>332116</id>
+	<id>3232920</id>
 	<word_id>103</word_id>
 	<word>meat/flesh</word>
-	<item>*buluma@*visiqo</item>
+	<item>*visiqo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3232919</id>
+	<word_id>103</word_id>
+	<word>meat/flesh</word>
+	<item>*buluma</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1059,7 +1081,7 @@ See Schlossberg 2012 for details</notes>
 	<item>*qawati</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>99</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1081,7 +1103,7 @@ See Schlossberg 2012 for details</notes>
 	<item>*(w,v)eku</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>17</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1202,7 +1224,7 @@ See Schlossberg 2012 for details</notes>
 	<item>*yaumai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>73</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1466,7 +1488,7 @@ See Schlossberg 2012 for details</notes>
 	<item>*qabaya ?</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>18</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1477,7 +1499,7 @@ See Schlossberg 2012 for details</notes>
 	<item>*moqoni</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>59</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1576,7 +1598,7 @@ See Schlossberg 2012 for details</notes>
 	<item>*qowa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1631,7 +1653,7 @@ See Schlossberg 2012 for details</notes>
 	<item>*itia</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1675,7 +1697,7 @@ See Schlossberg 2012 for details</notes>
 	<item>*ma</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1686,7 +1708,7 @@ See Schlossberg 2012 for details</notes>
 	<item>*io</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1763,7 +1785,7 @@ See Schlossberg 2012 for details</notes>
 	<item>*vati</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,65</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

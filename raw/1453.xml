@@ -459,7 +459,7 @@ See Schlossberg 2012 for details</notes>
 	<item>doɣa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>75</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -948,6 +948,17 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
+	<id>3232933</id>
+	<word_id>72</word_id>
+	<word>to hit</word>
+	<item>ɣidara</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>332677</id>
 	<word_id>72</word_id>
 	<word>to hit</word>
@@ -959,10 +970,10 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>332678</id>
+	<id>3232932</id>
 	<word_id>72</word_id>
 	<word>to hit</word>
-	<item>foro@ɣidara</item>
+	<item>foro</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1113,6 +1124,17 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
+	<id>3232980</id>
+	<word_id>102</word_id>
+	<word>rat</word>
+	<item>moli</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>332692</id>
 	<word_id>102</word_id>
 	<word>rat</word>
@@ -1124,10 +1146,10 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>332693</id>
+	<id>3232979</id>
 	<word_id>102</word_id>
 	<word>rat</word>
-	<item>kure@moli</item>
+	<item>kure</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>3</cognacy>
@@ -1344,6 +1366,17 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
+	<id>3232964</id>
+	<word_id>121</word_id>
+	<word>sand</word>
+	<item>temu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>332713</id>
 	<word_id>121</word_id>
 	<word>sand</word>
@@ -1355,10 +1388,10 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>332714</id>
+	<id>3232963</id>
 	<word_id>121</word_id>
 	<word>sand</word>
-	<item>kwali@temu</item>
+	<item>kwali</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1410,13 +1443,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>332719</id>
+	<id>3233010</id>
 	<word_id>124</word_id>
 	<word>sea</word>
-	<item>davara@rawa-bara</item>
+	<item>davara</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>39</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233011</id>
+	<word_id>124</word_id>
+	<word>sea</word>
+	<item>rawa-bara</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1735,7 +1779,7 @@ See Schlossberg 2012 for details</notes>
 	<item>kau</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>68</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1960,13 +2004,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>332769</id>
+	<id>3233018</id>
 	<word_id>166</word_id>
 	<word>correct, true</word>
-	<item>moɣoni@ripa</item>
+	<item>moɣoni</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>59</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233019</id>
+	<word_id>166</word_id>
+	<word>correct, true</word>
+	<item>ripa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2147,10 +2202,21 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>332786</id>
+	<id>3233005</id>
 	<word_id>181</word_id>
 	<word>where?</word>
-	<item>aiɣeri@ainai</item>
+	<item>aiɣeri</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>87</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233006</id>
+	<word_id>181</word_id>
+	<word>where?</word>
+	<item>ainai</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>87</cognacy>
@@ -2183,7 +2249,7 @@ See Schlossberg 2012 for details</notes>
 	<id>332789</id>
 	<word_id>184</word_id>
 	<word>he/she</word>
-	<item>ia@</item>
+	<item>ia</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -2323,13 +2389,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>332802</id>
+	<id>3233038</id>
 	<word_id>195</word_id>
 	<word>no, not</word>
-	<item>asi@dia</item>
+	<item>asi</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233039</id>
+	<word_id>195</word_id>
+	<word>no, not</word>
+	<item>dia</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

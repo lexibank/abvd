@@ -206,7 +206,7 @@ See Schlossberg 2012 for details</notes>
 	<item>wakïniye</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>48</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -602,7 +602,7 @@ See Schlossberg 2012 for details</notes>
 	<item>mamao</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>19</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1003,6 +1003,17 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
+	<id>3232956</id>
+	<word_id>95</word_id>
+	<word>to fall</word>
+	<item>dobu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>333298</id>
 	<word_id>95</word_id>
 	<word>to fall</word>
@@ -1014,10 +1025,10 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>333299</id>
+	<id>3232955</id>
 	<word_id>95</word_id>
 	<word>to fall</word>
-	<item>dagedage@dobu</item>
+	<item>dagedage</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1031,7 +1042,7 @@ See Schlossberg 2012 for details</notes>
 	<item>mbuɣa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>96</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1042,7 +1053,7 @@ See Schlossberg 2012 for details</notes>
 	<item>ma</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1075,7 +1086,7 @@ See Schlossberg 2012 for details</notes>
 	<item>boro</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>54</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1119,7 +1130,7 @@ See Schlossberg 2012 for details</notes>
 	<item>mbunuma</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>34</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1251,7 +1262,7 @@ See Schlossberg 2012 for details</notes>
 	<item>damwae</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>35</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1284,7 +1295,7 @@ See Schlossberg 2012 for details</notes>
 	<item>une</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1410,10 +1421,21 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>333335</id>
+	<id>3232925</id>
 	<word_id>129</word_id>
 	<word>moon</word>
-	<item>manjala@lalaɣï</item>
+	<item>manjala</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3232926</id>
+	<word_id>129</word_id>
+	<word>moon</word>
+	<item>lalaɣï</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1515,7 +1537,7 @@ See Schlossberg 2012 for details</notes>
 	<item>mwa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>121</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1724,7 +1746,7 @@ See Schlossberg 2012 for details</notes>
 	<item>molao</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>12</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1768,7 +1790,7 @@ See Schlossberg 2012 for details</notes>
 	<item>magaga</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>35</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1944,7 +1966,7 @@ See Schlossberg 2012 for details</notes>
 	<item>yena</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

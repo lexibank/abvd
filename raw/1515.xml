@@ -14,8 +14,7 @@ Except: some vowels;
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Loyalty Islands</classification>
 	<typedby>Mary Walworth</typedby>
 	<checkedby></checkedby>
-	<source>
-@book{303461,
+	<source>@book{303461,
   address    = {Paris},
   author     = {Leenhardt, Maurice},
   pages      = {697},
@@ -169,7 +168,7 @@ Except: some vowels;
 	<item>xaxau</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>78</cognacy>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -235,7 +234,7 @@ Except: some vowels;
 	<item>ʰnaiape</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>70</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -246,7 +245,7 @@ Except: some vowels;
 	<item>at̪e</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>142</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -257,7 +256,7 @@ Except: some vowels;
 	<item>ʰmekun</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>84</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -323,7 +322,7 @@ Except: some vowels;
 	<item>ʰnafiði i aŋeic</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>52</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -662,9 +661,9 @@ Except: some vowels;
 	<word_id>68</word_id>
 	<word>needle</word>
 	<item>nilan</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>L</cognacy>
+	<annotation>L</annotation>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -672,9 +671,9 @@ Except: some vowels;
 	<id>339629</id>
 	<word_id>68</word_id>
 	<word>needle</word>
-	<item>ðem (L)</item>
-	<annotation></annotation>
-	<loan></loan>
+	<item>ðem</item>
+	<annotation>L</annotation>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -784,7 +783,7 @@ Except: some vowels;
 	<word>dog</word>
 	<item>kuli [ᵐb]</item>
 	<annotation></annotation>
-	<loan></loan>
+	<loan>L</loan>
 	<cognacy>L</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -796,7 +795,7 @@ Except: some vowels;
 	<item>waco</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>57</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -818,7 +817,7 @@ Except: some vowels;
 	<item>aði</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>71</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -983,7 +982,7 @@ Except: some vowels;
 	<item>ʰneŋøⁿd͡ʒai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -994,7 +993,7 @@ Except: some vowels;
 	<item>t̪eu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>60</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1005,7 +1004,7 @@ Except: some vowels;
 	<item>wët̪esið</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>91</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1027,7 +1026,7 @@ Except: some vowels;
 	<item>mani</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1038,7 +1037,7 @@ Except: some vowels;
 	<item>’eⁿdeŋ</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>107</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1049,7 +1048,7 @@ Except: some vowels;
 	<item>samek</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>15?</cognacy>
+	<cognacy>15?, 100</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1082,7 +1081,7 @@ Except: some vowels;
 	<item>nanazið</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>135</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1093,7 +1092,7 @@ Except: some vowels;
 	<item>weliwel</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>11</cognacy>
+	<cognacy>118</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1203,7 +1202,7 @@ Except: some vowels;
 	<item>kaco</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>146</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1247,7 +1246,7 @@ Except: some vowels;
 	<item>wezipo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>52</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1280,7 +1279,7 @@ Except: some vowels;
 	<item>ɲipixe</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>68</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1302,7 +1301,7 @@ Except: some vowels;
 	<item>ŋazo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>120</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1313,7 +1312,7 @@ Except: some vowels;
 	<item>ɲipici</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>108</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1346,7 +1345,7 @@ Except: some vowels;
 	<item>eu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>91</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1423,7 +1422,7 @@ Except: some vowels;
 	<item>nemen</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>80</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1488,8 +1487,8 @@ Except: some vowels;
 	<word>to count</word>
 	<item>numera</item>
 	<annotation></annotation>
-	<loan></loan>
-	<cognacy>L</cognacy>
+	<loan>L</loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1555,7 +1554,7 @@ Except: some vowels;
 	<item>caŋemen</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1566,7 +1565,7 @@ Except: some vowels;
 	<item>lue ŋemen</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>27</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1577,7 +1576,7 @@ Except: some vowels;
 	<item>keni ŋemen</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>19</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

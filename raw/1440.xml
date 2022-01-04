@@ -85,7 +85,7 @@ See Schlossberg 2012 for details</notes>
 	<item>darei</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1091,6 +1091,17 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
+	<id>3232937</id>
+	<word_id>90</word_id>
+	<word>to dig</word>
+	<item>kiya</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>330144</id>
 	<word_id>90</word_id>
 	<word>to dig</word>
@@ -1102,10 +1113,10 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>330145</id>
+	<id>3232936</id>
 	<word_id>90</word_id>
 	<word>to dig</word>
-	<item>vekki@kiya</item>
+	<item>vekki</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1289,10 +1300,21 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>330162</id>
+	<id>3232997</id>
 	<word_id>104</word_id>
 	<word>fat/grease</word>
-	<item>giruwa@gou</item>
+	<item>giruwa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3232998</id>
+	<word_id>104</word_id>
+	<word>fat/grease</word>
+	<item>gou</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1988,7 +2010,7 @@ See Schlossberg 2012 for details</notes>
 	<item>fotuna</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>18</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2296,7 +2318,7 @@ See Schlossberg 2012 for details</notes>
 	<item>a</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

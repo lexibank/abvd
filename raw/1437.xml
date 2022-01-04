@@ -96,7 +96,7 @@ See Schlossberg 2012 for details</notes>
 	<item>lola</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -129,7 +129,7 @@ See Schlossberg 2012 for details</notes>
 	<item>wa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>72</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -371,7 +371,7 @@ See Schlossberg 2012 for details</notes>
 	<item>kulu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>3</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -448,7 +448,7 @@ See Schlossberg 2012 for details</notes>
 	<item>meliya</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -580,7 +580,7 @@ See Schlossberg 2012 for details</notes>
 	<item>tegila</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -624,7 +624,7 @@ See Schlossberg 2012 for details</notes>
 	<item>kayawasi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>15</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -899,7 +899,7 @@ See Schlossberg 2012 for details</notes>
 	<item>lova</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -921,7 +921,7 @@ See Schlossberg 2012 for details</notes>
 	<item>weya</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>61</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -987,7 +987,7 @@ See Schlossberg 2012 for details</notes>
 	<item>lai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>123</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -998,7 +998,7 @@ See Schlossberg 2012 for details</notes>
 	<item>lova</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>31</cognacy>
+	<cognacy>73</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1405,7 +1405,7 @@ See Schlossberg 2012 for details</notes>
 	<item>lowalowa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>18</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1526,7 +1526,7 @@ See Schlossberg 2012 for details</notes>
 	<item>yagila</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1691,7 +1691,7 @@ See Schlossberg 2012 for details</notes>
 	<item>kekita</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>38</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1735,7 +1735,7 @@ See Schlossberg 2012 for details</notes>
 	<item>vayov</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>69</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1790,7 +1790,7 @@ See Schlossberg 2012 for details</notes>
 	<item>katoula</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>74</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1817,13 +1817,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>329571</id>
+	<id>3233046</id>
 	<word_id>162</word_id>
 	<word>old</word>
-	<item>tommwaya@tob-bomba</item>
+	<item>tommwaya</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>67</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233047</id>
+	<word_id>162</word_id>
+	<word>old</word>
+	<item>tob-bomba</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1900,7 +1911,7 @@ See Schlossberg 2012 for details</notes>
 	<item>tetu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2032,7 +2043,7 @@ See Schlossberg 2012 for details</notes>
 	<item>manana</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2252,7 +2263,7 @@ See Schlossberg 2012 for details</notes>
 	<item>gala</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>23</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

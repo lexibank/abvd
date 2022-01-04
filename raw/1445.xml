@@ -85,7 +85,7 @@ See Schlossberg 2012 for details</notes>
 	<item>noun</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -118,7 +118,7 @@ See Schlossberg 2012 for details</notes>
 	<item>im</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -365,13 +365,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>331121</id>
+	<id>3233032</id>
 	<word_id>22</word_id>
 	<word>to fear</word>
-	<item>pwayat@wen</item>
+	<item>pwayat</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>90</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233033</id>
+	<word_id>22</word_id>
+	<word>to fear</word>
+	<item>wen</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -723,7 +734,7 @@ See Schlossberg 2012 for details</notes>
 	<item>teg</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -734,7 +745,7 @@ See Schlossberg 2012 for details</notes>
 	<item>teigan</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -750,13 +761,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>331156</id>
+	<id>3233014</id>
 	<word_id>44</word_id>
 	<word>to hear</word>
-	<item>ligen@neg</item>
+	<item>ligen</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1, 36</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233015</id>
+	<word_id>44</word_id>
+	<word>to hear</word>
+	<item>neg</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,36</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -800,7 +822,7 @@ See Schlossberg 2012 for details</notes>
 	<item>kanawat</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>15</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -844,18 +866,29 @@ See Schlossberg 2012 for details</notes>
 	<item>kamikon</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>73</cognacy>
+	<cognacy>39</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
-	<id>331165</id>
+	<id>3232987</id>
 	<word_id>50</word_id>
 	<word>to dream</word>
-	<item>mikon@kantet</item>
+	<item>mikon</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>73</cognacy>
+	<cognacy>39</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3232988</id>
+	<word_id>50</word_id>
+	<word>to dream</word>
+	<item>kantet</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1036,6 +1069,28 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
+	<id>3232929</id>
+	<word_id>64</word_id>
+	<word>to say</word>
+	<item>livan</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>97</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3232928</id>
+	<word_id>64</word_id>
+	<word>to say</word>
+	<item>lana</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>331182</id>
 	<word_id>64</word_id>
 	<word>to say</word>
@@ -1047,10 +1102,10 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>331183</id>
+	<id>3232927</id>
 	<word_id>64</word_id>
 	<word>to say</word>
-	<item>kavatag@lana@livan</item>
+	<item>kavatag</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1113,13 +1168,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>331189</id>
+	<id>3233022</id>
 	<word_id>67</word_id>
 	<word>to sew</word>
-	<item>bes@kunup</item>
+	<item>bes</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>53</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233023</id>
+	<word_id>67</word_id>
+	<word>to sew</word>
+	<item>kunup</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1218,7 +1284,7 @@ See Schlossberg 2012 for details</notes>
 	<item>weiy</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>61</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1240,7 +1306,7 @@ See Schlossberg 2012 for details</notes>
 	<item>kaviyeil</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,28</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1306,7 +1372,7 @@ See Schlossberg 2012 for details</notes>
 	<item>lev</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>31</cognacy>
+	<cognacy>73</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1317,7 +1383,7 @@ See Schlossberg 2012 for details</notes>
 	<item>lov</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>31</cognacy>
+	<cognacy>73</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1350,7 +1416,7 @@ See Schlossberg 2012 for details</notes>
 	<item>awuk</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>17</cognacy>
+	<cognacy>41</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1652,13 +1718,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>331238</id>
+	<id>3233012</id>
 	<word_id>117</word_id>
 	<word>fruit</word>
-	<item>avanin@wuwan</item>
+	<item>avanin</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233013</id>
+	<word_id>117</word_id>
+	<word>fruit</word>
+	<item>wuwan</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1955,7 +2032,7 @@ See Schlossberg 2012 for details</notes>
 	<item>yag</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2032,7 +2109,7 @@ See Schlossberg 2012 for details</notes>
 	<item>mad</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2197,7 +2274,7 @@ See Schlossberg 2012 for details</notes>
 	<item>kakit</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>38</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2208,7 +2285,7 @@ See Schlossberg 2012 for details</notes>
 	<item>kekels</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>38</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2241,7 +2318,7 @@ See Schlossberg 2012 for details</notes>
 	<item>aveiyov</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>69</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2334,13 +2411,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>331300</id>
+	<id>3233050</id>
 	<word_id>160</word_id>
 	<word>painful, sick</word>
-	<item>lel@ged</item>
+	<item>lel</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>74</cognacy>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233051</id>
+	<word_id>160</word_id>
+	<word>painful, sick</word>
+	<item>ged</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2389,6 +2477,17 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
+	<id>3232948</id>
+	<word_id>164</word_id>
+	<word>good</word>
+	<item>palap</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>331305</id>
 	<word_id>164</word_id>
 	<word>good</word>
@@ -2400,10 +2499,10 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>331306</id>
+	<id>3232947</id>
 	<word_id>164</word_id>
 	<word>good</word>
-	<item>kamnat@palap</item>
+	<item>kamnat</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -2422,10 +2521,21 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>331308</id>
+	<id>3233034</id>
 	<word_id>165</word_id>
 	<word>bad, evil</word>
-	<item>gak@geg</item>
+	<item>gak</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>60</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233035</id>
+	<word_id>165</word_id>
+	<word>bad, evil</word>
+	<item>geg</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>60</cognacy>
@@ -2620,13 +2730,24 @@ See Schlossberg 2012 for details</notes>
 </record>
 
 <record>
-	<id>331326</id>
+	<id>3233004</id>
 	<word_id>181</word_id>
 	<word>where?</word>
-	<item>ga@am-towen</item>
+	<item>am-towen</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233003</id>
+	<word_id>181</word_id>
+	<word>where?</word>
+	<item>ga</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>49</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

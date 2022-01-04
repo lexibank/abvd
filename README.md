@@ -5,7 +5,7 @@
 If you use these data please cite
 - the original source
   > Greenhill, S.J., Blust. R, & Gray, R.D. (2008). The Austronesian Basic Vocabulary Database: From Bioinformatics to Lexomics. Evolutionary Bioinformatics, 4:271-283.
-- the derived dataset using the DOI of the [particular released version](releases/) you were using
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
@@ -21,23 +21,23 @@ Conceptlists in Concepticon:
 
 
 [![Build Status](https://travis-ci.org/lexibank/abvd.svg?branch=master)](https://travis-ci.org/lexibank/abvd)
-![Glottolog: 98%](https://img.shields.io/badge/Glottolog-98%25-green.svg "Glottolog: 98%")
+![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-brightgreen.svg "Glottolog: 99%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![Source: 99%](https://img.shields.io/badge/Source-99%25-brightgreen.svg "Source: 99%")
 
-- **Varieties:** 1,641
+- **Varieties:** 1,653
 - **Concepts:** 210
-- **Lexemes:** 315,100
+- **Lexemes:** 317,117
 - **Sources:** 899
 - **Synonymy:** 1.14
-- **Cognacy:** 235,257 cognates in 17,992 cognate sets (434 singletons)
+- **Cognacy:** 240,814 cognates in 18,148 cognate sets (426 singletons)
 - **Cognate Diversity:** 0.06
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 240/315100 (0.08%)
+- Entries missing sources: 1930/317117 (0.61%)
 
 # Contributors
 

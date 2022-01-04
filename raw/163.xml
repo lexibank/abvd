@@ -62,17 +62,6 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>877</id>
-	<word_id>3</word_id>
-	<word>right</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy>1</pmpcognacy>
-</record>
-
-<record>
 	<id>83950</id>
 	<word_id>4</word_id>
 	<word>leg/foot</word>
@@ -80,17 +69,6 @@ macron indicates long vowels
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1,100</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>83951</id>
-	<word_id>4</word_id>
-	<word>leg/foot</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -112,7 +90,7 @@ macron indicates long vowels
 	<item>saere</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>6</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -172,17 +150,6 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>90402</id>
-	<word_id>11</word_id>
-	<word>dust</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>88022</id>
 	<word_id>14</word_id>
 	<word>belly</word>
@@ -191,17 +158,6 @@ macron indicates long vowels
 	<loan></loan>
 	<cognacy>19,34</cognacy>
 	<pmpcognacy>1</pmpcognacy>
-</record>
-
-<record>
-	<id>88023</id>
-	<word_id>14</word_id>
-	<word>belly</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
@@ -249,17 +205,6 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>88318</id>
-	<word_id>16</word_id>
-	<word>intestines</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>5875</id>
 	<word_id>17</word_id>
 	<word>liver</word>
@@ -282,17 +227,6 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>88387</id>
-	<word_id>20</word_id>
-	<word>to know, be knowledgeable</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>88388</id>
 	<word_id>20</word_id>
 	<word>to know, be knowledgeable</word>
@@ -300,17 +234,6 @@ macron indicates long vowels
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>13</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>88389</id>
-	<word_id>20</word_id>
-	<word>to know, be knowledgeable</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -359,17 +282,6 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>88591</id>
-	<word_id>25</word_id>
-	<word>neck</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>88592</id>
 	<word_id>25</word_id>
 	<word>neck</word>
@@ -377,28 +289,6 @@ macron indicates long vowels
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>18</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>88609</id>
-	<word_id>26</word_id>
-	<word>hair</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy>1</pmpcognacy>
-</record>
-
-<record>
-	<id>88610</id>
-	<word_id>26</word_id>
-	<word>hair</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -513,17 +403,6 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>88904</id>
-	<word_id>36</word_id>
-	<word>to spit</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>13015</id>
 	<word_id>37</word_id>
 	<word>to eat</word>
@@ -612,17 +491,6 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>73934</id>
-	<word_id>47</word_id>
-	<word>to yawn</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>16942</id>
 	<word_id>48</word_id>
 	<word>to sleep</word>
@@ -640,7 +508,7 @@ macron indicates long vowels
 	<item>moemiti</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>36</cognacy>
+	<cognacy>7,36</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -711,17 +579,6 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>91056</id>
-	<word_id>55</word_id>
-	<word>woman/female</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>19798</id>
 	<word_id>56</word_id>
 	<word>child</word>
@@ -750,7 +607,7 @@ macron indicates long vowels
 	<item>avaga</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>8</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -843,17 +700,6 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>91476</id>
-	<word_id>66</word_id>
-	<word>to tie up, fasten</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>23725</id>
 	<word_id>67</word_id>
 	<word>to sew</word>
@@ -871,7 +717,7 @@ macron indicates long vowels
 	<item>sui</item>
 	<annotation>L from Samoa</annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>17</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -909,17 +755,6 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>91607</id>
-	<word_id>71</word_id>
-	<word>to stab, pierce</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>91608</id>
 	<word_id>71</word_id>
 	<word>to stab, pierce</word>
@@ -942,39 +777,6 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>91700</id>
-	<word_id>72</word_id>
-	<word>to hit</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>91701</id>
-	<word_id>72</word_id>
-	<word>to hit</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>91702</id>
-	<word_id>72</word_id>
-	<word>to hit</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>91794</id>
 	<word_id>73</word_id>
 	<word>to steal</word>
@@ -982,17 +784,6 @@ macron indicates long vowels
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>7</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>91795</id>
-	<word_id>73</word_id>
-	<word>to steal</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1041,46 +832,13 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>92046</id>
-	<word_id>78</word_id>
-	<word>to cut, hack</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>92047</id>
-	<word_id>78</word_id>
-	<word>to cut, hack</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>92048</id>
-	<word_id>78</word_id>
-	<word>to cut, hack</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>28009</id>
 	<word_id>79</word_id>
 	<word>stick/wood</word>
 	<item>lakau</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1,26</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1129,17 +887,6 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>92540</id>
-	<word_id>86</word_id>
-	<word>to grow</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>92541</id>
 	<word_id>86</word_id>
 	<word>to grow</word>
@@ -1159,50 +906,6 @@ macron indicates long vowels
 	<loan></loan>
 	<cognacy>5</cognacy>
 	<pmpcognacy>1</pmpcognacy>
-</record>
-
-<record>
-	<id>92569</id>
-	<word_id>87</word_id>
-	<word>to swell</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>92570</id>
-	<word_id>87</word_id>
-	<word>to swell</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>92612</id>
-	<word_id>88</word_id>
-	<word>to squeeze</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy>1</pmpcognacy>
-</record>
-
-<record>
-	<id>92613</id>
-	<word_id>88</word_id>
-	<word>to squeeze</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
@@ -1228,17 +931,6 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>92670</id>
-	<word_id>89</word_id>
-	<word>to hold</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>93429</id>
 	<word_id>90</word_id>
 	<word>to dig</word>
@@ -1246,17 +938,6 @@ macron indicates long vowels
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>93430</id>
-	<word_id>90</word_id>
-	<word>to dig</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1280,17 +961,6 @@ macron indicates long vowels
 	<loan></loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy>1</pmpcognacy>
-</record>
-
-<record>
-	<id>90408</id>
-	<word_id>94</word_id>
-	<word>to throw</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
@@ -1465,7 +1135,7 @@ macron indicates long vowels
 	<item>velo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>10</cognacy>
+	<cognacy>10,23</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -1476,7 +1146,7 @@ macron indicates long vowels
 	<item>felo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1551,17 +1221,6 @@ macron indicates long vowels
 	<word_id>110</word_id>
 	<word>spider</word>
 	<item>naleau</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>105175</id>
-	<word_id>110</word_id>
-	<word>spider</word>
-	<item></item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1822,17 +1481,6 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>170069</id>
-	<word_id>134</word_id>
-	<word>thunder</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>48001</id>
 	<word_id>135</word_id>
 	<word>lightning</word>
@@ -1918,17 +1566,6 @@ macron indicates long vowels
 	<loan></loan>
 	<cognacy>13</cognacy>
 	<pmpcognacy>1</pmpcognacy>
-</record>
-
-<record>
-	<id>122730</id>
-	<word_id>141</word_id>
-	<word>wet</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>11</cognacy>
-	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
@@ -2053,28 +1690,6 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>123138</id>
-	<word_id>149</word_id>
-	<word>red</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>122886</id>
-	<word_id>150</word_id>
-	<word>yellow</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>122887</id>
 	<word_id>150</word_id>
 	<word>yellow</word>
@@ -2145,17 +1760,6 @@ macron indicates long vowels
 	<word_id>153</word_id>
 	<word>big</word>
 	<item>māfaga</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>123065</id>
-	<word_id>153</word_id>
-	<word>big</word>
-	<item></item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -2237,28 +1841,6 @@ macron indicates long vowels
 	<loan></loan>
 	<cognacy>73, 48</cognacy>
 	<pmpcognacy>1</pmpcognacy>
-</record>
-
-<record>
-	<id>123018</id>
-	<word_id>160</word_id>
-	<word>painful, sick</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy>1</pmpcognacy>
-</record>
-
-<record>
-	<id>123019</id>
-	<word_id>160</word_id>
-	<word>painful, sick</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
@@ -2372,17 +1954,6 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>123212</id>
-	<word_id>167</word_id>
-	<word>night</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>119461</id>
 	<word_id>168</word_id>
 	<word>day</word>
@@ -2390,17 +1961,6 @@ macron indicates long vowels
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1, 54</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>119462</id>
-	<word_id>168</word_id>
-	<word>day</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2504,39 +2064,6 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>123654</id>
-	<word_id>182</word_id>
-	<word>I</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>123655</id>
-	<word_id>182</word_id>
-	<word>I</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>123538</id>
-	<word_id>183</word_id>
-	<word>thou</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>123291</id>
 	<word_id>183</word_id>
 	<word>thou</word>
@@ -2544,17 +2071,6 @@ macron indicates long vowels
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>123539</id>
-	<word_id>183</word_id>
-	<word>thou</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2592,28 +2108,6 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>123290</id>
-	<word_id>186</word_id>
-	<word>you</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>123292</id>
-	<word_id>186</word_id>
-	<word>you</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>123293</id>
 	<word_id>186</word_id>
 	<word>you</word>
@@ -2631,7 +2125,7 @@ macron indicates long vowels
 	<item>ā</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>84</cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -2658,17 +2152,6 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>122956</id>
-	<word_id>192</word_id>
-	<word>and</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>122957</id>
 	<word_id>192</word_id>
 	<word>and</word>
@@ -2691,17 +2174,6 @@ macron indicates long vowels
 </record>
 
 <record>
-	<id>119422</id>
-	<word_id>194</word_id>
-	<word>how?</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>119423</id>
 	<word_id>194</word_id>
 	<word>how?</word>
@@ -2709,28 +2181,6 @@ macron indicates long vowels
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>11</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>119424</id>
-	<word_id>194</word_id>
-	<word>how?</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>119425</id>
-	<word_id>194</word_id>
-	<word>how?</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2775,17 +2225,6 @@ macron indicates long vowels
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>62</cognacy>
-	<pmpcognacy>1</pmpcognacy>
-</record>
-
-<record>
-	<id>123106</id>
-	<word_id>196</word_id>
-	<word>to count</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
 	<pmpcognacy>1</pmpcognacy>
 </record>
 
@@ -2895,7 +2334,7 @@ macron indicates long vowels
 	<item>iva</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>5,44,66</cognacy>
+	<cognacy>5,44</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2940,17 +2379,6 @@ macron indicates long vowels
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>3</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>83341</id>
-	<word_id>210</word_id>
-	<word>One Thousand</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
