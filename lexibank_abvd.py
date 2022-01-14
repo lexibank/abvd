@@ -38,8 +38,8 @@ class Dataset(abvd.BVD):
     invalid_ids = [
         261,  # Duplicate West Futuna list
     ]
-
-   language_ids = list(range(1, 2000))
+    
+    language_ids = list(range(1, 2000))
 
     form_spec = FormSpec(
         brackets={"[": "]", "{": "}", "(": ")"},
