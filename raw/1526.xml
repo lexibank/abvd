@@ -1658,10 +1658,21 @@
 </record>
 
 <record>
-	<id>345623</id>
+	<id>3233474</id>
 	<word_id>140</word_id>
 	<word>dry</word>
-	<item>*maiN/*maiK</item>
+	<item>*maiN</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>113</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233475</id>
+	<word_id>140</word_id>
+	<word>dry</word>
+	<item>*maiK</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>113</cognacy>

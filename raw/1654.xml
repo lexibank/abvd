@@ -267,13 +267,24 @@
 </record>
 
 <record>
-	<id>3233086</id>
+	<id>3233617</id>
 	<word_id>27</word_id>
 	<word>nose</word>
-	<item>kaihu/kaiuhu</item>
+	<item>kaihu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,10</cognacy>
+	<cognacy>1, 10</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233618</id>
+	<word_id>27</word_id>
+	<word>nose</word>
+	<item>kaiuhu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1, 10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -454,10 +465,21 @@
 </record>
 
 <record>
-	<id>3233103</id>
+	<id>3233612</id>
 	<word_id>52</word_id>
 	<word>to stand</word>
-	<item>tu/tuu</item>
+	<item>tuu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>2</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233611</id>
+	<word_id>52</word_id>
+	<word>to stand</word>
+	<item>tu</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>2</cognacy>
@@ -531,10 +553,21 @@
 </record>
 
 <record>
-	<id>3233110</id>
+	<id>3233607</id>
 	<word_id>59</word_id>
 	<word>mother</word>
-	<item>tinna/tinana</item>
+	<item>tinna</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233608</id>
+	<word_id>59</word_id>
+	<word>mother</word>
+	<item>tinana</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -1345,10 +1378,10 @@
 </record>
 
 <record>
-	<id>3233181</id>
+	<id>3233613</id>
 	<word_id>175</word_id>
 	<word>above</word>
-	<item>runa/luna</item>
+	<item>runa</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>9</cognacy>
@@ -1356,10 +1389,32 @@
 </record>
 
 <record>
-	<id>3233182</id>
+	<id>3233614</id>
+	<word_id>175</word_id>
+	<word>above</word>
+	<item>luna</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>9</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233615</id>
 	<word_id>176</word_id>
 	<word>below</word>
-	<item>raro/lalo</item>
+	<item>raro</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>8</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233616</id>
+	<word_id>176</word_id>
+	<word>below</word>
+	<item>lalo</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>8</cognacy>
@@ -1477,10 +1532,10 @@
 </record>
 
 <record>
-	<id>3233190</id>
+	<id>3233619</id>
 	<word_id>186</word_id>
 	<word>you</word>
-	<item>korua/kotou</item>
+	<item>korua</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>16</cognacy>
@@ -1488,10 +1543,32 @@
 </record>
 
 <record>
-	<id>3233191</id>
+	<id>3233620</id>
+	<word_id>186</word_id>
+	<word>you</word>
+	<item>kotou</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>16</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233609</id>
 	<word_id>187</word_id>
 	<word>they</word>
-	<item>raaua/laatou</item>
+	<item>raaua</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1, 72</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233610</id>
+	<word_id>187</word_id>
+	<word>they</word>
+	<item>laatou</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1, 72</cognacy>

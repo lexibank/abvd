@@ -116,21 +116,54 @@ hN=voiceless nasal; ṣȥ= retroflex; ćñ=alveolo-palatal; VV=long vowel; ɰ = 
 </record>
 
 <record>
-	<id>154826</id>
+	<id>3233564</id>
 	<word_id>9</word_id>
 	<word>to swim</word>
-	<item>luun24/ jəu53/ jiip33 ʔoŋ33</item>
-	<annotation>l: PMP laŋuy ?/ j: Chinese</annotation>
+	<item>luun24</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
-	<id>154827</id>
+	<id>3233565</id>
+	<word_id>9</word_id>
+	<word>to swim</word>
+	<item>jəu53</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233566</id>
+	<word_id>9</word_id>
+	<word>to swim</word>
+	<item>jiip33 ʔoŋ33</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233558</id>
 	<word_id>10</word_id>
 	<word>dirty</word>
-	<item>lɑi33 lɑi33/ luk45 lak45</item>
+	<item>lɑi33 lɑi33</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233559</id>
+	<word_id>10</word_id>
+	<word>dirty</word>
+	<item>luk45 lak45</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -446,22 +479,44 @@ hN=voiceless nasal; ṣȥ= retroflex; ćñ=alveolo-palatal; VV=long vowel; ɰ = 
 </record>
 
 <record>
-	<id>154856</id>
+	<id>3233567</id>
 	<word_id>39</word_id>
 	<word>to cook</word>
-	<item>vak33 mi45/ khu33 mi45</item>
-	<annotation>vak45 'do'/ mi45 'cooked rice'</annotation>
+	<item>vak33 mi45</item>
+	<annotation>vak45 'do' mi45 'cooked rice'</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
-	<id>154857</id>
+	<id>3233568</id>
+	<word_id>39</word_id>
+	<word>to cook</word>
+	<item>khu33 mi45</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233569</id>
 	<word_id>40</word_id>
 	<word>to drink</word>
-	<item>ŋəm33/ kən53</item>
+	<item>ŋəm33</item>
 	<annotation>PMP inum ?</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233570</id>
+	<word_id>40</word_id>
+	<word>to drink</word>
+	<item>kən53</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>21</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -523,13 +578,24 @@ hN=voiceless nasal; ṣȥ= retroflex; ćñ=alveolo-palatal; VV=long vowel; ɰ = 
 </record>
 
 <record>
-	<id>154863</id>
+	<id>3233571</id>
 	<word_id>46</word_id>
 	<word>to see</word>
-	<item>taiʔ33/ qɑn33</item>
-	<annotation>PAN kita?/ q: Chineses?</annotation>
+	<item>taiʔ33</item>
+	<annotation>PAN kita?</annotation>
 	<loan></loan>
 	<cognacy>70</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233572</id>
+	<word_id>46</word_id>
+	<word>to see</word>
+	<item>qɑn33</item>
+	<annotation>q: Chineses?</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -765,32 +831,54 @@ hN=voiceless nasal; ṣȥ= retroflex; ćñ=alveolo-palatal; VV=long vowel; ɰ = 
 </record>
 
 <record>
-	<id>154885</id>
+	<id>3233554</id>
 	<word_id>70</word_id>
 	<word>to shoot</word>
-	<item>ñiə33/ ñiu33</item>
-	<annotation>PAN panaq ?</annotation>
+	<item>ñiə33</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
-	<id>154886</id>
+	<id>3233555</id>
+	<word_id>70</word_id>
+	<word>to shoot</word>
+	<item>ñiu33</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233573</id>
 	<word_id>72</word_id>
 	<word>to hit</word>
-	<item>tuaŋ33/ lai33</item>
-	<annotation>stick/ general PAN palu?</annotation>
+	<item>tuaŋ33</item>
+	<annotation>stick</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
-	<id>154887</id>
+	<id>3233574</id>
+	<word_id>72</word_id>
+	<word>to hit</word>
+	<item>lai33</item>
+	<annotation>general</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233575</id>
 	<word_id>73</word_id>
 	<word>to steal</word>
-	<item>liak45/ lak45</item>
+	<item>liak45</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>34</cognacy>
@@ -798,13 +886,35 @@ hN=voiceless nasal; ṣȥ= retroflex; ćñ=alveolo-palatal; VV=long vowel; ɰ = 
 </record>
 
 <record>
-	<id>154888</id>
+	<id>3233576</id>
+	<word_id>73</word_id>
+	<word>to steal</word>
+	<item>lak45</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233577</id>
 	<word_id>74</word_id>
 	<word>to kill</word>
-	<item>lai33 ṣai33/ tie53</item>
-	<annotation>kill person/ general</annotation>
+	<item>lai33 ṣai33</item>
+	<annotation>kill person</annotation>
 	<loan></loan>
 	<cognacy>47</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233578</id>
+	<word_id>74</word_id>
+	<word>to kill</word>
+	<item>tie53</item>
+	<annotation>general</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -908,13 +1018,35 @@ hN=voiceless nasal; ṣȥ= retroflex; ćñ=alveolo-palatal; VV=long vowel; ɰ = 
 </record>
 
 <record>
-	<id>154898</id>
+	<id>3233579</id>
 	<word_id>89</word_id>
 	<word>to hold</word>
-	<item>kham54/ kam213/ djap33</item>
-	<annotation>static hold (PAN gem ?)/ grab/ grab a bunch</annotation>
+	<item>kham54</item>
+	<annotation>static hold (PAN gem ?)</annotation>
 	<loan></loan>
-	<cognacy>1?</cognacy>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233580</id>
+	<word_id>89</word_id>
+	<word>to hold</word>
+	<item>kam213</item>
+	<annotation>grab</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233581</id>
+	<word_id>89</word_id>
+	<word>to hold</word>
+	<item>djap33</item>
+	<annotation>grab a bunch</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -985,11 +1117,22 @@ hN=voiceless nasal; ṣȥ= retroflex; ćñ=alveolo-palatal; VV=long vowel; ɰ = 
 </record>
 
 <record>
-	<id>154905</id>
+	<id>3233582</id>
 	<word_id>97</word_id>
 	<word>bird</word>
-	<item>nuk45/ niuk45</item>
+	<item>nuk45</item>
 	<annotation>PMP manuk ?</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233583</id>
+	<word_id>97</word_id>
+	<word>bird</word>
+	<item>niuk45</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1117,11 +1260,22 @@ hN=voiceless nasal; ṣȥ= retroflex; ćñ=alveolo-palatal; VV=long vowel; ɰ = 
 </record>
 
 <record>
-	<id>154916</id>
+	<id>3233584</id>
 	<word_id>108</word_id>
 	<word>louse</word>
-	<item>qa0 nan53/ qa0 tau53</item>
-	<annotation>general/ head</annotation>
+	<item>qa0 nan53</item>
+	<annotation>general</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233585</id>
+	<word_id>108</word_id>
+	<word>louse</word>
+	<item>qa0 tau53</item>
+	<annotation>head</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1227,10 +1381,21 @@ hN=voiceless nasal; ṣȥ= retroflex; ćñ=alveolo-palatal; VV=long vowel; ɰ = 
 </record>
 
 <record>
-	<id>154926</id>
+	<id>3233586</id>
 	<word_id>118</word_id>
 	<word>grass</word>
-	<item>ȥaaŋ33/ tsɑ33</item>
+	<item>ȥaaŋ33</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233587</id>
+	<word_id>118</word_id>
+	<word>grass</word>
+	<item>tsɑ33</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>39</cognacy>
@@ -1326,11 +1491,22 @@ hN=voiceless nasal; ṣȥ= retroflex; ćñ=alveolo-palatal; VV=long vowel; ɰ = 
 </record>
 
 <record>
-	<id>154935</id>
+	<id>3233588</id>
 	<word_id>127</word_id>
 	<word>woods/forest</word>
-	<item>tai53 ȥəŋ33/ tai53 ʔəŋ33</item>
+	<item>tai53 ȥəŋ33</item>
 	<annotation>tai53 'tree'</annotation>
+	<loan></loan>
+	<cognacy>75</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233589</id>
+	<word_id>127</word_id>
+	<word>woods/forest</word>
+	<item>tai53 ʔəŋ33</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>75</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1469,24 +1645,46 @@ hN=voiceless nasal; ṣȥ= retroflex; ćñ=alveolo-palatal; VV=long vowel; ɰ = 
 </record>
 
 <record>
-	<id>154948</id>
+	<id>3233562</id>
 	<word_id>140</word_id>
 	<word>dry</word>
-	<item>kɰa213/ ṣhiau33</item>
-	<annotation>clothing / firewood</annotation>
+	<item>kɰa213</item>
+	<annotation>clothing</annotation>
 	<loan></loan>
 	<cognacy>84</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
-	<id>154949</id>
+	<id>3233563</id>
+	<word_id>140</word_id>
+	<word>dry</word>
+	<item>ṣhiau33</item>
+	<annotation>firewood</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233590</id>
 	<word_id>141</word_id>
 	<word>wet</word>
-	<item>ȥak45/ hman213</item>
-	<annotation>clothing (PMP bazeq ?)/ ambient</annotation>
+	<item>ȥak45</item>
+	<annotation>clothing (PMP bazeq ?)</annotation>
 	<loan></loan>
-	<cognacy>56, 60</cognacy>
+	<cognacy>56</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233591</id>
+	<word_id>141</word_id>
+	<word>wet</word>
+	<item>hman213</item>
+	<annotation>ambient</annotation>
+	<loan></loan>
+	<cognacy>60</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1513,10 +1711,21 @@ hN=voiceless nasal; ṣȥ= retroflex; ćñ=alveolo-palatal; VV=long vowel; ɰ = 
 </record>
 
 <record>
-	<id>154952</id>
+	<id>3233556</id>
 	<word_id>144</word_id>
 	<word>to burn</word>
-	<item>te33 pəi53/ piŋ33</item>
+	<item>te33 pəi53</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233557</id>
+	<word_id>144</word_id>
+	<word>to burn</word>
+	<item>piŋ33</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1623,11 +1832,22 @@ hN=voiceless nasal; ṣȥ= retroflex; ćñ=alveolo-palatal; VV=long vowel; ɰ = 
 </record>
 
 <record>
-	<id>154962</id>
+	<id>3233592</id>
 	<word_id>154</word_id>
 	<word>short</word>
-	<item>dan213/tai33</item>
-	<annotation>height/ength</annotation>
+	<item>dan213</item>
+	<annotation>height</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233593</id>
+	<word_id>154</word_id>
+	<word>short</word>
+	<item>tai33</item>
+	<annotation>length</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1656,10 +1876,21 @@ hN=voiceless nasal; ṣȥ= retroflex; ćñ=alveolo-palatal; VV=long vowel; ɰ = 
 </record>
 
 <record>
-	<id>154965</id>
+	<id>3233560</id>
 	<word_id>157</word_id>
 	<word>thick</word>
-	<item>tə0 gɰa45/ hɰa45</item>
+	<item>tə0 gɰa45</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233561</id>
+	<word_id>157</word_id>
+	<word>thick</word>
+	<item>hɰa45</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1689,11 +1920,22 @@ hN=voiceless nasal; ṣȥ= retroflex; ćñ=alveolo-palatal; VV=long vowel; ɰ = 
 </record>
 
 <record>
-	<id>154968</id>
+	<id>3233594</id>
 	<word_id>160</word_id>
 	<word>painful, sick</word>
-	<item>qiau33/ qa33 ȥai45</item>
-	<annotation>pain/ sick</annotation>
+	<item>qiau33</item>
+	<annotation>pain</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233595</id>
+	<word_id>160</word_id>
+	<word>painful, sick</word>
+	<item>qa33 ȥai45</item>
+	<annotation>sick</annotation>
 	<loan></loan>
 	<cognacy>64</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1711,10 +1953,21 @@ hN=voiceless nasal; ṣȥ= retroflex; ćñ=alveolo-palatal; VV=long vowel; ɰ = 
 </record>
 
 <record>
-	<id>154970</id>
+	<id>3233596</id>
 	<word_id>163</word_id>
 	<word>new</word>
-	<item>ȥuuŋ33/ ȥuəŋ33</item>
+	<item>ȥuuŋ33</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>28</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233597</id>
+	<word_id>163</word_id>
+	<word>new</word>
+	<item>ȥuəŋ33</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>28</cognacy>
@@ -1755,13 +2008,35 @@ hN=voiceless nasal; ṣȥ= retroflex; ćñ=alveolo-palatal; VV=long vowel; ɰ = 
 </record>
 
 <record>
-	<id>154974</id>
+	<id>3233598</id>
 	<word_id>167</word_id>
 	<word>night</word>
-	<item>pə33 niin33/ pə33 gɰi33/ pɰ33 gɰi33</item>
+	<item>pə33 niin33</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>49</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233599</id>
+	<word_id>167</word_id>
+	<word>night</word>
+	<item>pə33 gɰi33</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233600</id>
+	<word_id>167</word_id>
+	<word>night</word>
+	<item>pɰ33 gɰi33</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1898,13 +2173,24 @@ hN=voiceless nasal; ṣȥ= retroflex; ćñ=alveolo-palatal; VV=long vowel; ɰ = 
 </record>
 
 <record>
-	<id>154987</id>
+	<id>3233601</id>
 	<word_id>181</word_id>
 	<word>where?</word>
-	<item>ti33 niau24/ tiau24</item>
+	<item>ti33 niau24</item>
 	<annotation>PAN i nu?</annotation>
 	<loan></loan>
-	<cognacy>47, 45</cognacy>
+	<cognacy>47</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233602</id>
+	<word_id>181</word_id>
+	<word>where?</word>
+	<item>tiau24</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>45</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1942,13 +2228,24 @@ hN=voiceless nasal; ṣȥ= retroflex; ćñ=alveolo-palatal; VV=long vowel; ɰ = 
 </record>
 
 <record>
-	<id>154991</id>
+	<id>3233603</id>
 	<word_id>185</word_id>
 	<word>we</word>
-	<item>(ɬaai213) tu33/ ṣhau53</item>
-	<annotation>incl/ excl</annotation>
+	<item>(ɬaai213) tu33</item>
+	<annotation>incl</annotation>
 	<loan></loan>
 	<cognacy>36</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233604</id>
+	<word_id>185</word_id>
+	<word>we</word>
+	<item>ṣhau53</item>
+	<annotation>excl</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2019,10 +2316,21 @@ hN=voiceless nasal; ṣȥ= retroflex; ćñ=alveolo-palatal; VV=long vowel; ɰ = 
 </record>
 
 <record>
-	<id>154998</id>
+	<id>3233605</id>
 	<word_id>193</word_id>
 	<word>if</word>
-	<item>hmai213/ ȥu53 ko213</item>
+	<item>hmai213</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233606</id>
+	<word_id>193</word_id>
+	<word>if</word>
+	<item>ȥu53 ko213</item>
 	<annotation>ȥ: Chinese</annotation>
 	<loan></loan>
 	<cognacy></cognacy>

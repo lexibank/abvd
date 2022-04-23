@@ -1705,13 +1705,24 @@
 </record>
 
 <record>
-	<id>51098</id>
+	<id>3233546</id>
 	<word_id>144</word_id>
 	<word>to burn</word>
-	<item>sulu-on/masulô</item>
+	<item>sulu-on</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>100,101</cognacy>
+	<cognacy>100</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233547</id>
+	<word_id>144</word_id>
+	<word>to burn</word>
+	<item>masulô</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>, 101</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

@@ -106,7 +106,7 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 	<word>to turn</word>
 	<item>kumorba</item>
 	<annotation>Spanish</annotation>
-	<loan></loan>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -167,10 +167,21 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288769</id>
+	<id>3233506</id>
 	<word_id>14</word_id>
 	<word>belly</word>
-	<item>atian/atsan</item>
+	<item>atian</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233507</id>
+	<word_id>14</word_id>
+	<word>belly</word>
+	<item>atsan</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -596,13 +607,24 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288808</id>
+	<id>3233524</id>
 	<word_id>53</word_id>
 	<word>person/human being</word>
-	<item>tau/tawu</item>
+	<item>tau</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233525</id>
+	<word_id>53</word_id>
+	<word>person/human being</word>
+	<item>tawu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -629,11 +651,22 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288811</id>
+	<id>3233532</id>
 	<word_id>56</word_id>
 	<word>child</word>
-	<item>anak(sing.)/ ának(plural)</item>
-	<annotation></annotation>
+	<item>anak</item>
+	<annotation>(sing.)</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233533</id>
+	<word_id>56</word_id>
+	<word>child</word>
+	<item>ának</item>
+	<annotation>(plural)</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -662,24 +695,46 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288814</id>
+	<id>3233530</id>
 	<word_id>59</word_id>
 	<word>mother</word>
-	<item>indu (archaic)/ ima</item>
-	<annotation></annotation>
+	<item>indu</item>
+	<annotation>archaic</annotation>
 	<loan></loan>
 	<cognacy>16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
-	<id>288815</id>
-	<word_id>60</word_id>
-	<word>father</word>
-	<item>ibpa (archaic)/ tata</item>
+	<id>3233531</id>
+	<word_id>59</word_id>
+	<word>mother</word>
+	<item>ima</item>
 	<annotation></annotation>
 	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233534</id>
+	<word_id>60</word_id>
+	<word>father</word>
+	<item>ibpa</item>
+	<annotation>archaic</annotation>
+	<loan></loan>
 	<cognacy>48</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233535</id>
+	<word_id>60</word_id>
+	<word>father</word>
+	<item>tata</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -728,10 +783,21 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288820</id>
+	<id>3233528</id>
 	<word_id>65</word_id>
 	<word>rope</word>
-	<item>lubid/ tali</item>
+	<item>lubid</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>21</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233529</id>
+	<word_id>65</word_id>
+	<word>rope</word>
+	<item>tali</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -761,10 +827,21 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288823</id>
+	<id>3233538</id>
 	<word_id>68</word_id>
 	<word>needle</word>
-	<item>karayum/ karayung</item>
+	<item>karayum</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233539</id>
+	<word_id>68</word_id>
+	<word>needle</word>
+	<item>karayung</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -849,10 +926,21 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288831</id>
+	<id>3233510</id>
 	<word_id>76</word_id>
 	<word>to live, be alive</word>
-	<item>mabie/ kumabie</item>
+	<item>mabie</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>15</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233511</id>
+	<word_id>76</word_id>
+	<word>to live, be alive</word>
+	<item>kumabie</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>15</cognacy>
@@ -871,10 +959,21 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288833</id>
+	<id>3233540</id>
 	<word_id>78</word_id>
 	<word>to cut, hack</word>
-	<item>mamutut/ manabak</item>
+	<item>mamutut</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233541</id>
+	<word_id>78</word_id>
+	<word>to cut, hack</word>
+	<item>manabak</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1036,10 +1135,10 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288848</id>
+	<id>3233542</id>
 	<word_id>93</word_id>
 	<word>to pound, beat</word>
-	<item>bayû/ bayû'an</item>
+	<item>bayû</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -1047,10 +1146,32 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288849</id>
+	<id>3233543</id>
+	<word_id>93</word_id>
+	<word>to pound, beat</word>
+	<item>bayû'an</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233522</id>
 	<word_id>94</word_id>
 	<word>to throw</word>
-	<item>baronggan/ mamugâ</item>
+	<item>baronggan</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233523</id>
+	<word_id>94</word_id>
+	<word>to throw</word>
+	<item>mamugâ</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1108,7 +1229,7 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 	<item>bulbul</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,68</cognacy>
+	<cognacy>1,67</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1234,10 +1355,21 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288866</id>
+	<id>3233536</id>
 	<word_id>111</word_id>
 	<word>fish</word>
-	<item>asan/ asan danum</item>
+	<item>asan</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233537</id>
+	<word_id>111</word_id>
+	<word>fish</word>
+	<item>asan danum</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1355,10 +1487,21 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288877</id>
+	<id>3233508</id>
 	<word_id>122</word_id>
 	<word>water</word>
-	<item>danum/ danum tabang</item>
+	<item>danum</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233509</id>
+	<word_id>122</word_id>
+	<word>water</word>
+	<item>danum tabang</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -1377,10 +1520,21 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288879</id>
+	<id>3233500</id>
 	<word_id>124</word_id>
 	<word>sea</word>
-	<item>dayat malat (archaic)/ dagat</item>
+	<item>dayat malat</item>
+	<annotation>archaic</annotation>
+	<loan></loan>
+	<cognacy>25</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233501</id>
+	<word_id>124</word_id>
+	<word>sea</word>
+	<item>dagat</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>25</cognacy>
@@ -1509,13 +1663,24 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288891</id>
+	<id>3233516</id>
 	<word_id>136</word_id>
 	<word>wind</word>
-	<item>angin/ tiup ning angin</item>
+	<item>angin</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233517</id>
+	<word_id>136</word_id>
+	<word>wind</word>
+	<item>tiup ning angin</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1531,10 +1696,21 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288893</id>
+	<id>3233504</id>
 	<word_id>138</word_id>
 	<word>warm</word>
-	<item>mapali/ kaleldo</item>
+	<item>mapali</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233505</id>
+	<word_id>138</word_id>
+	<word>warm</word>
+	<item>kaleldo</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1667,7 +1843,7 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 	<word_id>150</word_id>
 	<word>yellow</word>
 	<item>mapapan</item>
-	<annotation>Corrected</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1707,10 +1883,21 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288909</id>
+	<id>3233520</id>
 	<word_id>154</word_id>
 	<word>short</word>
-	<item>makuyad/ pandak</item>
+	<item>makuyad</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233521</id>
+	<word_id>154</word_id>
+	<word>short</word>
+	<item>pandak</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1828,10 +2015,21 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288920</id>
+	<id>3233502</id>
 	<word_id>165</word_id>
 	<word>bad, evil</word>
-	<item>marauak (archaic)/ marok</item>
+	<item>marauak</item>
+	<annotation>archaic</annotation>
+	<loan></loan>
+	<cognacy>95</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233503</id>
+	<word_id>165</word_id>
+	<word>bad, evil</word>
+	<item>marok</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>95</cognacy>
@@ -1905,13 +2103,24 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288927</id>
+	<id>3233512</id>
 	<word_id>172</word_id>
 	<word>to climb</word>
-	<item>manik/ mukyat</item>
+	<item>manik</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1,62</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233513</id>
+	<word_id>172</word_id>
+	<word>to climb</word>
+	<item>mukyat</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1993,13 +2202,24 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288935</id>
+	<id>3233526</id>
 	<word_id>180</word_id>
 	<word>far</word>
-	<item>malaut/ márayû</item>
+	<item>malaut</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233527</id>
+	<word_id>180</word_id>
+	<word>far</word>
+	<item>márayû</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2059,13 +2279,24 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288941</id>
+	<id>3233514</id>
 	<word_id>186</word_id>
 	<word>you</word>
-	<item>ika (sing.)/ ikayu (plural)</item>
-	<annotation></annotation>
+	<item>ika</item>
+	<annotation>(sing.)</annotation>
 	<loan></loan>
-	<cognacy>1,53</cognacy>
+	<cognacy>1, 53</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233515</id>
+	<word_id>186</word_id>
+	<word>you</word>
+	<item>ikayu</item>
+	<annotation>(plural)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2114,13 +2345,24 @@ Kapampangan is considered a secondary language among the Kapampangan niegboring 
 </record>
 
 <record>
-	<id>288946</id>
+	<id>3233518</id>
 	<word_id>191</word_id>
 	<word>all</word>
-	<item>sabla/ gana-gana</item>
+	<item>sabla</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>77</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233519</id>
+	<word_id>191</word_id>
+	<word>all</word>
+	<item>gana-gana</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

@@ -170,11 +170,22 @@ Items in the orthography of the author. Annotations in IPA.</notes>
 </record>
 
 <record>
-	<id>3230438</id>
+	<id>3233470</id>
 	<word_id>14</word_id>
 	<word>belly</word>
-	<item>uub/ siiy</item>
-	<annotation>uːbʷ / siiy</annotation>
+	<item>uːbʷ</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233471</id>
+	<word_id>14</word_id>
+	<word>belly</word>
+	<item>siiy</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
