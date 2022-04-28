@@ -1,7 +1,7 @@
 <record>
 	<id>1654</id>
 	<language>Nukumanu</language>
-	<author>Richard Feinberg</author>
+	<author>Rick Feinberg</author>
 	<silcode>nuq</silcode>
 	<glottocode>nuku1258</glottocode>
 	<notes>ms &quot;Nukumanu Lexicon&quot; archived on Paradisec
@@ -10,7 +10,14 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, Samoic-Outlier, Ellicean</classification>
 	<typedby>Mary Walworth</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@misc{FeinbergND,
+    author = {Rick Feinberg (collector), Rick Feinberg (compiler)},
+    date = {n.d.},
+    note = {PDF/RTF. RF1-NUKUMANU at catalog.paradisec.org.au.},
+    title = {Nukumanu dictionary},
+    url = {https://dx.doi.org/10.26278/5cab7012f3880}
+}
+</source>
 </record>
 
 <record>
