@@ -23,21 +23,15 @@ Conceptlists in Concepticon:
 [![Build Status](https://travis-ci.org/lexibank/abvd.svg?branch=master)](https://travis-ci.org/lexibank/abvd)
 ![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-brightgreen.svg "Glottolog: 99%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 99%](https://img.shields.io/badge/Source-99%25-brightgreen.svg "Source: 99%")
+![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
 - **Varieties:** 1,653
 - **Concepts:** 210
-- **Lexemes:** 317,117
-- **Sources:** 899
+- **Lexemes:** 317,118
+- **Sources:** 902
 - **Synonymy:** 1.14
-- **Cognacy:** 240,814 cognates in 18,148 cognate sets (426 singletons)
+- **Cognacy:** 240,839 cognates in 18,148 cognate sets (427 singletons)
 - **Cognate Diversity:** 0.06
-
-## Possible Improvements:
-
-
-
-- Entries missing sources: 1930/317117 (0.61%)
 
 # Contributors
 

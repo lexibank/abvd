@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/abvd",
             "rdf:type": "prov:Entity",
-            "dc:created": "7628899",
+            "dc:created": "c4a1728",
             "dc:title": "Repository"
         },
         {
@@ -35,7 +35,7 @@
         {
             "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0-13-gd42171f",
+            "dc:created": "v2.2.0",
             "dc:title": "CLTS"
         }
     ],
@@ -62,7 +62,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 317117,
+            "dc:extent": 317118,
             "tableSchema": {
                 "columns": [
                     {
@@ -287,7 +287,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 240814,
+            "dc:extent": 240839,
             "tableSchema": {
                 "columns": [
                     {
