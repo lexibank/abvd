@@ -25,21 +25,41 @@ Conceptlists in Concepticon:
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 1,653
+- **Varieties:** 1,690
 - **Concepts:** 210
-- **Lexemes:** 317,118
-- **Sources:** 902
+- **Lexemes:** 324,416
+- **Sources:** 904
 - **Synonymy:** 1.14
-- **Cognacy:** 240,839 cognates in 18,148 cognate sets (427 singletons)
+- **Cognacy:** 245,651 cognates in 18,543 cognate sets (436 singletons)
 - **Cognate Diversity:** 0.06
+
+## Possible Improvements:
+
+
+
+- Entries missing sources: 1267/324416 (0.39%)
 
 # Contributors
 
-Name               | GitHub user     | Description                          | Role
----                | ---             | ---                                  | ---
-Simon J. Greenhill | @SimonGreenhill | patron                               | Author
-Robert Forkel      | @xrotwang       | patron                               | Author
-Tiago Tresoldi     | @tresoldi       | profile                              | Author
+Name                | GitHub user     | Description                                | Role
+---                 | ---             | ---                                        | ---
+Simon J. Greenhill  | @SimonGreenhill | patron, admin, data and cognate judgements | Author
+Robert Forkel       | @xrotwang       | patron                                     | Author
+Russell D. Gray     |                 | admin                                      | Author
+Bob Blust           |                 | data and cognate judgements                | Author
+Malcolm Ross        |                 | data and cognate judgements                | Author
+John Lynch          |                 | data and cognate judgements                | Author
+Bethwyn Evans       |                 | data and cognate judgements                | Author
+Erin Donnelly       |                 | data and cognate judgements                | Author
+Alex François       |                 | data and cognate judgements                | Author
+Emily Gasser        |                 | data and cognate judgements                | Author
+Mary Walworth       |                 | data and cognate judgements                | Author
+Benjamin Touati     |                 | data and cognate judgements                | Author
+Laurie Reid         |                 | data and cognate judgements                | Author
+Antoinette Schapper |                 | data and cognate judgements                | Author
+Sander Adelaar      |                 | data and cognate judgements                | Author
+Isaac Stead         |                 | data and cognate judgements                | Author
+Tiago Tresoldi      | @tresoldi       | profile                                    | Author
 
 
 
