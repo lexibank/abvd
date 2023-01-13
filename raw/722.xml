@@ -63,7 +63,7 @@
 	<item>paá</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>105</cognacy>
+	<cognacy>20</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -272,7 +272,7 @@
 	<item>bitukâ</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -393,7 +393,7 @@
 	<item>magingainga</item>
 	<annotation>redup. of &quot;inga&quot;</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,70</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -492,7 +492,7 @@
 	<item>magsuká</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -536,7 +536,7 @@
 	<item>maglutô</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>20</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -624,7 +624,7 @@
 	<item>mag ugab</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,38</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -668,7 +668,7 @@
 	<item>pangaturogan</item>
 	<annotation>= dream</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>79</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -745,7 +745,7 @@
 	<item>igín</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>106</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -877,7 +877,7 @@
 	<item>ragôm</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -921,7 +921,7 @@
 	<item>magtabán</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>27</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -932,7 +932,7 @@
 	<item>magguraán</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>95</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -959,10 +959,21 @@
 </record>
 
 <record>
-	<id>3227958</id>
+	<id>3233628</id>
 	<word_id>77</word_id>
 	<word>to scratch</word>
-	<item>kaguwôn/magkagôw</item>
+	<item>kaguwôn</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233629</id>
+	<word_id>77</word_id>
+	<word>to scratch</word>
+	<item>magkagôw</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -976,15 +987,26 @@
 	<item>magputól</item>
 	<annotation></annotation>
 	<loan></loan>
+	<cognacy>103,107</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233632</id>
+	<word_id>78</word_id>
+	<word>to cut, hack</word>
+	<item>magbangá</item>
+	<annotation></annotation>
+	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
-	<id>3227971</id>
+	<id>3233633</id>
 	<word_id>78</word_id>
 	<word>to cut, hack</word>
-	<item>magbangá/magbaák</item>
+	<item>magbaák</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1031,7 +1053,7 @@
 	<item>magtrabáho</item>
 	<annotation>Spanish</annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>103</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1053,7 +1075,7 @@
 	<item>magpilî</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1064,18 +1086,18 @@
 	<item>magpuga</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,37</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
 <record>
-	<id>3227959</id>
+	<id>3233636</id>
 	<word_id>89</word_id>
 	<word>to hold</word>
-	<item>kaptán/kapotán</item>
+	<item>kaptán</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>25</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1086,7 +1108,18 @@
 	<item>magkapòt</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>25</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233637</id>
+	<word_id>89</word_id>
+	<word>to hold</word>
+	<item>kapotán</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>25</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1141,7 +1174,7 @@
 	<item>magbagát</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>45</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1251,7 +1284,7 @@
 	<item>ikôg</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1284,7 +1317,7 @@
 	<item>lusà</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1548,7 +1581,7 @@
 	<item>dagul-dul</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>2,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1581,7 +1614,7 @@
 	<item>uyupun</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,44</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1636,7 +1669,7 @@
 	<item>magubát</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,63</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1735,7 +1768,7 @@
 	<item>sadít</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>152</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1746,7 +1779,7 @@
 	<item>sadáy</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>152</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1834,7 +1867,7 @@
 	<item>malakbang</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>24</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1856,7 +1889,7 @@
 	<item>ílang</item>
 	<annotation>sickness</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>130</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1867,7 +1900,7 @@
 	<item>supóg</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>29</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2329,7 +2362,7 @@
 	<item>saká</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2395,7 +2428,7 @@
 	<item>dirí'</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>27</cognacy>
+	<cognacy>121</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2406,7 +2439,7 @@
 	<item>bukó'</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>26</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2538,7 +2571,7 @@
 	<item>baynte</item>
 	<annotation>Spanish</annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2549,7 +2582,7 @@
 	<item>singkwénta</item>
 	<annotation>Spanish</annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

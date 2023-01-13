@@ -247,7 +247,7 @@
 	<item>ʔag'toy</item>
 	<annotation></annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -643,7 +643,7 @@
 	<item>man'kalin</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>115</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -654,7 +654,7 @@
 	<item>man'kalin</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>115</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -885,7 +885,7 @@
 	<item>pumaltog</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>55</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -896,7 +896,7 @@
 	<item>'bayu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>42</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -907,7 +907,7 @@
 	<item>tamaan</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>129</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -934,11 +934,22 @@
 </record>
 
 <record>
-	<id>113552</id>
+	<id>3233626</id>
 	<word_id>75</word_id>
 	<word>to die, be dead</word>
-	<item>na'toy  (ʔo'toy)</item>
+	<item>na'toy</item>
 	<annotation>dead</annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233627</id>
+	<word_id>75</word_id>
+	<word>to die, be dead</word>
+	<item>ʔo'toy</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -981,7 +992,7 @@
 	<id>113555</id>
 	<word_id>78</word_id>
 	<word>to cut, hack</word>
-	<item>go'godon  ('gogod)</item>
+	<item>go'godon</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>45</cognacy>
@@ -1248,7 +1259,7 @@
 	<item>kal'ni</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1490,7 +1501,7 @@
 	<item>'baybay</item>
 	<annotation>from Ilokano</annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>28</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1820,7 +1831,7 @@
 	<item>da'kog</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>22</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

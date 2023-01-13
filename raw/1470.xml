@@ -240,7 +240,7 @@
 	<item>inaʔ</item>
 	<annotation>mother</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,76</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -283,17 +283,6 @@
 	<word>tail</word>
 	<item>iko</item>
 	<annotation>tail</annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>336575</id>
-	<word_id>109</word_id>
-	<word>mosquito</word>
-	<item>ato</item>
-	<annotation>hundred</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -646,6 +635,17 @@
 	<word>Nine</word>
 	<item>ʄap</item>
 	<annotation>ten</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>336575</id>
+	<word_id>209</word_id>
+	<word>One Hundred</word>
+	<item>ato</item>
+	<annotation>hundred</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>

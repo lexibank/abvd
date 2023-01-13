@@ -149,7 +149,7 @@
 	<item>panit</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>2,85</cognacy>
+	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -204,7 +204,7 @@
 	<item>bituka</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -226,7 +226,7 @@
 	<item>dughán</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>16</cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -259,7 +259,7 @@
 	<item>baró (mahibaró)</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>107</cognacy>
+	<cognacy>11</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1062,7 +1062,7 @@
 	<item>pusíl</item>
 	<annotation></annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>57</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1073,7 +1073,7 @@
 	<item>pusilá</item>
 	<annotation></annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>57</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1084,7 +1084,7 @@
 	<item>pumosíl</item>
 	<annotation></annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>57</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1139,7 +1139,7 @@
 	<item>igo (igo-á)</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>125</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1147,7 +1147,7 @@
 	<id>136182</id>
 	<word_id>73</word_id>
 	<word>to steal</word>
-	<item>kawat (mangawat)</item>
+	<item>kawat</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>24</cognacy>
@@ -1202,8 +1202,8 @@
 	<id>136185</id>
 	<word_id>76</word_id>
 	<word>to live, be alive</word>
-	<item>buhì (mabuhì)</item>
-	<annotation></annotation>
+	<item>buhì</item>
+	<annotation>mabuhì</annotation>
 	<loan></loan>
 	<cognacy>14,74</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1213,8 +1213,8 @@
 	<id>136186</id>
 	<word_id>77</word_id>
 	<word>to scratch</word>
-	<item>karos (magkaros)</item>
-	<annotation></annotation>
+	<item>karos</item>
+	<annotation>magkaros</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1301,7 +1301,7 @@
 	<id>136190</id>
 	<word_id>81</word_id>
 	<word>sharp</word>
-	<item>taróm (mataróm)</item>
+	<item>taróm</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -1326,7 +1326,7 @@
 	<item>buhat</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>34</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1337,7 +1337,7 @@
 	<item>trabaho</item>
 	<annotation>Work (Spanish Loan)</annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>103</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1348,7 +1348,7 @@
 	<item>buhata</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>34</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1359,7 +1359,7 @@
 	<item>magbuhat</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>34</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1535,7 +1535,7 @@
 	<item>palít (mapalít)</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>53</cognacy>
+	<cognacy>25</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1590,7 +1590,7 @@
 	<item>labay</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>132</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1601,7 +1601,7 @@
 	<item>labaya</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>132</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1700,7 +1700,7 @@
 	<item>yatót</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>25</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1722,7 +1722,7 @@
 	<item>mantika</item>
 	<annotation></annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2096,7 +2096,7 @@
 	<item>dampóg</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>96</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2602,7 +2602,7 @@
 	<item>sakláng</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>55</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2613,7 +2613,7 @@
 	<item>saklangá</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>55</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2624,7 +2624,7 @@
 	<item>sumakláng</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>55</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2789,7 +2789,7 @@
 	<item>hirani</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,39</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2866,7 +2866,7 @@
 	<item>ikáw</item>
 	<annotation>you</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1,29</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

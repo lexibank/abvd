@@ -37,7 +37,7 @@
 	<item>rima</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1,64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -103,7 +103,7 @@
 	<item>i-rua</item>
 	<annotation>'to come. arrive'</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -177,8 +177,8 @@
 	<id>343147</id>
 	<word_id>18</word_id>
 	<word>breast</word>
-	<item>?</item>
-	<annotation>uho 'to suck (breast)'</annotation>
+	<item>uho</item>
+	<annotation>'to suck (breast)'</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -378,7 +378,7 @@
 	<item>tangira</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1, 72</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -433,18 +433,7 @@
 	<item>ma-liko</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>343171</id>
-	<word_id>50</word_id>
-	<word>to dream</word>
-	<item>--</item>
-	<annotation>maling 'dream' (= noun)</annotation>
-	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>113</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -650,8 +639,8 @@
 	<id>343186</id>
 	<word_id>66</word_id>
 	<word>to tie up, fasten</word>
-	<item>hali- (+ object incorporated)</item>
-	<annotation></annotation>
+	<item>hali-</item>
+	<annotation> (+ object incorporated)</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -686,7 +675,7 @@
 	<item>bukbuk</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>120</cognacy>
+	<cognacy>24</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -741,7 +730,7 @@
 	<item>ma-patey</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1,35</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1313,7 +1302,7 @@
 	<item>hanglu</item>
 	<annotation>&lt; Hokkien Chinese</annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

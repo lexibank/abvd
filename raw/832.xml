@@ -544,7 +544,7 @@ All 3 papers can be found in Li, Paul Jen-kuei (2004). Selected Papers on Formos
 	<item>patay</item>
 	<annotation>&lt; *paCay 'to die'</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -692,12 +692,23 @@ All 3 papers can be found in Li, Paul Jen-kuei (2004). Selected Papers on Formos
 </record>
 
 <record>
-	<id>210632</id>
+	<id>3233640</id>
 	<word_id>98</word_id>
 	<word>egg</word>
-	<item>telud' ~ telod'</item>
+	<item>telud'</item>
 	<annotation>would expect ~tetsu(l)</annotation>
-	<loan>L </loan>
+	<loan>L</loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233641</id>
+	<word_id>98</word_id>
+	<word>egg</word>
+	<item>telod'</item>
+	<annotation></annotation>
+	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>

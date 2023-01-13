@@ -526,10 +526,21 @@ Unless indicated otherwise, the Auran (Ailan 愛蘭) dialect is used.</notes>
 </record>
 
 <record>
-	<id>193794</id>
+	<id>3233634</id>
 	<word_id>37</word_id>
 	<word>to eat</word>
-	<item>kan- ~ ken-</item>
+	<item>kan-</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233635</id>
+	<word_id>37</word_id>
+	<word>to eat</word>
+	<item>ken-</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -631,7 +642,7 @@ Unless indicated otherwise, the Auran (Ailan 愛蘭) dialect is used.</notes>
 	<item>sangira</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,72</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1109,10 +1120,21 @@ Unless indicated otherwise, the Auran (Ailan 愛蘭) dialect is used.</notes>
 </record>
 
 <record>
-	<id>193834</id>
+	<id>3233630</id>
 	<word_id>77</word_id>
 	<word>to scratch</word>
-	<item>kurit- ~ kuris-</item>
+	<item>kurit-</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233631</id>
+	<word_id>77</word_id>
+	<word>to scratch</word>
+	<item>kuris-</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -2402,7 +2424,7 @@ Unless indicated otherwise, the Auran (Ailan 愛蘭) dialect is used.</notes>
 	<item>haw</item>
 	<annotation>Chinese loanword ?</annotation>
 	<loan>L?</loan>
-	<cognacy></cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

@@ -48,10 +48,21 @@
 </record>
 
 <record>
-	<id>202267</id>
+	<id>3233622</id>
 	<word_id>2</word_id>
 	<word>left</word>
-	<item>*koiRi ~ *kuiRi</item>
+	<item>*koiRi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1,42</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233623</id>
+	<word_id>2</word_id>
+	<word>left</word>
+	<item>*kuiRi</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1,42</cognacy>
@@ -84,7 +95,7 @@
 	<id>202435</id>
 	<word_id>4</word_id>
 	<word>leg/foot</word>
-	<item>*laed ~ *laid</item>
+	<item>*la[e/i]d</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>109</cognacy>
@@ -120,7 +131,7 @@
 	<item>*pisi</item>
 	<annotation>skin, bark</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>22</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

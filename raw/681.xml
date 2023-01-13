@@ -171,7 +171,7 @@
 	<item>eges</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>53</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -204,7 +204,7 @@
 	<item>atey</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,51</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -754,7 +754,7 @@
 	<item>ikabbot</item>
 	<annotation>fasten by tying together</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>40</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -776,7 +776,7 @@
 	<item>dagom</item>
 	<annotation></annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1414,7 +1414,7 @@
 	<item>daga</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>25</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1568,7 +1568,7 @@
 	<item>sib-okan</item>
 	<annotation>b.</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>34</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1634,7 +1634,7 @@
 	<item>madagseg</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>23</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1777,7 +1777,7 @@
 	<item>naingpis</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1843,7 +1843,7 @@
 	<item>nakay</item>
 	<annotation>of men</annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1854,7 +1854,7 @@
 	<item>nabbakes</item>
 	<annotation>of women</annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2162,7 +2162,7 @@
 	<item>0</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2390,7 +2390,7 @@
 	<id>177211</id>
 	<word_id>195</word_id>
 	<word>no, not</word>
-	<item>adi + Verb</item>
+	<item>adi-</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -2401,10 +2401,10 @@
 	<id>177212</id>
 	<word_id>195</word_id>
 	<word>no, not</word>
-	<item>baken + Noun</item>
+	<item>baken-</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>26</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

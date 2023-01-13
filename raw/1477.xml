@@ -272,17 +272,6 @@
 </record>
 
 <record>
-	<id>336962</id>
-	<word_id>109</word_id>
-	<word>mosquito</word>
-	<item>atoh</item>
-	<annotation>hundred</annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>336976</id>
 	<word_id>110</word_id>
 	<word>spider</word>
@@ -618,6 +607,17 @@
 	<word>Nine</word>
 	<item>pulu</item>
 	<annotation>ten</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>336962</id>
+	<word_id>209</word_id>
+	<word>One Hundred</word>
+	<item>atoh</item>
+	<annotation>hundred</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>

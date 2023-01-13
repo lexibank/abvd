@@ -289,17 +289,6 @@
 </record>
 
 <record>
-	<id>336795</id>
-	<word_id>109</word_id>
-	<word>mosquito</word>
-	<item>ato</item>
-	<annotation>hundred</annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>336799</id>
 	<word_id>109</word_id>
 	<word>mosquito</word>
@@ -635,6 +624,17 @@
 	<word>Nine</word>
 	<item>puloʔ</item>
 	<annotation>ten</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>336795</id>
+	<word_id>209</word_id>
+	<word>One Hundred</word>
+	<item>ato</item>
+	<annotation>hundred</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>

@@ -31,7 +31,7 @@
 	<item>limáʔ</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,64</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1477,10 +1477,21 @@
 </record>
 
 <record>
-	<id>19538</id>
+	<id>3233624</id>
 	<word_id>55</word_id>
 	<word>woman/female</word>
-	<item>taẓuŋánm tarungan</item>
+	<item>taẓuŋánm</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233625</id>
+	<word_id>55</word_id>
+	<word>woman/female</word>
+	<item>tarungan</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>97</cognacy>
@@ -1780,7 +1791,7 @@
 	<item>pa:tái</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1,35</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
