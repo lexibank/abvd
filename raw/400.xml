@@ -275,6 +275,39 @@
 </record>
 
 <record>
+	<id>3243175</id>
+	<word_id>20</word_id>
+	<word>to know, be knowledgeable</word>
+	<item>te</item>
+	<annotation>'see'</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3243176</id>
+	<word_id>20</word_id>
+	<word>to know, be knowledgeable</word>
+	<item>nong</item>
+	<annotation>'hear'</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3241578</id>
+	<word_id>21</word_id>
+	<word>to think</word>
+	<item>ilo/n gire</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>107262</id>
 	<word_id>22</word_id>
 	<word>to fear</word>
@@ -473,6 +506,17 @@
 </record>
 
 <record>
+	<id>3241580</id>
+	<word_id>38</word_id>
+	<word>to chew</word>
+	<item>mam</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>107278</id>
 	<word_id>39</word_id>
 	<word>to cook</word>
@@ -594,6 +638,17 @@
 </record>
 
 <record>
+	<id>3241577</id>
+	<word_id>47</word_id>
+	<word>to yawn</word>
+	<item>awa/n abi</item>
+	<annotation>'hold mouth'</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>107288</id>
 	<word_id>48</word_id>
 	<word>to sleep</word>
@@ -601,6 +656,17 @@
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>8</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3241576</id>
+	<word_id>50</word_id>
+	<word>to dream</word>
+	<item>enamim</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -847,6 +913,17 @@
 </record>
 
 <record>
+	<id>3241575</id>
+	<word_id>73</word_id>
+	<word>to steal</word>
+	<item>kit</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>107309</id>
 	<word_id>74</word_id>
 	<word>to kill</word>
@@ -979,6 +1056,17 @@
 </record>
 
 <record>
+	<id>3241574</id>
+	<word_id>91</word_id>
+	<word>to buy</word>
+	<item>dad</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>107321</id>
 	<word_id>94</word_id>
 	<word>to throw</word>
@@ -1074,6 +1162,17 @@
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>31</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3241571</id>
+	<word_id>101</word_id>
+	<word>to fly</word>
+	<item>ror</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1606,6 +1705,17 @@
 </record>
 
 <record>
+	<id>3241569</id>
+	<word_id>151</word_id>
+	<word>green</word>
+	<item>kaiman</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>107370</id>
 	<word_id>152</word_id>
 	<word>small</word>
@@ -1771,6 +1881,17 @@
 </record>
 
 <record>
+	<id>3241570</id>
+	<word_id>171</word_id>
+	<word>to hide</word>
+	<item>mumui</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
 	<id>107383</id>
 	<word_id>177</word_id>
 	<word>this</word>
@@ -1798,6 +1919,28 @@
 	<word>that</word>
 	<item>moŋai</item>
 	<annotation>that (far away)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3243171</id>
+	<word_id>181</word_id>
+	<word>where?</word>
+	<item>tagwai</item>
+	<annotation>(where is located)</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3243172</id>
+	<word_id>181</word_id>
+	<word>where?</word>
+	<item>tega</item>
+	<annotation>(where go)</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1965,6 +2108,17 @@
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>52</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3241573</id>
+	<word_id>192</word_id>
+	<word>and</word>
+	<item>do</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
