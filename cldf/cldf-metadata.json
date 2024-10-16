@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/abvd",
             "rdf:type": "prov:Entity",
-            "dc:created": "161051e",
+            "dc:created": "f8b2924",
             "dc:title": "Repository"
         },
         {
@@ -59,7 +59,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 326603,
+            "dc:extent": 326546,
             "tableSchema": {
                 "columns": [
                     {
@@ -162,7 +162,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 1704,
+            "dc:extent": 1706,
             "tableSchema": {
                 "columns": [
                     {
@@ -284,7 +284,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 245652,
+            "dc:extent": 247237,
             "tableSchema": {
                 "columns": [
                     {
