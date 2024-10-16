@@ -10,8 +10,7 @@
 	<classification>Nihali</classification>
 	<typedby>Andrew Hsiu</typedby>
 	<checkedby>Andrew Hsiu</checkedby>
-	<source>
-@book{326395,
+	<source>@book{326395,
   address    = {Mysore},
   author     = {K. S. Nagaraja},
   pages      = {xii+332},
@@ -35,6 +34,11 @@ agaraja_nihali2014pages.pdf},
 }
 
 </source>
+</record>
+
+<record>
+	<latitude>21.18860000000000000000</latitude>
+	<longitude>76.33180000000000000000</longitude>
 </record>
 
 <record>
@@ -173,7 +177,7 @@ agaraja_nihali2014pages.pdf},
 	<id>3215905</id>
 	<word_id>11</word_id>
 	<word>dust</word>
-	<item>ḍ/dhulla</item>
+	<item>ḍhulla</item>
 	<annotation>&lt; Hindi?</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>
@@ -250,7 +254,7 @@ agaraja_nihali2014pages.pdf},
 	<id>3215912</id>
 	<word_id>19</word_id>
 	<word>shoulder</word>
-	<item>ṭ/tagli</item>
+	<item>ṭagli</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -426,7 +430,7 @@ agaraja_nihali2014pages.pdf},
 	<id>3215928</id>
 	<word_id>37</word_id>
 	<word>to eat</word>
-	<item>ṭ/tyeː-be</item>
+	<item>ṭyeː-be</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -2340,7 +2344,7 @@ agaraja_nihali2014pages.pdf},
 	<id>3216102</id>
 	<word_id>206</word_id>
 	<word>Ten</word>
-	<item>ḍ/deccho</item>
+	<item>ḍeccho</item>
 	<annotation>&lt; Hindi</annotation>
 	<loan>L</loan>
 	<cognacy></cognacy>

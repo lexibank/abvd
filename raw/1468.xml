@@ -97,11 +97,22 @@
 </record>
 
 <record>
-	<id>336477</id>
+	<id>3244954</id>
 	<word_id>27</word_id>
 	<word>nose</word>
-	<item>*uduŋ/ənduŋ</item>
+	<item>*uduŋ</item>
 	<annotation>nose</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3244955</id>
+	<word_id>27</word_id>
+	<word>nose</word>
+	<item>*ənduŋ</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -207,10 +218,21 @@
 </record>
 
 <record>
-	<id>336472</id>
+	<id>3244950</id>
 	<word_id>59</word_id>
 	<word>mother</word>
-	<item>*t-ina/*ina-i</item>
+	<item>*t-ina</item>
+	<annotation>mother</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3244951</id>
+	<word_id>59</word_id>
+	<word>mother</word>
+	<item>*ina-i</item>
 	<annotation>mother</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>

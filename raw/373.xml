@@ -2376,10 +2376,21 @@
 </record>
 
 <record>
-	<id>102237</id>
+	<id>3245010</id>
 	<word_id>184</word_id>
 	<word>he/she</word>
-	<item>lo/ko</item>
+	<item>lo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3245011</id>
+	<word_id>184</word_id>
+	<word>he/she</word>
+	<item>ko</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -2398,11 +2409,22 @@
 </record>
 
 <record>
-	<id>119047</id>
+	<id>3245008</id>
 	<word_id>185</word_id>
 	<word>we</word>
-	<item>aɰe/ave</item>
-	<annotation>exclDu/exclPl</annotation>
+	<item>aɰe</item>
+	<annotation>exclDu</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3245009</id>
+	<word_id>185</word_id>
+	<word>we</word>
+	<item>ave</item>
+	<annotation>exclPl</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>

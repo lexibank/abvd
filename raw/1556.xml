@@ -26,6 +26,11 @@
 </record>
 
 <record>
+	<latitude>-7.33458000000000000000</latitude>
+	<longitude>109.71600000000000000000</longitude>
+</record>
+
+<record>
 	<id>3213578</id>
 	<word_id>1</word_id>
 	<word>hand</word>
@@ -43,7 +48,7 @@
 	<item>kiri</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,42</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

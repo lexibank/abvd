@@ -607,11 +607,22 @@
 </record>
 
 <record>
-	<id>185451</id>
+	<id>3244935</id>
 	<word_id>46</word_id>
 	<word>to see</word>
-	<item>masilngan/mabayad</item>
-	<annotation>stress on the first syllable/stress on the first syllable</annotation>
+	<item>mabayad</item>
+	<annotation>stress on the first syllable</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3244934</id>
+	<word_id>46</word_id>
+	<word>to see</word>
+	<item>masilngan</item>
+	<annotation>stress on the first syllable</annotation>
 	<loan></loan>
 	<cognacy>110</cognacy>
 	<pmpcognacy></pmpcognacy>

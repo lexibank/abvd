@@ -21,6 +21,11 @@
 </record>
 
 <record>
+	<latitude>-4.57632000000000000000</latitude>
+	<longitude>159.48537000000000000000</longitude>
+</record>
+
+<record>
 	<id>3233063</id>
 	<word_id>1</word_id>
 	<word>hand</word>
@@ -197,10 +202,21 @@
 </record>
 
 <record>
-	<id>3233079</id>
+	<id>3244972</id>
 	<word_id>20</word_id>
 	<word>to know, be knowledgeable</word>
-	<item>iloa/iroa</item>
+	<item>iloa</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>13</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3244973</id>
+	<word_id>20</word_id>
+	<word>to know, be knowledgeable</word>
+	<item>iroa</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>13</cognacy>

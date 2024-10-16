@@ -1958,10 +1958,21 @@
 </record>
 
 <record>
-	<id>217504</id>
+	<id>3244981</id>
 	<word_id>159</word_id>
 	<word>wide</word>
-	<item>wáyang/lápad</item>
+	<item>wáyang</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3244982</id>
+	<word_id>159</word_id>
+	<word>wide</word>
+	<item>lápad</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -2204,7 +2215,7 @@
 	<word_id>177</word_id>
 	<word>this</word>
 	<item>yi</item>
-	<annotation>either</annotation>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2233,13 +2244,24 @@
 </record>
 
 <record>
-	<id>217523</id>
+	<id>3244977</id>
 	<word_id>178</word_id>
 	<word>that</word>
-	<item>yon/yo</item>
-	<annotation>either</annotation>
+	<item>yon</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>49</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3244978</id>
+	<word_id>178</word_id>
+	<word>that</word>
+	<item>yo</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2332,13 +2354,24 @@
 </record>
 
 <record>
-	<id>217530</id>
+	<id>3244983</id>
 	<word_id>185</word_id>
 	<word>we</word>
-	<item>kitə́n/kámi</item>
+	<item>kitə́n</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,50</cognacy>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3244984</id>
+	<word_id>185</word_id>
+	<word>we</word>
+	<item>kámi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>50</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2585,13 +2618,24 @@
 </record>
 
 <record>
-	<id>217553</id>
+	<id>3244979</id>
 	<word_id>208</word_id>
 	<word>Fifty</word>
-	<item>kalímʔan/klímʔan</item>
+	<item>kalímʔan</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,12</cognacy>
+	<cognacy>1, 12</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3244980</id>
+	<word_id>208</word_id>
+	<word>Fifty</word>
+	<item>klímʔan</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1, 12</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

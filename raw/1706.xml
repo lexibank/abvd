@@ -18,6 +18,11 @@
 </record>
 
 <record>
+	<latitude>0.91787000000000000000</latitude>
+	<longitude>114.45200000000000000000</longitude>
+</record>
+
+<record>
 	<id>3243849</id>
 	<word_id>1</word_id>
 	<word>hand</word>
@@ -35,7 +40,7 @@
 	<item>bulɛ</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>22</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -139,28 +144,6 @@
 </record>
 
 <record>
-	<id>3243859</id>
-	<word_id>11</word_id>
-	<word>dust</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243860</id>
-	<word_id>12</word_id>
-	<word>skin</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>3243861</id>
 	<word_id>13</word_id>
 	<word>back</word>
@@ -227,17 +210,6 @@
 </record>
 
 <record>
-	<id>3243867</id>
-	<word_id>19</word_id>
-	<word>shoulder</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>3243868</id>
 	<word_id>20</word_id>
 	<word>to know, be knowledgeable</word>
@@ -293,17 +265,6 @@
 </record>
 
 <record>
-	<id>3243873</id>
-	<word_id>25</word_id>
-	<word>neck</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>3243874</id>
 	<word_id>26</word_id>
 	<word>hair</word>
@@ -341,17 +302,6 @@
 	<word_id>29</word_id>
 	<word>to sniff, smell</word>
 	<item>buan</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243878</id>
-	<word_id>30</word_id>
-	<word>mouth</word>
-	<item>—</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -440,17 +390,6 @@
 	<word_id>38</word_id>
 	<word>to chew</word>
 	<item>kunyap</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243887</id>
-	<word_id>39</word_id>
-	<word>to cook</word>
-	<item>—</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -975,32 +914,10 @@
 </record>
 
 <record>
-	<id>3243934</id>
-	<word_id>86</word_id>
-	<word>to grow</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>3243935</id>
 	<word_id>87</word_id>
 	<word>to swell</word>
 	<item>matuŋ</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243936</id>
-	<word_id>88</word_id>
-	<word>to squeeze</word>
-	<item>—</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1019,32 +936,10 @@
 </record>
 
 <record>
-	<id>3243938</id>
-	<word_id>90</word_id>
-	<word>to dig</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>3243939</id>
 	<word_id>91</word_id>
 	<word>to buy</word>
 	<item>bəɾiən</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243940</id>
-	<word_id>92</word_id>
-	<word>to open, uncover</word>
-	<item>—</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1173,28 +1068,6 @@
 </record>
 
 <record>
-	<id>3243952</id>
-	<word_id>104</word_id>
-	<word>fat/grease</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243953</id>
-	<word_id>105</word_id>
-	<word>tail</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>3243954</id>
 	<word_id>106</word_id>
 	<word>snake</word>
@@ -1272,17 +1145,6 @@
 </record>
 
 <record>
-	<id>3243961</id>
-	<word_id>113</word_id>
-	<word>branch</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>3243962</id>
 	<word_id>114</word_id>
 	<word>leaf</word>
@@ -1298,28 +1160,6 @@
 	<word_id>115</word_id>
 	<word>root</word>
 	<item>uka</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243964</id>
-	<word_id>116</word_id>
-	<word>flower</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243965</id>
-	<word_id>117</word_id>
-	<word>fruit</word>
-	<item>—</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1360,17 +1200,6 @@
 </record>
 
 <record>
-	<id>3243969</id>
-	<word_id>121</word_id>
-	<word>sand</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>3243970</id>
 	<word_id>122</word_id>
 	<word>water</word>
@@ -1397,644 +1226,6 @@
 	<word_id>123</word_id>
 	<word>to flow</word>
 	<item>nuhun</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243972</id>
-	<word_id>124</word_id>
-	<word>sea</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243973</id>
-	<word_id>125</word_id>
-	<word>salt</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243974</id>
-	<word_id>126</word_id>
-	<word>lake</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243975</id>
-	<word_id>127</word_id>
-	<word>woods/forest</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243976</id>
-	<word_id>128</word_id>
-	<word>sky</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243977</id>
-	<word_id>129</word_id>
-	<word>moon</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243978</id>
-	<word_id>130</word_id>
-	<word>star</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243979</id>
-	<word_id>131</word_id>
-	<word>cloud</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243980</id>
-	<word_id>132</word_id>
-	<word>fog</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243981</id>
-	<word_id>133</word_id>
-	<word>rain</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243982</id>
-	<word_id>134</word_id>
-	<word>thunder</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243983</id>
-	<word_id>135</word_id>
-	<word>lightning</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243984</id>
-	<word_id>136</word_id>
-	<word>wind</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243985</id>
-	<word_id>137</word_id>
-	<word>to blow</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243986</id>
-	<word_id>138</word_id>
-	<word>warm</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243987</id>
-	<word_id>139</word_id>
-	<word>cold</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243988</id>
-	<word_id>140</word_id>
-	<word>dry</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243989</id>
-	<word_id>141</word_id>
-	<word>wet</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243990</id>
-	<word_id>142</word_id>
-	<word>heavy</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243991</id>
-	<word_id>143</word_id>
-	<word>fire</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243992</id>
-	<word_id>144</word_id>
-	<word>to burn</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243993</id>
-	<word_id>145</word_id>
-	<word>smoke</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243994</id>
-	<word_id>146</word_id>
-	<word>ash</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243995</id>
-	<word_id>147</word_id>
-	<word>black</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243996</id>
-	<word_id>148</word_id>
-	<word>white</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243997</id>
-	<word_id>149</word_id>
-	<word>red</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243998</id>
-	<word_id>150</word_id>
-	<word>yellow</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3243999</id>
-	<word_id>151</word_id>
-	<word>green</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244000</id>
-	<word_id>152</word_id>
-	<word>small</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244001</id>
-	<word_id>153</word_id>
-	<word>big</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244002</id>
-	<word_id>154</word_id>
-	<word>short</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244003</id>
-	<word_id>155</word_id>
-	<word>long</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244004</id>
-	<word_id>156</word_id>
-	<word>thin</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244005</id>
-	<word_id>157</word_id>
-	<word>thick</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244006</id>
-	<word_id>158</word_id>
-	<word>narrow</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244007</id>
-	<word_id>159</word_id>
-	<word>wide</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244008</id>
-	<word_id>160</word_id>
-	<word>painful, sick</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244009</id>
-	<word_id>161</word_id>
-	<word>shy, ashamed</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244010</id>
-	<word_id>162</word_id>
-	<word>old</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244011</id>
-	<word_id>163</word_id>
-	<word>new</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244012</id>
-	<word_id>164</word_id>
-	<word>good</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244013</id>
-	<word_id>165</word_id>
-	<word>bad, evil</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244014</id>
-	<word_id>166</word_id>
-	<word>correct, true</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244015</id>
-	<word_id>167</word_id>
-	<word>night</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244016</id>
-	<word_id>168</word_id>
-	<word>day</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244017</id>
-	<word_id>169</word_id>
-	<word>year</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244018</id>
-	<word_id>170</word_id>
-	<word>when?</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244019</id>
-	<word_id>171</word_id>
-	<word>to hide</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244020</id>
-	<word_id>172</word_id>
-	<word>to climb</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244021</id>
-	<word_id>173</word_id>
-	<word>at</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244022</id>
-	<word_id>174</word_id>
-	<word>in, inside</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244023</id>
-	<word_id>175</word_id>
-	<word>above</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244024</id>
-	<word_id>176</word_id>
-	<word>below</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244025</id>
-	<word_id>177</word_id>
-	<word>this</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244026</id>
-	<word_id>178</word_id>
-	<word>that</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244027</id>
-	<word_id>179</word_id>
-	<word>near</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244028</id>
-	<word_id>180</word_id>
-	<word>far</word>
-	<item>—</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244029</id>
-	<word_id>181</word_id>
-	<word>where?</word>
-	<item>—</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -2211,17 +1402,6 @@
 	<word_id>195</word_id>
 	<word>no, not</word>
 	<item>səŋa</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3244044</id>
-	<word_id>196</word_id>
-	<word>to count</word>
-	<item>—</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>

@@ -1377,9 +1377,9 @@ A more appropriate source is the online &quot;Dictionnaire des dialectes sud-oue
 	<word_id>69</word_id>
 	<word>to hunt</word>
 	<item>roake</item>
-	<annotation>X</annotation>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1421,9 +1421,9 @@ A more appropriate source is the online &quot;Dictionnaire des dialectes sud-oue
 	<word_id>70</word_id>
 	<word>to shoot</word>
 	<item>piritse</item>
-	<annotation>X</annotation>
+	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2135,7 +2135,7 @@ A more appropriate source is the online &quot;Dictionnaire des dialectes sud-oue
 	<id>343504</id>
 	<word_id>106</word_id>
 	<word>snake</word>
-	<item>bibi/làva</item>
+	<item>bibi|làva</item>
 	<annotation>lit. 'long animal'; bibi &lt; Bantu</annotation>
 	<loan>L</loan>
 	<cognacy>70</cognacy>
@@ -2190,10 +2190,10 @@ A more appropriate source is the online &quot;Dictionnaire des dialectes sud-oue
 	<id>343508</id>
 	<word_id>110</word_id>
 	<word>spider</word>
-	<item>maro/tàŋa</item>
-	<annotation>tàŋa 'hand' (18); maro 'many'</annotation>
+	<item>maro|tàŋa</item>
+	<annotation>tàŋa 'hand' ; maro 'many'</annotation>
 	<loan></loan>
-	<cognacy>97</cognacy>
+	<cognacy>97, 18</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2300,8 +2300,8 @@ A more appropriate source is the online &quot;Dictionnaire des dialectes sud-oue
 	<id>343515</id>
 	<word_id>117</word_id>
 	<word>fruit</word>
-	<item>vihin/kàzo</item>
-	<annotation>SA: ? should have been voan/kazu</annotation>
+	<item>voan|kàzo</item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2396,17 +2396,6 @@ A more appropriate source is the online &quot;Dictionnaire des dialectes sud-oue
 </record>
 
 <record>
-	<id>344948</id>
-	<word_id>123</word_id>
-	<word>to flow</word>
-	<item>m-ìly</item>
-	<annotation>X delete</annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>343520</id>
 	<word_id>124</word_id>
 	<word>sea</word>
@@ -2456,17 +2445,6 @@ A more appropriate source is the online &quot;Dictionnaire des dialectes sud-oue
 	<word>sky</word>
 	<item>làŋitsy</item>
 	<annotation></annotation>
-	<loan></loan>
-	<cognacy>1</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>285490</id>
-	<word_id>129</word_id>
-	<word>moon</word>
-	<item>vola</item>
-	<annotation>X delete</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -3111,17 +3089,6 @@ A more appropriate source is the online &quot;Dictionnaire des dialectes sud-oue
 </record>
 
 <record>
-	<id>343555</id>
-	<word_id>176</word_id>
-	<word>below</word>
-	<item>am/bà/ne</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>1</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>343556</id>
 	<word_id>177</word_id>
 	<word>this</word>
@@ -3250,28 +3217,6 @@ A more appropriate source is the online &quot;Dictionnaire des dialectes sud-oue
 	<annotation>(incl.); &lt; *tika(N) (+ metath.) + kam</annotation>
 	<loan></loan>
 	<cognacy>2, 75</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>285644</id>
-	<word_id>186</word_id>
-	<word>you</word>
-	<item>iha</item>
-	<annotation>X</annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>285645</id>
-	<word_id>186</word_id>
-	<word>you</word>
-	<item>lie</item>
-	<annotation>X marked: between boys</annotation>
-	<loan></loan>
-	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3565,7 +3510,7 @@ A more appropriate source is the online &quot;Dictionnaire des dialectes sud-oue
 	<id>343573</id>
 	<word_id>207</word_id>
 	<word>Twenty</word>
-	<item>roa/pòlo</item>
+	<item>roa|pòlo</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>3, 6</cognacy>
@@ -3576,7 +3521,7 @@ A more appropriate source is the online &quot;Dictionnaire des dialectes sud-oue
 	<id>343574</id>
 	<word_id>208</word_id>
 	<word>Fifty</word>
-	<item>lima/m/pòlo</item>
+	<item>lima|m|pòlo</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1,2</cognacy>

@@ -107,7 +107,7 @@
 	<id>1310</id>
 	<word_id>4</word_id>
 	<word>leg/foot</word>
-	<item>va/vae/</item>
+	<item>vavae</item>
 	<annotation>Leg</annotation>
 	<loan></loan>
 	<cognacy>1, 100</cognacy>
@@ -668,7 +668,7 @@
 	<id>12377</id>
 	<word_id>35</word_id>
 	<word>to vomit</word>
-	<item>a/rua/ì</item>
+	<item>aruaì</item>
 	<annotation>Vomit</annotation>
 	<loan></loan>
 	<cognacy>x</cognacy>
@@ -1559,7 +1559,7 @@
 	<id>27371</id>
 	<word_id>77</word_id>
 	<word>to scratch</word>
-	<item>raku/raku</item>
+	<item>rakuraku</item>
 	<annotation>Scratch</annotation>
 	<loan></loan>
 	<cognacy>9</cognacy>
@@ -1713,7 +1713,7 @@
 	<id>31298</id>
 	<word_id>88</word_id>
 	<word>to squeeze</word>
-	<item>romi/romi</item>
+	<item>romiromi</item>
 	<annotation>Cover, press upon</annotation>
 	<loan></loan>
 	<cognacy>10</cognacy>
@@ -1845,7 +1845,7 @@
 	<id>104588</id>
 	<word_id>95</word_id>
 	<word>to fall</word>
-	<item>àka/too/</item>
+	<item>àkatoo</item>
 	<annotation>Fall straight down (Tgr)</annotation>
 	<loan></loan>
 	<cognacy>14</cognacy>
@@ -2087,7 +2087,7 @@
 	<id>38081</id>
 	<word_id>107</word_id>
 	<word>worm (earthworm)</word>
-	<item>iri/toke/</item>
+	<item>iritoke</item>
 	<annotation>Earthworm</annotation>
 	<loan></loan>
 	<cognacy>7, 80</cognacy>
@@ -2143,17 +2143,6 @@
 	<word_id>110</word_id>
 	<word>spider</word>
 	<item>pugaverevere</item>
-	<annotation>Arraignee (Jnu)</annotation>
-	<loan></loan>
-	<cognacy>x</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>105177</id>
-	<word_id>110</word_id>
-	<word>spider</word>
-	<item>puga/verevere/</item>
 	<annotation>Arraignee (Jnu)</annotation>
 	<loan></loan>
 	<cognacy>x</cognacy>
@@ -2890,7 +2879,7 @@
 	<id>51647</id>
 	<word_id>145</word_id>
 	<word>smoke</word>
-	<item>au/ahi</item>
+	<item>auahi</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>2</cognacy>
@@ -2923,7 +2912,7 @@
 	<id>123250</id>
 	<word_id>147</word_id>
 	<word>black</word>
-	<item>kere/kere</item>
+	<item>kerekere</item>
 	<annotation>Bluish-black, as very deep sea</annotation>
 	<loan></loan>
 	<cognacy>5</cognacy>
@@ -3033,7 +3022,7 @@
 	<id>123462</id>
 	<word_id>152</word_id>
 	<word>small</word>
-	<item>riki/riki</item>
+	<item>rikiriki</item>
 	<annotation>Etre petit</annotation>
 	<loan></loan>
 	<cognacy>66</cognacy>
@@ -3154,7 +3143,7 @@
 	<id>89920</id>
 	<word_id>158</word_id>
 	<word>narrow</word>
-	<item>koma/koma</item>
+	<item>komakoma</item>
 	<annotation>Strait, narrow (Tgr)</annotation>
 	<loan></loan>
 	<cognacy>10</cognacy>
@@ -3165,7 +3154,7 @@
 	<id>89921</id>
 	<word_id>158</word_id>
 	<word>narrow</word>
-	<item>ko/koma/</item>
+	<item>kokoma</item>
 	<annotation>A narrow place, a strait, a defile (Tgr)</annotation>
 	<loan></loan>
 	<cognacy>10</cognacy>
@@ -3451,7 +3440,7 @@
 	<id>60929</id>
 	<word_id>171</word_id>
 	<word>to hide</word>
-	<item>pu/puni</item>
+	<item>pupuni</item>
 	<annotation>To hide; be enclosed, shut in</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -3495,7 +3484,7 @@
 	<id>321574</id>
 	<word_id>173</word_id>
 	<word>at</word>
-	<item>i/ki</item>
+	<item>iki</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -3682,7 +3671,7 @@
 	<id>321449</id>
 	<word_id>184</word_id>
 	<word>he/she</word>
-	<item>ia/koia</item>
+	<item>iakoia</item>
 	<annotation>'ona is used also today due to influence from Tahitian.</annotation>
 	<loan></loan>
 	<cognacy>1, 42</cognacy>
@@ -3803,7 +3792,7 @@
 	<id>89923</id>
 	<word_id>189</word_id>
 	<word>who?</word>
-	<item>v/ai</item>
+	<item>vai</item>
 	<annotation>Who? (I) - no [v] form-MW</annotation>
 	<loan></loan>
 	<cognacy>x</cognacy>
@@ -3880,7 +3869,7 @@
 	<id>70211</id>
 	<word_id>197</word_id>
 	<word>One</word>
-	<item>e/taì</item>
+	<item>etaì</item>
 	<annotation>One</annotation>
 	<loan></loan>
 	<cognacy>x</cognacy>
@@ -3910,33 +3899,11 @@
 </record>
 
 <record>
-	<id>321437</id>
-	<word_id>198</word_id>
-	<word>Two</word>
-	<item>rua</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>1</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>70925</id>
 	<word_id>199</word_id>
 	<word>Three</word>
 	<item>toru</item>
 	<annotation>Three</annotation>
-	<loan></loan>
-	<cognacy>1</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>321436</id>
-	<word_id>199</word_id>
-	<word>Three</word>
-	<item>toru</item>
-	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -3976,33 +3943,11 @@
 </record>
 
 <record>
-	<id>321425</id>
-	<word_id>201</word_id>
-	<word>Five</word>
-	<item>rima</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>1</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>321426</id>
 	<word_id>202</word_id>
 	<word>Six</word>
 	<item>ono</item>
 	<annotation></annotation>
-	<loan></loan>
-	<cognacy>1</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>83681</id>
-	<word_id>203</word_id>
-	<word>Seven</word>
-	<item>'itu</item>
-	<annotation>Seven.(Source: Pollex)</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -4086,33 +4031,11 @@
 </record>
 
 <record>
-	<id>321433</id>
-	<word_id>209</word_id>
-	<word>One Hundred</word>
-	<item>rau</item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy>2</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>83332</id>
 	<word_id>210</word_id>
 	<word>One Thousand</word>
 	<item>mano</item>
 	<annotation>Thousand, (previously two thousand) (Jnu).(Source: Pollex)</annotation>
-	<loan></loan>
-	<cognacy>2</cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>321434</id>
-	<word_id>210</word_id>
-	<word>One Thousand</word>
-	<item>mano</item>
-	<annotation></annotation>
 	<loan></loan>
 	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>

@@ -55,11 +55,22 @@
 </record>
 
 <record>
-	<id>288417</id>
+	<id>3244948</id>
 	<word_id>4</word_id>
 	<word>leg/foot</word>
-	<item>perna/pé</item>
-	<annotation></annotation>
+	<item>perna</item>
+	<annotation>leg</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3244949</id>
+	<word_id>4</word_id>
+	<word>leg/foot</word>
+	<item>pé</item>
+	<annotation>foot</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2178,11 +2189,22 @@
 </record>
 
 <record>
-	<id>288597</id>
+	<id>3244947</id>
 	<word_id>184</word_id>
 	<word>he/she</word>
-	<item>ele/ela</item>
-	<annotation></annotation>
+	<item>ela</item>
+	<annotation>she</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3244946</id>
+	<word_id>184</word_id>
+	<word>he/she</word>
+	<item>ele</item>
+	<annotation>he</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -2211,11 +2233,22 @@
 </record>
 
 <record>
-	<id>288600</id>
+	<id>3244942</id>
 	<word_id>187</word_id>
 	<word>they</word>
-	<item>eles/elas</item>
-	<annotation></annotation>
+	<item>eles</item>
+	<annotation>they</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3244943</id>
+	<word_id>187</word_id>
+	<word>they</word>
+	<item>elas</item>
+	<annotation>they</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>

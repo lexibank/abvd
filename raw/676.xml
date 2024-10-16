@@ -21,10 +21,15 @@
 </record>
 
 <record>
+	<latitude>-44.00000000000000000000</latitude>
+	<longitude>-176.50000000000000000000</longitude>
+</record>
+
+<record>
 	<id>175695</id>
 	<word_id>1</word_id>
 	<word>hand</word>
-	<item>ri/rima</item>
+	<item>ririma</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1, 64</cognacy>
@@ -57,7 +62,7 @@
 	<id>175832</id>
 	<word_id>4</word_id>
 	<word>leg/foot</word>
-	<item>wae/wae</item>
+	<item>waewae</item>
 	<annotation>leg</annotation>
 	<loan></loan>
 	<cognacy>1, 100</cognacy>
@@ -68,7 +73,7 @@
 	<id>175833</id>
 	<word_id>4</word_id>
 	<word>leg/foot</word>
-	<item>wee/wee</item>
+	<item>weewee</item>
 	<annotation>leg</annotation>
 	<loan></loan>
 	<cognacy>1, 100</cognacy>
@@ -79,7 +84,7 @@
 	<id>175834</id>
 	<word_id>4</word_id>
 	<word>leg/foot</word>
-	<item>wa/wae</item>
+	<item>wawae</item>
 	<annotation>foot</annotation>
 	<loan></loan>
 	<cognacy>1, 100</cognacy>
@@ -178,7 +183,7 @@
 	<id>175839</id>
 	<word_id>13</word_id>
 	<word>back</word>
-	<item>tuu/ra</item>
+	<item>tuura</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>11, 113</cognacy>
@@ -189,7 +194,7 @@
 	<id>175840</id>
 	<word_id>13</word_id>
 	<word>back</word>
-	<item>tchu/ra</item>
+	<item>tchura</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>11, 113</cognacy>
@@ -387,7 +392,7 @@
 	<id>175719</id>
 	<word_id>32</word_id>
 	<word>tongue</word>
-	<item>w/arero/</item>
+	<item>warero</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>15</cognacy>
@@ -541,7 +546,7 @@
 	<id>175728</id>
 	<word_id>42</word_id>
 	<word>to suck</word>
-	<item>mo/momi</item>
+	<item>momomi</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>71</cognacy>
@@ -1025,7 +1030,7 @@
 	<id>175755</id>
 	<word_id>78</word_id>
 	<word>to cut, hack</word>
-	<item>e/he(e)</item>
+	<item>ehe(e)</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>10</cognacy>
@@ -1036,7 +1041,7 @@
 	<id>175756</id>
 	<word_id>80</word_id>
 	<word>to split</word>
-	<item>wa/wahi</item>
+	<item>wawahi</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>4</cognacy>
@@ -1267,7 +1272,7 @@
 	<id>175774</id>
 	<word_id>115</word_id>
 	<word>root</word>
-	<item>pu/rakau-timu</item>
+	<item>purakau-timu</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>2?</cognacy>
@@ -1311,7 +1316,7 @@
 	<id>175778</id>
 	<word_id>119</word_id>
 	<word>earth/soil</word>
-	<item>one/one</item>
+	<item>oneone</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>35</cognacy>
@@ -1366,7 +1371,7 @@
 	<id>175782</id>
 	<word_id>127</word_id>
 	<word>woods/forest</word>
-	<item>ngahere/here</item>
+	<item>ngaherehere</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>16</cognacy>
@@ -1432,7 +1437,7 @@
 	<id>175889</id>
 	<word_id>135</word_id>
 	<word>lightning</word>
-	<item>ra/uira</item>
+	<item>rauira</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>2</cognacy>
@@ -1553,7 +1558,7 @@
 	<id>175895</id>
 	<word_id>144</word_id>
 	<word>to burn</word>
-	<item>tahu/na</item>
+	<item>tahuna</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>8</cognacy>
@@ -1674,7 +1679,7 @@
 	<id>175804</id>
 	<word_id>157</word_id>
 	<word>thick</word>
-	<item>ma/to/toru</item>
+	<item>matotoru</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>3</cognacy>
@@ -1949,7 +1954,7 @@
 	<id>175823</id>
 	<word_id>200</word_id>
 	<word>Four</word>
-	<item>te/wha</item>
+	<item>tewha</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1,66</cognacy>
@@ -1960,7 +1965,7 @@
 	<id>175911</id>
 	<word_id>201</word_id>
 	<word>Five</word>
-	<item>te/rima</item>
+	<item>terima</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -1971,7 +1976,7 @@
 	<id>175912</id>
 	<word_id>201</word_id>
 	<word>Five</word>
-	<item>e/rim'</item>
+	<item>erim'</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -1982,7 +1987,7 @@
 	<id>175825</id>
 	<word_id>202</word_id>
 	<word>Six</word>
-	<item>te/ono</item>
+	<item>teono</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -1993,7 +1998,7 @@
 	<id>175826</id>
 	<word_id>203</word_id>
 	<word>Seven</word>
-	<item>te/whitu</item>
+	<item>tewhitu</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
@@ -2004,7 +2009,7 @@
 	<id>175913</id>
 	<word_id>204</word_id>
 	<word>Eight</word>
-	<item>te/waru</item>
+	<item>tewaru</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>3</cognacy>
@@ -2015,7 +2020,7 @@
 	<id>175914</id>
 	<word_id>204</word_id>
 	<word>Eight</word>
-	<item>e/waru</item>
+	<item>ewaru</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>3</cognacy>
@@ -2026,7 +2031,7 @@
 	<id>175828</id>
 	<word_id>205</word_id>
 	<word>Nine</word>
-	<item>te/iwa</item>
+	<item>teiwa</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>5,44</cognacy>
@@ -2037,7 +2042,7 @@
 	<id>175915</id>
 	<word_id>206</word_id>
 	<word>Ten</word>
-	<item>te/arauru</item>
+	<item>tearauru</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>

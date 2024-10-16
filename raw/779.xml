@@ -235,10 +235,10 @@ Enga is the most widely spoken Trans-New Guinea language. Dialects include Laiap
 </record>
 
 <record>
-	<id>198519</id>
+	<id>3245003</id>
 	<word_id>12</word_id>
 	<word>skin</word>
-	<item>yanóngé. yanú</item>
+	<item>yanóngé</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -261,6 +261,17 @@ Enga is the most widely spoken Trans-New Guinea language. Dialects include Laiap
 	<word_id>12</word_id>
 	<word>skin</word>
 	<item>yóngé</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3245004</id>
+	<word_id>12</word_id>
+	<word>skin</word>
+	<item>yanú</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -378,10 +389,21 @@ Enga is the most widely spoken Trans-New Guinea language. Dialects include Laiap
 </record>
 
 <record>
-	<id>198528</id>
+	<id>3245001</id>
 	<word_id>19</word_id>
 	<word>shoulder</word>
-	<item>lataiyá. lengé</item>
+	<item>lataiyá</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3245002</id>
+	<word_id>19</word_id>
+	<word>shoulder</word>
+	<item>lengé</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -851,10 +873,10 @@ Enga is the most widely spoken Trans-New Guinea language. Dialects include Laiap
 </record>
 
 <record>
-	<id>198354</id>
+	<id>3244995</id>
 	<word_id>47</word_id>
 	<word>to yawn</word>
-	<item>angamáe mandengé/miníngi</item>
+	<item>angamáe mandengé</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -862,10 +884,43 @@ Enga is the most widely spoken Trans-New Guinea language. Dialects include Laiap
 </record>
 
 <record>
-	<id>198355</id>
+	<id>3244996</id>
+	<word_id>47</word_id>
+	<word>to yawn</word>
+	<item>miníngi</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3245005</id>
 	<word_id>48</word_id>
 	<word>to sleep</word>
-	<item>(luú) palengé/palingí/palyingí</item>
+	<item>(luú) palengé</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3245006</id>
+	<word_id>48</word_id>
+	<word>to sleep</word>
+	<item>palingí</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3245007</id>
+	<word_id>48</word_id>
+	<word>to sleep</word>
+	<item>palyingí</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1225,10 +1280,21 @@ Enga is the most widely spoken Trans-New Guinea language. Dialects include Laiap
 </record>
 
 <record>
-	<id>198380</id>
+	<id>3244991</id>
 	<word_id>76</word_id>
 	<word>to live, be alive</word>
-	<item>léte katengé/petengé</item>
+	<item>léte katengé</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3244992</id>
+	<word_id>76</word_id>
+	<word>to live, be alive</word>
+	<item>petengé</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1852,10 +1918,10 @@ Enga is the most widely spoken Trans-New Guinea language. Dialects include Laiap
 </record>
 
 <record>
-	<id>198608</id>
+	<id>3244993</id>
 	<word_id>110</word_id>
 	<word>spider</word>
-	<item>gálu. kakeámúni</item>
+	<item>gálu</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -1867,6 +1933,17 @@ Enga is the most widely spoken Trans-New Guinea language. Dialects include Laiap
 	<word_id>110</word_id>
 	<word>spider</word>
 	<item>ipáiyapái</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3244994</id>
+	<word_id>110</word_id>
+	<word>spider</word>
+	<item>kakeámúni</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -2391,10 +2468,21 @@ Enga is the most widely spoken Trans-New Guinea language. Dialects include Laiap
 </record>
 
 <record>
-	<id>198440</id>
+	<id>3244997</id>
 	<word_id>138</word_id>
 	<word>warm</word>
-	<item>ayene kaengé/pingí</item>
+	<item>ayene kaengé</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3244998</id>
+	<word_id>138</word_id>
+	<word>warm</word>
+	<item>pingí</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -2655,10 +2743,21 @@ Enga is the most widely spoken Trans-New Guinea language. Dialects include Laiap
 </record>
 
 <record>
-	<id>198665</id>
+	<id>3244985</id>
 	<word_id>149</word_id>
 	<word>red</word>
-	<item>kangyóó. kóne</item>
+	<item>kangyóó</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3244986</id>
+	<word_id>149</word_id>
+	<word>red</word>
+	<item>kóne</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -3370,11 +3469,22 @@ Enga is the most widely spoken Trans-New Guinea language. Dialects include Laiap
 </record>
 
 <record>
-	<id>198480</id>
+	<id>3244999</id>
 	<word_id>182</word_id>
 	<word>I</word>
-	<item>nambá. naá</item>
-	<annotation>2nd word: Laiapo dialect (?)</annotation>
+	<item>nambá</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3245000</id>
+	<word_id>182</word_id>
+	<word>I</word>
+	<item>naá</item>
+	<annotation>Laiapo dialect (?)</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -3447,10 +3557,10 @@ Enga is the most widely spoken Trans-New Guinea language. Dialects include Laiap
 </record>
 
 <record>
-	<id>198727</id>
+	<id>3244989</id>
 	<word_id>187</word_id>
 	<word>they</word>
-	<item>alyutúpa. dúpa</item>
+	<item>alyutúpa</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -3462,6 +3572,17 @@ Enga is the most widely spoken Trans-New Guinea language. Dialects include Laiap
 	<word_id>187</word_id>
 	<word>they</word>
 	<item>ókóita</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3244990</id>
+	<word_id>187</word_id>
+	<word>they</word>
+	<item>dúpa</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -3733,10 +3854,10 @@ Enga is the most widely spoken Trans-New Guinea language. Dialects include Laiap
 </record>
 
 <record>
-	<id>198746</id>
+	<id>3244987</id>
 	<word_id>201</word_id>
 	<word>Five</word>
-	<item>yáunge. yuungí</item>
+	<item>yáunge</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -3748,6 +3869,17 @@ Enga is the most widely spoken Trans-New Guinea language. Dialects include Laiap
 	<word_id>201</word_id>
 	<word>Five</word>
 	<item>yángí púndu</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3244988</id>
+	<word_id>201</word_id>
+	<word>Five</word>
+	<item>yuungí</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>

@@ -26,6 +26,11 @@ The numerals in Caac have been collected by Maurice LEENHARDT. To check the Caac
 </record>
 
 <record>
+	<latitude>-20.41140000000000000000</latitude>
+	<longitude>164.57800000000000000000</longitude>
+</record>
+
+<record>
 	<id>346730</id>
 	<word_id>1</word_id>
 	<word>hand</word>
@@ -1104,11 +1109,22 @@ The numerals in Caac have been collected by Maurice LEENHARDT. To check the Caac
 </record>
 
 <record>
-	<id>346819</id>
+	<id>3244936</id>
 	<word_id>98</word_id>
 	<word>egg</word>
-	<item>pʰi:en(1)/pʰi:ɣe(2)</item>
-	<annotation>pʰi:-en/ɣe : this morphological variation seems to be related to the phonetical environment; (1) pʰi:en menic 'bird egg&quot;; (2) pʰi:ɣe ho 'chicken egg'</annotation>
+	<item>pʰi:en</item>
+	<annotation>this morphological variation seems to be related to the phonetical environment (1) pʰi:en menic 'bird egg&quot;</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3244937</id>
+	<word_id>98</word_id>
+	<word>egg</word>
+	<item>pʰi:ɣe</item>
+	<annotation>this morphological variation seems to be related to the phonetical environment(2) pʰi:ɣe ho 'chicken egg'</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1379,10 +1395,21 @@ The numerals in Caac have been collected by Maurice LEENHARDT. To check the Caac
 </record>
 
 <record>
-	<id>346838</id>
+	<id>3244938</id>
 	<word_id>119</word_id>
 	<word>earth/soil</word>
-	<item>dilic/bwe delic</item>
+	<item>dilic</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3244939</id>
+	<word_id>119</word_id>
+	<word>earth/soil</word>
+	<item>bwe delic</item>
 	<annotation>bwe : 'surface'</annotation>
 	<loan></loan>
 	<cognacy></cognacy>

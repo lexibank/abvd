@@ -85,10 +85,21 @@
 </record>
 
 <record>
-	<id>190914</id>
+	<id>3244958</id>
 	<word_id>21</word_id>
 	<word>to think</word>
-	<item>*hnəm B ~ *hləm B</item>
+	<item>*hnəm B</item>
+	<annotation>to think of</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3244959</id>
+	<word_id>21</word_id>
+	<word>to think</word>
+	<item>*hləm B</item>
 	<annotation>to think of</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
@@ -558,10 +569,10 @@
 </record>
 
 <record>
-	<id>190953</id>
+	<id>3244956</id>
 	<word_id>161</word_id>
 	<word>shy, ashamed</word>
-	<item>*ʔɲæi A/B</item>
+	<item>*ʔɲæi (A,B)</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>

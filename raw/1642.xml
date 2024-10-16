@@ -31,6 +31,11 @@
 </record>
 
 <record>
+	<latitude>-19.57953000000000000000</latitude>
+	<longitude>169.35603000000000000000</longitude>
+</record>
+
+<record>
 	<id>3230900</id>
 	<word_id>1</word_id>
 	<word>hand</word>
@@ -48,7 +53,7 @@
 	<item>mawol</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,59</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -488,7 +493,7 @@
 	<item>nɨm̃</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -741,7 +746,7 @@
 	<item>nim̃ə</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

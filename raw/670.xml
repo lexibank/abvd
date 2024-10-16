@@ -3179,11 +3179,22 @@
 </record>
 
 <record>
-	<id>172756</id>
+	<id>3245012</id>
 	<word_id>178</word_id>
 	<word>that</word>
-	<item>se-/si-</item>
-	<annotation>that, there</annotation>
+	<item>se-</item>
+	<annotation>that</annotation>
+	<loan></loan>
+	<cognacy></cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3245013</id>
+	<word_id>178</word_id>
+	<word>that</word>
+	<item>si-</item>
+	<annotation>there</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
