@@ -9,7 +9,14 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, North and Central Vanuatu, Northeast Vanuatu-Banks Islands, East Vanuatu, West Ambrym</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>
+        @misc{vonPrince-1712-2012,
+          author = "von Prince, K",
+          date = "2012",
+          title = "Dalkalaen: A dictionary from Dalkalaen to Bislama to English",
+          howpublished = "personal communication"
+        }
+    </source>
 </record>
 
 <record>
@@ -74,7 +81,7 @@
 	<item>rralir</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>100</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -85,7 +92,7 @@
 	<item>dalir</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>100</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -206,7 +213,7 @@
 	<item>alu</item>
 	<annotation>n.tr</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,80</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -217,7 +224,7 @@
 	<item>alun</item>
 	<annotation>n.tr.b</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -228,7 +235,7 @@
 	<item>aluk</item>
 	<annotation>1s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,80</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -239,7 +246,7 @@
 	<item>alum</item>
 	<annotation>2s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -250,7 +257,7 @@
 	<item>mudun</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>35</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -261,7 +268,7 @@
 	<item>teban</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>60</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -272,7 +279,7 @@
 	<item>baasu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>52,59</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -294,7 +301,7 @@
 	<item>rengyar</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>30</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -305,7 +312,7 @@
 	<item>susuu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -316,7 +323,7 @@
 	<item>ban</item>
 	<annotation>n.tr.b</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>65</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -338,7 +345,7 @@
 	<item>pam</item>
 	<annotation>2s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>79</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -349,7 +356,7 @@
 	<item>paa</item>
 	<annotation>3p</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -360,7 +367,7 @@
 	<item>kerbwere</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>100</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -371,7 +378,7 @@
 	<item>demene</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>13</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -382,7 +389,7 @@
 	<item>nor</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>77</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -393,7 +400,7 @@
 	<item>da</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -404,7 +411,7 @@
 	<item>batun</item>
 	<annotation>n.tr.b</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -415,7 +422,7 @@
 	<item>batok</item>
 	<annotation>1s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -426,7 +433,7 @@
 	<item>batom</item>
 	<annotation>2s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -437,7 +444,7 @@
 	<item>bwer</item>
 	<annotation>head</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -448,7 +455,7 @@
 	<item>audo</item>
 	<annotation>n.tr.b</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>42</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -459,7 +466,7 @@
 	<item>audok</item>
 	<annotation>1s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>42</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -470,7 +477,7 @@
 	<item>audom</item>
 	<annotation>2s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>42</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -481,7 +488,7 @@
 	<item>vyulun</item>
 	<annotation>n.tr.b</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>31</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -492,7 +499,7 @@
 	<item>vyuluk</item>
 	<annotation>1s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>31</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -503,7 +510,7 @@
 	<item>vyulum</item>
 	<annotation>2s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>31</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -514,7 +521,7 @@
 	<item>vyulur</item>
 	<annotation>1p.in</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>31</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -525,7 +532,7 @@
 	<item>vyulomro</item>
 	<annotation>2d</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>31</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -536,7 +543,7 @@
 	<item>vyuloo</item>
 	<annotation>3p</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>31</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -547,7 +554,7 @@
 	<item>kusun</item>
 	<annotation>n.tr.b</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,58</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -558,7 +565,7 @@
 	<item>kusuk</item>
 	<annotation>1s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,58</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -569,7 +576,7 @@
 	<item>kusum</item>
 	<annotation>2s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,58</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -580,7 +587,7 @@
 	<item>long</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -591,7 +598,7 @@
 	<item>bongo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>41</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -602,7 +609,7 @@
 	<item>lép</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,35?</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -613,7 +620,7 @@
 	<item>myan</item>
 	<annotation>n.tr.b</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -624,7 +631,7 @@
 	<item>myak</item>
 	<annotation>1s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -635,7 +642,7 @@
 	<item>myam</item>
 	<annotation>2s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -646,7 +653,7 @@
 	<item>myaa</item>
 	<annotation>3p</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>7</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -657,7 +664,7 @@
 	<item>myan</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>51</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -668,7 +675,7 @@
 	<item>deng</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -679,7 +686,7 @@
 	<item>rreng</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1?</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -690,7 +697,7 @@
 	<item>fee</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>35</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -701,7 +708,7 @@
 	<item>kuufe</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>19,34</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -712,7 +719,7 @@
 	<item>en</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -734,7 +741,7 @@
 	<item>búsung</item>
 	<annotation>boil</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -745,7 +752,7 @@
 	<item>tera</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>129</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -756,7 +763,7 @@
 	<item>múni</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,49</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -767,7 +774,7 @@
 	<item>múnu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,49</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -778,7 +785,7 @@
 	<item>ate</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,55</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -789,7 +796,7 @@
 	<item>ker</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -800,7 +807,7 @@
 	<item>sumu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>51</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -811,7 +818,7 @@
 	<item>simi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>51</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -822,7 +829,7 @@
 	<item>susuu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>25</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -833,7 +840,7 @@
 	<item>delinan</item>
 	<annotation>n.tr.b</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1, 40</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -844,7 +851,7 @@
 	<item>delina</item>
 	<annotation>1s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1, 40</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -855,7 +862,7 @@
 	<item>delinam</item>
 	<annotation>2s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1, 40</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -866,7 +873,7 @@
 	<item>delinaa</item>
 	<annotation>3p</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1, 40</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -877,7 +884,7 @@
 	<item>long</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -888,7 +895,7 @@
 	<item>metan</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -899,7 +906,7 @@
 	<item>myar</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -910,7 +917,7 @@
 	<item>iya</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>14,94</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -921,7 +928,7 @@
 	<item>fwer</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>87</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -943,7 +950,7 @@
 	<item>fwerka</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>81</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -954,7 +961,7 @@
 	<item>taa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>121</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -976,7 +983,7 @@
 	<item>taraa</item>
 	<annotation>rise/get up</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -998,7 +1005,7 @@
 	<item>vyanten</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>75, 89</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1009,7 +1016,7 @@
 	<item>veen</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1020,7 +1027,7 @@
 	<item>niti</item>
 	<annotation>child</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>5</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1031,7 +1038,7 @@
 	<item>nutun</item>
 	<annotation>n.tr.b</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>5</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1042,7 +1049,7 @@
 	<item>nutuk</item>
 	<annotation>1s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>5</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1053,7 +1060,7 @@
 	<item>nutum</item>
 	<annotation>2s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>5</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1064,7 +1071,7 @@
 	<item>nitiro</item>
 	<annotation>3d</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>5</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1075,7 +1082,7 @@
 	<item>nuturo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>5</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1086,7 +1093,7 @@
 	<item>maama</item>
 	<annotation>mother</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>5</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1097,7 +1104,7 @@
 	<item>rahen</item>
 	<annotation>mother of n.tr.b</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>95</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1108,7 +1115,7 @@
 	<item>rahek</item>
 	<annotation>mother of 1s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>20,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1119,7 +1126,7 @@
 	<item>rahem</item>
 	<annotation>mother of 2s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>95</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1141,7 +1148,7 @@
 	<item>taata</item>
 	<annotation>father</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>19</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1152,7 +1159,7 @@
 	<item>tima</item>
 	<annotation>father of</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1174,7 +1181,7 @@
 	<item>timyak</item>
 	<annotation>1s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1185,7 +1192,7 @@
 	<item>tumum</item>
 	<annotation>2s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1196,7 +1203,7 @@
 	<item>im</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1218,7 +1225,7 @@
 	<item>ka</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>119</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1229,7 +1236,7 @@
 	<item>kala</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>108</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1240,7 +1247,7 @@
 	<item>aua</item>
 	<annotation>liana, rope, cable</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>59</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1251,7 +1258,7 @@
 	<item>bijine</item>
 	<annotation>fasten</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>85</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1262,7 +1269,7 @@
 	<item>bisi</item>
 	<annotation>bind</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1273,7 +1280,7 @@
 	<item>luwo</item>
 	<annotation>fasten</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,39</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1284,7 +1291,7 @@
 	<item>oro</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>78</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1295,7 +1302,7 @@
 	<item>fen</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1306,7 +1313,7 @@
 	<item>tubu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1317,7 +1324,7 @@
 	<item>su</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,8</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1350,7 +1357,7 @@
 	<item>tu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>8</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1394,7 +1401,7 @@
 	<item>mer</item>
 	<annotation>die</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1416,7 +1423,7 @@
 	<item>meu</item>
 	<annotation>live/be alive/be in good health</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,76</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1449,7 +1456,7 @@
 	<item>ta</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1460,7 +1467,7 @@
 	<item>tae</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1482,7 +1489,7 @@
 	<item>woka</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1493,7 +1500,7 @@
 	<item>ken</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>14</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1504,7 +1511,7 @@
 	<item>gee</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1515,7 +1522,7 @@
 	<item>bebyap</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>79</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1526,7 +1533,7 @@
 	<item>byabyap</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>79</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1548,7 +1555,7 @@
 	<item>luk</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1581,7 +1588,7 @@
 	<item>fuune</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>85</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1592,7 +1599,7 @@
 	<item>kil</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1603,7 +1610,7 @@
 	<item>foo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1614,7 +1621,7 @@
 	<item>gele</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>48</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1680,7 +1687,7 @@
 	<item>mur</item>
 	<annotation>many things</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>57</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1691,7 +1698,7 @@
 	<item>so</item>
 	<annotation>v.</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>13</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1713,7 +1720,7 @@
 	<item>basel</item>
 	<annotation>large bird</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>30</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1724,7 +1731,7 @@
 	<item>dalu</item>
 	<annotation>egg</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1735,7 +1742,7 @@
 	<item>ka</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>14</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1746,7 +1753,7 @@
 	<item>tomo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>72</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1768,7 +1775,7 @@
 	<item>girin</item>
 	<annotation>n.infl</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>39</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1790,7 +1797,7 @@
 	<item>girim</item>
 	<annotation>2s</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>39</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1801,7 +1808,7 @@
 	<item>teljil</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>13</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1823,7 +1830,7 @@
 	<item>ur</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1834,7 +1841,7 @@
 	<item>bamken</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>35</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1856,7 +1863,7 @@
 	<item>rramwele</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1867,7 +1874,7 @@
 	<item>damwele</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1878,7 +1885,7 @@
 	<item>myasolo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>53, 82</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1911,7 +1918,7 @@
 	<item>re</item>
 	<annotation>leaf</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1922,7 +1929,7 @@
 	<item>resogo</item>
 	<annotation>leaves</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>51,53</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1933,7 +1940,7 @@
 	<item>libwi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>18</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1955,7 +1962,7 @@
 	<item>wo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,26</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1977,7 +1984,7 @@
 	<item>tan</item>
 	<annotation>ground</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1999,7 +2006,7 @@
 	<item>woon</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2010,7 +2017,7 @@
 	<item>wo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2109,7 +2116,7 @@
 	<item>leng</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,77</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2120,7 +2127,7 @@
 	<item>hu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>4,62</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2164,7 +2171,7 @@
 	<item>nirnir</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>35</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2175,7 +2182,7 @@
 	<item>myap</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>46</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2274,7 +2281,7 @@
 	<item>mirmir</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2362,7 +2369,7 @@
 	<item>mwermwer</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2395,7 +2402,7 @@
 	<item>mese</item>
 	<annotation>to be sick</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2417,7 +2424,7 @@
 	<item>myato</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2461,7 +2468,7 @@
 	<item>sanga</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,100</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2483,7 +2490,7 @@
 	<item>bung</item>
 	<annotation>coll.</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2615,7 +2622,7 @@
 	<item>loli</item>
 	<annotation>inside</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2626,7 +2633,7 @@
 	<item>lon</item>
 	<annotation>in</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2670,7 +2677,7 @@
 	<item>ni</item>
 	<annotation>I/me</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,21,22</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2681,7 +2688,7 @@
 	<item>nek</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,17,18</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2791,7 +2798,7 @@
 	<item>gami</item>
 	<annotation>you-pl (many)</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,13</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2802,7 +2809,7 @@
 	<item>gamjul</item>
 	<annotation>you-pl (paucal)</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,13</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2890,7 +2897,7 @@
 	<item>si</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2989,7 +2996,7 @@
 	<item>sup</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>28</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3011,7 +3018,7 @@
 	<item>ru</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3044,7 +3051,7 @@
 	<item>lim</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

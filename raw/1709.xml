@@ -17,7 +17,51 @@ Wycliffe Bible Translators. 2009. Tomunga hel heueu ngana: The New Testament in 
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Ngero-Vitiaz, Vitiaz, Mengen</classification>
 	<typedby>Russell Barlow</typedby>
 	<checkedby>Russell Barlow</checkedby>
-	<source></source>
+	<source>
+@misc{barlow2024,
+  author = {Barlow, Russell},
+  date = {2024},
+  title = {Lote wordlist: Based on elicitation sessions with Leo Lang from Uvol village},
+  note = {recorded in Kokopo, East New Britain, November 2022},
+  doi = {10.5281/zenodo.14505730.},
+  language = {en}
+}
+@incollection{grace1955a,
+  author = {Grace, George W.},
+  date = {1955},
+  title = {Columbia University notebook, pt. 3},
+  note = {Unpublished MS.},
+  url = {https://digital.library.manoa.hawaii.edu/grace/docs.},
+  language = {en},
+  booktitle = {The George Grace linguistic research and slides of Melanesia collection, 1955–1956: Online documents}
+}
+@book{pearson2008a,
+  author = {Pearson, Greg and Berg and René},
+  date = {2008},
+  title = {Lote grammar sketch},
+  publisher = {SIL-PNG Academic Publications},
+  url = {https://www.sil.org/resources/archives/23806.},
+  language = {en},
+  series = {Data Papers on Papua New Guinea Languages 54},
+  address = {Ukarumpa}
+}
+@misc{ross1977a,
+  author = {Ross, Malcolm},
+  date = {1977},
+  title = {Konomala Mamusi Uvol Tomoip},
+  note = {XWAV/MPEG/PDF/TIFF/JPEG. MR1-012 at catalog.paradisec.org.au.},
+  url = {https://doi.org/10.4225/72/56FFE00776765.},
+  doi = {10.4225/72/56FFE00776765.},
+  language = {hmn}
+}
+@book{translators2009a,
+  author = {Translators, Wycliffe Bible},
+  date = {2009},
+  title = {Tomunga hel heueu ngana: The New Testament in the Lote language of Papua New Guinea: Nupela Testamen long tokples Lote long Niugini},
+  publisher = {Wycliffe Bible Translators, Inc},
+  language = {zh-Latn}
+}
+</source>
 </record>
 
 <record>

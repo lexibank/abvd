@@ -15,7 +15,34 @@ Entries are in the original orthography.</notes>
 	<classification>Austronesian, Malayo-Polynesian, Malayo-Chamic, Malayic, Malay</classification>
 	<typedby>Karl Andrei Flores</typedby>
 	<checkedby></checkedby>
-	<source></source>
+	<source>@article{koolhof2005a,
+  author = {Koolhof, S. and Ross, R.},
+  date = {2005},
+  title = {Upas, September and the Bugis at the cape of good hope. The context of a slave's letter},
+  volume = {70},
+  pages = {281–308 ,},
+  language = {en},
+  journal = {Archipel},
+  number = {1}
+}
+@article{davids1992a,
+  author = {Davids, A.},
+  date = {1992},
+  title = {Some Lexical Aspects of Cape Muslim Afrikaans},
+  volume = {2},
+  pages = {39–62},
+  language = {en},
+  journal = {Lexikos}
+}
+@book{wouden2012a,
+  editor = {Wouden, T.},
+  date = {2012},
+  title = {Roots of Afrikaans: Selected Writings of Hans Den Besten},
+  volume = {44},
+  publisher = {John Benjamins Publishing},
+  language = {nl}
+}
+</source>
 </record>
 
 <record>
@@ -79,7 +106,7 @@ Entries are in the original orthography.</notes>
 	<word>person/human being</word>
 	<item>manoesia</item>
 	<annotation>Loaned from Sanskrit</annotation>
-	<loan></loan>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -90,7 +117,7 @@ Entries are in the original orthography.</notes>
 	<word>woman/female</word>
 	<item>motjie</item>
 	<annotation>Loaned from Javanese</annotation>
-	<loan></loan>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -112,7 +139,7 @@ Entries are in the original orthography.</notes>
 	<word>wife</word>
 	<item>motjie</item>
 	<annotation>Loaned from Javanese</annotation>
-	<loan></loan>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -310,7 +337,7 @@ Entries are in the original orthography.</notes>
 	<word>thou</word>
 	<item>loe</item>
 	<annotation>Loaned from Hokkien</annotation>
-	<loan></loan>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
@@ -365,7 +392,7 @@ Entries are in the original orthography.</notes>
 	<word>if</word>
 	<item>kaloe</item>
 	<annotation>Loaned from Sanskrit jaka + Arabic law 'if'</annotation>
-	<loan></loan>
+	<loan>L</loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
