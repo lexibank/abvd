@@ -9,14 +9,12 @@
 	<classification>Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, North and Central Vanuatu, Northeast Vanuatu-Banks Islands, East Vanuatu, West Ambrym</classification>
 	<typedby>Simon Greenhill</typedby>
 	<checkedby></checkedby>
-	<source>
-        @misc{vonPrince-1712-2012,
-          author = "von Prince, K",
-          date = "2012",
-          title = "Dalkalaen: A dictionary from Dalkalaen to Bislama to English",
-          howpublished = "personal communication"
-        }
-    </source>
+	<source>@misc{vonPrince-1712-2012,
+  author = &quot;von Prince, K&quot;,
+  date = &quot;2012&quot;,
+  title = &quot;Dalkalaen: A dictionary from Dalkalaen to Bislama to English&quot;,
+  howpublished = &quot;personal communication&quot;
+}</source>
 </record>
 
 <record>
@@ -1764,7 +1762,7 @@
 	<item>mubu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>15, 70</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1819,7 +1817,7 @@
 	<item>tesulur</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>93</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1951,7 +1949,7 @@
 	<item>ungu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2028,7 +2026,7 @@
 	<item>tee</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2039,7 +2037,7 @@
 	<item>oro</item>
 	<annotation>bush</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>150</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2061,7 +2059,7 @@
 	<item>abyate</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>6</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2072,7 +2070,7 @@
 	<item>moso</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>13</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2138,7 +2136,7 @@
 	<item>fyang</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,50</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2149,7 +2147,7 @@
 	<item>melaa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2160,7 +2158,7 @@
 	<item>garo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>29</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2193,7 +2191,7 @@
 	<item>afyang</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2204,7 +2202,7 @@
 	<item>fyane</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>83</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2215,7 +2213,7 @@
 	<item>fyanen</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>83</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2237,7 +2235,7 @@
 	<item>yikon</item>
 	<annotation>n.</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>96</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2248,7 +2246,7 @@
 	<item>bulu</item>
 	<annotation>coll.</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>56</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2303,7 +2301,7 @@
 	<item>fifri</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>18</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2314,7 +2312,7 @@
 	<item>ngungu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>9</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2336,7 +2334,7 @@
 	<item>kikei</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>78</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2413,7 +2411,7 @@
 	<item>tebe</item>
 	<annotation>to be in pain</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>120</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2435,7 +2433,7 @@
 	<item>vivi</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2501,7 +2499,7 @@
 	<item>bung fifi</item>
 	<annotation>n.</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2523,7 +2521,7 @@
 	<item>libung</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2534,7 +2532,7 @@
 	<item>wobung</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2545,7 +2543,7 @@
 	<item>bone enbe</item>
 	<annotation>what time?</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>72</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2578,7 +2576,7 @@
 	<item>lingsine</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>37,38</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2589,7 +2587,7 @@
 	<item>lu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>34</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2600,7 +2598,7 @@
 	<item>folo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>38</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2666,7 +2664,7 @@
 	<item>be</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>3</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2699,7 +2697,7 @@
 	<item>ngae</item>
 	<annotation>he/she/it</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,29</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2820,7 +2818,7 @@
 	<item>gamro</item>
 	<annotation>you-pl (dual)</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,13</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2831,7 +2829,7 @@
 	<item>muju</item>
 	<annotation>you-pl (paucal)</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,13</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2853,7 +2851,7 @@
 	<item>enyeril</item>
 	<annotation>they (paucal)</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,33</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2864,7 +2862,7 @@
 	<item>nye</item>
 	<annotation>they</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,33</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2875,7 +2873,7 @@
 	<item>nyeru</item>
 	<annotation>they (dual)</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,33</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2886,7 +2884,7 @@
 	<item>ngaru</item>
 	<annotation>they (dual)</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,71</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2974,7 +2972,7 @@
 	<item>kulum</item>
 	<annotation>v.itr</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>95</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2985,7 +2983,7 @@
 	<item>kulumte</item>
 	<annotation>v.tr</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>95</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3007,7 +3005,7 @@
 	<item>tusup</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>28</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3040,7 +3038,7 @@
 	<item>vir</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>23</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3062,7 +3060,7 @@
 	<item>milipje</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>33</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3073,7 +3071,7 @@
 	<item>melipru</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>13</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3095,7 +3093,7 @@
 	<item>melafer</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>20</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -3106,7 +3104,7 @@
 	<item>sangavyul</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>5</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

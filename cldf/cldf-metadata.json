@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/abvd",
             "rdf:type": "prov:Entity",
-            "dc:created": "34adf55",
+            "dc:created": "46b7816",
             "dc:title": "Repository"
         },
         {
@@ -162,7 +162,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 1713,
+            "dc:extent": 1712,
             "tableSchema": {
                 "columns": [
                     {
@@ -284,7 +284,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 256115,
+            "dc:extent": 260176,
             "tableSchema": {
                 "columns": [
                     {

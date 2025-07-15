@@ -1,7 +1,7 @@
 <record>
 	<id>1713</id>
 	<language>Malay (1600)</language>
-	<author>D. Lombard (1970) le 'spraeck end woord-boek' de Frederick de Houtman, première méthode de malais parlé (fin du XVIe s.) présenté par Denys Lombard, avec la collaboration de Mmes Winarsih Arifin et Minnie Wibisono. Ecole française d'Extrême-Orient,</author>
+	<author>D. Lombard (1970) le &quot;spraeck end woord-boek&quot; de Frederick de Houtman, première méthode de malais parlé (fin du XVIe s.) présenté par Denys Lombard, avec la collaboration de Mmes Winarsih Arifin et Minnie Wibisono. Ecole française d'Extrême-Orient,</author>
 	<silcode>zsm</silcode>
 	<glottocode>stan1306</glottocode>
 	<notes>Frederick de Houtman was forced to stay in Aceh from 1599 to 1601. During that time he assembled materials on Malay as spoken in Aceh, consisting of a series of dialogues and a dictionary. There is one extant copy of the original, now in Djakarta National library. Translations in Latin, Spanish, English, were made soon afterwards. The original text was published in Amsterdam in 1673. Lombard had access to both the 1603 and 1673 editions. Details can be found in Lombard's introduction. This wordlist contains the materials in the dictionary. It is possible that the dialogues contain words missing in the ABVD meanings list. 
@@ -10,16 +10,14 @@
 	<classification>Austronesian, Malayo-Polynesian, Malayo-Chamic, Malayic, Malay</classification>
 	<typedby>Laurent Sagart</typedby>
 	<checkedby>Laurent Sagart</checkedby>
-	<source>
-        @book{lombard1970a,
-          title        = {le 'spraeck end woord-boek' de Frederick de Houtman, première méthode de malais parlé (fin du XVIe s.) présenté par Denys Lombard, avec la collaboration de Mmes Winarsih Arifin et Minnie Wibisono},
-          author       = {Lombard, D.},
-          publisher    = {Ecole française d'Extrême-Orient},
-          address      = {Paris},
-          date         = 1970,
-          language     = {fr}
-        }
-</source>
+	<source>@book{lombard1970a,
+  title        = {le 'spraeck end woord-boek' de Frederick de Houtman, première méthode de malais parlé (fin du XVIe s.) présenté par Denys Lombard, avec la collaboration de Mmes Winarsih Arifin et Minnie Wibisono},
+  author       = {Lombard, D.},
+  publisher    = {Ecole française d'Extrême-Orient},
+  address      = {Paris},
+  date         = 1970,
+  language     = {fr}
+}</source>
 </record>
 
 <record>
