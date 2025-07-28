@@ -12,7 +12,7 @@ If you use these data please cite
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
 
-Available online at https://abvd.shh.mpg.de/austronesian/
+Available online at [https://abvd.eva.mpg.de/austronesian/](https://abvd.eva.mpg.de/austronesian/)
 
 
 Conceptlists in Concepticon:
