@@ -12,7 +12,7 @@ If you use these data please cite
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
 
-Available online at [https://abvd.eva.mpg.de/austronesian/](https://abvd.eva.mpg.de/austronesian/)
+Available online at https://abvd.eva.mpg.de/austronesian/
 
 
 Conceptlists in Concepticon:
@@ -21,23 +21,23 @@ Conceptlists in Concepticon:
 
 
 [![Build Status](https://travis-ci.org/lexibank/abvd.svg?branch=master)](https://travis-ci.org/lexibank/abvd)
-![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-brightgreen.svg "Glottolog: 99%")
+![Glottolog: 96%](https://img.shields.io/badge/Glottolog-96%25-green.svg "Glottolog: 96%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 1,712 (linked to 1,035 different Glottocodes)
+- **Varieties:** 2,036 (linked to 1,046 different Glottocodes)
 - **Concepts:** 210 (linked to 210 different Concepticon concept sets)
-- **Lexemes:** 328,224
-- **Sources:** 925
-- **Synonymy:** 1.14
-- **Cognacy:** 260,176 cognates in 19,145 cognate sets (436 singletons)
+- **Lexemes:** 346,662
+- **Sources:** 926
+- **Synonymy:** 1.13
+- **Cognacy:** 291,675 cognates in 19,356 cognate sets (454 singletons)
 - **Cognate Diversity:** 0.06
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 1268/328224 (0.39%)
+- Entries missing sources: 1268/346662 (0.37%)
 
 # Contributors
 
