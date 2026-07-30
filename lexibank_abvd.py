@@ -6,7 +6,6 @@ from typing import Optional
 from nameparser import HumanName
 from clldutils.misc import slug
 from pylexibank.providers import abvd
-from pylexibank.util import progressbar
 from pylexibank import FormSpec, Concept
 
 
@@ -33,7 +32,7 @@ def normalize_names(names):
                 'R. Blust': 'Robert Blust',
             }.get(name, name)
             name = HumanName(name.title())
-            res.append('{0} {1}'.format(name.first or name.title, name.last).strip())
+            res.append(f'{name.first or name.title} {name.last}'.strip())
     return ' and '.join(res)
 
 
@@ -62,8 +61,8 @@ class Dataset(abvd.BVD):
             id_factory=lambda c: c.id.split('-')[-1]+ '_' + slug(c.english),
             lookup_factory=lambda c: c['ID'].split('_')[0]
         )
-        #for wl in progressbar(self.iter_wordlists(args.log), desc="cldfify"):
         for wl in self.iter_wordlists(args.log):
             wl.to_cldf(args.writer, concepts)
             # Now normalize the typedby and checkedby values:
-            args.writer.objects['LanguageTable'][-1] = normalize_contributors(args.writer.objects['LanguageTable'][-1])
+            args.writer.objects['LanguageTable'][-1] = normalize_contributors(
+                args.writer.objects['LanguageTable'][-1])
