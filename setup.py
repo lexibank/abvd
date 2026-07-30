@@ -19,6 +19,7 @@ setup(
         ]
     },
     install_requires=[
-        'pylexibank>=2.1',
+        'pylexibank>=4.1',
+        'cldfviz[cartopy]',
     ]
 )

@@ -4,12 +4,10 @@
     "dc:bibliographicCitation": "Greenhill, S.J., Blust. R, & Gray, R.D. (2008). The Austronesian Basic Vocabulary Database: From Bioinformatics to Lexomics. Evolutionary Bioinformatics, 4:271-283.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
-        "http://concepticon.clld.org/contributions/Blust-2008-210"
+        "https://concepticon.clld.org/contributions/Blust-2008-210"
     ],
     "dc:identifier": "https://abvd.eva.mpg.de/austronesian/",
-    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
-    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Greenhill et al.'s \"Austronesian Basic Vocabulary Database\" from 2020",
     "dcat:accessURL": "https://github.com/lexibank/abvd",
@@ -17,13 +15,13 @@
         {
             "rdf:about": "https://github.com/lexibank/abvd",
             "rdf:type": "prov:Entity",
-            "dc:created": "7eb744b",
+            "dc:created": "917c5a5",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.1",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         },
         {
@@ -35,7 +33,7 @@
         {
             "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.3.0-4-g824176a",
+            "dc:created": "v2.3.0",
             "dc:title": "CLTS"
         }
     ],
@@ -46,7 +44,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.13.1"
+            "dc:description": "3.12.3"
         },
         {
             "dc:title": "python-packages",
@@ -59,7 +57,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 346662,
+            "dc:extent": 346712,
             "tableSchema": {
                 "columns": [
                     {
@@ -162,7 +160,8 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 2036,
+            "dc:description": "BVD languages have some editorial metadata.",
+            "dc:extent": 2039,
             "tableSchema": {
                 "columns": [
                     {
@@ -225,10 +224,6 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "url"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "typedby"
                     },
                     {
@@ -252,6 +247,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:description": "ABVDConcept(ID: Optional[str] = '', Name: Optional[str] = '', Concepticon_ID: Optional[str] = None, Concepticon_Gloss: Optional[str] = None, Category: Optional[str] = None)",
             "dc:extent": 210,
             "tableSchema": {
                 "columns": [
@@ -274,6 +270,10 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Category"
                     }
                 ],
                 "primaryKey": [
@@ -284,7 +284,8 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 291675,
+            "dc:description": "A cognate or rather a cognacy judgement.",
+            "dc:extent": 291382,
             "tableSchema": {
                 "columns": [
                     {

@@ -1,11 +1,18 @@
 import re
+import dataclasses
 from pathlib import Path
+from typing import Optional
 
 from nameparser import HumanName
 from clldutils.misc import slug
 from pylexibank.providers import abvd
 from pylexibank.util import progressbar
-from pylexibank import FormSpec
+from pylexibank import FormSpec, Concept
+
+
+@dataclasses.dataclass
+class ABVDConcept(Concept):
+    Category: Optional[str] = None
 
 
 def normalize_contributors(l):
@@ -17,7 +24,7 @@ def normalize_contributors(l):
 def normalize_names(names):
     res = []
     if names:
-        for name in re.split('\s+and\s+|\s*&\s*|,\s+|\s*\+\s*', names):
+        for name in re.split(r'\s+and\s+|\s*&\s*|,\s+|\s*\+\s*', names):
             name = {
                 'Simon': 'Simon Greenhill',
                 'D. Mead': 'David Mead',
@@ -34,6 +41,7 @@ class Dataset(abvd.BVD):
     dir = Path(__file__).parent
     id = 'abvd'
     SECTION = 'austronesian'
+    concept_class = ABVDConcept
     
     invalid_ids = [
         261,  # Duplicate West Futuna list
@@ -54,7 +62,8 @@ class Dataset(abvd.BVD):
             id_factory=lambda c: c.id.split('-')[-1]+ '_' + slug(c.english),
             lookup_factory=lambda c: c['ID'].split('_')[0]
         )
-        for wl in progressbar(self.iter_wordlists(args.log), desc="cldfify"):
+        #for wl in progressbar(self.iter_wordlists(args.log), desc="cldfify"):
+        for wl in self.iter_wordlists(args.log):
             wl.to_cldf(args.writer, concepts)
             # Now normalize the typedby and checkedby values:
             args.writer.objects['LanguageTable'][-1] = normalize_contributors(args.writer.objects['LanguageTable'][-1])

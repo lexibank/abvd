@@ -1,5 +1,7 @@
 # CLDF dataset derived from Greenhill et al.'s "Austronesian Basic Vocabulary Database" from 2020
 
+[![CLDF validation](https://github.com/lexibank/abvd/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/abvd/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -17,27 +19,35 @@ Available online at https://abvd.eva.mpg.de/austronesian/
 
 Conceptlists in Concepticon:
 - [Blust-2008-210](https://concepticon.clld.org/contributions/Blust-2008-210)
+## Notes
+
+### Coverage
+
+![map](map.svg)
+
+
+
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/abvd.svg?branch=master)](https://travis-ci.org/lexibank/abvd)
-![Glottolog: 96%](https://img.shields.io/badge/Glottolog-96%25-green.svg "Glottolog: 96%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+[![CLDF validation](https://github.com/lexibank/abvd/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/abvd/actions?query=workflow%3ACLDF-validation)
+![Glottolog: 96%](etc/badge_languages.svg)
+![Concepticon: 100%](etc/badge_concepts.svg)
+![Source: 100%](etc/badge_sources.svg)
 
-- **Varieties:** 2,036 (linked to 1,046 different Glottocodes)
+- **Varieties:** 2,038 (linked to 1,048 different Glottocodes)
 - **Concepts:** 210 (linked to 210 different Concepticon concept sets)
-- **Lexemes:** 346,662
+- **Lexemes:** 346,712
 - **Sources:** 926
 - **Synonymy:** 1.13
-- **Cognacy:** 291,675 cognates in 19,356 cognate sets (454 singletons)
+- **Cognacy:** 291,382 cognates in 19,354 cognate sets (454 singletons)
 - **Cognate Diversity:** 0.06
 
 ## Possible Improvements:
 
+- Languages missing glottocodes: 236/2038 (11.58%%)
+- Entries missing sources: 1616/346712 (0.47%%)
 
-
-- Entries missing sources: 1268/346662 (0.37%)
 
 # Contributors
 

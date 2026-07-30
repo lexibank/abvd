@@ -13,5 +13,5 @@ def test_languages(cldf_dataset):
 
 
 # test we have some cognates
-def test_cognates(cldf_dataset):
-    assert len(list(cldf_dataset["CognateTable"])) == 233260
+def test_cognates(cldf_sqlite_database):
+    assert cldf_sqlite_database.query('select count(*) from cognatetable')[0][0] == 291382
