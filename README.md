@@ -35,7 +35,7 @@ Conceptlists in Concepticon:
 ![Concepticon: 100%](etc/badge_concepts.svg)
 ![Source: 100%](etc/badge_sources.svg)
 
-- **Varieties:** 2,038 (linked to 1,048 different Glottocodes)
+- **Varieties:** 2,038 (linked to 1,047 different Glottocodes)
 - **Concepts:** 210 (linked to 210 different Concepticon concept sets)
 - **Lexemes:** 346,712
 - **Sources:** 926
@@ -45,7 +45,7 @@ Conceptlists in Concepticon:
 
 ## Possible Improvements:
 
-- Languages missing glottocodes: 236/2038 (11.58%%)
+- Languages missing glottocodes: 237/2038 (11.63%%)
 - Entries missing sources: 1616/346712 (0.47%%)
 
 

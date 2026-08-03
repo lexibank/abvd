@@ -4,6 +4,7 @@ from pathlib import Path
 from typing import Optional
 
 from nameparser import HumanName
+import pycldf
 from clldutils.misc import slug
 from pylexibank.providers import abvd
 from pylexibank import FormSpec, Concept
@@ -66,3 +67,20 @@ class Dataset(abvd.BVD):
             # Now normalize the typedby and checkedby values:
             args.writer.objects['LanguageTable'][-1] = normalize_contributors(
                 args.writer.objects['LanguageTable'][-1])
+
+        # Add more coordinates, for dialects and proto-languages using the data from glottolog-cldf:
+        p = args.glottolog.api.path().parent / 'glottolog-cldf' / 'cldf' / 'cldf-metadata.json'
+        if not p.exists():
+            return
+        glangs = {
+            lg['ID']: lg for lg in pycldf.Dataset.from_metadata(p).iter_rows(
+                'LanguageTable', 'id', 'latitude', 'longitude')}
+        for lg in args.writer.objects['LanguageTable']:
+            if lg['Glottocode']:
+                if lg['Glottocode'] in glangs:
+                    if not lg['Latitude']:
+                        lg['Latitude'] = glangs[lg['Glottocode']]['Latitude']
+                        lg['Longitude'] = glangs[lg['Glottocode']]['Longitude']
+                else:
+                    args.log.warning('Invalid Glottocode: %s', lg['Glottocode'])
+                    lg['Glottocode'] = None
