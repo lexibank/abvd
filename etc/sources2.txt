@@ -1636,7 +1636,7 @@
   author       = {Li, Paul Jen-kuei}
 }
 @book{201,
-  title        = {Pazih Dictionary (巴宰語詞典).},
+  title        = {Pazih Dictionary (巴宰語詞典)},
   year         = {2001},
   wordlist_ids = {760},
   publisher    = {Institute of Linguistics, Academia Sinica},
@@ -1692,21 +1692,25 @@
   author       = {Li, Paul Jen-kuei}
 }
 @incollection{207,
-  title        = {"Establishing Genetic Relationship between Language Families in Southeast Asia." In 林英津 / Yingjin Lin, et. al (eds.) 2004. 漢藏語研究: 龔煌城先生七秩壽慶論文集 [Studies on Sino-Tibetan languages: Papers in honor of Professor Hwang-cherng Gong on his Seventieth birthday].},
+  title        = {Establishing Genetic Relationship between Language Families in Southeast Asia},
+  editor = {Yingjin Lin [林英津] et al.},
+  booktitle = {漢藏語研究: 龔煌城先生七秩壽慶論文集 [Studies on Sino-Tibetan languages: Papers in honor of Professor Hwang-cherng Gong on his Seventieth birthday]},
   year         = {2004},
   wordlist_ids = {787},
   author       = {Li, Paul Jen-kuei}
 }
 @book{208,
-  title        = {Pubiao-yu Yanjiu.},
+  title        = {Pubiao-yu Yanjiu},
   year         = {2007},
   wordlist_ids = {593},
   publisher    = {The Ethnic Publishing House},
   address      = {Beijing},
   author       = {Min, Liang and Junru, Zhang and Yunbing, Li}
 }
-@misc{209,
-  title        = {Survey of the Guizhou Bouyei Language. SIL Language and Culture Documentation and Description 1. SIL International.},
+@book{209,
+  title        = {Survey of the Guizhou Bouyei Language},
+  series = {SIL Language and Culture Documentation and Description 1},
+  publisher = {SIL International},
   year         = {2007},
   wordlist_ids = {731},
   author       = {Yongshu, Liang and Snyder, Wil C. and Wenyi, Wu}
@@ -1718,19 +1722,27 @@
   author       = {Lianyun, Lin}
 }
 @incollection{211,
-  title        = {"An investigation of the Ai-Cham language." In Jerold A. Edmondson and David B. Solnit (eds.), Comparative Kadai: Linguistic studies beyond Tai, 59-85. Summer Institute of Linguistics Publications in Linguistics, 86. Dallas: Summer Institute of Linguistics and the University of Texas at Arlington.},
+  title        = {An investigation of the Ai-Cham language},
+  editor = {Jerold A. Edmondson and David B. Solnit},
+  booktitle = {Comparative Kadai: Linguistic studies beyond Tai},
+  pages = {59-85},
+  series = {Summer Institute of Linguistics Publications in Linguistics, 86},
+  address = {Dallas},
+  publisher = {Summer Institute of Linguistics and the University of Texas at Arlington},
   year         = {1988},
   wordlist_ids = {714},
   author       = {Lin, Shi and Jianxin, Cui}
 }
 @misc{212,
-  title        = {English-Banoni finder list. typescript.},
+  title        = {English-Banoni finder list},
+  howpublished = {typescript},
   year         = {1975},
   wordlist_ids = {4},
   author       = {Lincoln, Peter C.}
 }
 @misc{213,
-  title        = {Rai Coast Austronesian language survey data, in two parts. Mimeo, University of Hawai`i.},
+  title        = {Rai Coast Austronesian language survey data, in two parts},
+  howpublished = {Mimeo, University of Hawai`i},
   year         = {1976},
   wordlist_ids = {1329 1343 1344 1345 1346 1347 1348 1349 1350 1351 1352 1353 1354 1355 1356 1357 1358 1359 1360},
   author       = {Lincoln, Peter C.}
@@ -1741,15 +1753,18 @@
   author       = {Davies, Lisbeth Fritzell & Robin}
 }
 @book{216,
-  title        = {A Grammar of the Motu language of Papua.},
+  title        = {A Grammar of the Motu language of Papua},
   year         = {1930},
   wordlist_ids = {26},
   publisher    = {Government Printer},
   address      = {Sydney},
   author       = {Lister-Turner, Rev. R. and Clark, Rev. J.B.}
 }
-@misc{217,
-  title        = {Language change on Fergusson and Normanby Islands. In: Pacific Linguistics C-120},
+@incollection{217,
+  title        = {Language change on Fergusson and Normanby Islands},
+  booktitle = {Culture Change, Language Change: Case Studies from Melanesia},
+  editor = {Dutton, T.E,},
+  series = {Pacific Linguistics C-120},
   year         = {1992},
   wordlist_ids = {617},
   author       = {Lithgow, D.}
@@ -1762,14 +1777,15 @@
   wordlist_ids = {939},
   author       = {Zhaoxiong, Liu}
 }
-@misc{219,
-  title        = {"Liyu Jiamaohua gaikuang 黎语加茂话概况." In Minzu Yuwen 民族语文, 2008(1).},
+@book{219,
+  title        = {Liyu Jiamaohua gaikuang 黎语加茂话概况},
+  series = {Minzu Yuwen 民族语文, 2008(1)},
   year         = {2008},
   wordlist_ids = {1558},
   author       = {Liu, Yuanchao [刘援朝]}
 }
 @misc{220,
-  title        = {Electronic lexicon. Ukarumpa: Summer Institute of Linguistics.},
+  title        = {Electronic lexicon. Ukarumpa: Summer Institute of Linguistics},
   wordlist_ids = {1335},
   author       = {Milligan, Lloyd}
 }
@@ -1782,8 +1798,10 @@
   wordlist_ids = {1215},
   author       = {Lobel, Jason William}
 }
-@misc{222,
-  title        = {Rinconada Bikol-Filipino-English Phrasebook: with Mini-Dictionary. Naga City, Philippines: Lobel & Tria Partnership, 2001.},
+@book{222,
+  title        = {Rinconada Bikol-Filipino-English Phrasebook: with Mini-Dictionary},
+  address = {Naga City, Philippines},
+  publisher = {Lobel & Tria Partnership},
   year         = {2001},
   wordlist_ids = {722},
   author       = {Lobel, Jason William and Bucad, Grace Uvero}
@@ -1814,14 +1832,17 @@
   wordlist_ids = {1464},
   author       = {Lobel, Jason William}
 }
-@misc{226,
-  title        = {The Dong Language in Guizhou Province, China. Dallas, TX: Summer Institute of Linguistics: [Arlington]: University of Texas at Arlington, 1998. ISBN 1556710518.},
+@book{226,
+  title        = {The Dong Language in Guizhou Province, China},
+  address = {Dallas, TX},
+  publisher = {Summer Institute of Linguistics: [Arlington]: University of Texas at Arlington},
+  isbn = {1556710518},
   year         = {1998},
   wordlist_ids = {789},
   author       = {Yaohong, Long and Guoqiao, Zheng}
 }
 @book{227,
-  title        = {Funing Xian Minzu Zhi 富宁县民族志 [Funing County Ethnic Gazetteer].},
+  title        = {Funing Xian Minzu Zhi 富宁县民族志 [Funing County Ethnic Gazetteer]},
   year         = {1998},
   wordlist_ids = {955 956 957 958},
   publisher    = {Yunnan Ethnic Publishing House},
@@ -1863,7 +1884,7 @@
   author       = {Mager, J.F.}
 }
 @book{232,
-  title        = {Malay-English Vocabulary. Containing over 7000 Malay words or Phrases with their English equivalents, together with An Appendix., Second Ed., Revised and Enlarged. The Methodist Publishing House: Singapore (1912)},
+  title        = {Malay-English Vocabulary. Containing over 7000 Malay words or Phrases with their English equivalents, together with An Appendix., Second Ed., Revised and Enlarged},
   url          = {https://archive.org/details/cu31924081220968},
   year         = {1862-1949},
   wordlist_ids = {1556},
@@ -1943,7 +1964,7 @@
   wordlist_ids = {875 876 877 878 879 880 881 882 883 885 886 887 888 889 890 891 892 893 894 895 896 897 898 899 900 901 902 903 904 905 906 907 908 909 910 911 912 913 914 915 916 917 918 919},
   author       = {Mead, David E.}
 }
-@misc{244,
+@book{244,
   title        = {Ulithian-English Dictionary},
   year         = {2010},
   wordlist_ids = {1180},
@@ -1966,7 +1987,7 @@
 }
 @book{247,
   title        = {A study of Bijie dialects [毕节方言研究]},
-  publisher    = {China Sociology Publishing House [中国社会科学出版社].},
+  publisher    = {China Sociology Publishing House [中国社会科学出版社]},
   year         = {2007},
   wordlist_ids = {944},
   author       = {[明生荣], Ming Shengrong}
@@ -1980,7 +2001,7 @@
   author       = {[明悦], Ming Yue}
 }
 @phdthesis{249,
-  title        = {Multilingualism and social behavior in the. southern Philippines},
+  title        = {Multilingualism and social behavior in the southern Philippines},
   school       = {Stanford},
   address      = {California},
   year         = {1969},
@@ -1996,7 +2017,7 @@
   author       = {Morey, Stephen}
 }
 @book{251,
-  title        = {Dictionnaire Cam-Vietnamien-Français.},
+  title        = {Dictionnaire Cam-Vietnamien-Français},
   year         = {1971},
   wordlist_ids = {371},
   author       = {Moussay, Gerard},
@@ -2004,7 +2025,7 @@
   address      = {Phan Rang}
 }
 @book{252,
-  title        = {畬語海豐方言基本詞彙集 / She yu Haifeng fang yan ji ben ci hui ji [A She Vocabulary: Haifeng Dialect].},
+  title        = {畬語海豐方言基本詞彙集 / She yu Haifeng fang yan ji ben ci hui ji [A She Vocabulary: Haifeng Dialect]},
   year         = {2003},
   wordlist_ids = {771},
   author       = {Nakanishi, Hiroki},
@@ -2040,7 +2061,7 @@
   author       = {Nothofer, B.}
 }
 @book{256,
-  title        = {English-Favorlang vocabulary.},
+  title        = {English-Favorlang vocabulary},
   year         = {2003},
   wordlist_ids = {831},
   editor       = {Ogawa, Naoyoshi and Li, Paul Jen-kui},
@@ -2082,48 +2103,61 @@
   wordlist_ids = {690},
   author       = {Ostapirat, Weera}
 }
-@misc{261,
-  title        = {"Proto-Hlai Sound System and Lexicons." In 林英津 / Yingjin Lin, et. al (eds.) 2004. 漢藏語研究: 龔煌城先生七秩壽慶論文集 [Studies on Sino-Tibetan languages: Papers in honor of Professor Hwang-cherng Gong on his Seventieth birthday].},
+@incollection{261,
+  title        = {Proto-Hlai Sound System and Lexicons},
+  editor = {Yingjin Lin [林英津] et al.},
+  booktitle = {漢藏語研究: 龔煌城先生七秩壽慶論文集 [Studies on Sino-Tibetan languages: Papers in honor of Professor Hwang-cherng Gong on his Seventieth birthday]},
   year         = {2004},
   wordlist_ids = {792},
   author       = {Ostapirat, Weera}
 }
-@misc{262,
-  title        = {"Macrophyletic Trees of East Asian Languages Re examined." In Let's Talk about Trees, ed. by Ritsuko Kikusawa and Lawrence A. Reid. Osaka: Senri Ethnological Studies, Minpaku.},
+@incollection{262,
+  title        = {Macrophyletic Trees of East Asian Languages Re examined},
+  booktitle = {Let's Talk about Trees},
+  editor = {Ritsuko Kikusawa and Lawrence A. Reid},
+  address = {Osaka},
+  publisher = {Senri Ethnological Studies, Minpaku},
   year         = {2018},
   wordlist_ids = {1611},
   author       = {Ostapirat, Weera}
 }
 @book{263,
-  title        = {Grammar of the Jabem Language in New Guinea, translated and edited by Joel Bradshaw and Francisc Czobor, Oceanic Linguistics Special Publication, No. 32},
+  title        = {Grammar of the Jabem Language in New Guinea, translated and edited by Joel Bradshaw and Francisc Czobor},
+  series = {Oceanic Linguistics Special Publication, No. 32},
   address      = {Honolulu},
   publisher    = {University of Hawaii Press},
   year         = {2005},
   wordlist_ids = {334},
   author       = {Dempwolff, Otto}
 }
-@misc{264,
-  title        = {Dictionnaire iaai-français (Ouvéa, Nouvelle-Calédonie), suiv d'un lexique français-iaai. SELAF (Langues et cultures du Pacifique 6), Paris.},
+@book{264,
+  title        = {Dictionnaire iaai-français (Ouvéa, Nouvelle-Calédonie), suiv d'un lexique français-iaai},
+  series = {SELAF (Langues et cultures du Pacifique 6)},
+  address = {Paris},
   year         = {1984},
   wordlist_ids = {471},
   author       = {Ozanne-Rivierre, F.}
 }
-@misc{265,
-  title        = {Le Nyelâyu de Balade (Nouvelle-Calédonie) Langues et Cultures du Pacifique. Paris},
+@book{265,
+  title        = {Le Nyelâyu de Balade (Nouvelle-Calédonie) Langues et Cultures du Pacifique},
+  address = {Paris},
   year         = {1998},
   wordlist_ids = {1187},
   author       = {Ozanne-Rivierre, F.}
 }
 @book{266,
-  title        = {Yakan-Pilipino-English Dictionary.},
+  title        = {Yakan-Pilipino-English Dictionary},
   year         = {1975},
   wordlist_ids = {200},
   author       = {Pack, J.},
   publisher    = {Summer Institute of Linguistics},
   address      = {Manila}
 }
-@misc{267,
-  title        = {Culture contact and language convergence. Philippine journal of linguistics: special monograph issue, 24. Manila: Linguistic Society of the Philippines.},
+@book{267,
+  title        = {Culture contact and language convergence},
+  series = {Philippine journal of linguistics: special monograph issue, 24},
+  address = {Manila},
+  publisher = {Linguistic Society of the Philippines},
   year         = {1985},
   wordlist_ids = {1466},
   author       = {Pallesen, A. Kemp}
@@ -2136,14 +2170,16 @@
   wordlist_ids = {365},
   author       = {Palmer, Bill}
 }
-@misc{269,
-  title        = {Southeast Ambrym dictionary. Pacific Lingustics, C-17: Canberra},
+@book{269,
+  title        = {Southeast Ambrym dictionary},
+  series = {Pacific Lingustics, C-17},
+  address = {Canberra},
   year         = {1970},
   wordlist_ids = {120},
   author       = {Parker, G.J.}
 }
 @book{270,
-  title        = {Dreißig Jahre in der Südsee: Land und Leute, Sitten und Gebräuche im Bismarckarchipel und auf den deutschen Salomoinseln.},
+  title        = {Dreißig Jahre in der Südsee: Land und Leute, Sitten und Gebräuche im Bismarckarchipel und auf den deutschen Salomoinseln},
   year         = {1907},
   wordlist_ids = {1708},
   author       = {Parkinson, Richard},
@@ -2151,51 +2187,65 @@
   address      = {Stuttgart}
 }
 @book{271,
-  title        = {Lao-English Dictionary. Dunwoody Press.},
+  title        = {Lao-English Dictionary},
+  publisher = {Dunwoody Press},
   year         = {1995},
   wordlist_ids = {734},
   editor       = {Patterson, William L. and Severino, Mario E.}
 }
 @incollection{272,
-  title        = {"The chequered career of the Trans New Guinea hypothesis: recent research and its implications". In Andrew Pawley, Robert Attenborough, Robin Hide, Jack Golson, eds. Papuan pasts: cultural, linguistic and biological histories of Papuan-speaking peoples, 67-107},
+  title        = {The chequered career of the Trans New Guinea hypothesis: recent research and its implications},
+  editor = {Andrew Pawley and Robert Attenborough and Robin Hide and Jack Golson},
+  booktitle = {Papuan pasts: cultural, linguistic and biological histories of Papuan-speaking peoples},
+  pages = {67-107},
   address      = {Canberra},
   publisher    = {Pacific Linguistics},
   year         = {2005},
   wordlist_ids = {781},
   author       = {Pawley, Andrew}
 }
-@misc{273,
-  title        = {A reconstruction of Proto-Philippine phonemes and morphemes. Diliman, Quezon City: Cecilio Lopez Archives of Philippine Languages: Philippine Linguistics Circle, University of the Philippines.},
+@book{273,
+  title        = {A reconstruction of Proto-Philippine phonemes and morphemes},
+  address = {Diliman, Quezon City},
+  publisher = {Cecilio Lopez Archives of Philippine Languages: Philippine Linguistics Circle, University of the Philippines},
   year         = {1981},
   wordlist_ids = {874},
   author       = {Paz, Consuelo J.}
 }
 @misc{274,
-  title        = {Lote grammar sketch (Data Papers on Papua New Guinea Languages 54). Ukarumpa: SIL-PNG Academic Publications. https://www.sil.org/resources/archives/23806.},
+  title        = {Lote grammar sketch (Data Papers on Papua New Guinea Languages 54). Ukarumpa: SIL-PNG Academic Publications},
+  url = {https://www.sil.org/resources/archives/23806},
   year         = {2008},
   wordlist_ids = {1709},
   author       = {Pearson, Greg & van den Berg, René}
 }
-@misc{275,
-  title        = {Grammatische Grundzüge und Wörterverzeichnis der Label-Sprache. Zeitschrift für Eingeborenen-Sprachen 20:10-34, 92-120.},
+@article{275,
+  title        = {Grammatische Grundzüge und Wörterverzeichnis der Label-Sprache},
+  journal = {Zeitschrift für Eingeborenen-Sprachen},
+  volume = {20},
+  pages = {10-34, 92-120},
   year         = {1930},
   wordlist_ids = {1340},
   author       = {Peekel, Gerhard}
 }
-@misc{276,
-  title        = {A description of Moklen: a Malayo-Polynesian language in Thailand. (MA thesis, Mahidol University; 285pp.)},
+@mastersthesis{276,
+  title        = {A description of Moklen: a Malayo-Polynesian language in Thailand},
+  school = {Mahidol University},
+  pages = {285pp},
   year         = {1982},
   wordlist_ids = {1570},
   author       = {Swastham, Pensiri}
 }
 @misc{277,
-  title        = {Grammatical Sketch of Isinay Dupax. m.s. University of the Philippines, Diliman.},
+  title        = {Grammatical Sketch of Isinay Dupax},
+  howpublished = {m.s. University of the Philippines, Diliman},
   year         = {2015},
   wordlist_ids = {1463},
   author       = {Perlawan, Sarah Eve}
 }
-@misc{278,
-  title        = {Proto-Aslian: towards an understanding of its historical linguistic systems, principles and processes. Ph.D. thesis, Institut Alam Dan Tamadun Melayu Universiti Kebangsaan Malaysia, Bangi.},
+@phdthesis{278,
+  title        = {Proto-Aslian: towards an understanding of its historical linguistic systems, principles and processes},
+  school = {Institut Alam Dan Tamadun Melayu Universiti Kebangsaan Malaysia, Bangi},
   year         = {2012},
   wordlist_ids = {1566},
   author       = {Phillips, Timothy C.}
