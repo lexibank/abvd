@@ -48,7 +48,7 @@ pycountry==24.6.1
 pyglottolog==4.0.1
 Pygments==2.19.2
 pylatexenc==2.10
-pylexibank==4.1.0
+-e git+https://github.com/lexibank/pylexibank@96df3ea24494677fa39463fb816f5d9aefa6e95a#egg=pylexibank
 pyparsing==3.3.2
 pyproj==3.7.2
 pytest==9.0.2

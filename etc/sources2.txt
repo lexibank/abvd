@@ -188,13 +188,16 @@
   author       = {Baird, Louise}
 }
 @article{24,
-  title        = {Bemerkungen zur Grammatik der Tami-Sprache. Zeitschrift für afrikanische und ozeanische Sprachen 5:198-253.},
+  title        = {Bemerkungen zur Grammatik der Tami-Sprache},
+  journal = {Zeitschrift für afrikanische und ozeanische Sprachen},
+  volume = {5},
+  pages = {198-253},
   year         = {1900},
   wordlist_ids = {1333},
   author       = {Bamler, Georg}
 }
 @book{25,
-  title        = {The Mangyan languages of Mindoro. Cebu City: University of San Carlos.},
+  title        = {The Mangyan languages of Mindoro},
   year         = {1977},
   wordlist_ids = {1269 1270 1271 1272 1273 1274 1275},
   publisher    = {University of San Carlos},
@@ -278,7 +281,8 @@
   author       = {Beaumont, Clive H.}
 }
 @book{35,
-  title        = {Yakan-English dictionary. Linguistic Society of the Philippines, Special Monograph Issue, 40.2. Manila: Linguistic Society of the Philippines.},
+  title        = {Yakan-English dictionary},
+  series = {Linguistic Society of the Philippines, Special Monograph Issue, 40.2},
   year         = {2002},
   wordlist_ids = {200},
   publisher    = {Linguistic Society of the Philippines},
@@ -286,19 +290,22 @@
   author       = {Behrens, D.}
 }
 @book{36,
-  title        = {Tanga-English, English-Tanga Dictionary. Sydney, University of Sydney.},
+  title        = {Tanga-English, English-Tanga Dictionary. Sydney: University of Sydney.},
   year         = {1977},
   wordlist_ids = {131},
   author       = {Bell, F.L.S.}
 }
 @article{37,
-  title        = {Proto-Micronesian Reconstructions I & II.},
+  title        = {Proto-Micronesian Reconstructions I & II},
   year         = {2003},
   wordlist_ids = {336 337 338 339 340 342 343 344 345 347 348 349 498 499},
   author       = {Bender, W.B. and Goodenough, W.H. and Jackson, F.H. and Marck, J.C. and Rehg, K.L. and Sohn, H. and Trussel, S. and Wang, J.W.}
 }
 @article{38,
-  title        = {A Multilateral Look at Greater Austric. Mother Tongue (Journal) 11: 219-258.},
+  title        = {A Multilateral Look at Greater Austric},
+  journal = {Mother Tongue},
+  volume = {11},
+  pages = {219-258},
   year         = {2006},
   wordlist_ids = {1198},
   author       = {Bengtson, John D.}
@@ -1108,7 +1115,10 @@
   address      = {Guiyang}
 }
 @article{137,
-  title        = {Kenaboi: An extinct unclassified language of the Malay Peninsula. Mon–Khmer Studies 28: 137–49.},
+  title        = {Kenaboi: An extinct unclassified language of the Malay Peninsula},
+  journal = {Mon–Khmer Studies},
+  volume = {28},
+  pages = {137–49},
   year         = {1998},
   wordlist_ids = {1564 1568},
   author       = {Hajek, John}
@@ -1233,7 +1243,7 @@
   author       = {Ma, Hoàng Văn}
 }
 @book{153,
-  title        = {A short description of the Kirgiz language (in Chinese).},
+  title        = {A short description of the Kirgiz language (in Chinese)},
   year         = {1984},
   wordlist_ids = {873},
   publisher    = {Minzu},
@@ -1241,7 +1251,7 @@
   author       = {Zhenhua, Hu}
 }
 @book{154,
-  title        = {Chinese-Hlai dictionary (Sai dialect) [汉黎字典(赛方言)].},
+  title        = {Chinese-Hlai dictionary (Sai dialect) [汉黎字典(赛方言)]},
   year         = {2011},
   wordlist_ids = {1559},
   publisher    = {Yunnan People's Press 云南民族出版社},
@@ -1249,7 +1259,8 @@
   author       = {Huang, Quan [黄权]}
 }
 @book{155,
-  title        = {William J. Gedney's concise Saek-English, English-Saek lexicon. Oceanic Linguistics special publication, no. 37},
+  title        = {William J. Gedney's concise Saek-English, English-Saek lexicon},
+  series = {Oceanic Linguistics special publication, no. 37},
   address      = {Honolulu},
   publisher    = {University of Hawaii Press},
   year         = {2010},
@@ -1397,7 +1408,7 @@
   author       = {Junast}
 }
 @book{173,
-  title        = {The Nihali Language (Grammar, Texts, Vocabulary).},
+  title        = {The Nihali Language (Grammar, Texts, Vocabulary)},
   pages        = {xii+332pp.},
   year         = {2014},
   wordlist_ids = {1572},
@@ -1407,7 +1418,6 @@
 }
 @misc{174,
   title        = {Electronic dictionary. Ukarumpa: Summer Institute of Linguistics},
-  year         = {},
   wordlist_ids = {1334},
   author       = {Adams, Karen}
 }
@@ -1420,15 +1430,18 @@
   author       = {Keesing, R.M.}
 }
 @book{176,
-  title        = {Kamus bahasa Indonesia-Mentawai.},
+  title        = {Kamus bahasa Indonesia-Mentawai},
   year         = {1998},
   wordlist_ids = {864},
   publisher    = {Pusat Pembinaan dan Pengembangan Bahasa, Departemen Pendidikan dan Kebudayaan},
   address      = {Jakarta},
   author       = {Khatib, Yusran}
 }
-@book{177,
-  title        = {Bantoanon Phonology. Studies in Philippine Linguistics, Vol. 9, No. 1, 111-136.},
+@article{177,
+  title        = {Bantoanon Phonology},
+  journal = {Studies in Philippine Linguistics},
+  volume = {9(1)},
+  pages = {111-136},
   year         = {1992},
   wordlist_ids = {708},
   publisher    = {Summer Institute of Linguistics},
@@ -1436,13 +1449,19 @@
   author       = {Kilgour, Heather J. and Hendrickson, Gail}
 }
 @article{178,
-  title        = {The Maloh language: a vocabulary and summary of the literature. The Sarawak Museum Journal 24.45(N.S.):137-171.},
+  title        = {The Maloh language: a vocabulary and summary of the literature},
+  journal = {The Sarawak Museum Journal},
+  volume = {24.45(N.S.)},
+  pages = {137-171},
   year         = {1976},
   wordlist_ids = {83},
   author       = {King, Victor T.}
 }
 @article{179,
-  title        = {Upas, September and the Bugis at the cape of good hope. The context of a slave's letter. Archipel, 70(1), 281-308.,},
+  title        = {Upas, September and the Bugis at the cape of good hope. The context of a slave's letter},
+  journal = {Archipel},
+  volume = {70(1)},
+  pages = {281-308},
   year         = {2005},
   wordlist_ids = {1702},
   author       = {Koolhof, S. and Ross, R.}
@@ -1456,13 +1475,19 @@
   author       = {Kosaka, Ryuichi [小坂, 隆一]}
 }
 @incollection{181,
-  title        = {"Ceq Wong vocabulary" In: Haspelmath, Martin & Tadmor, Uri (eds.) World Loanword Database. Munich: Max Planck Digital Library, 871 entries. http://wold.livingsources.org/vocabulary/26},
+  title        = {Ceq Wong vocabulary},
+  editor = {Haspelmath, Martin & Tadmor, Uri},
+  booktitle = {World Loanword Database},
+  address = {Munich},
+  publisher = {Max Planck Digital Library},
+  note = {871 entries},
+  url = {https://wold.clld.org/vocabulary/26},
   year         = {2009},
   wordlist_ids = {735},
   author       = {Kruspe, Nicole}
 }
 @book{182,
-  title        = {Bôh panuaik Chăm / Ngữ-vựng Chàm / Western Chàm vocabulary.},
+  title        = {Bôh panuaik Chăm / Ngữ-vựng Chàm / Western Chàm vocabulary},
   year         = {1978},
   wordlist_ids = {830},
   publisher    = {Summer Institute of Linguistics},
@@ -1470,7 +1495,9 @@
   author       = {Kvoeu-Hor and Friberg, Timothy}
 }
 @book{183,
-  title        = {Simalur-German, German-Simalur dictionary [Simalur-deutsches Wörterbuch mit deutsch-simaluresischem Wörterverzeichnis]. Berlin: D. Reimer.},
+  title        = {Simalur-German, German-Simalur dictionary [Simalur-deutsches Wörterbuch mit deutsch-simaluresischem Wörterverzeichnis]},
+  address = {Berlin},
+  publisher = {D. Reimer},
   year         = {1961},
   wordlist_ids = {994},
   author       = {Kähler, Hans}
@@ -1500,8 +1527,11 @@
   wordlist_ids = {1571},
   author       = {Larish, Michael David}
 }
-@misc{187,
-  title        = {"The Seko languages of South Sulawesi: a reconstruction." In Tenth International Conference on Austronesian Linguistics, 17-20 January 2006, Palawan, Philippines. SIL International.},
+@incollection{187,
+  title        = {The Seko languages of South Sulawesi: a reconstruction},
+  booktitle = {Tenth International Conference on Austronesian Linguistics, 17-20 January 2006},
+  address = {Palawan, Philippines},
+  publisher = {SIL International},
   year         = {2006},
   wordlist_ids = {946},
   author       = {Laskowske, Thomas V.}
@@ -1521,13 +1551,13 @@
   wordlist_ids = {65},
   author       = {Lee, Kee-dong}
 }
-@misc{190,
+@book{190,
   title        = {Vocabulaire et Grammaire de La Langue Houaïlou. Paris: Institut D'ethnologie},
   year         = {1935},
   wordlist_ids = {1188},
   author       = {Leenhardt, Maurice}
 }
-@misc{191,
+@book{191,
   title        = {Langues et dialectes de l'Austro-Mèlanèsie},
   year         = {1946},
   wordlist_ids = {1482 1483 1484 1485 1486 1487 1488 1489 1490 1491 1492 1493 1494 1495 1496 1497 1498 1499 1500 1501 1502 1503 1504 1505 1506 1507 1508 1509 1510 1511 1512 1513 1514 1515},
@@ -1542,7 +1572,7 @@
   author       = {[李锦芳], Li Jinfang}
 }
 @book{193,
-  title        = {Studies on endangered languages in the Southwest China [西南地区濒危语言调查研究].},
+  title        = {Studies on endangered languages in the Southwest China [西南地区濒危语言调查研究]},
   year         = {2006},
   wordlist_ids = {925 928 929 930 931 932 961},
   publisher    = {Minzu University},
@@ -1555,14 +1585,15 @@
   wordlist_ids = {1536},
   author       = {[李锦芳], Li Jinfang and [吴艳], Wu Yan}
 }
-@misc{195,
-  title        = {The Buyang language of South China: grammatical notes, glossary, texts and translations. Pacific Linguistics Publishers, Australian National University, 2010.},
+@book{195,
+  title        = {The Buyang language of South China: grammatical notes, glossary, texts and translations},
+  publisher = {Pacific Linguistics Publishers, Australian National University},
   year         = {2010},
   wordlist_ids = {694},
   author       = {Jinfang, Li and Yongxian, Luo}
 }
 @book{196,
-  title        = {A Study of Lai (Bolyu) [倈语硏究].},
+  title        = {A Study of Lai (Bolyu) [倈语硏究]},
   year         = {1999},
   wordlist_ids = {960},
   publisher    = {Minzu University},
@@ -1570,7 +1601,7 @@
   author       = {[李旭练], Li Xulian}
 }
 @book{197,
-  title        = {A Study of Bugeng (Bugan) [布赓语研究].},
+  title        = {A Study of Bugeng (Bugan) [布赓语研究]},
   year         = {2005},
   wordlist_ids = {962},
   publisher    = {Minzu University},
@@ -1578,21 +1609,26 @@
   author       = {[李云兵], Li Yunbing}
 }
 @book{198,
-  title        = {A Handbook of Comparative Tai.},
+  title        = {A Handbook of Comparative Tai},
   year         = {1977},
   wordlist_ids = {684},
   publisher    = {University of Hawai'i Press},
   address      = {Honolulu},
   author       = {Li, Fang Kuei}
 }
-@misc{199,
-  title        = {"Chadong, a Newly-Discovered Kam-Sui Language in Northern Guangxi." In Diller, Anthony, Jerold A. Edmondson, & Yongxian Luo, ed. The Tai-Kadai languages, 596-620. New York: Routledge.},
+@incollection{199,
+  title        = {Chadong, a Newly-Discovered Kam-Sui Language in Northern Guangxi},
+  editor = {Diller, Anthony and Jerold A. Edmondson and Yongxian Luo},
+  booktitle = {The Tai-Kadai languages},
+  pages = {596-620},
+  address = {New York},
+  publisher = {Routledge},
   year         = {2008},
   wordlist_ids = {717},
   author       = {Li, Jinfang}
 }
 @book{200,
-  title        = {Selected Papers on Formosan Languages.},
+  title        = {Selected Papers on Formosan Languages},
   year         = {2004},
   wordlist_ids = {832},
   publisher    = {Institute of Linguistics, Academia Sinica},

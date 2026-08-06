@@ -33,11 +33,11 @@ Conceptlists in Concepticon:
 [![CLDF validation](https://github.com/lexibank/abvd/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/abvd/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 96%](etc/badge_languages.svg)
 ![Concepticon: 100%](etc/badge_concepts.svg)
-![Source: 100%](etc/badge_sources.svg)
+![Source: 99%](etc/badge_sources.svg)
 
-- **Varieties:** 2,038 (linked to 1,047 different Glottocodes)
+- **Varieties:** 2,039 (linked to 1,048 different Glottocodes)
 - **Concepts:** 210 (linked to 210 different Concepticon concept sets)
-- **Lexemes:** 346,712
+- **Lexemes:** 346,919
 - **Sources:** 926
 - **Synonymy:** 1.13
 - **Cognacy:** 291,382 cognates in 19,354 cognate sets (454 singletons)
@@ -45,8 +45,8 @@ Conceptlists in Concepticon:
 
 ## Possible Improvements:
 
-- Languages missing glottocodes: 237/2038 (11.63%%)
-- Entries missing sources: 1616/346712 (0.47%%)
+- Languages missing glottocodes: 237/2039 (11.62%%)
+- Entries missing sources: 1823/346919 (0.53%%)
 
 
 # Contributors
