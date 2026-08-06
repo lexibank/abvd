@@ -1665,9 +1665,9 @@
   title        = {Pubiao-yu Yanjiu.},
   year         = {2007},
   wordlist_ids = {593},
-  author       = {Min, Liang and Junru, Zhang and Yunbing, Li},
   publisher    = {The Ethnic Publishing House},
-  address      = {Beijing}
+  address      = {Beijing},
+  author       = {Min, Liang and Junru, Zhang and Yunbing, Li}
 }
 @misc{209,
   title        = {Survey of the Guizhou Bouyei Language. SIL Language and Culture Documentation and Description 1. SIL International.},
@@ -1708,9 +1708,9 @@
   title        = {A Grammar of the Motu language of Papua.},
   year         = {1930},
   wordlist_ids = {26},
-  author       = {Lister-Turner, Rev. R. and Clark, Rev. J.B.},
   publisher    = {Government Printer},
-  address      = {Sydney}
+  address      = {Sydney},
+  author       = {Lister-Turner, Rev. R. and Clark, Rev. J.B.}
 }
 @misc{217,
   title        = {Language change on Fergusson and Normanby Islands. In: Pacific Linguistics C-120},
@@ -1788,9 +1788,9 @@
   title        = {Funing Xian Minzu Zhi 富宁县民族志 [Funing County Ethnic Gazetteer].},
   year         = {1998},
   wordlist_ids = {955 956 957 958},
-  editor       = {[吕正元], Lu Zhengyuan and [农览生], Nong Lansheng},
   publisher    = {Yunnan Ethnic Publishing House},
-  address      = {Kunming}
+  address      = {Kunming},
+  editor       = {[吕正元], Lu Zhengyuan and [农览生], Nong Lansheng}
 }
 @book{228,
   title        = {A dictionary of Dehong, Southwest China},
@@ -1893,16 +1893,16 @@
 }
 @phdthesis{242,
   title        = {Proto-Bungku-Tolaki: Reconstruction of its phonology and aspects of its morphosyntax},
-  address = {Houston},
-  school = {Rice University},
+  address      = {Houston},
+  school       = {Rice University},
   year         = {1998},
   wordlist_ids = {780},
   author       = {Mead, David E.}
 }
 @book{243,
   title        = {The Bungku–Tolaki languages of south-eastern Sulawesi, Indonesia},
-  address = {Canberra},
-  series = {Pacific Linguistics D-91},
+  address      = {Canberra},
+  series       = {Pacific Linguistics D-91},
   year         = {1999},
   wordlist_ids = {875 876 877 878 879 880 881 882 883 885 886 887 888 889 890 891 892 893 894 895 896 897 898 899 900 901 902 903 904 905 906 907 908 909 910 911 912 913 914 915 916 917 918 919},
   author       = {Mead, David E.}
@@ -1922,31 +1922,31 @@
 }
 @phdthesis{246,
   title        = {Proto South Sulawesi and proto Austronesian phonology},
-  address = {Ann Arbor, MI},
-  school = {University of Michigan},
+  address      = {Ann Arbor, MI},
+  school       = {University of Michigan},
   year         = {1975},
   wordlist_ids = {861},
   author       = {Mills, Frederick Roger}
 }
 @book{247,
   title        = {A study of Bijie dialects [毕节方言研究]},
-  publisher = {China Sociology Publishing House [中国社会科学出版社].},
+  publisher    = {China Sociology Publishing House [中国社会科学出版社].},
   year         = {2007},
   wordlist_ids = {944},
   author       = {[明生荣], Ming Shengrong}
 }
 @mastersthesis{248,
   title        = {Comparison of Fengyan Gelao with other related Gelao dialects [峰岩仡佬语及方言内部比较]},
-  address = {Beijing},
-  school = {Minzu University},
+  address      = {Beijing},
+  school       = {Minzu University},
   year         = {2010},
   wordlist_ids = {924 925},
   author       = {[明悦], Ming Yue}
 }
 @phdthesis{249,
   title        = {Multilingualism and social behavior in the. southern Philippines},
-  school = {Stanford},
-  address = {California},
+  school       = {Stanford},
+  address      = {California},
   year         = {1969},
   wordlist_ids = {200},
   author       = {Molony, C.H.}
@@ -1960,80 +1960,88 @@
   author       = {Morey, Stephen}
 }
 @book{251,
-  title        = {Dictionnaire Cam-Vietnamien-Français. Phan Rang: Centre Culturel Cam.},
+  title        = {Dictionnaire Cam-Vietnamien-Français.},
   year         = {1971},
   wordlist_ids = {371},
-  author       = {Moussay, Gerard}
+  author       = {Moussay, Gerard},
+  publisher    = {Centre Culturel Cam},
+  address      = {Phan Rang}
 }
 @book{252,
-  title        = {畬語海豐方言基本詞彙集 / She yu Haifeng fang yan ji ben ci hui ji [A She Vocabulary: Haifeng Dialect]. Kyōto: 京都大學人文科學研究所 / Kyōto Daigaku Jinbun Kagaku Kenkyūjo},
+  title        = {畬語海豐方言基本詞彙集 / She yu Haifeng fang yan ji ben ci hui ji [A She Vocabulary: Haifeng Dialect].},
   year         = {2003},
   wordlist_ids = {771},
-  author       = {Nakanishi, Hiroki}
+  author       = {Nakanishi, Hiroki},
+  publisher    = {京都大學人文科學研究所 / Kyōto Daigaku Jinbun Kagaku Kenkyūjo},
+  address      = {Kyōto}
 }
 @incollection{253,
   title        = {Yangfeng Mak of Libo county},
-  editor = {Jerold A. Edmondson and David B. Solnit},
-  booktitle = {Comparative Kadai: Linguistic studies beyond Tai},
-  pages = {87-106},
-  series = {Summer Institute of Linguistics Publications in Linguistics, 86},
-  address = {Dallas},
-  publisher = {Summer Institute of Linguistics and the University of Texas at Arlington},
+  booktitle    = {Comparative Kadai: Linguistic studies beyond Tai},
+  pages        = {87-106},
+  series       = {Summer Institute of Linguistics Publications in Linguistics, 86},
+  address      = {Dallas},
+  publisher    = {Summer Institute of Linguistics and the University of Texas at Arlington},
   year         = {1988},
   wordlist_ids = {716},
+  editor       = {Edmondson, Jerold A. and Solnit, David B.},
   author       = {Ni, Dabai}
 }
 @phdthesis{254,
   title        = {A Phonological Reconstruction of Proto-Hlai},
-  school = {Department of Anthropology, University of Arizona},
+  school       = {Department of Anthropology, University of Arizona},
   year         = {2007},
   wordlist_ids = {692},
   author       = {Norquest, Peter K.}
 }
 @book{255,
   title        = {The reconstruction of Proto-Malayo-Javanic},
-  series = {Verhandelingen Koninklijk Instituut voor Taal-, Land- en Volkenkunde, 73},
-  address = {The Hague},
-  publisher = {Nijhoff},
+  series       = {Verhandelingen Koninklijk Instituut voor Taal-, Land- en Volkenkunde, 73},
+  address      = {The Hague},
+  publisher    = {Nijhoff},
   year         = {1975},
   wordlist_ids = {75},
   author       = {Nothofer, B.}
 }
 @book{256,
-  title        = {English-Favorlang vocabulary. Tokyo: Research Institute for Languages and Cultures of Asia and Africa.},
+  title        = {English-Favorlang vocabulary.},
   year         = {2003},
   wordlist_ids = {831},
-  editor       = {Ogawa, Naoyoshi and Li, Paul Jen-kui}
+  editor       = {Ogawa, Naoyoshi and Li, Paul Jen-kui},
+  publisher    = {Research Institute for Languages and Cultures of Asia and Africa},
+  address      = {Tokyo}
 }
 @article{257,
   title        = {Buhi’non (Bikol) Digital Wordlist: Presentation Form},
-  journal = {Language Documentation & Conservation},
-  volume = {3(2)},
-  pages = {213-225},
-  publisher = {University of Hawai'i},
+  journal      = {Language Documentation & Conservation},
+  volume       = {3(2)},
+  pages        = {213-225},
+  publisher    = {University of Hawai'i},
   year         = {2009},
   wordlist_ids = {710},
   author       = {Olson, Kenneth S. and Ballenas, Emy T. and Borromeo, Nilo M.}
 }
 @misc{258,
   title        = {Minangali (Kalinga) Digital Wordlist: Presentation Form},
-  journal = {Language Documentation & Conservation},
-  volume = {2(1)},
-  pages = {141-156},
-  publisher = {University of Hawai'i},
+  journal      = {Language Documentation & Conservation},
+  volume       = {2(1)},
+  pages        = {141-156},
+  publisher    = {University of Hawai'i},
   year         = {2008},
   wordlist_ids = {711},
   author       = {Olson, Kenneth S. and Machlan, Glenn and Amangao, Nelson}
 }
 @book{259,
-  title        = {Kamberaas (Oost-Soembaas) Nederlands woordenboek. Dordrecht: Foris},
+  title        = {Kamberaas (Oost-Soembaas) Nederlands woordenboek.},
   year         = {1984},
   wordlist_ids = {32},
-  author       = {Onvlee, L.}
+  author       = {Onvlee, L.},
+  publisher    = {Foris},
+  address      = {Dordrecht}
 }
 @phdthesis{260,
   title        = {Proto-Kra},
-  school =  {UC Berkeley},
+  school       = {UC Berkeley},
   year         = {2000},
   wordlist_ids = {690},
   author       = {Ostapirat, Weera}
@@ -2071,10 +2079,12 @@
   author       = {Ozanne-Rivierre, F.}
 }
 @book{266,
-  title        = {Yakan-Pilipino-English Dictionary. Manila: Summer Institute of Linguistics.},
+  title        = {Yakan-Pilipino-English Dictionary.},
   year         = {1975},
   wordlist_ids = {200},
-  author       = {Pack, J.}
+  author       = {Pack, J.},
+  publisher    = {Summer Institute of Linguistics},
+  address      = {Manila}
 }
 @misc{267,
   title        = {Culture contact and language convergence. Philippine journal of linguistics: special monograph issue, 24. Manila: Linguistic Society of the Philippines.},
@@ -2097,10 +2107,12 @@
   author       = {Parker, G.J.}
 }
 @book{270,
-  title        = {Dreißig Jahre in der Südsee: Land und Leute, Sitten und Gebräuche im Bismarckarchipel und auf den deutschen Salomoinseln. Stuttgart: Strecker & Schröder.},
+  title        = {Dreißig Jahre in der Südsee: Land und Leute, Sitten und Gebräuche im Bismarckarchipel und auf den deutschen Salomoinseln.},
   year         = {1907},
   wordlist_ids = {1708},
-  author       = {Parkinson, Richard}
+  author       = {Parkinson, Richard},
+  publisher    = {Strecker & Schröder},
+  address      = {Stuttgart}
 }
 @book{271,
   title        = {Lao-English Dictionary. Dunwoody Press.},
@@ -2166,10 +2178,12 @@
   author       = {Pittayaporn, Pittayawat}
 }
 @book{281,
-  title        = {Hawaiian Dictionary. Honolulu: University of Hawaii Press},
+  title        = {Hawaiian Dictionary.},
   year         = {1971},
   wordlist_ids = {52},
-  author       = {Pukui, M. & Elbert, S.H.}
+  author       = {Pukui, M. & Elbert, S.H.},
+  publisher    = {University of Hawaii Press},
+  address      = {Honolulu}
 }
 @misc{282,
   title        = {Le bwatoo et les dialectes de la région de Koné (Nouvelle-Calédonie), Peeters: Paris-Louvain-Dudley, 501p.},
@@ -2219,10 +2233,12 @@
   author       = {Reijffert, Fr. A.}
 }
 @book{290,
-  title        = {Vitu grammar sketch. Ukarumpa: Summer Institute of Linguistics},
+  title        = {Vitu grammar sketch.},
   year         = {2006},
   wordlist_ids = {140},
-  author       = {van den Berg, René and Bachet, Peter}
+  author       = {van den Berg, René and Bachet, Peter},
+  publisher    = {Summer Institute of Linguistics},
+  address      = {Ukarumpa}
 }
 @misc{291,
   title        = {Tausug-English Dictionary: Kabtangan Iban Maana},
@@ -2232,16 +2248,20 @@
   author       = {Hassan, Irene U. and Halud, Nurhadan and Ashley, Seymour A. and Ashley, Mary L.}
 }
 @book{292,
-  title        = {An Iban-English dictionary. Oxford: Oxford University Press.},
+  title        = {An Iban-English dictionary.},
   year         = {1981},
   wordlist_ids = {28},
-  author       = {N., Richards A. J.}
+  author       = {N., Richards A. J.},
+  publisher    = {Oxford University Press},
+  address      = {Oxford}
 }
 @book{293,
-  title        = {A new Malagasy-English dictionary. Antananarivo: London Missionary Society.},
+  title        = {A new Malagasy-English dictionary.},
   year         = {1885},
   wordlist_ids = {92},
-  author       = {Richardson, J.}
+  author       = {Richardson, J.},
+  publisher    = {London Missionary Society},
+  address      = {Antananarivo}
 }
 @misc{294,
   title        = {Maleisch-Kissersch woordenlijst. Tijdschrift voor Indische Taal-, Land- en Volkenkunde 31: 149-213.},
@@ -2250,10 +2270,12 @@
   author       = {Rinnooy, N.}
 }
 @book{295,
-  title        = {Dictionnaire Paici-Français. Paris: SELAF.},
+  title        = {Dictionnaire Paici-Français.},
   year         = {1983},
   wordlist_ids = {1479},
-  author       = {Rivierre, Jean-Claude}
+  author       = {Rivierre, Jean-Claude},
+  publisher    = {SELAF},
+  address      = {Paris}
 }
 @phdthesis{296,
   title        = {Dupaningan Agta: Grammar, Vocabulary, and Texts},
@@ -2371,10 +2393,12 @@
   author       = {Shibata, Kye}
 }
 @book{313,
-  title        = {Dictionary of Modern Spoken Mon. London: School of Oriental & African Studies},
+  title        = {Dictionary of Modern Spoken Mon.},
   year         = {1962},
   wordlist_ids = {683},
-  author       = {Shorto, Harry L.}
+  author       = {Shorto, Harry L.},
+  publisher    = {School of Oriental & African Studies},
+  address      = {London}
 }
 @book{314,
   title        = {A Mon-Khmer Comparative Dictionary},
@@ -2455,10 +2479,12 @@
   author       = {Sperlich, W.B.}
 }
 @book{325,
-  title        = {Sangiree-Nederrlands Woordernboek Met Nederlands-Sangirees Register. s-Gravenhage: The Netherlands},
+  title        = {Sangiree-Nederrlands Woordernboek Met Nederlands-Sangirees Register.},
   year         = {1959},
   wordlist_ids = {183},
-  author       = {Steller, K.G.F. & Aebersold, W.E.}
+  author       = {Steller, K.G.F. & Aebersold, W.E.},
+  publisher    = {The Netherlands},
+  address      = {s-Gravenhage}
 }
 @misc{326,
   title        = {Electonic dictionary of Malol Sissano},
