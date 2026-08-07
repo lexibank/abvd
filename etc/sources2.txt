@@ -1,68 +1,3 @@
-@mastersthesis{1,
-  title        = {Kajian Geografi Dialek Bahasa Besemah di Kabupaten Lahat},
-  school       = {Faculty of Humanities (Linguistics Study Programme), University of Indonesia},
-  year         = {2009},
-  wordlist_ids = {1204},
-  author       = {Irsan, Muhammad}
-}
-@misc{2,
-  title        = {A Combined Kiribati-English Dictionary based on the works of Hiram Bingham, D.D. and Father Ernest Sabatier, M.S.C. (translated by Sr. M. Oliva) with additional scientific material from Luomala, Goo & Banner},
-  publisher    = {University of Hawaii},
-  url          = {https://www.trussel.com/kir/dic/dic_a.htm},
-  year         = {1978},
-  wordlist_ids = {346},
-  author       = {Trussel, Stephen and Groves, Gordon W.}
-}
-@article{3,
-  title        = {A Conservative Vowel Phoneme Inventory of Sumatra: The Case of Besemah},
-  journal      = {Oceanic Linguistics},
-  volume       = {47},
-  number       = {2},
-  pages        = {409-432},
-  year         = {2008},
-  wordlist_ids = {1204},
-  author       = {McDonnell, Bradley}
-}
-@book{4,
-  title        = {A classified vocabulary: English, Pilipino and Limos Kalinga},
-  url          = {https://philippines.sil.org/resources/archives/24040},
-  publisher    = {Summer Institute of Linguistics},
-  year         = {1981},
-  wordlist_ids = {672},
-  author       = {Wiens, Hartmut and Wiens, Virginia}
-}
-@book{5,
-  title        = {A handy guidebook to the Ibaloi language},
-  publisher    = {Tebtebba Foundation},
-  address      = {Baguio City, Philippines},
-  year         = {2010},
-  wordlist_ids = {679},
-  author       = {Anton, Sofia Olga}
-}
-@book{6,
-  title        = {A topical vocabulary in English, Pilipino, Ilocano and Eastern Bontoc},
-  url          = {https://www.sil.org/resources/archives/26169},
-  publisher    = {Summer Institute of Linguistics},
-  year         = {1981},
-  wordlist_ids = {673},
-  author       = {Fukuda, Aiko and Fukuda, Takashi}
-}
-@book{7,
-  title        = {A topical vocabulary in English, Pilipino, Ilocano, and Southern Kalinga},
-  url          = {https://www.sil.org/resources/archives/24585},
-  publisher    = {Summer Institute of Linguistics},
-  year         = {1980},
-  wordlist_ids = {671},
-  author       = {Grayden, Bruce and Grayden, Judith}
-}
-@book{8,
-  title        = {Kamus moderen bahasa Angkola/Mandailing: Angkola/Mandailing-Indonesia, Indonesia-Angkola/Mandailing},
-  address      = {Jakarta},
-  publisher    = {Forum Komunikasi Masyarakat Tapanuli Selatan dan Mandailing Natal},
-  year         = {2007},
-  wordlist_ids = {863 1655},
-  author       = {Harahap, A. Bazar}
-}
 @book{9,
   title        = {Dictionary of the Great Andamanese language},
   address      = {Port Blair},
@@ -79,6 +14,11 @@
   year         = {1921},
   wordlist_ids = {92},
   author       = {Abinal, A. & Malzac, V.}
+}
+@misc{174,
+  title        = {Electronic dictionary. Ukarumpa: Summer Institute of Linguistics},
+  wordlist_ids = {1334},
+  author       = {Adams, Karen}
 }
 @book{11,
   title        = {Siraya: Retrieving the Phonology, Grammar and Lexicon of a Dormant Formosan Language},
@@ -125,6 +65,12 @@
   wordlist_ids = {732},
   editor       = {Allison, K. J.}
 }
+@misc{106,
+  title        = {English-Butuanon Dictionary},
+  howpublished = {manuscript},
+  wordlist_ids = {483},
+  author       = {Amalla, Fr. Joesilo C.}
+}
 @article{16,
   title        = {The linguistic situation in the islands on Yapen, Kurundu, Nau, and Miosnum, New Guinea},
   journal      = {Verhandelingen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde},
@@ -162,7 +108,15 @@
   volume       = {8},
   year         = {2005},
   wordlist_ids = {1337},
-  author       = {Anderson, Astrid & Mats Exter}
+  author       = {Anderson, Astrid and Exter, Mats}
+}
+@book{5,
+  title        = {A handy guidebook to the Ibaloi language},
+  publisher    = {Tebtebba Foundation},
+  address      = {Baguio City, Philippines},
+  year         = {2010},
+  wordlist_ids = {679},
+  author       = {Anton, Sofia Olga}
 }
 @misc{21,
   title        = {Kédang vocabulary},
@@ -189,9 +143,9 @@
 }
 @article{24,
   title        = {Bemerkungen zur Grammatik der Tami-Sprache},
-  journal = {Zeitschrift für afrikanische und ozeanische Sprachen},
-  volume = {5},
-  pages = {198-253},
+  journal      = {Zeitschrift für afrikanische und ozeanische Sprachen},
+  volume       = {5},
+  pages        = {198-253},
   year         = {1900},
   wordlist_ids = {1333},
   author       = {Bamler, Georg}
@@ -203,23 +157,6 @@
   publisher    = {University of San Carlos},
   address      = {Cebu City},
   author       = {Barbian, Karl-Josef}
-}
-@misc{26,
-  title        = {Tomoip wordlist: Based on elicitation sessions with Simon Mangil from Milim village, recorded in Kokopo, East New Britain, October to November 2022 (v1.0.2)},
-  url          = {https://doi.org/10.5281/zenodo.8437515},
-  year         = {2023},
-  wordlist_ids = {1708},
-  author       = {Barlow, Russell and Killian, Don}
-}
-@article{27,
-  title        = {Tomoip phonetics and phonology},
-  journal      = {Te Reo},
-  volume       = {66(1)},
-  pages        = {60–96},
-  url          = {https://hdl.handle.net/21.11116/0000-000D-F9B0-3},
-  year         = {2023},
-  wordlist_ids = {1708},
-  author       = {Barlow, Russell and Killian, Don}
 }
 @misc{28,
   title        = {Lote wordlist: Based on elicitation sessions with Leo Lang from Uvol village, recorded in Kokopo, East New Britain, November 2022 (v1.0)},
@@ -248,6 +185,23 @@
   wordlist_ids = {1708},
   author       = {Barlow, Russell}
 }
+@misc{26,
+  title        = {Tomoip wordlist: Based on elicitation sessions with Simon Mangil from Milim village, recorded in Kokopo, East New Britain, October to November 2022 (v1.0.2)},
+  url          = {https://doi.org/10.5281/zenodo.8437515},
+  year         = {2023},
+  wordlist_ids = {1708},
+  author       = {Barlow, Russell and Killian, Don}
+}
+@article{27,
+  title        = {Tomoip phonetics and phonology},
+  journal      = {Te Reo},
+  volume       = {66(1)},
+  pages        = {60–96},
+  url          = {https://hdl.handle.net/21.11116/0000-000D-F9B0-3},
+  year         = {2023},
+  wordlist_ids = {1708},
+  author       = {Barlow, Russell and Killian, Don}
+}
 @book{31,
   title        = {An Ainu-English-Japanese Dictionary},
   year         = {1905},
@@ -262,6 +216,14 @@
   wordlist_ids = {1190},
   author       = {Beaujard, P.}
 }
+@book{34,
+  title        = {The Tigak language of New Ireland},
+  address      = {Canberra},
+  publisher    = {Dept. of Linguistics, Research School of Pacific Studies, Australian National University},
+  year         = {1979},
+  wordlist_ids = {135},
+  author       = {Beaumont, Clive H.}
+}
 @book{33,
   title        = {Lavongai Materials},
   volume       = {82},
@@ -272,17 +234,9 @@
   wordlist_ids = {359},
   editor       = {Beaumont, Clive H.}
 }
-@book{34,
-  title        = {The Tigak language of New Ireland},
-  address      = {Canberra},
-  publisher    = {Dept. of Linguistics, Research School of Pacific Studies, Australian National University},
-  year         = {1979},
-  wordlist_ids = {135},
-  author       = {Beaumont, Clive H.}
-}
 @book{35,
   title        = {Yakan-English dictionary},
-  series = {Linguistic Society of the Philippines, Special Monograph Issue, 40.2},
+  series       = {Linguistic Society of the Philippines, Special Monograph Issue, 40.2},
   year         = {2002},
   wordlist_ids = {200},
   publisher    = {Linguistic Society of the Philippines},
@@ -303,9 +257,9 @@
 }
 @article{38,
   title        = {A Multilateral Look at Greater Austric},
-  journal = {Mother Tongue},
-  volume = {11},
-  pages = {219-258},
+  journal      = {Mother Tongue},
+  volume       = {11},
+  pages        = {219-258},
   year         = {2006},
   wordlist_ids = {1198},
   author       = {Bengtson, John D.}
@@ -339,6 +293,24 @@
   wordlist_ids = {79},
   author       = {Blust, R.}
 }
+@article{46,
+  title        = {The Greater Central Philippines Hypothesis},
+  journal      = {Oceanic Linguistics},
+  volume       = {30(2)},
+  pages        = {73-129},
+  year         = {1991},
+  wordlist_ids = {682},
+  author       = {Blust, R.}
+}
+@article{45,
+  title        = {Central and Central–Eastern Malayo-Polynesian},
+  volume       = {32},
+  pages        = {241–293},
+  journal      = {Oceanic Linguistics},
+  year         = {1993},
+  wordlist_ids = {267 268 270},
+  author       = {Blust, R.}
+}
 @article{42,
   title        = {Some remarks on the linguistic position of Thao},
   journal      = {Oceanic Linguistics},
@@ -367,30 +339,21 @@
   wordlist_ids = {797},
   author       = {Blust, R.}
 }
-@article{45,
-  title        = {Central and Central–Eastern Malayo-Polynesian},
-  volume       = {32},
-  pages        = {241–293},
-  journal      = {Oceanic Linguistics},
-  year         = {1993},
-  wordlist_ids = {267 268 270},
-  author       = {Blust, R.}
+@book{436,
+  title        = {佯僙语研究/Yanghuang yu yan jiu (A Study of Yanghuang [Then]). Beijing: 中央民族大学出版社/Zhong yang min zu da xue chu ban she},
+  year         = {1997},
+  wordlist_ids = {719},
+  publisher    = {中央民族大学出版社/Zhong yang min zu da xue chu ban she},
+  address      = {Beijing},
+  author       = {Bo, Wenze [薄文泽]}
 }
-@article{46,
-  title        = {The Greater Central Philippines Hypothesis},
-  journal      = {Oceanic Linguistics},
-  volume       = {30(2)},
-  pages        = {73-129},
-  year         = {1991},
-  wordlist_ids = {682},
-  author       = {Blust, R.}
-}
-@book{47,
-  title        = {A Brief Introduction of Caijia Speech [蔡家话概况]},
-  publisher    = {Minzu Yuwen},
-  year         = {2004},
-  wordlist_ids = {971},
-  author       = {[薄文泽], Bo Wenze}
+@book{435,
+  title        = {木佬语硏究 / Mulao yu yan jiu (A Study of Mulao). Beijing: 中央民族大学出版社 / Zhong yang min zu da xue chu ban she},
+  year         = {2003},
+  wordlist_ids = {766},
+  publisher    = {中央民族大学出版社 / Zhong yang min zu da xue chu ban she},
+  address      = {Beijing},
+  author       = {Bo, Wenze [薄文泽]}
 }
 @book{48,
   title        = {Taba: description of a South Halmahera language},
@@ -408,14 +371,6 @@
   wordlist_ids = {218},
   author       = {Bromilow, W. E.}
 }
-@book{50,
-  title        = {A sketch of the Tuzu language},
-  address      = {Beijing},
-  publisher    = {Institute of minorities},
-  year         = {1981},
-  wordlist_ids = {942},
-  author       = {He, Bu and Liuzhaoxiong}
-}
 @book{51,
   title        = {A grammar of Mangap-Mbula: An Austronesian language of Papua New Guinea},
   series       = {Pacific Linguistics C-101},
@@ -432,7 +387,7 @@
   publisher    = {Summer Institute of Linguistics, Papua New Guinea Branch},
   year         = {2007},
   wordlist_ids = {1330},
-  author       = {Bugenhagen, Salme & Robert D. Bugenhagen}
+  author       = {Bugenhagen, Salme and Bugenhagen, Robert D.}
 }
 @misc{53,
   title        = {Agutaynen - English Dictionary},
@@ -459,16 +414,35 @@
   wordlist_ids = {11},
   author       = {Capell, A.}
 }
-@incollection{56,
-  title        = {Utudnon, an Undescribed Language of Leyte"},
-  booktitle    = {Current Issues in Philippine Linguistics and Anthropology: Parangal kay Lawrence A. Reid},
-  pages        = {306-336},
-  address      = {Manila, Philippines},
-  publisher    = {Linguistic Society of the Philippines and SIL Philippines},
-  year         = {2005},
-  wordlist_ids = {1259},
-  editor       = {Liao, Hsiu-chuan and Rubino, Carl R. Galvez},
-  author       = {Rubino, Carl}
+@book{capell1943,
+  address      = {Sydney},
+  note         = {Publication of 1938 PhD from University of London},
+  pages        = {276},
+  publisher    = {Australasian Medical Publishing Company},
+  title        = {The Linguistic Position of South-Eastern Papua},
+  year         = {1943},
+  inlg         = {English [eng]},
+  isbn         = {9780404141073},
+  lgcode       = {[abad1241]; [kaye1241]; [lala1268]; [tawa1275]; [waim1251]; [weda1241]},
+  macro_area   = {Papunesia},
+  wordlist_ids = {227},
+  author       = {Capell, Arthur}
+}
+@incollection{capell1976,
+  address      = {Canberra},
+  booktitle    = {New Guinea Area Languages and Language Study Vol 2: Austronesian Languages},
+  pages        = {527-579},
+  publisher    = {Research School of Pacific and Asian Studies, Australian National University},
+  series       = {Pacific Linguistics: Series C},
+  title        = {Austronesian and Papuan "Mixed" Languages: General Remarks},
+  volume       = {39},
+  year         = {1976},
+  inlg         = {English [eng]},
+  lgcode       = {Manggarai = Manggarai [mqy], Ngad'a, Sika [ski], Lio, Solor = Solor [slp], Hawu [hvn], 2xMaisin [mbq], Ubir [ubr], Onjob [onj], Mukawa = Are [mwc], Gapapaiwa, Wedau [wed]},
+  macro_area   = {Papunesia},
+  wordlist_ids = {211},
+  author       = {Capell, Arthur},
+  editor       = {Wurm, Stephen A.}
 }
 @book{57,
   title        = {Vocabularies of the Santa Cruz Islands},
@@ -509,45 +483,6 @@
   year         = {1980},
   wordlist_ids = {95},
   author       = {Chantanakomes, V.}
-}
-@book{62,
-  title        = {A study of Yi dialects [彝语方言研究]},
-  address      = {Beijing},
-  publisher    = {China Minzu University Press},
-  year         = {2010},
-  wordlist_ids = {970},
-  author       = {[陈康], Chen Kang}
-}
-@book{63,
-  title        = {A Brief Introduction of Bana Language [巴那语概况]},
-  publisher    = {Minzu Yuwen},
-  year         = {2001},
-  wordlist_ids = {967},
-  author       = {[陈其光], Chen Qiguang}
-}
-@book{64,
-  title        = {A short description of the western Yugu language (in Chinese)},
-  address      = {Beijing},
-  publisher    = {Minzu},
-  year         = {1983},
-  wordlist_ids = {872},
-  author       = {Zongzhen, Chen and Xianchun, Lei}
-}
-@book{65,
-  title        = {A short description of the Tatar language},
-  address      = {Beijing},
-  publisher    = {Minzu},
-  year         = {1986},
-  wordlist_ids = {869},
-  author       = {Chen Zongzhen, Yi Liqian}
-}
-@book{66,
-  title        = {A short description of the Uzbek language (in Chinese)},
-  address      = {Beijing},
-  publisher    = {Minzu},
-  year         = {1986},
-  wordlist_ids = {871},
-  author       = {Shiliang, Cheng and Rahman, Abdul}
 }
 @incollection{67,
   title        = {Relations among languages of West New Britain: an assessment of recent theories and evidence},
@@ -625,6 +560,14 @@
   wordlist_ids = {491},
   author       = {Collins, M.A. and Collins, V.R. and Hashim, S.A.}
 }
+@book{133,
+  title        = {Vocabularies of Guangxi ethnic languages [广西民族语言方音词汇].},
+  year         = {2008},
+  wordlist_ids = {935 936 937 938},
+  publisher    = {Nationalities Publishing House [民族出版社]},
+  address      = {Beijing},
+  author       = {Committee, Guangxi Minority Languages Orthography}
+}
 @book{76,
   title        = {Hanunóo-English Vocabulary},
   series       = {University of California Publications in Linguistics, Volume 9},
@@ -652,14 +595,6 @@
   editor       = {Dutton, T.E.},
   author       = {Cooper, R.E.}
 }
-@book{79,
-  title        = {Nese: a diminishing speech variety of Northwest Malakula (Vanuatu)},
-  publisher    = {Pacific Linguistics},
-  url          = {https://openresearch-repository.anu.edu.au/bitstreams/310e1fd4-4074-43ae-9448-29d7c2562c26/download},
-  year         = {2006},
-  wordlist_ids = {459},
-  author       = {Crowley, T.}
-}
 @book{80,
   title        = {Tolo dictionary},
   series       = {PL C-91},
@@ -667,12 +602,6 @@
   year         = {1986},
   wordlist_ids = {469},
   author       = {Crowley, Susan Smith}
-}
-@misc{81,
-  title        = {Neve'ei dictionary},
-  howpublished = {Manuscript},
-  wordlist_ids = {484},
-  author       = {Crowley, T. & Musgrave, J.}
 }
 @incollection{82,
   title        = {A salvage sketch of Näti (Southwest Malakula, Vanuatu)},
@@ -683,6 +612,14 @@
   year         = {1998},
   wordlist_ids = {485},
   editor       = {Tryon, D.},
+  author       = {Crowley, T.}
+}
+@book{79,
+  title        = {Nese: a diminishing speech variety of Northwest Malakula (Vanuatu)},
+  publisher    = {Pacific Linguistics},
+  url          = {https://openresearch-repository.anu.edu.au/bitstreams/310e1fd4-4074-43ae-9448-29d7c2562c26/download},
+  year         = {2006},
+  wordlist_ids = {459},
   author       = {Crowley, T.}
 }
 @incollection{83,
@@ -709,6 +646,12 @@
   editor       = {Lynch, John},
   author       = {Crowley, T.}
 }
+@misc{81,
+  title        = {Neve'ei dictionary},
+  howpublished = {Manuscript},
+  wordlist_ids = {484},
+  author       = {Crowley, T. & Musgrave, J.}
+}
 @book{86,
   title        = {Contes Malgaches en Dialecte Sakalava: Textes, Traduction, Grammaire et Lexique},
   year         = {1968},
@@ -724,6 +667,18 @@
   wordlist_ids = {1702},
   author       = {Davids, A.}
 }
+@misc{215,
+  title        = {Electronic dictionary of Ramoaaina},
+  wordlist_ids = {1341},
+  author       = {Davies, Robin and Fritzell, Lisbeth}
+}
+@misc{297,
+  title        = {Duke of York grammar essentials (Ramoaaina)},
+  howpublished = {Unpublished ms. Ukarumpa: Summer Institute of Linguistics},
+  year         = {1992},
+  wordlist_ids = {1341},
+  author       = {Davies, Robyn and Fritzell, Lisbeth}
+}
 @book{88,
   title        = {A Dictionary of Yogad},
   address      = {Munich, Germany},
@@ -731,6 +686,15 @@
   year         = {2000},
   wordlist_ids = {713},
   author       = {Davis, Philip W. and Mesa, Angel D.}
+}
+@book{263,
+  title        = {Grammar of the Jabem Language in New Guinea, translated and edited by Joel Bradshaw and Francisc Czobor},
+  series       = {Oceanic Linguistics Special Publication, No. 32},
+  address      = {Honolulu},
+  publisher    = {University of Hawaii Press},
+  year         = {2005},
+  wordlist_ids = {334},
+  author       = {Dempwolff, Otto}
 }
 @book{89,
   title        = {The Tai–Kadai Languages},
@@ -740,14 +704,6 @@
   wordlist_ids = {866},
   editor       = {Diller, Anthony and Edmondson, Jerold A. and Luo, Yongxian}
 }
-@book{90,
-  title        = {A sketch of the Mongol language [蒙古语简志]},
-  address      = {Beijing},
-  publisher    = {Institute of minorities},
-  year         = {1983},
-  wordlist_ids = {943},
-  author       = {[道布], Dob}
-}
 @book{92,
   title        = {A grammar of Maybrat: a language of the Bird's Head Peninsula, Papua Province, Indonesia},
   address      = {Canberra},
@@ -756,23 +712,21 @@
   wordlist_ids = {852},
   author       = {Dol, Philomena}
 }
-@misc{93,
-  title        = {Sursurunga grammar essentials},
-  howpublished = {Unpublished manuscript. Ukarumpa: Summer Institute of Linguistics},
-  url          = {https://pnglanguages.sil.org/resources/archives/43876},
-  publisher    = {Summer Institute of Linguistics},
-  year         = {1975},
-  wordlist_ids = {1342},
-  author       = {Hutchisson, Don}
-}
-@misc{94,
-  title        = {Electronic dictionary of Sursurunga},
-  address      = {Ukarumpa},
-  year         = {2020},
-  url          = {https://www.webonary.org/sursurunga/},
-  publisher    = {Summer Institute of Linguistics},
-  wordlist_ids = {1342},
-  author       = {Hutchisson, Don}
+@book{dordillon1931,
+  address      = {Paris},
+  pages        = {vi+446},
+  publisher    = {Institut d'Éthnologie},
+  series       = {Travaux et Mémoires de l'Institut d'Éthnologie},
+  title        = {Grammaire et Dictionnaire de la Langue des Îles Marquises},
+  url          = {http://hdl.handle.net/11858/00-001M-0000-0012-80FD-8},
+  volume       = {XVII},
+  year         = {1931},
+  hhtype       = {grammar;dictionary},
+  inlg         = {French [fra]},
+  lgcode       = {Marquesan-North [mrq]},
+  macro_area   = {Papunesia},
+  wordlist_ids = {38},
+  author       = {Dordillon, Ildefonse René}
 }
 @mastersthesis{95,
   title        = {Amplifying Small Voices: A grammar sketch of Manide},
@@ -781,15 +735,6 @@
   year         = {2017},
   wordlist_ids = {1641},
   author       = {Doroja, D. M. A.}
-}
-@article{96,
-  title        = {Inati: the Hidden Negrito Language of Panay, Philippines},
-  journal      = {Philippine Journal of Linguistics},
-  volume       = {18/19},
-  pages        = {1-36},
-  year         = {1987},
-  wordlist_ids = {1260 1276 1277},
-  author       = {Pennoyer, Douglas F.}
 }
 @book{97,
   title        = {Speakkunst der Jamdeensche taal. Gravenhage: Martinus Nijhoff},
@@ -864,12 +809,6 @@
   wordlist_ids = {1465},
   author       = {Elkins, Richard E.}
 }
-@misc{106,
-  title        = {English-Butuanon Dictionary},
-  howpublished = {manuscript},
-  wordlist_ids = {483},
-  author       = {Amalla, Fr. Joesilo C.}
-}
 @book{107,
   title        = {English-Tagalog Visayan Dictionary -- Philippine Books (Paperback)},
   url          = {https://archive.org/details/englishtagalogvi0000enri},
@@ -877,12 +816,12 @@
   wordlist_ids = {467},
   author       = {Enriquez, M. Jacobo and Bautista, Jose A. and Jamolangue, Francis J.}
 }
-@book{108,
-  title        = {Fengkai County Almanac [封开县志]},
-  address      = {Guangzhou},
-  publisher    = {Guangdong People's Publishing House [广东人民出版社]},
-  year         = {1998},
-  wordlist_ids = {976}
+@misc{feinberg2024,
+  url          = {https://doi.org/10.26278/5CAB700C0C9DC},
+  title        = {Dictionaries of Anuta, Nukumanu and Taumako},
+  year         = {2024},
+  wordlist_ids = {1654},
+  author       = {Feinberg, Rick}
 }
 @book{109,
   title        = {Taiwan Aboriginal Groups: Problems in cultural and linguistic classification},
@@ -916,14 +855,6 @@
   wordlist_ids = {1563},
   author       = {Fortescue, Michael}
 }
-@book{113,
-  title        = {Lau Dictionary with English Index},
-  publisher    = {Australian National University Press},
-  address      = {Canberra},
-  year         = {1974},
-  wordlist_ids = {68},
-  author       = {Fox, C. E.}
-}
 @book{114,
   title        = {A dictionary of the Nggela language (Florida, British Solomon Islands)},
   publisher    = {Unity Press},
@@ -940,6 +871,14 @@
   wordlist_ids = {500},
   author       = {Fox, C. E.}
 }
+@book{113,
+  title        = {Lau Dictionary with English Index},
+  publisher    = {Australian National University Press},
+  address      = {Canberra},
+  year         = {1974},
+  wordlist_ids = {68},
+  author       = {Fox, C. E.}
+}
 @misc{116,
   title        = {200-item lexicostatistical lists for 29 languages of the Lesser Sunda Islands (eastern Sumbawa to Kisar)},
   howpublished = {Manuscript},
@@ -954,21 +893,6 @@
   wordlist_ids = {465},
   author       = {François, A.}
 }
-@book{141,
-  wordlist_ids = {212 1573 1574 1575 1613 1614},
-  address      = {Louvain},
-  number       = {212},
-  pages        = {285},
-  publisher    = {Peeters},
-  series       = {LACITO-Documents: Asie-Austronèsie},
-  title        = {Dictionnaire Thématique des Langues de la région de Hienghène (Nouvelle-Calédonie): Pije - Fwâi - Nemi - Jawe},
-  volume       = {4},
-  year         = {1982},
-  isbn         = {9782852971349},
-  lgcode       = {Fwâi [fwa], Jawe [jaz], Nemi [nem], Pije [piz]},
-  macro_area   = {Papunesia},
-  author       = {Haudricourt, André-Georges and Ozanne-Rivierre, Françoise}
-}
 @book{119,
   title        = {Topics in the grammar of Hewa. A variety of Sika in Eastern Flores, Indonesia},
   year         = {2014},
@@ -976,6 +900,14 @@
   address      = {Munich},
   publisher    = {LINCOM},
   author       = {Fricke, Hanna}
+}
+@book{6,
+  title        = {A topical vocabulary in English, Pilipino, Ilocano and Eastern Bontoc},
+  url          = {https://www.sil.org/resources/archives/26169},
+  publisher    = {Summer Institute of Linguistics},
+  year         = {1981},
+  wordlist_ids = {673},
+  author       = {Fukuda, Aiko and Fukuda, Takashi}
 }
 @book{120,
   title        = {Bariai dictionary (first corrected edition), West New Britain Province, Papua New Guinea},
@@ -1002,35 +934,12 @@
   wordlist_ids = {712},
   author       = {Ganang, Ricky Yakub, et al.}
 }
-@book{123,
-  title        = {A study of Mang [莽语硏究]},
-  address      = {Beijing},
-  publisher    = {Ethnic Publishing House},
-  year         = {2003},
-  wordlist_ids = {966},
-  author       = {[高永奇], Gao Yongqi}
-}
 @book{124,
   title        = {William J. Gedney's the Saek Language: Glossary, Texts, and Translations},
   publisher    = {Center for South and Southeast Asian Studies, University of Michigan},
   year         = {1993},
   wordlist_ids = {750},
   editor       = {Gedney, William J. and Hudak, Thomas John}
-}
-@book{125,
-  title        = {A short description of the Kazakh language (in Chinese)},
-  year         = {1984},
-  wordlist_ids = {867},
-  publisher    = {Minzu},
-  address      = {Beijing},
-  author       = {Shimin, Geng}
-}
-@book{126,
-  title        = {Tîrî-English dictionary},
-  series       = {Pacific Linguistics (Series C - 12)},
-  year         = {1976},
-  wordlist_ids = {1612},
-  author       = {Grace, George W.}
 }
 @book{127,
   address      = {Honolulu},
@@ -1066,14 +975,6 @@
   wordlist_ids = {708},
   author       = {Gordon, M. Ruth and Kilgour, Heather J.}
 }
-@book{130,
-  title        = {Canala dictionary (New Caledonia)},
-  address      = {Canberra},
-  publisher    = {Pacific Linguistics},
-  year         = {1975},
-  wordlist_ids = {19},
-  author       = {Grace, George W.}
-}
 @incollection{131,
   title        = {Columbia University notebook, pt. 3},
   booktitle    = {The George Grace linguistic research and slides of Melanesia collection, 1955–1956: Online documents},
@@ -1082,6 +983,29 @@
   year         = {1955},
   wordlist_ids = {1708 1709},
   author       = {Grace, George W.}
+}
+@book{130,
+  title        = {Canala dictionary (New Caledonia)},
+  address      = {Canberra},
+  publisher    = {Pacific Linguistics},
+  year         = {1975},
+  wordlist_ids = {19},
+  author       = {Grace, George W.}
+}
+@book{126,
+  title        = {Tîrî-English dictionary},
+  series       = {Pacific Linguistics (Series C - 12)},
+  year         = {1976},
+  wordlist_ids = {1612},
+  author       = {Grace, George W.}
+}
+@book{7,
+  title        = {A topical vocabulary in English, Pilipino, Ilocano, and Southern Kalinga},
+  url          = {https://www.sil.org/resources/archives/24585},
+  publisher    = {Summer Institute of Linguistics},
+  year         = {1980},
+  wordlist_ids = {671},
+  author       = {Grayden, Bruce and Grayden, Judith}
 }
 @article{132,
   title        = {POLLEX-Online: The Polynesian Lexicon Project Online},
@@ -1092,44 +1016,22 @@
   wordlist_ids = {1207},
   author       = {Greenhill, S.J. & Clark, R.}
 }
-@book{133,
-  title        = {Vocabularies of Guangxi ethnic languages [广西民族语言方音词汇].},
-  year         = {2008},
-  wordlist_ids = {935 936 937 938},
-  publisher    = {Nationalities Publishing House [民族出版社]},
-  address      = {Beijing},
-  author       = {Committee, Guangxi Minority Languages Orthography}
-}
-@book{134,
-  title        = {Guangxi Province Almanac: Ethnic Gazetteer. [广西通志. 民族志.] 2009.},
-  year         = {2009},
-  wordlist_ids = {977},
-  publisher    = {Guangxi People's Publishing House [广西人民出版社]},
-  address      = {Nanning}
-}
-@book{135,
-  title        = {Guizhou County Gazetteer: Ethnic Gazetteer [贵州省志. 民族志] (2002).},
-  year         = {2002},
-  wordlist_ids = {975},
-  publisher    = {Guizhou Ethnic Publishing House [貴州民族出版社]},
-  address      = {Guiyang}
-}
 @article{137,
   title        = {Kenaboi: An extinct unclassified language of the Malay Peninsula},
-  journal = {Mon–Khmer Studies},
-  volume = {28},
-  pages = {137–49},
+  journal      = {Mon–Khmer Studies},
+  volume       = {28},
+  pages        = {137–49},
   year         = {1998},
   wordlist_ids = {1564 1568},
   author       = {Hajek, John}
 }
-@mastersthesis{138,
-  title        = {Red Gelao of the China-Vietnam border region: a sketch and classification [中越边境红仡佬语概况及其系属研究]},
-  address      = {Beijing},
-  school       = {Minzu University},
-  year         = {2010},
-  wordlist_ids = {926},
-  author       = {[韩林林], Han Linlin}
+@book{8,
+  title        = {Kamus moderen bahasa Angkola/Mandailing: Angkola/Mandailing-Indonesia, Indonesia-Angkola/Mandailing},
+  address      = {Jakarta},
+  publisher    = {Forum Komunikasi Masyarakat Tapanuli Selatan dan Mandailing Natal},
+  year         = {2007},
+  wordlist_ids = {863 1655},
+  author       = {Harahap, A. Bazar}
 }
 @book{139,
   title        = {A word-list of South Island Maori},
@@ -1137,6 +1039,13 @@
   year         = {1987},
   wordlist_ids = {763},
   author       = {Harlow, R.}
+}
+@misc{291,
+  title        = {Tausug-English Dictionary: Kabtangan Iban Maana},
+  url          = {https://www.webonary.org/tausug/},
+  year         = {1994},
+  wordlist_ids = {452},
+  author       = {Hassan, Irene U. and Halud, Nurhadan and Ashley, Seymour A. and Ashley, Mary L.}
 }
 @article{140,
   title        = {A Glottochronological Study on Three Okinawan Dialects},
@@ -1147,12 +1056,36 @@
   wordlist_ids = {702 703 704 705 706},
   author       = {Hattori, S.}
 }
-@book{142,
-  title        = {Sketch of Hongfeng Gelao [红丰仡佬语概况]},
-  publisher    = {Minzu Yuwen},
-  year         = {2008},
-  wordlist_ids = {945},
-  author       = {[何彦诚], He Yancheng}
+@book{141,
+  wordlist_ids = {212 1573 1574 1575 1613 1614},
+  address      = {Louvain},
+  number       = {212},
+  pages        = {285},
+  publisher    = {Peeters},
+  series       = {LACITO-Documents: Asie-Austronèsie},
+  title        = {Dictionnaire Thématique des Langues de la région de Hienghène (Nouvelle-Calédonie): Pije - Fwâi - Nemi - Jawe},
+  volume       = {4},
+  year         = {1982},
+  isbn         = {9782852971349},
+  lgcode       = {Fwâi [fwa], Jawe [jaz], Nemi [nem], Pije [piz]},
+  macro_area   = {Papunesia},
+  author       = {Haudricourt, André-Georges and Ozanne-Rivierre, Françoise}
+}
+@book{50,
+  title        = {A sketch of the Tuzu language},
+  address      = {Beijing},
+  publisher    = {Institute of minorities},
+  year         = {1981},
+  wordlist_ids = {942},
+  author       = {He, Bu and Liuzhaoxiong}
+}
+@book{437,
+  title        = {仡佬语简志 / Gelao yu jian zhi (A Sketch of Gelao)},
+  address      = {Beijing [北京]},
+  publisher    = {Min zu chu ban she: Xin hua shu dian fa xing [民族出版社: 新華書店发行]},
+  year         = {1983},
+  wordlist_ids = {699},
+  author       = {He, Jiashan [贺嘉善]}
 }
 @book{143,
   title        = {Grammatica van het Waropensch. Verhandelingen van het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen, deel LXXVII, Eerstestuk},
@@ -1161,6 +1094,14 @@
   year         = {1942},
   wordlist_ids = {142},
   author       = {Held, G. J.}
+}
+@book{165,
+  title        = {Languages of the Louisiades Archipelago and environs},
+  series       = {WPNG Languages},
+  publisher    = {SIL},
+  year         = {1974},
+  wordlist_ids = {669},
+  author       = {Henderson, Jim and Henderson, Ann}
 }
 @article{144,
   title        = {The relationship of Umiray Dumaget to other Philippine languages},
@@ -1222,34 +1163,6 @@
   wordlist_ids = {952},
   author       = {Holton, Gary and Klamer, Marian and Kratochvíl, František and Robinson, Laura C. and Schapper, Antoinette}
 }
-@incollection{151,
-  title        = {The Sound System of the Tày Language of Cao Bằng, Vietnam},
-  booktitle    = {Comparative Kadai: The Tai branch},
-  pages        = {221-231},
-  series       = {Summer Institute of Linguistics and the University of Texas at Arlington Publications in Linguistics, 124},
-  address      = {Dallas},
-  publisher    = {Summer Institute of Linguistics and the University of Texas at Arlington},
-  year         = {1997},
-  wordlist_ids = {689},
-  editor       = {Edmondson, Jerold A. and Solnit, David B.},
-  author       = {Ma, Hoàng Văn}
-}
-@book{152,
-  title        = {Tiếng Pu Péo},
-  address      = {Hà Nội},
-  publisher    = {Khoa học xã hội},
-  year         = {1992},
-  wordlist_ids = {947},
-  author       = {Ma, Hoàng Văn}
-}
-@book{153,
-  title        = {A short description of the Kirgiz language (in Chinese)},
-  year         = {1984},
-  wordlist_ids = {873},
-  publisher    = {Minzu},
-  address      = {Beijing},
-  author       = {Zhenhua, Hu}
-}
 @book{154,
   title        = {Chinese-Hlai dictionary (Sai dialect) [汉黎字典(赛方言)]},
   year         = {2011},
@@ -1260,7 +1173,7 @@
 }
 @book{155,
   title        = {William J. Gedney's concise Saek-English, English-Saek lexicon},
-  series = {Oceanic Linguistics special publication, no. 37},
+  series       = {Oceanic Linguistics special publication, no. 37},
   address      = {Honolulu},
   publisher    = {University of Hawaii Press},
   year         = {2010},
@@ -1283,13 +1196,23 @@
   wordlist_ids = {215},
   author       = {Hudson, Alfred B.}
 }
-@book{158,
-  title        = {Kamus bahasa Indonesia-Kaidipang},
-  address      = {Jakarta},
-  publisher    = {Pusat Pembinaan dan Pengembangan Bahasa, Departemen Pendidikan dan Kebudayaan},
-  year         = {1999},
-  wordlist_ids = {29},
-  author       = {et al., Hunggu Tadjuddin Usup}
+@misc{93,
+  title        = {Sursurunga grammar essentials},
+  howpublished = {Unpublished manuscript. Ukarumpa: Summer Institute of Linguistics},
+  url          = {https://pnglanguages.sil.org/resources/archives/43876},
+  publisher    = {Summer Institute of Linguistics},
+  year         = {1975},
+  wordlist_ids = {1342},
+  author       = {Hutchisson, Don}
+}
+@misc{94,
+  title        = {Electronic dictionary of Sursurunga},
+  address      = {Ukarumpa},
+  year         = {2020},
+  url          = {https://www.webonary.org/sursurunga/},
+  publisher    = {Summer Institute of Linguistics},
+  wordlist_ids = {1342},
+  author       = {Hutchisson, Don}
 }
 @book{159,
   title        = {A dictionary of the Aneityumese language: In two parts. 1. Aneityumese and English. 2. English and Aneityumese. Also outlines of Aneityumese grammar},
@@ -1306,7 +1229,14 @@
   pages        = {3-20},
   year         = {2024},
   wordlist_ids = {1710},
-  author       = {S., Irnanda}
+  author       = {Irnanda, S.}
+}
+@mastersthesis{1,
+  title        = {Kajian Geografi Dialek Bahasa Besemah di Kabupaten Lahat},
+  school       = {Faculty of Humanities (Linguistics Study Programme), University of Indonesia},
+  year         = {2009},
+  wordlist_ids = {1204},
+  author       = {Irsan, Muhammad}
 }
 @book{161,
   title        = {Dictionary and grammar of the language of Sa'a and Ulawa, Solomon Islands},
@@ -1315,14 +1245,6 @@
   year         = {1929},
   wordlist_ids = {221},
   author       = {Ivens, W. G.}
-}
-@book{162,
-  title        = {Wetan fieldnotes: some eastern Indonesian texts},
-  address      = {Dordrecht, Holland; Providence, RI, USA},
-  publisher    = {Foris Publications},
-  year         = {1987},
-  wordlist_ids = {853},
-  author       = {de Josselin de Jong, Jan Petrus Benjamin}
 }
 @book{163,
   title        = {Tuvaluan Dictionary},
@@ -1339,24 +1261,12 @@
   wordlist_ids = {51},
   author       = {Jenness, D. and Ballantyne, A.}
 }
-@book{165,
-  title        = {Languages of the Louisiades Archipelago and environs},
-  series       = {WPNG Languages},
-  publisher    = {SIL},
-  year         = {1974},
-  wordlist_ids = {669},
-  author       = {Henderson, Jim Henderson & Ann}
-}
-@incollection{166,
-  title        = {Utaha},
-  booktitle    = {Studies in the Languages of Erromango},
-  pages        = {184-190},
-  address      = {Canberra},
-  publisher    = {Research School of Pacific and Asian Studies, Australian National University},
-  year         = {1983},
-  wordlist_ids = {1540},
-  editor       = {Lynch, John},
-  author       = {Lynch, John}
+@book{195,
+  title        = {The Buyang language of South China: grammatical notes, glossary, texts and translations},
+  publisher    = {Pacific Linguistics Publishers, Australian National University},
+  year         = {2010},
+  wordlist_ids = {694},
+  author       = {Jinfang, Li and Yongxian, Luo}
 }
 @book{167,
   title        = {Rotineesch-Hollandsch Woordenboek},
@@ -1383,14 +1293,6 @@
   wordlist_ids = {684},
   author       = {Jonsson, Nanna L.}
 }
-@book{170,
-  title        = {Kamus bahasa Tidore, Indonesia, Inggris},
-  address      = {Tidore, Maluku, Indonesia},
-  publisher    = {Pemerintah Daerah Tingkat II Halmahera Tengah},
-  year         = {1994},
-  wordlist_ids = {865},
-  author       = {Pikkert, Joost J. J. and et. al., Cheryl M. Pikkert}
-}
 @book{171,
   title        = {A sketch of the Eastern Yugu language},
   address      = {Beijing},
@@ -1406,20 +1308,6 @@
   year         = {1981},
   wordlist_ids = {940},
   author       = {Junast}
-}
-@book{173,
-  title        = {The Nihali Language (Grammar, Texts, Vocabulary)},
-  pages        = {xii+332pp.},
-  year         = {2014},
-  wordlist_ids = {1572},
-  publisher    = {Central Institute of Indian Languages},
-  address      = {Mysore},
-  author       = {Nagaraja, K. S.}
-}
-@misc{174,
-  title        = {Electronic dictionary. Ukarumpa: Summer Institute of Linguistics},
-  wordlist_ids = {1334},
-  author       = {Adams, Karen}
 }
 @book{175,
   title        = {Kwaio Dictionary.},
@@ -1439,9 +1327,9 @@
 }
 @article{177,
   title        = {Bantoanon Phonology},
-  journal = {Studies in Philippine Linguistics},
-  volume = {9(1)},
-  pages = {111-136},
+  journal      = {Studies in Philippine Linguistics},
+  volume       = {9(1)},
+  pages        = {111-136},
   year         = {1992},
   wordlist_ids = {708},
   publisher    = {Summer Institute of Linguistics},
@@ -1450,18 +1338,18 @@
 }
 @article{178,
   title        = {The Maloh language: a vocabulary and summary of the literature},
-  journal = {The Sarawak Museum Journal},
-  volume = {24.45(N.S.)},
-  pages = {137-171},
+  journal      = {The Sarawak Museum Journal},
+  volume       = {24.45(N.S.)},
+  pages        = {137-171},
   year         = {1976},
   wordlist_ids = {83},
   author       = {King, Victor T.}
 }
 @article{179,
   title        = {Upas, September and the Bugis at the cape of good hope. The context of a slave's letter},
-  journal = {Archipel},
-  volume = {70(1)},
-  pages = {281-308},
+  journal      = {Archipel},
+  volume       = {70(1)},
+  pages        = {281-308},
   year         = {2005},
   wordlist_ids = {1702},
   author       = {Koolhof, S. and Ross, R.}
@@ -1474,16 +1362,24 @@
   wordlist_ids = {782},
   author       = {Kosaka, Ryuichi [小坂, 隆一]}
 }
+@book{301,
+  title        = {仡央语言词汇集/Geyang yu yan ci hui ji (A Wordlist of Ge-Yang Languages)},
+  address      = {贵阳市/Guiyang, China},
+  publisher    = {贵州民族出版社/Guizhou min zu chu ban she},
+  year         = {1998},
+  wordlist_ids = {693 695},
+  author       = {Kosaka, Ryūichi and Zhou, Guoyan and Li, Jinfang}
+}
 @incollection{181,
   title        = {Ceq Wong vocabulary},
-  editor = {Haspelmath, Martin & Tadmor, Uri},
-  booktitle = {World Loanword Database},
-  address = {Munich},
-  publisher = {Max Planck Digital Library},
-  note = {871 entries},
-  url = {https://wold.clld.org/vocabulary/26},
+  booktitle    = {World Loanword Database},
+  address      = {Munich},
+  publisher    = {Max Planck Digital Library},
+  note         = {871 entries},
+  url          = {https://wold.clld.org/vocabulary/26},
   year         = {2009},
   wordlist_ids = {735},
+  editor       = {Haspelmath, Martin & Tadmor, Uri},
   author       = {Kruspe, Nicole}
 }
 @book{182,
@@ -1496,11 +1392,21 @@
 }
 @book{183,
   title        = {Simalur-German, German-Simalur dictionary [Simalur-deutsches Wörterbuch mit deutsch-simaluresischem Wörterverzeichnis]},
-  address = {Berlin},
-  publisher = {D. Reimer},
+  address      = {Berlin},
+  publisher    = {D. Reimer},
   year         = {1961},
   wordlist_ids = {994},
   author       = {Kähler, Hans}
+}
+@book{279,
+  title        = {Lexique jarai, français, viêtnamien, parler de la province de Plei Ku},
+  series       = {Publications de l'Ecole française d'Extrême-Orient},
+  volume       = {63},
+  address      = {Paris},
+  publisher    = {École française d'Extrême-Orient},
+  year         = {1968},
+  wordlist_ids = {744},
+  author       = {Lafont, Pierre-Bernard and Nguyẽ̂n-văn-Trọng}
 }
 @phdthesis{184,
   title        = {Subgrouping Of Nisoic (Yi) Languages: A Study From The Perspectives Of Shared Innovation And Phylogenetic Estimation},
@@ -1529,9 +1435,9 @@
 }
 @incollection{187,
   title        = {The Seko languages of South Sulawesi: a reconstruction},
-  booktitle = {Tenth International Conference on Austronesian Linguistics, 17-20 January 2006},
-  address = {Palawan, Philippines},
-  publisher = {SIL International},
+  booktitle    = {Tenth International Conference on Austronesian Linguistics, 17-20 January 2006},
+  address      = {Palawan, Philippines},
+  publisher    = {SIL International},
   year         = {2006},
   wordlist_ids = {946},
   author       = {Laskowske, Thomas V.}
@@ -1563,51 +1469,6 @@
   wordlist_ids = {1482 1483 1484 1485 1486 1487 1488 1489 1490 1491 1492 1493 1494 1495 1496 1497 1498 1499 1500 1501 1502 1503 1504 1505 1506 1507 1508 1509 1510 1511 1512 1513 1514 1515},
   author       = {Leenhardt, Maurice}
 }
-@book{192,
-  title        = {"Buyang yu yan jiu" Studies in the Buyang Language.},
-  year         = {1999},
-  wordlist_ids = {351},
-  publisher    = {Central University for Nationalities Press},
-  address      = {Beijing},
-  author       = {[李锦芳], Li Jinfang}
-}
-@book{193,
-  title        = {Studies on endangered languages in the Southwest China [西南地区濒危语言调查研究]},
-  year         = {2006},
-  wordlist_ids = {925 928 929 930 931 932 961},
-  publisher    = {Minzu University},
-  address      = {Beijing},
-  author       = {[李锦芳], Li Jinfang}
-}
-@misc{194,
-  title        = {"Guangdong Wuchuan Jizhaohua gaikuang" [广东吴川吉兆话概况]. In Minzu Yuwen [民族语文] 2017:4.},
-  year         = {2017},
-  wordlist_ids = {1536},
-  author       = {[李锦芳], Li Jinfang and [吴艳], Wu Yan}
-}
-@book{195,
-  title        = {The Buyang language of South China: grammatical notes, glossary, texts and translations},
-  publisher = {Pacific Linguistics Publishers, Australian National University},
-  year         = {2010},
-  wordlist_ids = {694},
-  author       = {Jinfang, Li and Yongxian, Luo}
-}
-@book{196,
-  title        = {A Study of Lai (Bolyu) [倈语硏究]},
-  year         = {1999},
-  wordlist_ids = {960},
-  publisher    = {Minzu University},
-  address      = {Beijing},
-  author       = {[李旭练], Li Xulian}
-}
-@book{197,
-  title        = {A Study of Bugeng (Bugan) [布赓语研究]},
-  year         = {2005},
-  wordlist_ids = {962},
-  publisher    = {Minzu University},
-  address      = {Beijing},
-  author       = {[李云兵], Li Yunbing}
-}
 @book{198,
   title        = {A Handbook of Comparative Tai},
   year         = {1977},
@@ -1618,13 +1479,13 @@
 }
 @incollection{199,
   title        = {Chadong, a Newly-Discovered Kam-Sui Language in Northern Guangxi},
-  editor = {Diller, Anthony and Jerold A. Edmondson and Yongxian Luo},
-  booktitle = {The Tai-Kadai languages},
-  pages = {596-620},
-  address = {New York},
-  publisher = {Routledge},
+  booktitle    = {The Tai-Kadai languages},
+  pages        = {596-620},
+  address      = {New York},
+  publisher    = {Routledge},
   year         = {2008},
   wordlist_ids = {717},
+  editor       = {Diller, Anthony and Edmondson, Jerold A. and Luo, Yongxian},
   author       = {Li, Jinfang}
 }
 @book{200,
@@ -1634,22 +1495,6 @@
   publisher    = {Institute of Linguistics, Academia Sinica},
   address      = {Taipei, Taiwan},
   author       = {Li, Paul Jen-kuei}
-}
-@book{201,
-  title        = {Pazih Dictionary (巴宰語詞典)},
-  year         = {2001},
-  wordlist_ids = {760},
-  publisher    = {Institute of Linguistics, Academia Sinica},
-  address      = {Taipei, Taiwan},
-  author       = {Li, Paul Jen-kuei and Tsuchida, Shigeru}
-}
-@book{202,
-  title        = {Kavalan Dictionary [噶瑪蘭語詞典]},
-  year         = {2006},
-  wordlist_ids = {720},
-  publisher    = {Institute of Linguistics, Academia Sinica},
-  address      = {Taipei, Taiwan},
-  author       = {Li, Paul Jen-kuei and Tsuchida, Shigeru}
 }
 @incollection{203,
   title        = {The Internal Relationships of Rukai},
@@ -1693,27 +1538,51 @@
 }
 @incollection{207,
   title        = {Establishing Genetic Relationship between Language Families in Southeast Asia},
-  editor = {Yingjin Lin [林英津] et al.},
-  booktitle = {漢藏語研究: 龔煌城先生七秩壽慶論文集 [Studies on Sino-Tibetan languages: Papers in honor of Professor Hwang-cherng Gong on his Seventieth birthday]},
+  booktitle    = {漢藏語研究: 龔煌城先生七秩壽慶論文集 [Studies on Sino-Tibetan languages: Papers in honor of Professor Hwang-cherng Gong on his Seventieth birthday]},
   year         = {2004},
   wordlist_ids = {787},
+  editor       = {et al., Yingjin Lin [林英津]},
   author       = {Li, Paul Jen-kuei}
 }
-@book{208,
-  title        = {Pubiao-yu Yanjiu},
-  year         = {2007},
-  wordlist_ids = {593},
-  publisher    = {The Ethnic Publishing House},
-  address      = {Beijing},
-  author       = {Min, Liang and Junru, Zhang and Yunbing, Li}
+@book{201,
+  title        = {Pazih Dictionary (巴宰語詞典)},
+  year         = {2001},
+  wordlist_ids = {760},
+  publisher    = {Institute of Linguistics, Academia Sinica},
+  address      = {Taipei, Taiwan},
+  author       = {Li, Paul Jen-kuei and Tsuchida, Shigeru}
 }
-@book{209,
-  title        = {Survey of the Guizhou Bouyei Language},
-  series = {SIL Language and Culture Documentation and Description 1},
-  publisher = {SIL International},
-  year         = {2007},
-  wordlist_ids = {731},
-  author       = {Yongshu, Liang and Snyder, Wil C. and Wenyi, Wu}
+@book{202,
+  title        = {Kavalan Dictionary [噶瑪蘭語詞典]},
+  year         = {2006},
+  wordlist_ids = {720},
+  publisher    = {Institute of Linguistics, Academia Sinica},
+  address      = {Taipei, Taiwan},
+  author       = {Li, Paul Jen-kuei and Tsuchida, Shigeru}
+}
+@book{421,
+  title        = {毛难语简志 / Maonan yu jian zhi (A Sketch of Maonan)},
+  year         = {1980},
+  wordlist_ids = {784},
+  publisher    = {民族出版社: 新华书店发行 / Min zu chu ban she: Xin hua shu dian fa xing},
+  address      = {Beijing},
+  author       = {Liang, Min [梁敏]}
+}
+@book{422,
+  title        = {临高語研究 / Lingao yu yan jiu (A Study of Lingao)},
+  year         = {1997},
+  wordlist_ids = {724},
+  publisher    = {上海远东出版社 / Shanghai yuan dong chu ban she},
+  address      = {上海/Shanghai},
+  author       = {Liang, Min [梁敏]}
+}
+@book{420,
+  title        = {标话硏究 / Biao hua yan jiu (A Study of Biao)},
+  year         = {2002},
+  wordlist_ids = {751},
+  publisher    = {中央民族大学出版社 / Zhong yang min zu da xue chu ban she},
+  address      = {Beijing},
+  author       = {Liang, Min [梁敏]}
 }
 @misc{210,
   title        = {A short description of the Salar language},
@@ -1723,14 +1592,14 @@
 }
 @incollection{211,
   title        = {An investigation of the Ai-Cham language},
-  editor = {Jerold A. Edmondson and David B. Solnit},
-  booktitle = {Comparative Kadai: Linguistic studies beyond Tai},
-  pages = {59-85},
-  series = {Summer Institute of Linguistics Publications in Linguistics, 86},
-  address = {Dallas},
-  publisher = {Summer Institute of Linguistics and the University of Texas at Arlington},
+  booktitle    = {Comparative Kadai: Linguistic studies beyond Tai},
+  pages        = {59-85},
+  series       = {Summer Institute of Linguistics Publications in Linguistics, 86},
+  address      = {Dallas},
+  publisher    = {Summer Institute of Linguistics and the University of Texas at Arlington},
   year         = {1988},
   wordlist_ids = {714},
+  editor       = {Edmondson, Jerold A. and Solnit, David B.},
   author       = {Lin, Shi and Jianxin, Cui}
 }
 @misc{212,
@@ -1747,11 +1616,6 @@
   wordlist_ids = {1329 1343 1344 1345 1346 1347 1348 1349 1350 1351 1352 1353 1354 1355 1356 1357 1358 1359 1360},
   author       = {Lincoln, Peter C.}
 }
-@misc{215,
-  title        = {Electronic dictionary of Ramoaaina},
-  wordlist_ids = {1341},
-  author       = {Davies, Lisbeth Fritzell & Robin}
-}
 @book{216,
   title        = {A Grammar of the Motu language of Papua},
   year         = {1930},
@@ -1762,58 +1626,19 @@
 }
 @incollection{217,
   title        = {Language change on Fergusson and Normanby Islands},
-  booktitle = {Culture Change, Language Change: Case Studies from Melanesia},
-  editor = {Dutton, T.E,},
-  series = {Pacific Linguistics C-120},
+  booktitle    = {Culture Change, Language Change: Case Studies from Melanesia},
+  series       = {Pacific Linguistics C-120},
   year         = {1992},
   wordlist_ids = {617},
+  editor       = {Dutton, T.E},
   author       = {Lithgow, D.}
-}
-@book{218,
-  title        = {A sketch of the Dongxiang language},
-  address      = {Beijing},
-  publisher    = {Institute of minorities},
-  year         = {1981},
-  wordlist_ids = {939},
-  author       = {Zhaoxiong, Liu}
 }
 @book{219,
   title        = {Liyu Jiamaohua gaikuang 黎语加茂话概况},
-  series = {Minzu Yuwen 民族语文, 2008(1)},
+  series       = {Minzu Yuwen 民族语文, 2008(1)},
   year         = {2008},
   wordlist_ids = {1558},
   author       = {Liu, Yuanchao [刘援朝]}
-}
-@misc{220,
-  title        = {Electronic lexicon. Ukarumpa: Summer Institute of Linguistics},
-  wordlist_ids = {1335},
-  author       = {Milligan, Lloyd}
-}
-@article{221,
-  title        = {Ponosakan: A Dying Language of Northeastern Sulawesi},
-  journal      = {Oceanic Linguistics},
-  volume       = {54(2)},
-  pages        = {396-435},
-  year         = {2015},
-  wordlist_ids = {1215},
-  author       = {Lobel, Jason William}
-}
-@book{222,
-  title        = {Rinconada Bikol-Filipino-English Phrasebook: with Mini-Dictionary},
-  address = {Naga City, Philippines},
-  publisher = {Lobel & Tria Partnership},
-  year         = {2001},
-  wordlist_ids = {722},
-  author       = {Lobel, Jason William and Bucad, Grace Uvero}
-}
-@article{223,
-  title        = {Notes from the Field: Inagta Alabat: A moribund Philippine language, with supporting audio},
-  journal      = {Language Documentation & Conservation},
-  volume       = {14},
-  pages        = {1-57},
-  year         = {2020},
-  wordlist_ids = {1635},
-  author       = {Lobel, Jason William and Alpay, Amy Jugueta and Barreno, Rosie Susutin and Barreno, Emelinda Jugueta}
 }
 @article{224,
   title        = {Manide: An Undescribed Philippine Language},
@@ -1832,32 +1657,62 @@
   wordlist_ids = {1464},
   author       = {Lobel, Jason William}
 }
-@book{226,
-  title        = {The Dong Language in Guizhou Province, China},
-  address = {Dallas, TX},
-  publisher = {Summer Institute of Linguistics: [Arlington]: University of Texas at Arlington},
-  isbn = {1556710518},
-  year         = {1998},
-  wordlist_ids = {789},
-  author       = {Yaohong, Long and Guoqiao, Zheng}
+@article{221,
+  title        = {Ponosakan: A Dying Language of Northeastern Sulawesi},
+  journal      = {Oceanic Linguistics},
+  volume       = {54(2)},
+  pages        = {396-435},
+  year         = {2015},
+  wordlist_ids = {1215},
+  author       = {Lobel, Jason William}
 }
-@book{227,
-  title        = {Funing Xian Minzu Zhi 富宁县民族志 [Funing County Ethnic Gazetteer]},
-  year         = {1998},
-  wordlist_ids = {955 956 957 958},
-  publisher    = {Yunnan Ethnic Publishing House},
-  address      = {Kunming},
-  editor       = {[吕正元], Lu Zhengyuan and [农览生], Nong Lansheng}
+@article{223,
+  title        = {Notes from the Field: Inagta Alabat: A moribund Philippine language, with supporting audio},
+  journal      = {Language Documentation & Conservation},
+  volume       = {14},
+  pages        = {1-57},
+  year         = {2020},
+  wordlist_ids = {1635},
+  author       = {Lobel, Jason William and Alpay, Amy Jugueta and Barreno, Rosie Susutin and Barreno, Emelinda Jugueta}
 }
-@book{228,
-  title        = {A dictionary of Dehong, Southwest China},
-  series       = {Pacific Linguistics Series C},
-  volume       = {145},
+@book{222,
+  title        = {Rinconada Bikol-Filipino-English Phrasebook: with Mini-Dictionary},
+  address      = {Naga City, Philippines},
+  publisher    = {Lobel & Tria Partnership},
+  year         = {2001},
+  wordlist_ids = {722},
+  author       = {Lobel, Jason William and Bucad, Grace Uvero}
+}
+@incollection{166,
+  title        = {Utaha},
+  booktitle    = {Studies in the Languages of Erromango},
+  pages        = {184-190},
   address      = {Canberra},
-  publisher    = {Pacific Linguistics},
-  year         = {1998},
-  wordlist_ids = {778},
-  author       = {Yongxian, Luo}
+  publisher    = {Research School of Pacific and Asian Studies, Australian National University},
+  year         = {1983},
+  wordlist_ids = {1540},
+  editor       = {Lynch, John},
+  author       = {Lynch, John}
+}
+@book{152,
+  title        = {Tiếng Pu Péo},
+  address      = {Hà Nội},
+  publisher    = {Khoa học xã hội},
+  year         = {1992},
+  wordlist_ids = {947},
+  author       = {Ma, Hoàng Văn}
+}
+@incollection{151,
+  title        = {The Sound System of the Tày Language of Cao Bằng, Vietnam},
+  booktitle    = {Comparative Kadai: The Tai branch},
+  pages        = {221-231},
+  series       = {Summer Institute of Linguistics and the University of Texas at Arlington Publications in Linguistics, 124},
+  address      = {Dallas},
+  publisher    = {Summer Institute of Linguistics and the University of Texas at Arlington},
+  year         = {1997},
+  wordlist_ids = {689},
+  editor       = {Edmondson, Jerold A. and Solnit, David B.},
+  author       = {Ma, Hoàng Văn}
 }
 @book{229,
   title        = {Boelisch-Nederlandse woordenlijst},
@@ -1883,20 +1738,6 @@
   wordlist_ids = {7},
   author       = {Mager, J.F.}
 }
-@book{232,
-  title        = {Malay-English Vocabulary. Containing over 7000 Malay words or Phrases with their English equivalents, together with An Appendix., Second Ed., Revised and Enlarged},
-  url          = {https://archive.org/details/cu31924081220968},
-  year         = {1862-1949},
-  wordlist_ids = {1556},
-  publisher    = {Singapore (1912)},
-  address      = {The Methodist Publishing House},
-  author       = {Shellabear, William Girdlestone}
-}
-@misc{234,
-  title        = {Malcolm Ross, fieldnotes},
-  wordlist_ids = {1334 1335 1336 1337 1342 1394 1341},
-  author       = {Ross, Malcolm}
-}
 @book{235,
   title        = {A Dictionary of the Central Nicobarese Language},
   year         = {1975},
@@ -1904,6 +1745,12 @@
   publisher    = {Sanskaran Prakashak},
   address      = {Delhi},
   author       = {Man, Edward Horace}
+}
+@misc{402,
+  url          = {https://taramangaia.cookislandsdictionary.com/about},
+  note         = {See https://taramangaia.cookislandsdictionary.com/sources},
+  wordlist_ids = {1626},
+  author       = {Marshall, Donald}
 }
 @book{237,
   title        = {Handbook of Proto-Tibeto-Burman: System and Philosophy of Sino-Tibetan Reconstruction},
@@ -1921,6 +1768,16 @@
   year         = {1931},
   wordlist_ids = {105},
   author       = {Mayr, E.}
+}
+@article{3,
+  title        = {A Conservative Vowel Phoneme Inventory of Sumatra: The Case of Besemah},
+  journal      = {Oceanic Linguistics},
+  volume       = {47},
+  number       = {2},
+  pages        = {409-432},
+  year         = {2008},
+  wordlist_ids = {1204},
+  author       = {McDonnell, Bradley}
 }
 @book{239,
   title        = {Northern Philippine linguistic geography},
@@ -1977,6 +1834,11 @@
   wordlist_ids = {124},
   author       = {Meyer, F.}
 }
+@misc{220,
+  title        = {Electronic lexicon. Ukarumpa: Summer Institute of Linguistics},
+  wordlist_ids = {1335},
+  author       = {Milligan, Lloyd}
+}
 @phdthesis{246,
   title        = {Proto South Sulawesi and proto Austronesian phonology},
   address      = {Ann Arbor, MI},
@@ -1985,20 +1847,21 @@
   wordlist_ids = {861},
   author       = {Mills, Frederick Roger}
 }
-@book{247,
-  title        = {A study of Bijie dialects [毕节方言研究]},
-  publisher    = {China Sociology Publishing House [中国社会科学出版社]},
+@book{208,
+  title        = {Pubiao-yu Yanjiu},
   year         = {2007},
-  wordlist_ids = {944},
-  author       = {[明生荣], Ming Shengrong}
-}
-@mastersthesis{248,
-  title        = {Comparison of Fengyan Gelao with other related Gelao dialects [峰岩仡佬语及方言内部比较]},
+  wordlist_ids = {593},
+  publisher    = {The Ethnic Publishing House},
   address      = {Beijing},
-  school       = {Minzu University},
-  year         = {2010},
-  wordlist_ids = {924 925},
-  author       = {[明悦], Ming Yue}
+  author       = {Min, Liang and Junru, Zhang and Yunbing, Li}
+}
+@book{307,
+  title        = {Shan-English Dictionary},
+  isbn         = {0-931745-92-6},
+  url          = {http://sealang.net/shan/dictionary.htm},
+  year         = {1995},
+  wordlist_ids = {680},
+  author       = {Moeng, Sao Tern}
 }
 @phdthesis{249,
   title        = {Multilingualism and social behavior in the southern Philippines},
@@ -2020,17 +1883,26 @@
   title        = {Dictionnaire Cam-Vietnamien-Français},
   year         = {1971},
   wordlist_ids = {371},
-  author       = {Moussay, Gerard},
   publisher    = {Centre Culturel Cam},
-  address      = {Phan Rang}
+  address      = {Phan Rang},
+  author       = {Moussay, Gerard}
+}
+@book{173,
+  title        = {The Nihali Language (Grammar, Texts, Vocabulary)},
+  pages        = {xii+332pp.},
+  year         = {2014},
+  wordlist_ids = {1572},
+  publisher    = {Central Institute of Indian Languages},
+  address      = {Mysore},
+  author       = {Nagaraja, K. S.}
 }
 @book{252,
   title        = {畬語海豐方言基本詞彙集 / She yu Haifeng fang yan ji ben ci hui ji [A She Vocabulary: Haifeng Dialect]},
   year         = {2003},
   wordlist_ids = {771},
-  author       = {Nakanishi, Hiroki},
   publisher    = {京都大學人文科學研究所 / Kyōto Daigaku Jinbun Kagaku Kenkyūjo},
-  address      = {Kyōto}
+  address      = {Kyōto},
+  author       = {Nakanishi, Hiroki}
 }
 @incollection{253,
   title        = {Yangfeng Mak of Libo county},
@@ -2064,9 +1936,9 @@
   title        = {English-Favorlang vocabulary},
   year         = {2003},
   wordlist_ids = {831},
-  editor       = {Ogawa, Naoyoshi and Li, Paul Jen-kui},
   publisher    = {Research Institute for Languages and Cultures of Asia and Africa},
-  address      = {Tokyo}
+  address      = {Tokyo},
+  editor       = {Ogawa, Naoyoshi and Li, Paul Jen-kui}
 }
 @article{257,
   title        = {Buhi’non (Bikol) Digital Wordlist: Presentation Form},
@@ -2092,9 +1964,9 @@
   title        = {Kamberaas (Oost-Soembaas) Nederlands woordenboek.},
   year         = {1984},
   wordlist_ids = {32},
-  author       = {Onvlee, L.},
   publisher    = {Foris},
-  address      = {Dordrecht}
+  address      = {Dordrecht},
+  author       = {Onvlee, L.}
 }
 @phdthesis{260,
   title        = {Proto-Kra},
@@ -2105,42 +1977,33 @@
 }
 @incollection{261,
   title        = {Proto-Hlai Sound System and Lexicons},
-  editor = {Yingjin Lin [林英津] et al.},
-  booktitle = {漢藏語研究: 龔煌城先生七秩壽慶論文集 [Studies on Sino-Tibetan languages: Papers in honor of Professor Hwang-cherng Gong on his Seventieth birthday]},
+  booktitle    = {漢藏語研究: 龔煌城先生七秩壽慶論文集 [Studies on Sino-Tibetan languages: Papers in honor of Professor Hwang-cherng Gong on his Seventieth birthday]},
   year         = {2004},
   wordlist_ids = {792},
+  editor       = {et al., Yingjin Lin [林英津]},
   author       = {Ostapirat, Weera}
 }
 @incollection{262,
   title        = {Macrophyletic Trees of East Asian Languages Re examined},
-  booktitle = {Let's Talk about Trees},
-  editor = {Ritsuko Kikusawa and Lawrence A. Reid},
-  address = {Osaka},
-  publisher = {Senri Ethnological Studies, Minpaku},
+  booktitle    = {Let's Talk about Trees},
+  address      = {Osaka},
+  publisher    = {Senri Ethnological Studies, Minpaku},
   year         = {2018},
   wordlist_ids = {1611},
+  editor       = {Kikusawa, Ritsuko and Reid, Lawrence A.},
   author       = {Ostapirat, Weera}
-}
-@book{263,
-  title        = {Grammar of the Jabem Language in New Guinea, translated and edited by Joel Bradshaw and Francisc Czobor},
-  series = {Oceanic Linguistics Special Publication, No. 32},
-  address      = {Honolulu},
-  publisher    = {University of Hawaii Press},
-  year         = {2005},
-  wordlist_ids = {334},
-  author       = {Dempwolff, Otto}
 }
 @book{264,
   title        = {Dictionnaire iaai-français (Ouvéa, Nouvelle-Calédonie), suiv d'un lexique français-iaai},
-  series = {SELAF (Langues et cultures du Pacifique 6)},
-  address = {Paris},
+  series       = {SELAF (Langues et cultures du Pacifique 6)},
+  address      = {Paris},
   year         = {1984},
   wordlist_ids = {471},
   author       = {Ozanne-Rivierre, F.}
 }
 @book{265,
   title        = {Le Nyelâyu de Balade (Nouvelle-Calédonie) Langues et Cultures du Pacifique},
-  address = {Paris},
+  address      = {Paris},
   year         = {1998},
   wordlist_ids = {1187},
   author       = {Ozanne-Rivierre, F.}
@@ -2149,15 +2012,15 @@
   title        = {Yakan-Pilipino-English Dictionary},
   year         = {1975},
   wordlist_ids = {200},
-  author       = {Pack, J.},
   publisher    = {Summer Institute of Linguistics},
-  address      = {Manila}
+  address      = {Manila},
+  author       = {Pack, J.}
 }
 @book{267,
   title        = {Culture contact and language convergence},
-  series = {Philippine journal of linguistics: special monograph issue, 24},
-  address = {Manila},
-  publisher = {Linguistic Society of the Philippines},
+  series       = {Philippine journal of linguistics: special monograph issue, 24},
+  address      = {Manila},
+  publisher    = {Linguistic Society of the Philippines},
   year         = {1985},
   wordlist_ids = {1466},
   author       = {Pallesen, A. Kemp}
@@ -2170,10 +2033,17 @@
   wordlist_ids = {365},
   author       = {Palmer, Bill}
 }
+@misc{405,
+  url          = {https://www.smg.surrey.ac.uk/languages/northwest-solomonic/uruava/uruava-dictionary/v2/},
+  year         = {2004},
+  title        = {Uruava dictionary},
+  wordlist_ids = {474},
+  author       = {Palmer, Bill}
+}
 @book{269,
   title        = {Southeast Ambrym dictionary},
-  series = {Pacific Lingustics, C-17},
-  address = {Canberra},
+  series       = {Pacific Lingustics, C-17},
+  address      = {Canberra},
   year         = {1970},
   wordlist_ids = {120},
   author       = {Parker, G.J.}
@@ -2182,59 +2052,67 @@
   title        = {Dreißig Jahre in der Südsee: Land und Leute, Sitten und Gebräuche im Bismarckarchipel und auf den deutschen Salomoinseln},
   year         = {1907},
   wordlist_ids = {1708},
-  author       = {Parkinson, Richard},
   publisher    = {Strecker & Schröder},
-  address      = {Stuttgart}
+  address      = {Stuttgart},
+  author       = {Parkinson, Richard}
+}
+@book{302,
+  title        = {A journal of a voyage to the South seas, in His Majesty's ship, the Endeavour. Faithfully transcribed from the papers of the late Sydney Parkinson, draughtsman to Joseph Banks, Esq. on his late expedition with Dr. Solander, round the world},
+  url          = {https://archive.org/details/bim_eighteenth-century_a-journal-of-a-voyage-to_parkinson-sydney_1773_0},
+  year         = {1773},
+  wordlist_ids = {479},
+  author       = {Parkinson, Sydney}
 }
 @book{271,
   title        = {Lao-English Dictionary},
-  publisher = {Dunwoody Press},
+  publisher    = {Dunwoody Press},
   year         = {1995},
   wordlist_ids = {734},
   editor       = {Patterson, William L. and Severino, Mario E.}
 }
 @incollection{272,
   title        = {The chequered career of the Trans New Guinea hypothesis: recent research and its implications},
-  editor = {Andrew Pawley and Robert Attenborough and Robin Hide and Jack Golson},
-  booktitle = {Papuan pasts: cultural, linguistic and biological histories of Papuan-speaking peoples},
-  pages = {67-107},
+  booktitle    = {Papuan pasts: cultural, linguistic and biological histories of Papuan-speaking peoples},
+  pages        = {67-107},
   address      = {Canberra},
   publisher    = {Pacific Linguistics},
   year         = {2005},
   wordlist_ids = {781},
+  editor       = {Pawley, Andrew and Attenborough, Robert and Hide, Robin and Golson, Jack},
   author       = {Pawley, Andrew}
 }
 @book{273,
   title        = {A reconstruction of Proto-Philippine phonemes and morphemes},
-  address = {Diliman, Quezon City},
-  publisher = {Cecilio Lopez Archives of Philippine Languages: Philippine Linguistics Circle, University of the Philippines},
+  address      = {Diliman, Quezon City},
+  publisher    = {Cecilio Lopez Archives of Philippine Languages: Philippine Linguistics Circle, University of the Philippines},
   year         = {1981},
   wordlist_ids = {874},
   author       = {Paz, Consuelo J.}
 }
 @misc{274,
   title        = {Lote grammar sketch (Data Papers on Papua New Guinea Languages 54). Ukarumpa: SIL-PNG Academic Publications},
-  url = {https://www.sil.org/resources/archives/23806},
+  url          = {https://www.sil.org/resources/archives/23806},
   year         = {2008},
   wordlist_ids = {1709},
   author       = {Pearson, Greg & van den Berg, René}
 }
 @article{275,
   title        = {Grammatische Grundzüge und Wörterverzeichnis der Label-Sprache},
-  journal = {Zeitschrift für Eingeborenen-Sprachen},
-  volume = {20},
-  pages = {10-34, 92-120},
+  journal      = {Zeitschrift für Eingeborenen-Sprachen},
+  volume       = {20},
+  pages        = {10-34, 92-120},
   year         = {1930},
   wordlist_ids = {1340},
   author       = {Peekel, Gerhard}
 }
-@mastersthesis{276,
-  title        = {A description of Moklen: a Malayo-Polynesian language in Thailand},
-  school = {Mahidol University},
-  pages = {285pp},
-  year         = {1982},
-  wordlist_ids = {1570},
-  author       = {Swastham, Pensiri}
+@article{96,
+  title        = {Inati: the Hidden Negrito Language of Panay, Philippines},
+  journal      = {Philippine Journal of Linguistics},
+  volume       = {18/19},
+  pages        = {1-36},
+  year         = {1987},
+  wordlist_ids = {1260 1276 1277},
+  author       = {Pennoyer, Douglas F.}
 }
 @misc{277,
   title        = {Grammatical Sketch of Isinay Dupax},
@@ -2245,20 +2123,18 @@
 }
 @phdthesis{278,
   title        = {Proto-Aslian: towards an understanding of its historical linguistic systems, principles and processes},
-  school = {Institut Alam Dan Tamadun Melayu Universiti Kebangsaan Malaysia, Bangi},
+  school       = {Institut Alam Dan Tamadun Melayu Universiti Kebangsaan Malaysia, Bangi},
   year         = {2012},
   wordlist_ids = {1566},
   author       = {Phillips, Timothy C.}
 }
-@book{279,
-  title        = {Lexique jarai, français, viêtnamien, parler de la province de Plei Ku},
-  series = {Publications de l'Ecole française d'Extrême-Orient},
-  volume = {63},
-  address = {Paris},
-  publisher = {École française d'Extrême-Orient},
-  year         = {1968},
-  wordlist_ids = {744},
-  author       = {Lafont, Pierre-Bernard and Nguyẽ̂n-văn-Trọng}
+@book{170,
+  title        = {Kamus bahasa Tidore, Indonesia, Inggris},
+  address      = {Tidore, Maluku, Indonesia},
+  publisher    = {Pemerintah Daerah Tingkat II Halmahera Tengah},
+  year         = {1994},
+  wordlist_ids = {865},
+  author       = {Pikkert, Joost J. J. and et. al., Cheryl M. Pikkert}
 }
 @phdthesis{280,
   title        = {Phonology of Proto-Tai},
@@ -2271,31 +2147,22 @@
   title        = {Hawaiian Dictionary},
   year         = {1971},
   wordlist_ids = {52},
-  author       = {Pukui, M. & Elbert, S.H.},
   publisher    = {University of Hawaii Press},
-  address      = {Honolulu}
-}
-@book{282,
-  title        = {Le bwatoo et les dialectes de la région de Koné (Nouvelle-Calédonie)},
-  publisher = {Peeters},
-  address = {Paris-Louvain-Dudley},
-  pages = {501p.},
-  year         = {2006},
-  wordlist_ids = {1529 1530 1527},
-  author       = {Rivierre, Jean-Claude and Ehrhart, Sabine and Diela, Raymond}
+  address      = {Honolulu},
+  author       = {Pukui, M. & Elbert, S.H.}
 }
 @book{284,
   title        = {Dictionnaire Malgache Dialectal - Francais: Dialecte Tandroy},
-  address = {Paris},
-  publisher = {Langues et Mondes/L'Asiathèque},
+  address      = {Paris},
+  publisher    = {Langues et Mondes/L'Asiathèque},
   year         = {1996},
   wordlist_ids = {1186},
   author       = {Rajaonarimanana, N. & Fee, S.}
 }
 @book{285,
   title        = {A Nanumea Lexicon},
-  address = {Canberra},
-  publisher = {Dept. of Linguistics, Research School of Pacific Studies, Australian National University},
+  address      = {Canberra},
+  publisher    = {Dept. of Linguistics, Research School of Pacific Studies, Australian National University},
   year         = {1980},
   wordlist_ids = {753},
   author       = {Ranby, Peter}
@@ -2319,55 +2186,41 @@
 }
 @book{288,
   title        = {Philippine Minor Languages: Word Lists and Phonologies},
-  series = {Oceanic Linguistics Special Publication no. 8},
-  publisher = {University of Hawaii Press},
+  series       = {Oceanic Linguistics Special Publication no. 8},
+  publisher    = {University of Hawaii Press},
   year         = {1971},
   wordlist_ids = {31 409 410 411 412 413 414 415 416 417 418 419 420 421 422 424 425 426 427 428 429 430 431 432 433 434 435 436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452},
   author       = {Reid, L.A.}
 }
 @book{289,
   title        = {Vocabulary of English and Sarawak Land Dayak (Singhi tribe)},
-  publisher = {Sarawak Government Printer Kuching},
+  publisher    = {Sarawak Government Printer Kuching},
   year         = {1956},
   wordlist_ids = {125},
   author       = {Reijffert, Fr. A.}
 }
-@book{290,
-  title        = {Vitu grammar sketch},
-  year         = {2006},
-  wordlist_ids = {140},
-  author       = {van den Berg, René and Bachet, Peter},
-  publisher    = {Summer Institute of Linguistics},
-  address      = {Ukarumpa}
-}
-@misc{291,
-  title        = {Tausug-English Dictionary: Kabtangan Iban Maana},
-  url          = {https://www.webonary.org/tausug/},
-  year         = {1994},
-  wordlist_ids = {452},
-  author       = {Hassan, Irene U. and Halud, Nurhadan and Ashley, Seymour A. and Ashley, Mary L.}
-}
 @book{292,
   title        = {An Iban-English dictionary},
   year         = {1981},
+  url          = {https://archive.org/details/AnIbanEnglishDictionaryByAnthonyRichards},
   wordlist_ids = {28},
-  author       = {N., Richards A. J.},
   publisher    = {Oxford University Press},
-  address      = {Oxford}
+  address      = {Oxford},
+  author       = {Richards, Anthony}
 }
 @book{293,
   title        = {A new Malagasy-English dictionary},
   year         = {1885},
   wordlist_ids = {92},
-  author       = {Richardson, J.},
   publisher    = {London Missionary Society},
-  address      = {Antananarivo}
+  address      = {Antananarivo},
+  author       = {Richardson, J.}
 }
 @article{294,
   title        = {Maleisch-Kissersch woordenlijst},
-  journal = {Tijdschrift voor Indische Taal-, Land- en Volkenkunde},
-  volume = {31},
-  pages = {149-213},
+  journal      = {Tijdschrift voor Indische Taal-, Land- en Volkenkunde},
+  volume       = {31},
+  pages        = {149-213},
   year         = {1886},
   wordlist_ids = {160},
   author       = {Rinnooy, N.}
@@ -2376,9 +2229,18 @@
   title        = {Dictionnaire Paici-Français},
   year         = {1983},
   wordlist_ids = {1479},
-  author       = {Rivierre, Jean-Claude},
   publisher    = {SELAF},
-  address      = {Paris}
+  address      = {Paris},
+  author       = {Rivierre, Jean-Claude}
+}
+@book{282,
+  title        = {Le bwatoo et les dialectes de la région de Koné (Nouvelle-Calédonie)},
+  publisher    = {Peeters},
+  address      = {Paris-Louvain-Dudley},
+  pages        = {501p.},
+  year         = {2006},
+  wordlist_ids = {1529 1530 1527},
+  author       = {Rivierre, Jean-Claude and Ehrhart, Sabine and Diela, Raymond}
 }
 @phdthesis{296,
   title        = {Dupaningan Agta: Grammar, Vocabulary, and Texts},
@@ -2387,13 +2249,6 @@
   year         = {2008},
   wordlist_ids = {730},
   author       = {Robinson, Laura C.}
-}
-@misc{297,
-  title        = {Duke of York grammar essentials (Ramoaaina)},
-  howpublished = {Unpublished ms. Ukarumpa: Summer Institute of Linguistics},
-  year         = {1992},
-  wordlist_ids = {1341},
-  author       = {Fritzell, Robyn Davies & Lisbeth}
 }
 @article{298,
   title        = {An Oceanic origin for Äiwoo, the language of the Reef Islands?},
@@ -2410,51 +2265,52 @@
   wordlist_ids = {1708 1709},
   author       = {Ross, Malcolm}
 }
+@misc{234,
+  title        = {Malcolm Ross, fieldnotes},
+  wordlist_ids = {1334 1335 1336 1337 1342 1394 1341},
+  author       = {Ross, Malcolm}
+}
 @book{300,
   title        = {The lexicon of Proto Oceanic. Vol. 1 (1998), vol. 2 (2003); plus drafts of some chapters of vol. 3.},
   year         = {1998},
   wordlist_ids = {270},
   author       = {Ross, Malcolm and Pawley, Andrew and Osmond, Meredith}
 }
-@book{301,
-  title        = {仡央语言词汇集/Geyang yu yan ci hui ji (A Wordlist of Ge-Yang Languages)},
-  address = {贵阳市/Guiyang, China},
-  publisher = {贵州民族出版社/Guizhou min zu chu ban she},
-  year         = {1998},
-  wordlist_ids = {693 695},
-  author       = {Kosaka, Ryūichi and Zhou, Guoyan and Li, Jinfang}
-}
-@book{302,
-  title        = {A journal of a voyage to the South seas, in His Majesty's ship, the Endeavour. Faithfully transcribed from the papers of the late Sydney Parkinson, draughtsman to Joseph Banks, Esq. on his late expedition with Dr. Solander, round the world},
-  url          = {https://archive.org/details/bim_eighteenth-century_a-journal-of-a-voyage-to_parkinson-sydney_1773_0},
-  year         = {1773},
-  wordlist_ids = {479},
-  author       = {Parkinson, Sydney}
+@incollection{56,
+  title        = {Utudnon, an Undescribed Language of Leyte"},
+  booktitle    = {Current Issues in Philippine Linguistics and Anthropology: Parangal kay Lawrence A. Reid},
+  pages        = {306-336},
+  address      = {Manila, Philippines},
+  publisher    = {Linguistic Society of the Philippines and SIL Philippines},
+  year         = {2005},
+  wordlist_ids = {1259},
+  editor       = {Liao, Hsiu-chuan and Rubino, Carl R. Galvez},
+  author       = {Rubino, Carl}
 }
 @book{303,
   title        = {Kamus Bahasa Madura-Indonesia},
-  address = {Jakarta},
-  publisher = {National Center for Language Development},
+  address      = {Jakarta},
+  publisher    = {National Center for Language Development},
   year         = {1977},
   wordlist_ids = {75},
   author       = {Safioedin, A.}
 }
 @incollection{304,
   title        = {The characteristics of Nguluwan from the viewpoint of language contact},
-  editor = {Sakiyama, Osamu},
-  booktitle = {Studies of Minority Languages in the Western Pacific Rim},
-  pages = {107-128},
-  address = {Osaka},
-  publisher = {ELPR},
+  booktitle    = {Studies of Minority Languages in the Western Pacific Rim},
+  pages        = {107-128},
+  address      = {Osaka},
+  publisher    = {ELPR},
   year         = {2003},
   wordlist_ids = {1578},
+  editor       = {Sakiyama, Osamu},
   author       = {Sakiyama, Osamu}
 }
 @article{305,
   title        = {A reconstruction of Proto-Southern Mandanaon},
-  journal = {Studies in Philippine Linguistics},
-  volume = {6(2)},
-  pages = {181-223},
+  journal      = {Studies in Philippine Linguistics},
+  volume       = {6(2)},
+  pages        = {181-223},
   year         = {1986},
   wordlist_ids = {291 292 293},
   author       = {Savage, T.D.}
@@ -2467,28 +2323,22 @@
   address      = {Berkeley},
   author       = {Schlegel, Stuart A.}
 }
-@book{307,
-  title        = {Shan-English Dictionary},
-  isbn = {0-931745-92-6},
-  url = {http://sealang.net/shan/dictionary.htm},
-  year         = {1995},
-  wordlist_ids = {680},
-  author       = {Moeng, Sao Tern}
+@mastersthesis{schlossberg2012,
+  title        = {Lexical Reconstruction of Proto Papuan Tip},
+  school       = {Monash University},
+  year         = {2012},
+  address      = {Melbourne, Australia},
+  wordlist_ids = {1423 1424 1425 1426 1427 1428 1429 1430 1431 1432 1433 1434 1435 1436 1437 1438 1439 1440 1441 1442 1443 1444 1445 1446 1447 1448 1449 1450 1451 1452 1453 1454 1455 1456 1457 1458 1459 1460 1461},
+  author       = {Schlossberg, Jonathan}
 }
-@mastersthesis{308,
-  title        = {Guangdong Jizhaohua yanjiu [广东吉兆话研究]},
-  school = {Guangxi University for Nationalities [广西民族大学]},
-  year         = {2016},
-  wordlist_ids = {1537},
-  author       = {[邵兰珠], Shao Lanzhu}
-}
-@article{309,
-  title        = {Loanwords of Min dialect in Jizhao dialect in Guangdong [广东吉兆话中的闽方言借词]},
-  journal = {Journal of Guangdong University of Petrochemical Technology [广东石油化工学院学报]},
-  volume = {26(2)},
-  year         = {2016},
-  wordlist_ids = {1537},
-  author       = {[邵兰珠], Shao Lanzhu and [蒙元耀], Meng Yuanyao}
+@book{232,
+  title        = {Malay-English Vocabulary. Containing over 7000 Malay words or Phrases with their English equivalents, together with An Appendix., Second Ed., Revised and Enlarged},
+  url          = {https://archive.org/details/cu31924081220968},
+  year         = {1862-1949},
+  wordlist_ids = {1556},
+  publisher    = {Singapore (1912)},
+  address      = {The Methodist Publishing House},
+  author       = {Shellabear, William Girdlestone}
 }
 @mastersthesis{310,
   title        = {Phonology of Sanchong Gelao},
@@ -2496,14 +2346,6 @@
   year         = {2003},
   wordlist_ids = {700},
   author       = {Shen, Yu-May}
-}
-@misc{311,
-  title        = {Penrhyn-English Dictionary},
-  note         = {via the Online Dictionary of Penrhyn at https://penrhyn.cookislandsdictionary.com},
-  url          = {https://penrhyn.cookislandsdictionary.com/},
-  year         = {2003},
-  wordlist_ids = {1628},
-  author       = {Shibata, Norio}
 }
 @mastersthesis{312,
   title        = {A Reconstruction of Proto-Bunun Phonology and Lexicon},
@@ -2513,13 +2355,37 @@
   wordlist_ids = {1701},
   author       = {Shibata, Kye}
 }
+@misc{311,
+  title        = {Penrhyn-English Dictionary},
+  note         = {via the Online Dictionary of Penrhyn at https://penrhyn.cookislandsdictionary.com},
+  url          = {https://penrhyn.cookislandsdictionary.com/},
+  year         = {2003},
+  wordlist_ids = {1628},
+  author       = {Shibata, Norio}
+}
+@book{66,
+  title        = {A short description of the Uzbek language (in Chinese)},
+  address      = {Beijing},
+  publisher    = {Minzu},
+  year         = {1986},
+  wordlist_ids = {871},
+  author       = {Shiliang, Cheng and Rahman, Abdul}
+}
+@book{125,
+  title        = {A short description of the Kazakh language (in Chinese)},
+  year         = {1984},
+  wordlist_ids = {867},
+  publisher    = {Minzu},
+  address      = {Beijing},
+  author       = {Shimin, Geng}
+}
 @book{313,
   title        = {Dictionary of Modern Spoken Mon},
   year         = {1962},
   wordlist_ids = {683},
-  author       = {Shorto, Harry L.},
   publisher    = {School of Oriental & African Studies},
-  address      = {London}
+  address      = {London},
+  author       = {Shorto, Harry L.}
 }
 @book{314,
   title        = {A Mon-Khmer Comparative Dictionary},
@@ -2529,25 +2395,25 @@
   wordlist_ids = {827},
   editor       = {Shorto, Harry L. and Sidwell, Paul and Cooper, Doug and Bauer, Christian}
 }
-@incollection{315,
-  title        = {Austroasiatic Comparative-Historical Reconstruction: An Overview},
-  editor = {Jenny, Mathias and Paul Sidwell},
-  booktitle = {The Handbook of Austroasiatic Languages},
-  address = {Leiden},
-  publisher = {Brill},
-  year         = {2015},
-  wordlist_ids = {1561},
-  author       = {Sidwell, Paul and Rau, Felix}
-}
 @incollection{316,
   title        = {Proto-Nicobarese phonology},
-  booktitle = {Papers from the Seventh International Conference on Austroasiatic Linguistics},
-  pages = {101-131},
-  series = {Journal of the Southeast Asian Linguistics Society Special Publication No. 3},
-  publisher = {University of Hawai’i Press},
+  booktitle    = {Papers from the Seventh International Conference on Austroasiatic Linguistics},
+  pages        = {101-131},
+  series       = {Journal of the Southeast Asian Linguistics Society Special Publication No. 3},
+  publisher    = {University of Hawai’i Press},
   year         = {2018},
   wordlist_ids = {1565},
   author       = {Sidwell, Paul}
+}
+@incollection{315,
+  title        = {Austroasiatic Comparative-Historical Reconstruction: An Overview},
+  booktitle    = {The Handbook of Austroasiatic Languages},
+  address      = {Leiden},
+  publisher    = {Brill},
+  year         = {2015},
+  wordlist_ids = {1561},
+  editor       = {Jenny, Mathias and Sidwell, Paul},
+  author       = {Sidwell, Paul and Rau, Felix}
 }
 @article{317,
   title        = {On the classification of Kenyah and Kayanic languages},
@@ -2560,9 +2426,9 @@
 }
 @book{318,
   title        = {Comparative Wordlists of the Admiralty Island Languages},
-  series = {Workpapers in New Guinea Languages},
-  publisher = {SIL},
-  address = {Ukarumpa, Papua New Guinea},
+  series       = {Workpapers in New Guinea Languages},
+  publisher    = {SIL},
+  address      = {Ukarumpa, Papua New Guinea},
   year         = {1975},
   wordlist_ids = {1371 1372 1373 1374 1375 1376 1377 1378 1379 1380 1381 1382 1383 1384 1385 1386 1387 1388 1389 1390},
   author       = {Smythe, William E. and Z'graggen, J.}
@@ -2593,20 +2459,11 @@
 }
 @book{322,
   title        = {The Laha language [Язык Лаха]},
-  address = {Moscow},
-  publisher = {Издательство "Наука" Главная Редакция Восточной литературы},
+  address      = {Moscow},
+  publisher    = {Издательство "Наука" Главная Редакция Восточной литературы},
   year         = {1986},
   wordlist_ids = {949},
   author       = {Solntseva, N. V. [Солнцева, Н.В.] and Ma, Hoang Van}
-}
-@book{323,
-  title        = {The Dong Language in Guizhou Province, China},
-  address = {Dallas, TX},
-  publisher = {Summer Institute of Linguistics: [Arlington]: University of Texas at Arlington},
-  isbn = {1556710518},
-  year         = {1998},
-  wordlist_ids = {677},
-  author       = {Yaohong, Long and Guoqiao, Zheng}
 }
 @phdthesis{324,
   title        = {Namakir: a description of a central Vanuatu language},
@@ -2619,32 +2476,18 @@
   title        = {Sangiree-Nederrlands Woordernboek Met Nederlands-Sangirees Register},
   year         = {1959},
   wordlist_ids = {183},
-  author       = {Steller, K.G.F. & Aebersold, W.E.},
   publisher    = {The Netherlands},
-  address      = {s-Gravenhage}
-}
-@misc{326,
-  title        = {Electonic dictionary of Malol Sissano},
-  wordlist_ids = {1394},
-  author       = {Whiteacre, Steve}
+  address      = {s-Gravenhage},
+  author       = {Steller, K.G.F. & Aebersold, W.E.}
 }
 @article{327,
   title        = {Kemak: An Austronesian language},
-  journal = {Anthropological Linguistics},
-  volume = {9},
-  pages = {26-32},
+  journal      = {Anthropological Linguistics},
+  volume       = {9},
+  pages        = {26-32},
   year         = {1967},
   wordlist_ids = {61},
   author       = {Stevens, A.M.}
-}
-@book{328,
-  title        = {Mato grammar sketch},
-  address = {Ukarumpa},
-  publisher = {SIL-PNG Academic Publications},
-  series = {Data Papers on Papua New Guinea Languages 59},
-  year         = {2013},
-  wordlist_ids = {1329},
-  author       = {Stober, Scot F.}
 }
 @misc{329,
   title        = {Mato dialect survey},
@@ -2653,17 +2496,20 @@
   wordlist_ids = {1329},
   author       = {Stober, Scot F.}
 }
-@misc{330,
-  title        = {Holle Lists: Vocabularies in Languages of Indonesia Vol. 10/3 Islands off the West Coast of Sumatra},
-  year         = {1987},
-  wordlist_ids = {1182 1183 1185},
-  author       = {W.A.L., Stockhof}
+@book{328,
+  title        = {Mato grammar sketch},
+  address      = {Ukarumpa},
+  publisher    = {SIL-PNG Academic Publications},
+  series       = {Data Papers on Papua New Guinea Languages 59},
+  year         = {2013},
+  wordlist_ids = {1329},
+  author       = {Stober, Scot F.}
 }
 @misc{331,
   title        = {Holle Lists: Vocabularies in Languages of Indonesia Vol. 3/2 Central Moluccas: Seram (11)},
   year         = {1981},
   wordlist_ids = {1181},
-  author       = {W.A.L., Stockhof}
+  author       = {Stockhof, W.A.L.}
 }
 @misc{333,
   title        = {Holle Lists: Vocabularies in languages of Indonesia. Vol 5/1: Irian Jaya: Austronesian languages; Papuan Languages, Digul Area},
@@ -2671,21 +2517,27 @@
   publisher    = {Pacific Linguistics},
   year         = {1982},
   wordlist_ids = {1539},
-  author       = {W.A.L., Stockhof}
+  author       = {Stockhof, W.A.L.}
+}
+@misc{330,
+  title        = {Holle Lists: Vocabularies in Languages of Indonesia Vol. 10/3 Islands off the West Coast of Sumatra},
+  year         = {1987},
+  wordlist_ids = {1182 1183 1185},
+  author       = {Stockhof, W.A.L.}
 }
 @article{334,
   title        = {The Sambalic languages of Central Luzon},
-  journal = {Studies in Philippine languages and cultures},
-  volume = {19},
-  pages = {158-183},
+  journal      = {Studies in Philippine languages and cultures},
+  volume       = {19},
+  pages        = {158-183},
   year         = {2008},
   wordlist_ids = {1262 1263 1264 1265 1266 1267 1268},
   author       = {Stone, Roger}
 }
 @misc{335,
   title        = {Ayta Mag-antsi Dictionary - Pallêkan Habi},
-  address = {Manila},
-  publisher = {SIL Philippines},
+  address      = {Manila},
+  publisher    = {SIL Philippines},
   url          = {https://philippines.sil.org/resources/online_resources/sgb},
   year         = {2012},
   wordlist_ids = {1257},
@@ -2693,25 +2545,36 @@
 }
 @book{336,
   title        = {Die Lauterscheinungen in den ambonischen Sprachen},
-  series = {Zeitschrift für Eingeborenen-Sprachen, Beiheft 10},
-  address = {Berlin},
-  publisher = {Dietrich Reimer},
+  series       = {Zeitschrift für Eingeborenen-Sprachen, Beiheft 10},
+  address      = {Berlin},
+  publisher    = {Dietrich Reimer},
   year         = {1927},
   wordlist_ids = {110 160 194},
   author       = {Stresemann, E.}
 }
-@misc{338,
-  title        = {Suining County Almanac [绥宁县志]},
-  year         = {1997},
-  wordlist_ids = {974}
-}
 @book{339,
   title        = {A Maguindanaon Dictionary: Maguindanaon-English, English-Maguindanaon},
-  address = {Cotabato City, Philippines},
-  publisher = {Notre Dame University, Institute of Cotabato Cultures},
+  address      = {Cotabato City, Philippines},
+  publisher    = {Notre Dame University, Institute of Cotabato Cultures},
   year         = {1986},
   wordlist_ids = {685},
   author       = {Sullivan, Robert E.}
+}
+@mastersthesis{276,
+  title        = {A description of Moklen: a Malayo-Polynesian language in Thailand},
+  school       = {Mahidol University},
+  pages        = {285pp},
+  year         = {1982},
+  wordlist_ids = {1570},
+  author       = {Swastham, Pensiri}
+}
+@book{361,
+  title        = {A descriptive study of the Tsou language},
+  address      = {Taipei},
+  series       = {Academia Sinica Special Publications No. 48},
+  year         = {1963},
+  wordlist_ids = {138},
+  author       = {T'ung-ho, Tung}
 }
 @article{340,
   title        = {Toward a better understanding of the indigenous languages of southwestern Maluku},
@@ -2724,28 +2587,19 @@
 }
 @misc{341,
   title        = {Itawis-English wordlist with English-Itawis finderlist},
-  address = {New Haven, CT},
-  publisher = {Human Relations Area Files},
+  address      = {New Haven, CT},
+  publisher    = {Human Relations Area Files},
   year         = {1976},
   wordlist_ids = {678},
   author       = {Tharp, James A. and Natividad, Mateo C.}
 }
 @book{342,
   title        = {A Rhade-English dictionary with English-Rhade finderlist},
-  address = {Canberra},
-  publisher = {Dept. of Linguistics, Research School of Pacific Studies, Australian National University},
+  address      = {Canberra},
+  publisher    = {Dept. of Linguistics, Research School of Pacific Studies, Australian National University},
   year         = {1980},
   wordlist_ids = {741},
   author       = {Tharp, James A. and Đuôn-yă, Y-Bhăm}
-}
-@article{343,
-  title        = {A Preliminary Reconstruction of Proto-Lakkja (Cha Shan Yao)},
-  journal = {The Mon-Khmer Studies Journal},
-  volume = {20},
-  pages = {57-90},
-  year         = {1992},
-  wordlist_ids = {697},
-  author       = {Thongkum, Theraphan L.}
 }
 @mastersthesis{344,
   title        = {Phonological reconstruction of Proto-Palawan},
@@ -2755,87 +2609,105 @@
   wordlist_ids = {1620},
   author       = {Thiessen, Henry Arnold}
 }
+@article{343,
+  title        = {A Preliminary Reconstruction of Proto-Lakkja (Cha Shan Yao)},
+  journal      = {The Mon-Khmer Studies Journal},
+  volume       = {20},
+  pages        = {57-90},
+  year         = {1992},
+  wordlist_ids = {697},
+  author       = {Thongkum, Theraphan L.}
+}
+@incollection{346,
+  title        = {Notes on the reconstruction of Proto-Kam-Sui},
+  booktitle    = {Comparative Kadai: Linguistic studies beyond Tai},
+  pages        = {179-218},
+  series       = {Summer Institute of Linguistics Publications in Linguistics, 86},
+  address      = {Dallas},
+  publisher    = {Summer Institute of Linguistics and the University of Texas at Arlington},
+  year         = {1988},
+  wordlist_ids = {715},
+  editor       = {Edmondson, Jerold A. and Solnit, David B.},
+  author       = {Thurgood, Graham}
+}
 @book{345,
   title        = {From Ancient Cham to Modern Dialects: Two Thousand Years of Language Contact and Change},
-  address = {Hawaii},
-  publisher = {University of Hawaii Press},
+  address      = {Hawaii},
+  publisher    = {University of Hawaii Press},
   year         = {1999},
   wordlist_ids = {371 738},
   author       = {Thurgood, Graham}
 }
-@incollection{346,
-  title        = {Notes on the reconstruction of Proto-Kam-Sui},
-  editor = {Jerold A. Edmondson and David B. Solnit},
-  booktitle = {Comparative Kadai: Linguistic studies beyond Tai},
-  pages = {179-218},
-  series = {Summer Institute of Linguistics Publications in Linguistics, 86},
-  address = {Dallas},
-  publisher = {Summer Institute of Linguistics and the University of Texas at Arlington},
-  year         = {1988},
-  wordlist_ids = {715},
-  author       = {Thurgood, Graham}
-}
 @incollection{348,
   title        = {Amara: An Austronesian language of Northwestern New Britain},
-  editor = {Ross, M.D.},
-  booktitle = {Studies in Languages of New Britain and New Ireland},
+  booktitle    = {Studies in Languages of New Britain and New Ireland},
   address      = {Canberra},
   publisher    = {Pacific Linguistics},
   year         = {1996},
   wordlist_ids = {285},
+  editor       = {Ross, M.D.},
   author       = {Thurston, W.R.}
 }
 @incollection{349,
   title        = {The Bibling Languages of Northwestern New Britain},
-  editor = {Ross, M.D.},
-  booktitle = {Studies in Languages of New Britain and New Ireland},
+  booktitle    = {Studies in Languages of New Britain and New Ireland},
   address      = {Canberra},
   publisher    = {Pacific Linguistics},
   year         = {1996},
   wordlist_ids = {286 287},
+  editor       = {Ross, M.D.},
   author       = {Thurston, W.R.}
 }
 @article{350,
   title        = {Reconstruction of Proto-Puyuma Phonology [古北南語的擬測]},
-  journal = {Bulletin of the Institute of History and Philology, Academia Sinica},
-  volume = {49},
-  pages = {321-391},
+  journal      = {Bulletin of the Institute of History and Philology, Academia Sinica},
+  volume       = {49},
+  pages        = {321-391},
   year         = {1978},
   wordlist_ids = {743},
   author       = {Ting, Pang-hsin [丁邦新]}
 }
 @book{351,
   title        = {Tagalog-Samar-Leyte cognate words with identical and different meanings},
-  address = {Manila, Philippines},
-  publisher = {Institute of National Language},
+  address      = {Manila, Philippines},
+  publisher    = {Institute of National Language},
   year         = {1972},
   wordlist_ids = {783},
   author       = {Tizon, Alfonsa E.}
 }
 @incollection{352,
   title        = {A sketch of Nissan (Nehan) grammar},
-  editor = {S.A. Wurm & L. Carrington},
-  booktitle = {Second International Conference on Austronesian Linguistics: Proceedings},
-  pages = {1181-1239},
+  booktitle    = {Second International Conference on Austronesian Linguistics: Proceedings},
+  pages        = {1181-1239},
   address      = {Canberra},
   publisher    = {Pacific Linguistics},
   year         = {1978},
   wordlist_ids = {105},
+  editor       = {Carrington, S.A. Wurm & L.},
   author       = {Todd, E.M.}
 }
 @book{353,
   title        = {Chamorro-English Dictionary},
-  publisher = {University of Hawaii Press},
-  address = {Hawaii},
+  publisher    = {University of Hawaii Press},
+  address      = {Hawaii},
   year         = {1975},
   wordlist_ids = {18},
   author       = {Topping, D.M.}
 }
-@book{354,
-  title        = {Solomon Islands languages: an internal classification},
-  year         = {1983},
-  wordlist_ids = {9 21 44 54 81 87 139 184 191 196 234 352 353 354 355 356 357 365 501 502 504 505 514 515 516 517 518 519 520 521 522 523 524 525 526 527 528 529 530 531 532 533 534 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 551 552 553 554 555 556 557 558 559 560 561 562 563 564 565 566 567 568 569 570 571 572 573 574 575 576 577 578 579 580 581 582 583 584 585 586 587 588},
-  author       = {Tryon, D.T. & Hackman, B.}
+@book{384,
+  title        = {Tomunga hel heueu ngana: The New Testament in the Lote language of Papua New Guinea: Nupela Testamen long tokples Lote long Niugini},
+  publisher    = {Wycliffe Bible Translators, Inc.},
+  year         = {2009},
+  wordlist_ids = {1709},
+  author       = {Translators, Wycliffe Bible}
+}
+@misc{2,
+  title        = {A Combined Kiribati-English Dictionary based on the works of Hiram Bingham, D.D. and Father Ernest Sabatier, M.S.C. (translated by Sr. M. Oliva) with additional scientific material from Luomala, Goo & Banner},
+  publisher    = {University of Hawaii},
+  url          = {https://www.trussel.com/kir/dic/dic_a.htm},
+  year         = {1978},
+  wordlist_ids = {346},
+  author       = {Trussel, Stephen and Groves, Gordon W.}
 }
 @book{355,
   title        = {New Hebrides Languages: An internal classification},
@@ -2845,28 +2717,34 @@
   wordlist_ids = {1001 1002 1003 1004 1005 1006 1007 1008 1009 1010 1011 1012 1013 1014 1015 1016 1017 1018 1019 1020 1021 1022 1023 1024 1025 1026 1027 1028 1029 1030 1031 1032 1033 1034 1035 1036 1037 1038 1039 1040 1041 1042 1043 1044 1045 1046 1047 1048 1049 1050 1051 1052 1053 1054 1055 1056 1057 1058 1059 1060 1061 1062 1063 1064 1065 1066 1067 1068 1069 1070 1071 1072 1073 1074 1075 1076 1077 1078 1079 1080 1081 1082 1083 1084 1085 1086 1087 1088 1089 1090 1091 1092 1093 1094 1095 1096 1097 1098 1099 1100 1101 1102 1103 1104 1105 1106 1107 1108 1109 1110 1111 1112 1113 1114 1115 1116 1117 1118 1119 1120 1121 1122 1123 1124 1125 1126 1127 1128 1129 1130 1131 1132 1133 1134 1135 1136 1137 1138 1139 1140 1141 1142 1143 1144 1145 1146 1147 1148 1149 1150 1151 1152 1153 1154 1155 1156 1157 1158 1159 1160 1161 1162 1163 1164 1165 1166 1167 1168 1169 1170 1171 1172 1173 1174 1175 1176 1177 1178 1179},
   author       = {Tryon, D.T.}
 }
+@book{354,
+  title        = {Solomon Islands languages: an internal classification},
+  year         = {1983},
+  wordlist_ids = {9 21 44 54 81 87 139 184 191 196 234 352 353 354 355 356 357 365 501 502 504 505 514 515 516 517 518 519 520 521 522 523 524 525 526 527 528 529 530 531 532 533 534 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 551 552 553 554 555 556 557 558 559 560 561 562 563 564 565 566 567 568 569 570 571 572 573 574 575 576 577 578 579 580 581 582 583 584 585 586 587 588},
+  author       = {Tryon, D.T. & Hackman, B.}
+}
 @book{356,
   title        = {A Comparative Vocabulary of Austronesian Languages of Sinicized Ethnic Groups in Taiwan, Part I: Western Taiwan},
-  series = {Memoirs of the Faculty of Letters, No. 7},
-  publisher = {University of Tokyo},
-  address = {Tokyo, Japan},
+  series       = {Memoirs of the Faculty of Letters, No. 7},
+  publisher    = {University of Tokyo},
+  address      = {Tokyo, Japan},
   year         = {1982},
   wordlist_ids = {635 636 637 638},
   author       = {Tsuchida, S.}
 }
-@book{357,
-  title        = {Linguistic materials of the Formosan sinicized populations I: Siraya and Basai},
-  address = {Tokyo},
-  publisher = {The University of Tokyo, Linguistics Department},
-  year         = {1991},
-  wordlist_ids = {369},
-  author       = {Tsuchida, S. and Yamada, Y. and Moriguchi, T.}
-}
 @book{358,
   title        = {Lists of Selected Words of Batanic Languages},
-  publisher = {Department of Linguistics, Faculty of Letters, University of Tokyo},
+  publisher    = {Department of Linguistics, Faculty of Letters, University of Tokyo},
   year         = {1987},
   wordlist_ids = {248 249 250 251 252 289},
+  author       = {Tsuchida, S. and Yamada, Y. and Moriguchi, T.}
+}
+@book{357,
+  title        = {Linguistic materials of the Formosan sinicized populations I: Siraya and Basai},
+  address      = {Tokyo},
+  publisher    = {The University of Tokyo, Linguistics Department},
+  year         = {1991},
+  wordlist_ids = {369},
   author       = {Tsuchida, S. and Yamada, Y. and Moriguchi, T.}
 }
 @phdthesis{359,
@@ -2875,22 +2753,6 @@
   year         = {1975},
   wordlist_ids = {749},
   author       = {Tsuchida, Shigeru}
-}
-@book{360,
-  title        = {Kaxabu Muwalak Misa A Ahan Bizu [噶哈巫語分類辭典]},
-  year         = {2015},
-  wordlist_ids = {2041},
-  publisher    = {Shoucheng Development Association [南投縣埔里鎮守城社區發展協會]},
-  address      = {Shoucheng, Puli, Nantou},
-  author       = {[潘永歷], Tun Kunay}
-}
-@book{361,
-  title        = {A descriptive study of the Tsou language},
-  address = {Taipei},
-  series = {Academia Sinica Special Publications No. 48},
-  year         = {1963},
-  wordlist_ids = {138},
-  author       = {T'ung-ho, Tung}
 }
 @book{362,
   title        = {The role of contact in the origins of the Japanese and Korean languages},
@@ -2908,6 +2770,14 @@
   wordlist_ids = {1624},
   author       = {Usup, Hunggu Tadjuddin}
 }
+@book{158,
+  title        = {Kamus bahasa Indonesia-Kaidipang},
+  address      = {Jakarta},
+  publisher    = {Pusat Pembinaan dan Pengembangan Bahasa, Departemen Pendidikan dan Kebudayaan},
+  year         = {1999},
+  wordlist_ids = {29},
+  author       = {Usup, Hunggu Tadjuddin}
+}
 @book{364,
   title        = {Spraakkunst van het Banggais},
   year         = {1953},
@@ -2918,7 +2788,7 @@
 }
 @book{365,
   title        = {Roots of Afrikaans: Selected Writings of Hans Den Besten (Vol. 44)},
-  publisher = {John Benjamins Publishing},
+  publisher    = {John Benjamins Publishing},
   year         = {2012},
   wordlist_ids = {1702},
   editor       = {Van Der Wouden, T.}
@@ -2959,7 +2829,9 @@
   author       = {Voorhoeve, C. L.}
 }
 @book{370,
-  title        = {A Reconstruction of Proto-Ainu. Leiden: E. J. Brill.},
+  title        = {A Reconstruction of Proto-Ainu},
+  address      = {Leiden},
+  publisher    = {E. J. Brill},
   year         = {1993},
   wordlist_ids = {828},
   author       = {Vovin, Alexander}
@@ -2989,14 +2861,6 @@
   address      = {Manila},
   author       = {Walton, Charles and Walton, Janice}
 }
-@book{374,
-  title        = {A comparative study of Yi dialects [彝语方言比较研究]},
-  year         = {2003},
-  wordlist_ids = {965},
-  publisher    = {Sichuan Ethnic Publishing House [四川民族出版社]},
-  address      = {Chengdu},
-  author       = {[王成有], Wang Chengyou}
-}
 @mastersthesis{375,
   title        = {A phonological comparison between two varieties of Laha: Syllable constituents and tone in Ta Mit and Noong Lay Laha},
   school       = {The University of Texas at Arlington},
@@ -3014,20 +2878,12 @@
 }
 @article{377,
   title        = {Notes on Kusunda Grammar: A Language Isolate of Nepal},
-  journal = {Himalayan Linguistics Archive},
-  volume = {3},
-  pages = {1-182},
+  journal      = {Himalayan Linguistics Archive},
+  volume       = {3},
+  pages        = {1-182},
   year         = {2006},
   wordlist_ids = {1567},
   author       = {Watters, David E.}
-}
-@book{378,
-  title        = {Sui (Shui)-Chinese-Thai-English Dictionary},
-  year         = {2003},
-  wordlist_ids = {736},
-  publisher    = {Mahidol University},
-  address      = {Salaya, Thailand},
-  author       = {Xuecun, Wei and Edmondson, Jerold A.}
 }
 @misc{379,
   title        = {Arop/Sissano grammar essentials},
@@ -3036,6 +2892,19 @@
   year         = {1986},
   wordlist_ids = {1394},
   author       = {Whitacre, Steve}
+}
+@misc{326,
+  title        = {Electonic dictionary of Malol Sissano},
+  wordlist_ids = {1394},
+  author       = {Whiteacre, Steve}
+}
+@book{4,
+  title        = {A classified vocabulary: English, Pilipino and Limos Kalinga},
+  url          = {https://philippines.sil.org/resources/archives/24040},
+  publisher    = {Summer Institute of Linguistics},
+  year         = {1981},
+  wordlist_ids = {672},
+  author       = {Wiens, Hartmut and Wiens, Virginia}
 }
 @book{380,
   title        = {A Masbatenyo-English Dictionary},
@@ -3047,39 +2916,26 @@
 }
 @book{381,
   title        = {An Investigative Report of Waxianghua of Guzhang County, Xiangxi Prefecture [湘西古丈瓦乡话调查报告]},
-  publisher = {Shanghai Educational Press [上海教育出版社]},
+  publisher    = {Shanghai Educational Press [上海教育出版社]},
   year         = {2010},
   wordlist_ids = {973},
   author       = {Wu Yunji, Shen Ruiqing [伍云姬、沈瑞清]}
 }
-@book{382,
-  title        = {A preliminary study of the Mo'ang language of Funing County, Yunnan Province [云南富宁未昂话初探]},
-  publisher = {Minzu Yuwen 2},
-  year         = {1993},
-  wordlist_ids = {964},
-  author       = {[武自立], Wu Zili}
+@book{392,
+  title        = {A short description of the Uighur language},
+  address      = {Beijing},
+  publisher    = {Minzu},
+  year         = {1983},
+  wordlist_ids = {870},
+  author       = {Xiangru, Zhao and Zhining, Zhu}
 }
-@book{383,
-  title        = {A preliminary study of the Gasu language of Guangnan County, Yunnan Province [云南省广南县嘎苏话初探]},
-  publisher = {Minzu Yuwen 2},
-  year         = {1994},
-  wordlist_ids = {965},
-  author       = {[武自立], Wu Zili}
-}
-@book{384,
-  title        = {Tomunga hel heueu ngana: The New Testament in the Lote language of Papua New Guinea: Nupela Testamen long tokples Lote long Niugini},
-  publisher = {Wycliffe Bible Translators, Inc.},
-  year         = {2009},
-  wordlist_ids = {1709},
-  author       = {Translators, Wycliffe Bible}
-}
-@book{385,
-  title        = {A Study of Jiwei Miao [吉卫苗语硏究]},
-  year         = {1999},
-  wordlist_ids = {959},
-  publisher    = {Sichuan Nationalities Publishing House},
-  address      = {Chengdu},
-  author       = {[向日征], Xiang Rizheng}
+@book{378,
+  title        = {Sui (Shui)-Chinese-Thai-English Dictionary},
+  year         = {2003},
+  wordlist_ids = {736},
+  publisher    = {Mahidol University},
+  address      = {Salaya, Thailand},
+  author       = {Xuecun, Wei and Edmondson, Jerold A.}
 }
 @mastersthesis{386,
   title        = {Subgrouping and reconstruction of Batanic languages [巴丹語言的分群與擬測]},
@@ -3088,6 +2944,24 @@
   year         = {2002},
   wordlist_ids = {1621},
   author       = {Yang, Doris Hsiao-Fang [楊曉芳]}
+}
+@book{226,
+  title        = {The Dong Language in Guizhou Province, China},
+  address      = {Dallas, TX},
+  publisher    = {Summer Institute of Linguistics: [Arlington]: University of Texas at Arlington},
+  isbn         = {1556710518},
+  year         = {1998},
+  wordlist_ids = {789},
+  author       = {Yaohong, Long and Guoqiao, Zheng}
+}
+@book{323,
+  title        = {The Dong Language in Guizhou Province, China},
+  address      = {Dallas, TX},
+  publisher    = {Summer Institute of Linguistics: [Arlington]: University of Texas at Arlington},
+  isbn         = {1556710518},
+  year         = {1998},
+  wordlist_ids = {677},
+  author       = {Yaohong, Long and Guoqiao, Zheng}
 }
 @book{387,
   title        = {The Tagalog Region: Lexicon of the Languages and Dialects / Rehiyong Tagalog: Lexicon ng mga Wika at Diyalekto},
@@ -3104,37 +2978,52 @@
   wordlist_ids = {993},
   author       = {Yoder, Brendon E.}
 }
-@book{389,
-  title        = {Pemetaan Bahasa Daerah di Sumatra Barat dan Bengkulu},
-  address = {Jakarta},
-  publisher = {PPPB},
-  year         = {1987},
-  wordlist_ids = {492 493},
-  author       = {et al., Yuslina Kasim}
+@book{209,
+  title        = {Survey of the Guizhou Bouyei Language},
+  series       = {SIL Language and Culture Documentation and Description 1},
+  publisher    = {SIL International},
+  year         = {2007},
+  wordlist_ids = {731},
+  author       = {Yongshu, Liang and Snyder, Wil C. and Wenyi, Wu}
 }
-@book{390,
-  title        = {A Study of Zhuang dialects [壮语方言研究, Zhuàngyǔ Fāngyán Yánjiù]},
-  address      = {Chengdu},
-  publisher    = {Sichuan min zu chu ban she [四川民族出版社]},
-  year         = {1999},
-  wordlist_ids = {833 834 835 836 837 838 839 840 841 842 843 844 845 846 847 848 849 850},
-  author       = {et. al, Zhang Junru [张均如]}
+@book{228,
+  title        = {A dictionary of Dehong, Southwest China},
+  series       = {Pacific Linguistics Series C},
+  volume       = {145},
+  address      = {Canberra},
+  publisher    = {Pacific Linguistics},
+  year         = {1998},
+  wordlist_ids = {778},
+  author       = {Yongxian, Luo}
 }
-@article{391,
-  title        = {Guangdongsheng Wuchuan fangyan jilve [广东省吴川方言记略]},
-  journal      = {Fangyan [方言]},
-  volume       = {1992(3)},
-  year         = {1992},
-  wordlist_ids = {1538},
-  author       = {[张振兴], Zhang Zhenxing}
-}
-@book{392,
-  title        = {A short description of the Uighur language},
+@book{218,
+  title        = {A sketch of the Dongxiang language},
   address      = {Beijing},
+  publisher    = {Institute of minorities},
+  year         = {1981},
+  wordlist_ids = {939},
+  author       = {Zhaoxiong, Liu}
+}
+@book{zheng1997,
+  address      = {Shanghai},
+  pages        = {250},
+  publisher    = {Shanghai Far East Publishers},
+  title        = {Huihuihua Yanjiu},
+  year         = {1997},
+  hhtype       = {grammar},
+  inlg         = {Mandarin Chinese [cmn]},
+  lgcode       = {Huihui = Tsat [huq]},
+  macro_area   = {Eurasia},
+  wordlist_ids = {361},
+  author       = {Zheng, Yiqing}
+}
+@book{153,
+  title        = {A short description of the Kirgiz language (in Chinese)},
+  year         = {1984},
+  wordlist_ids = {873},
   publisher    = {Minzu},
-  year         = {1983},
-  wordlist_ids = {870},
-  author       = {Xiangru, Zhao and Zhining, Zhu}
+  address      = {Beijing},
+  author       = {Zhenhua, Hu}
 }
 @book{393,
   title        = {Old Javanese-English Dictionary},
@@ -3143,6 +3032,22 @@
   year         = {1982},
   wordlist_ids = {290},
   author       = {Zoetmulder, P.J.}
+}
+@book{65,
+  title        = {A short description of the Tatar language},
+  address      = {Beijing},
+  publisher    = {Minzu},
+  year         = {1986},
+  wordlist_ids = {869},
+  author       = {Zongzhen, Chen and Liqian, Yi}
+}
+@book{64,
+  title        = {A short description of the western Yugu language (in Chinese)},
+  address      = {Beijing},
+  publisher    = {Minzu},
+  year         = {1983},
+  wordlist_ids = {872},
+  author       = {Zongzhen, Chen and Xianchun, Lei}
 }
 @book{394,
   title        = {The Bisayan Dialects of the Philippines: Subgrouping and Reconstruction},
@@ -3163,187 +3068,47 @@
   editor       = {Tryon, Darrell T.},
   author       = {Zorc, R. David}
 }
-@book{396,
-  address      = {Guiyang},
-  publisher    = {Guizhou People's Publishing House [贵州人民出版社]},
+@book{142,
+  title        = {Sketch of Hongfeng Gelao [红丰仡佬语概况]},
+  publisher    = {Minzu Yuwen},
+  year         = {2008},
+  wordlist_ids = {945},
+  author       = {[何彦诚], He Yancheng}
+}
+@book{385,
+  title        = {A Study of Jiwei Miao [吉卫苗语硏究]},
   year         = {1999},
-  wordlist_ids = {948},
-  author       = {[贵州省遵义市地方志编纂委员会编], Zunyi Prefecture Almanac Committee}
+  wordlist_ids = {959},
+  publisher    = {Sichuan Nationalities Publishing House},
+  address      = {Chengdu},
+  author       = {[向日征], Xiang Rizheng}
 }
-@incollection{capell1976,
-  address      = {Canberra},
-  booktitle    = {New Guinea Area Languages and Language Study Vol 2: Austronesian Languages},
-  pages        = {527-579},
-  publisher    = {Research School of Pacific and Asian Studies, Australian National University},
-  series       = {Pacific Linguistics: Series C},
-  title        = {Austronesian and Papuan "Mixed" Languages: General Remarks},
-  volume       = {39},
-  year         = {1976},
-  inlg         = {English [eng]},
-  lgcode       = {Manggarai = Manggarai [mqy], Ngad'a, Sika [ski], Lio, Solor = Solor [slp], Hawu [hvn], 2xMaisin [mbq], Ubir [ubr], Onjob [onj], Mukawa = Are [mwc], Gapapaiwa, Wedau [wed]},
-  macro_area   = {Papunesia},
-  wordlist_ids = {211},
-  author       = {Capell, Arthur},
-  editor       = {Wurm, Stephen A.}
-}
-@book{capell1943,
-  address      = {Sydney},
-  note         = {Publication of 1938 PhD from University of London},
-  pages        = {276},
-  publisher    = {Australasian Medical Publishing Company},
-  title        = {The Linguistic Position of South-Eastern Papua},
-  year         = {1943},
-  inlg         = {English [eng]},
-  isbn         = {9780404141073},
-  lgcode       = {[abad1241]; [kaye1241]; [lala1268]; [tawa1275]; [waim1251]; [weda1241]},
-  macro_area   = {Papunesia},
-  wordlist_ids = {227},
-  author       = {Capell, Arthur}
-}
-@book{dejong1947,
-  address      = {Amsterdam},
-  pages        = {152},
-  publisher    = {Noord-Hollandsche Uitgevers-Maatschappij},
-  series       = {Verhandelingen van het Koninklijke Nederlandsche Akademie van Wetenschappen, Adf.~Letterkunde: Nieuwe Reeks},
-  title        = {Studies in Indonesian Culture II: The community of Erai (Wetar) (Texts and Notes)},
-  volume       = {L:2},
-  year         = {1947},
-  hhtype       = {ethnographic;grammar_sketch;text},
-  inlg         = {English [eng]},
-  lgcode       = {Erai = Ili'uun [ilu]},
-  macro_area   = {Papunesia},
-  wordlist_ids = {35},
-  author       = {de Josselin de Jong, Jan Petrus Benjamin}
-}
-@book{dordillon1931,
-  address      = {Paris},
-  pages        = {vi+446},
-  publisher    = {Institut d'Éthnologie},
-  series       = {Travaux et Mémoires de l'Institut d'Éthnologie},
-  title        = {Grammaire et Dictionnaire de la Langue des Îles Marquises},
-  url          = {http://hdl.handle.net/11858/00-001M-0000-0012-80FD-8},
-  volume       = {XVII},
-  year         = {1931},
-  hhtype       = {grammar;dictionary},
-  inlg         = {French [fra]},
-  lgcode       = {Marquesan-North [mrq]},
-  macro_area   = {Papunesia},
-  wordlist_ids = {38},
-  author       = {Dordillon, Ildefonse René}
-}
-@misc{feinberg2024,
-  url          = {https://doi.org/10.26278/5CAB700C0C9DC},
-  title        = {Dictionaries of Anuta, Nukumanu and Taumako},
-  year         = {2024},
-  wordlist_ids = {1654},
-  author       = {Feinberg, Rick}
-}
-@misc{402,
-  url          = {https://taramangaia.cookislandsdictionary.com/about},
-  note         = {See https://taramangaia.cookislandsdictionary.com/sources},
-  wordlist_ids = {1626},
-  author       = {Marshall, Donald}
-}
-@misc{403,
-  url          = {http://www.fataluku.com/dictionary.php},
-  note         = {Some content still available via wayback machine: https://web.archive.org/web/20071011192937/http://www.fataluku.com/papers/Hewitt_English_Fataluku.pdf},
-  wordlist_ids = {461}
-}
-@misc{404,
-  url          = {http://www.ling.hawaii.edu/%7Euhdoc/makasae_osor/index.html},
-  howpublished = {seems to be lost},
-  wordlist_ids = {462}
-}
-@misc{405,
-  url          = {https://www.smg.surrey.ac.uk/languages/northwest-solomonic/uruava/uruava-dictionary/v2/},
-  year         = {2004},
-  title        = {Uruava dictionary},
-  wordlist_ids = {474},
-  author       = {Palmer, Bill}
-}
-@mastersthesis{schlossberg2012,
-  title        = {Lexical Reconstruction of Proto Papuan Tip},
-  school       = {Monash University},
-  year         = {2012},
-  address      = {Melbourne, Australia},
-  wordlist_ids = {1423 1424 1425 1426 1427 1428 1429 1430 1431 1432 1433 1434 1435 1436 1437 1438 1439 1440 1441 1442 1443 1444 1445 1446 1447 1448 1449 1450 1451 1452 1453 1454 1455 1456 1457 1458 1459 1460 1461},
-  author       = {Schlossberg, Jonathan}
-}
-@book{407,
-  title        = {Noemfoorsch woordenboek},
-  address      = {Amsterdam},
-  publisher    = {de Bussy},
-  year         = {1947},
-  wordlist_ids = {106},
-  author       = {van Hasselt, J.L. & van Hasselt, F.J.F.}
-}
-@book{408,
-  title        = {Tae' (Zuid-Toradjasch)-Nederlandsch Woordenboek met Register Nederlandsch-Tae'},
-  address      = {Gravenhage},
-  publisher    = {Martinus Nijhoff},
-  year         = {1940},
-  wordlist_ids = {226},
-  author       = {van der Veen, H.}
-}
-@phdthesis{vandenberg2014,
-  title        = {Linguistic Sketch of Hatohobeian and Sonsorolese: A Study of Phonology and Morphology},
-  school       = {VU University Amsterdam},
-  year         = {2014},
-  url          = {https://www.friendsoftobi.org/wordweek/vandenberglinguisticsketch2014.pdf},
-  wordlist_ids = {1640},
-  author       = {van den Berg, Esther}
-}
-@misc{410,
-  title        = {Dalkalaen: A dictionary from Dalkalaen to Bislama to English},
-  year         = {2012},
-  wordlist_ids = {1712},
-  author       = {von Prince, K.}
-}
-@book{zheng1997,
-  address      = {Shanghai},
-  pages        = {250},
-  publisher    = {Shanghai Far East Publishers},
-  title        = {Huihuihua Yanjiu},
-  year         = {1997},
-  hhtype       = {grammar},
-  inlg         = {Mandarin Chinese [cmn]},
-  lgcode       = {Huihui = Tsat [huq]},
-  macro_area   = {Eurasia},
-  wordlist_ids = {361},
-  author       = {Zheng, Yiqing}
-}
-@book{412,
-  title        = {东乡语简志。},
-  address      = {北京},
-  publisher    = {民族出版社。},
-  year         = {1981},
-  wordlist_ids = {939},
-  author       = {刘照雄}
+@book{227,
+  title        = {Funing Xian Minzu Zhi 富宁县民族志 [Funing County Ethnic Gazetteer]},
+  year         = {1998},
+  wordlist_ids = {955 956 957 958},
+  publisher    = {Yunnan Ethnic Publishing House},
+  address      = {Kunming},
+  editor       = {[吕正元], Lu Zhengyuan and [农览生], Nong Lansheng}
 }
 @book{413,
-  title        = {仡佬族母語生态硏究 / Gelao zu mu yu sheng tai yan jiu [Studies on the linguistic ecology of the Gelao people]. Beijing: 民族出版社 / Min zu chu ban she},
+  title        = {仡佬族母語生态硏究 / Gelao zu mu yu sheng tai yan jiu [Studies on the linguistic ecology of the Gelao people]},
   year         = {2004},
   wordlist_ids = {728 729},
   publisher    = {民族出版社 / Min zu chu ban she},
   address      = {Beijing},
   author       = {[周国炎], Zhou Guoyan}
 }
-@book{414,
-  title        = {保安语简志. 北京},
-  year         = {1981},
-  wordlist_ids = {942},
-  author       = {布和 and 刘照雄}
-}
-@book{415,
-  title        = {壮语方言研究 / Zhuang yu fang yan yan jiu [A Study of Zhuang dialects]},
-  address      = {Chengdu},
-  publisher    = {四川民族出版社 / Sichuan min zu chu ban she},
-  year         = {1999},
-  wordlist_ids = {767},
-  author       = {et. al., Zhang Junru [张均如]}
+@article{391,
+  title        = {Guangdongsheng Wuchuan fangyan jilve [广东省吴川方言记略]},
+  journal      = {Fangyan [方言]},
+  volume       = {1992(3)},
+  year         = {1992},
+  wordlist_ids = {1538},
+  author       = {[张振兴], Zhang Zhenxing}
 }
 @book{416,
-  title        = {仡佬语研究/Gelao yu yan jiu (A Study of Gelao). 贵阳市/Guiyang, China: 贵州民族出版社/Guizhou min zu chu ban she},
+  title        = {仡佬语研究/Gelao yu yan jiu (A Study of Gelao)},
   year         = {1993},
   wordlist_ids = {691},
   publisher    = {贵州民族出版社/Guizhou min zu chu ban she},
@@ -3360,48 +3125,77 @@
   wordlist_ids = {786},
   author       = {[新谷忠彦], Shintani Tadahiko and [楊昭], Yang Chao}
 }
+@mastersthesis{248,
+  title        = {Comparison of Fengyan Gelao with other related Gelao dialects [峰岩仡佬语及方言内部比较]},
+  address      = {Beijing},
+  school       = {Minzu University},
+  year         = {2010},
+  wordlist_ids = {924 925},
+  author       = {[明悦], Ming Yue}
+}
+@book{247,
+  title        = {A study of Bijie dialects [毕节方言研究]},
+  publisher    = {China Sociology Publishing House [中国社会科学出版社]},
+  year         = {2007},
+  wordlist_ids = {944},
+  author       = {[明生荣], Ming Shengrong}
+}
 @book{418,
-  title        = {拉基语硏究 / Laji yu yan jiu (A Study of Lachi). Beijing: 中央民族大学出版社 / Zhong yang min zu da xue chu ban she},
+  title        = {拉基语硏究 / Laji yu yan jiu (A Study of Lachi)},
   year         = {2000},
   wordlist_ids = {791},
   publisher    = {中央民族大学出版社 / Zhong yang min zu da xue chu ban she},
   address      = {Beijing},
   author       = {[李云兵], Li Yunbing}
 }
+@book{197,
+  title        = {A Study of Bugeng (Bugan) [布赓语研究]},
+  year         = {2005},
+  wordlist_ids = {962},
+  publisher    = {Minzu University},
+  address      = {Beijing},
+  author       = {[李云兵], Li Yunbing}
+}
+@book{196,
+  title        = {A Study of Lai (Bolyu) [倈语硏究]},
+  year         = {1999},
+  wordlist_ids = {960},
+  publisher    = {Minzu University},
+  address      = {Beijing},
+  author       = {[李旭练], Li Xulian}
+}
+@book{192,
+  title        = {"Buyang yu yan jiu" Studies in the Buyang Language.},
+  year         = {1999},
+  wordlist_ids = {351},
+  publisher    = {Central University for Nationalities Press},
+  address      = {Beijing},
+  author       = {[李锦芳], Li Jinfang}
+}
+@book{193,
+  title        = {Studies on endangered languages in the Southwest China [西南地区濒危语言调查研究]},
+  year         = {2006},
+  wordlist_ids = {925 928 929 930 931 932 961},
+  publisher    = {Minzu University},
+  address      = {Beijing},
+  author       = {[李锦芳], Li Jinfang}
+}
+@misc{194,
+  title        = {"Guangdong Wuchuan Jizhaohua gaikuang" [广东吴川吉兆话概况]. In Minzu Yuwen [民族语文] 2017:4.},
+  year         = {2017},
+  wordlist_ids = {1536},
+  author       = {[李锦芳], Li Jinfang and [吴艳], Wu Yan}
+}
 @book{419,
-  title        = {莫语硏究 / Mo yu yan jiu (A Study of Mak). Beijing: 中央民族大学出版社 / Zhong yang min zu da xue chu ban she},
+  title        = {莫语硏究 / Mo yu yan jiu (A Study of Mak)},
   year         = {2000},
   wordlist_ids = {769 770},
   publisher    = {中央民族大学出版社 / Zhong yang min zu da xue chu ban she},
   address      = {Beijing},
   author       = {[杨通銀], Yang Tongyin}
 }
-@book{420,
-  title        = {标话硏究 / Biao hua yan jiu (A Study of Biao). Beijing: 中央民族大学出版社 / Zhong yang min zu da xue chu ban she},
-  year         = {2002},
-  wordlist_ids = {751},
-  publisher    = {中央民族大学出版社 / Zhong yang min zu da xue chu ban she},
-  address      = {Beijing},
-  author       = {Liang, Min [梁敏]}
-}
-@book{421,
-  title        = {毛难语简志 / Maonan yu jian zhi (A Sketch of Maonan). Beijing: 民族出版社: 新华书店发行 / Min zu chu ban she: Xin hua shu dian fa xing},
-  year         = {1980},
-  wordlist_ids = {784},
-  publisher    = {民族出版社: 新华书店发行 / Min zu chu ban she: Xin hua shu dian fa xing},
-  address      = {Beijing},
-  author       = {Liang, Min [梁敏]}
-}
-@book{422,
-  title        = {临高語研究/Lingao yu yan jiu (A Study of Lingao). 上海/Shanghai: 上海远东出版社/Shanghai yuan dong chu ban she},
-  year         = {1997},
-  wordlist_ids = {724},
-  publisher    = {上海远东出版社/Shanghai yuan dong chu ban she},
-  address      = {上海/Shanghai},
-  author       = {Liang, Min [梁敏]}
-}
 @book{423,
-  title        = {黎语简志 / Li yu jian zhi (A Sketch of Li [Hlai]). Beijing: 民族出版社: 新华书店发行 / Min zu chu ban she: Xin hua shu dian fa xing},
+  title        = {黎语简志 / Li yu jian zhi (A Sketch of Li [Hlai])},
   year         = {1980},
   wordlist_ids = {772},
   publisher    = {民族出版社: 新华书店发行 / Min zu chu ban she: Xin hua shu dian fa xing},
@@ -3409,31 +3203,45 @@
   author       = {[欧阳觉亚], Ouyang Jueya and [郑贻青], Zheng Yiqing}
 }
 @book{424,
-  title        = {黎语调查研究 / Li yu diao cha yan jiu [Research on the Hlai languages]. Beijing: 中国社会科学出版社: 新华书店北京发行所发行 / Zhongguo she hui ke xue chu ban she: Xin hua shu dian Beijing fa xing suo fa xing},
+  title        = {黎语调查研究 / Li yu diao cha yan jiu [Research on the Hlai languages]},
   year         = {1983},
   wordlist_ids = {1201},
   publisher    = {中国社会科学出版社: 新华书店北京发行所发行 / Zhongguo she hui ke xue chu ban she: Xin hua shu dian Beijing fa xing suo fa xing},
   address      = {Beijing},
   author       = {[欧阳觉亚], Ouyang Jueya and [郑贻青], Zheng Yiqing}
 }
-@book{425,
-  title        = {优诺语研究 / Younuo yu yan jiu (A Study of Younuo). Beijing: 民族出版社 / Min zu chu ban she},
-  year         = {2007},
-  wordlist_ids = {756},
-  publisher    = {民族出版社 / Min zu chu ban she},
-  address      = {Beijing},
-  author       = {[毛宗武], Mao Zongwu}
+@book{382,
+  title        = {A preliminary study of the Mo'ang language of Funing County, Yunnan Province [云南富宁未昂话初探]},
+  publisher    = {Minzu Yuwen 2},
+  year         = {1993},
+  wordlist_ids = {964},
+  author       = {[武自立], Wu Zili}
+}
+@book{383,
+  title        = {A preliminary study of the Gasu language of Guangnan County, Yunnan Province [云南省广南县嘎苏话初探]},
+  publisher    = {Minzu Yuwen 2},
+  year         = {1994},
+  wordlist_ids = {965},
+  author       = {[武自立], Wu Zili}
 }
 @book{426,
-  title        = {瑤族勉语方言研究 / Yao zu Mian yu fang yan yan jiu [A Study of Mien Dialects]. Beijing: 民族出版社 / Min zu chu ban she},
+  title        = {瑤族勉语方言研究 / Yao zu Mian yu fang yan yan jiu [A Study of Mien Dialects]},
   year         = {2004},
   wordlist_ids = {773 774 775 776},
   publisher    = {民族出版社 / Min zu chu ban she},
   address      = {Beijing},
   author       = {[毛宗武], Mao Zongwu}
 }
+@book{425,
+  title        = {优诺语研究 / Younuo yu yan jiu (A Study of Younuo)},
+  year         = {2007},
+  wordlist_ids = {756},
+  publisher    = {民族出版社 / Min zu chu ban she},
+  address      = {Beijing},
+  author       = {[毛宗武], Mao Zongwu}
+}
 @book{427,
-  title        = {巴哼语研究 / Baheng yu yan jiu (A Study of Baheng [Pa-Hng]). Shanghai: 上海远东出版社 / Shanghai yuan dong chu ban she},
+  title        = {巴哼语研究 / Baheng yu yan jiu (A Study of Baheng [Pa-Hng])},
   year         = {1997},
   wordlist_ids = {757},
   publisher    = {上海远东出版社 / Shanghai yuan dong chu ban she},
@@ -3441,7 +3249,7 @@
   author       = {[毛宗武], Mao Zongwu and [李云兵], Li Yunbing}
 }
 @book{428,
-  title        = {炯奈语硏究 / Jiongnai yu yan jiu (A Study of Jiongnai). Beijing: 中央民族大学出版社 / Zhong yang min zu da xue chu ban she},
+  title        = {炯奈语硏究 / Jiongnai yu yan jiu (A Study of Jiongnai)},
   year         = {2002},
   wordlist_ids = {768},
   publisher    = {中央民族大学出版社 / Zhong yang min zu da xue chu ban she},
@@ -3449,7 +3257,7 @@
   author       = {[毛宗武], Mao Zongwu and [李云兵], Li Yunbing}
 }
 @book{429,
-  title        = {畲语简志 / She yu jian zhi (A Sketch of She). Beijing: 民族出版社: 新華書店发行 / Min zu chu ban she: Xin hua shu dian fa xing},
+  title        = {畲语简志 / She yu jian zhi (A Sketch of She)},
   year         = {1986},
   wordlist_ids = {762},
   publisher    = {民族出版社: 新華書店发行 / Min zu chu ban she: Xin hua shu dian fa xing},
@@ -3457,28 +3265,36 @@
   author       = {[毛宗武], Mao Zongwu and [蒙朝吉], Meng Chaoji}
 }
 @book{430,
-  title        = {瑤族语言简志 / Yao zu yu yan jian zhi [A Sketch of the Languages of the Yao People]. 民族出版社: 新華書店发行 / Min zu chu ban she: Xin hua shu dian fa xing},
+  title        = {瑤族语言简志 / Yao zu yu yan jian zhi [A Sketch of the Languages of the Yao People]},
   year         = {1982},
   wordlist_ids = {754},
   publisher    = {新華書店发行 / Min zu chu ban she: Xin hua shu dian fa xing},
   address      = {民族出版社},
   author       = {[毛宗武], Mao Zongwu and [蒙朝吉], Meng Chaoji and [郑宗泽], Zheng Zongze}
 }
-@book{431,
-  title        = {土族语简志},
-  address      = {北京},
-  publisher    = {民族出版社},
-  year         = {1981},
-  wordlist_ids = {940 941},
-  author       = {照那斯图}
+@book{360,
+  title        = {Kaxabu Muwalak Misa A Ahan Bizu [噶哈巫語分類辭典]},
+  year         = {2015},
+  wordlist_ids = {2041},
+  publisher    = {Shoucheng Development Association [南投縣埔里鎮守城社區發展協會]},
+  address      = {Shoucheng, Puli, Nantou},
+  author       = {[潘永歷], Tun Kunay}
 }
 @book{433,
-  title        = {仫佬语简志 / Mulao yu jian zhi (A Sketch of Mulao [Mulam]). Beijing: 民族出版社: 新華書店发行 / Min zu chu ban she: Xin hua shu dian fa xing},
+  title        = {仫佬语简志 / Mulao yu jian zhi (A Sketch of Mulao [Mulam])},
   year         = {1980},
   wordlist_ids = {761},
   publisher    = {民族出版社: 新華書店发行 / Min zu chu ban she: Xin hua shu dian fa xing},
   address      = {Beijing},
   author       = {[王均], Wang Jun and [郑国乔], Zheng Guoqiao}
+}
+@book{374,
+  title        = {A comparative study of Yi dialects [彝语方言比较研究]},
+  year         = {2003},
+  wordlist_ids = {965},
+  publisher    = {Sichuan Ethnic Publishing House [四川民族出版社]},
+  address      = {Chengdu},
+  author       = {[王成有], Wang Chengyou}
 }
 @book{434,
   title        = {瑤族布努语方言研究 / Yao zu Bunu yu fang yan yan jiu [A Study of the Bunu Dialects of the Yao People]. Beijing: 民族出版社 / Min zu chu ban she},
@@ -3488,29 +3304,49 @@
   address      = {Beijing},
   author       = {[蒙朝吉], Meng Chaoji}
 }
-@book{435,
-  title        = {木佬语硏究 / Mulao yu yan jiu (A Study of Mulao). Beijing: 中央民族大学出版社 / Zhong yang min zu da xue chu ban she},
-  year         = {2003},
-  wordlist_ids = {766},
-  publisher    = {中央民族大学出版社 / Zhong yang min zu da xue chu ban she},
-  address      = {Beijing},
-  author       = {Bo, Wenze [薄文泽]}
+@book{47,
+  title        = {A Brief Introduction of Caijia Speech [蔡家话概况]},
+  publisher    = {Minzu Yuwen},
+  year         = {2004},
+  wordlist_ids = {971},
+  author       = {[薄文泽], Bo Wenze}
 }
-@book{436,
-  title        = {佯僙语研究/Yanghuang yu yan jiu (A Study of Yanghuang [Then]). Beijing: 中央民族大学出版社/Zhong yang min zu da xue chu ban she},
-  year         = {1997},
-  wordlist_ids = {719},
-  publisher    = {中央民族大学出版社/Zhong yang min zu da xue chu ban she},
-  address      = {Beijing},
-  author       = {Bo, Wenze [薄文泽]}
+@book{396,
+  address      = {Guiyang},
+  publisher    = {Guizhou People's Publishing House [贵州人民出版社]},
+  year         = {1999},
+  wordlist_ids = {948},
+  author       = {[贵州省遵义市地方志编纂委员会编], Zunyi Prefecture Almanac Committee}
 }
-@book{437,
-  title        = {仡佬语简志/Gelao yu jian zhi (A Sketch of Gelao)},
-  address      = {Beijing [北京]},
-  publisher    = {Min zu chu ban she: Xin hua shu dian fa xing [民族出版社: 新華書店发行]},
+@book{90,
+  title        = {A sketch of the Mongol language [蒙古语简志]},
+  address      = {Beijing},
+  publisher    = {Institute of minorities},
   year         = {1983},
-  wordlist_ids = {699},
-  author       = {He, Jiashan [贺嘉善]}
+  wordlist_ids = {943},
+  author       = {[道布], Dob}
+}
+@mastersthesis{308,
+  title        = {Guangdong Jizhaohua yanjiu [广东吉兆话研究]},
+  school       = {Guangxi University for Nationalities [广西民族大学]},
+  year         = {2016},
+  wordlist_ids = {1537},
+  author       = {[邵兰珠], Shao Lanzhu}
+}
+@article{309,
+  title        = {Loanwords of Min dialect in Jizhao dialect in Guangdong [广东吉兆话中的闽方言借词]},
+  journal      = {Journal of Guangdong University of Petrochemical Technology [广东石油化工学院学报]},
+  volume       = {26(2)},
+  year         = {2016},
+  wordlist_ids = {1537},
+  author       = {[邵兰珠], Shao Lanzhu and [蒙元耀], Meng Yuanyao}
+}
+@book{63,
+  title        = {A Brief Introduction of Bana Language [巴那语概况]},
+  publisher    = {Minzu Yuwen},
+  year         = {2001},
+  wordlist_ids = {967},
+  author       = {[陈其光], Chen Qiguang}
 }
 @book{438,
   title        = {彝语简志 / Yi yu jian zhi (A Sketch of Yi)},
@@ -3518,5 +3354,173 @@
   publisher    = {Min zu chu ban she: Xin hua shu dian fa xing [民族出版社: 新華書店发行]},
   year         = {1985},
   wordlist_ids = {920},
-  author       = {et. al., Chen Shilin [陈士林]}
+  author       = {[陈士林], Chen Shilin}
+}
+@book{62,
+  title        = {A study of Yi dialects [彝语方言研究]},
+  address      = {Beijing},
+  publisher    = {China Minzu University Press},
+  year         = {2010},
+  wordlist_ids = {970},
+  author       = {[陈康], Chen Kang}
+}
+@mastersthesis{138,
+  title        = {Red Gelao of the China-Vietnam border region: a sketch and classification [中越边境红仡佬语概况及其系属研究]},
+  address      = {Beijing},
+  school       = {Minzu University},
+  year         = {2010},
+  wordlist_ids = {926},
+  author       = {[韩林林], Han Linlin}
+}
+@book{123,
+  title        = {A study of Mang [莽语硏究]},
+  address      = {Beijing},
+  publisher    = {Ethnic Publishing House},
+  year         = {2003},
+  wordlist_ids = {966},
+  author       = {[高永奇], Gao Yongqi}
+}
+@book{dejong1947,
+  address      = {Amsterdam},
+  pages        = {152},
+  publisher    = {Noord-Hollandsche Uitgevers-Maatschappij},
+  series       = {Verhandelingen van het Koninklijke Nederlandsche Akademie van Wetenschappen, Adf.~Letterkunde: Nieuwe Reeks},
+  title        = {Studies in Indonesian Culture II: The community of Erai (Wetar) (Texts and Notes)},
+  volume       = {L:2},
+  year         = {1947},
+  hhtype       = {ethnographic;grammar_sketch;text},
+  inlg         = {English [eng]},
+  lgcode       = {Erai = Ili'uun [ilu]},
+  macro_area   = {Papunesia},
+  wordlist_ids = {35},
+  author       = {de Josselin de Jong, Jan Petrus Benjamin}
+}
+@book{162,
+  title        = {Wetan fieldnotes: some eastern Indonesian texts},
+  address      = {Dordrecht, Holland; Providence, RI, USA},
+  publisher    = {Foris Publications},
+  year         = {1987},
+  wordlist_ids = {853},
+  author       = {de Josselin de Jong, Jan Petrus Benjamin}
+}
+@book{389,
+  title        = {Pemetaan Bahasa Daerah di Sumatra Barat dan Bengkulu},
+  address      = {Jakarta},
+  publisher    = {PPPB},
+  year         = {1987},
+  wordlist_ids = {492 493},
+  author       = {et al., Yuslina Kasim}
+}
+@book{390,
+  title        = {A Study of Zhuang dialects [壮语方言研究, Zhuàngyǔ Fāngyán Yánjiù]},
+  address      = {Chengdu},
+  publisher    = {Sichuan min zu chu ban she [四川民族出版社]},
+  year         = {1999},
+  wordlist_ids = {833 834 835 836 837 838 839 840 841 842 843 844 845 846 847 848 849 850},
+  author       = {et. al, Zhang Junru [张均如]}
+}
+@book{415,
+  title        = {壮语方言研究 / Zhuang yu fang yan yan jiu [A Study of Zhuang dialects]},
+  address      = {Chengdu},
+  publisher    = {四川民族出版社 / Sichuan min zu chu ban she},
+  year         = {1999},
+  wordlist_ids = {767},
+  author       = {et. al., Zhang Junru [张均如]}
+}
+@book{407,
+  title        = {Noemfoorsch woordenboek},
+  address      = {Amsterdam},
+  publisher    = {de Bussy},
+  year         = {1947},
+  wordlist_ids = {106},
+  author       = {van Hasselt, J.L. & van Hasselt, F.J.F.}
+}
+@phdthesis{vandenberg2014,
+  title        = {Linguistic Sketch of Hatohobeian and Sonsorolese: A Study of Phonology and Morphology},
+  school       = {VU University Amsterdam},
+  year         = {2014},
+  url          = {https://www.friendsoftobi.org/wordweek/vandenberglinguisticsketch2014.pdf},
+  wordlist_ids = {1640},
+  author       = {van den Berg, Esther}
+}
+@book{290,
+  title        = {Vitu grammar sketch},
+  year         = {2006},
+  wordlist_ids = {140},
+  publisher    = {Summer Institute of Linguistics},
+  address      = {Ukarumpa},
+  author       = {van den Berg, René and Bachet, Peter}
+}
+@book{408,
+  title        = {Tae' (Zuid-Toradjasch)-Nederlandsch Woordenboek met Register Nederlandsch-Tae'},
+  address      = {Gravenhage},
+  publisher    = {Martinus Nijhoff},
+  year         = {1940},
+  wordlist_ids = {226},
+  author       = {van der Veen, H.}
+}
+@misc{410,
+  title        = {Dalkalaen: A dictionary from Dalkalaen to Bislama to English},
+  url          = {http://kiluvonprince.de/wp-content/uploads/2016/09/dictionary_ral_LK.pdf},
+  year         = {2012},
+  wordlist_ids = {1712},
+  author       = {von Prince, K.}
+}
+@misc{338,
+  title        = {Suining County Almanac [绥宁县志]},
+  year         = {1997},
+  wordlist_ids = {974}
+}
+@book{108,
+  title        = {Fengkai County Almanac [封开县志]},
+  address      = {Guangzhou},
+  publisher    = {Guangdong People's Publishing House [广东人民出版社]},
+  year         = {1998},
+  wordlist_ids = {976}
+}
+@book{135,
+  title        = {Guizhou County Gazetteer: Ethnic Gazetteer [贵州省志. 民族志] (2002).},
+  year         = {2002},
+  wordlist_ids = {975},
+  publisher    = {Guizhou Ethnic Publishing House [貴州民族出版社]},
+  address      = {Guiyang}
+}
+@book{134,
+  title        = {Guangxi Province Almanac: Ethnic Gazetteer. [广西通志. 民族志.] 2009.},
+  year         = {2009},
+  wordlist_ids = {977},
+  publisher    = {Guangxi People's Publishing House [广西人民出版社]},
+  address      = {Nanning}
+}
+@misc{403,
+  url          = {http://www.fataluku.com/dictionary.php},
+  note         = {Some content still available via wayback machine: https://web.archive.org/web/20071011192937/http://www.fataluku.com/papers/Hewitt_English_Fataluku.pdf},
+  wordlist_ids = {461}
+}
+@misc{404,
+  url          = {http://www.ling.hawaii.edu/%7Euhdoc/makasae_osor/index.html},
+  howpublished = {seems to be lost},
+  wordlist_ids = {462}
+}
+@book{412,
+  title        = {东乡语简志。},
+  address      = {北京},
+  publisher    = {民族出版社。},
+  year         = {1981},
+  wordlist_ids = {939},
+  author       = {刘照雄}
+}
+@book{414,
+  title        = {保安语简志. 北京},
+  year         = {1981},
+  wordlist_ids = {942},
+  author       = {布和 and 刘照雄}
+}
+@book{431,
+  title        = {土族语简志},
+  address      = {北京},
+  publisher    = {民族出版社},
+  year         = {1981},
+  wordlist_ids = {940 941},
+  author       = {照那斯图}
 }
