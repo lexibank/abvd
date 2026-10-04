@@ -18,12 +18,16 @@ setup(
         'lexibank.dataset': [
             'abvd=lexibank_abvd:Dataset',
         ],
-        'cldfbench.commands': [
-            'abvd=abvd_commands',
-        ],
     },
     install_requires=[
         'pylexibank>=4.1',
-        'cldfviz[cartopy]',
-    ]
+        'nameparser',
+        'pycldf',
+        'clldutils',
+    ],
+    extras_require={
+        'test': [
+            'pytest-cldf',
+        ],
+    },
 )

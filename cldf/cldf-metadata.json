@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/lexibank/abvd",
             "rdf:type": "prov:Entity",
-            "dc:created": "2af9f4e",
+            "dc:created": "v0.1-12-ge0331f8",
             "dc:title": "Repository"
         },
         {
@@ -56,7 +56,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:description": "BVDLexeme(ID: str, Form: str, Value: str, Language_ID: str, Parameter_ID: str, Local_ID: Optional[str] = None, Segments: list[str] = <factory>, Graphemes: Optional[list[str]] = None, Profile: Optional[str] = None, Source: list[str] = <factory>, Comment: Optional[str] = None, Cognacy: Optional[str] = None, Loan: Optional[bool] = None, Cognacy_Comment: Optional[str] = None, Contribution_ID: Optional[str] = None, Loan_Raw: Optional[str] = None)",
+            "dc:description": "\nBVD-specifics.\n",
             "dc:extent": 349424,
             "tableSchema": {
                 "columns": [
