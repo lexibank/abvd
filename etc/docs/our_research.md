@@ -1,3 +1,9 @@
+# About the ABVD
+
+Data in the Austronesian Basic Vocabulary Database was collected to help shed light on the population history of the Pacific. The first
+major result of this line of research was Gray et al.'s 2009 paper [Language Phylogenies Reveal Expansion Pulses and Pauses in Pacific Settlement](https://doi.org/10.1126/science.1166858).
+
+
 # Our Research:
 
 Questions about human origins have an enduring fascination (e.g. where did the Polynesians come from?). Languages, like genes, are archives of history. They provide vital evidence to help unravel the mysteries of our past. Recently there have been huge advances in the computational methods used to make inferences from genetic data.
@@ -12,7 +18,7 @@ We analysed basic vocabulary from 400 languages in this database using computati
 
 The results clearly show that the origin of the entire Austronesian language family can be dated back to Taiwan around 5,200 years ago, and moved through Island South-East Asia, along New Guinea and into Polynesia.
 
-We show that peopling of the Pacific proceeded through a series of expansion pulses and settlement pauses. We can link these pulses to the development of new technology - better canoes, farming, social techniques to deal with the inter- island distances in Polynesia etc.
+We show that peopling of the Pacific proceeded through a series of expansion pulses and settlement pauses. We can link these pulses to the development of new technology - better canoes, farming, social techniques to deal with the inter-island distances in Polynesia etc.
 
 <figure>
   <img src="Gray_et_al2009.png" alt="ap of the Pacific and the Language “family tree” showing the settlement of the Pacific by the Austronesian peoples" />
