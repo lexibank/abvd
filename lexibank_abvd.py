@@ -1,4 +1,6 @@
 import re
+import shutil
+import mimetypes
 import collections
 import dataclasses
 from pathlib import Path
@@ -7,6 +9,7 @@ from typing import Optional
 from nameparser import HumanName
 import pycldf
 from clldutils.misc import slug
+from clldutils.path import md5
 from pylexibank.providers import abvd
 from pylexibank import FormSpec, Concept
 
@@ -144,11 +147,26 @@ class Dataset(abvd.BVD):
         )
         for col in ['Description', 'problems']:
             args.writer.cldf['ContributionTable', col].common_props['dc:format'] = 'text/markdown'
+        args.writer.cldf.add_component('MediaTable')
         lid2src = collections.defaultdict(list)
         args.writer.add_sources(*self.etc_dir.read_bib())
         for src in args.writer.cldf.sources:
             for lid in src.get('wordlist_ids', '').split():
                 lid2src[lid].append(src.id)
+
+        for row in self.etc_dir.read_csv('media.csv', dicts=True):
+            src = self.etc_dir / 'docs' / row['fname']
+            assert src.exists()
+            target = self.cldf_dir / 'media' / row['fname']
+            target.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy(src, target)
+            args.writer.objects['MediaTable'].append(dict(
+                ID=md5(src),
+                Name=src.name,
+                Description=row['description'],
+                Download_URL=f'media/{target.name}',
+                Media_Type=mimetypes.guess_type(src.name)[0],
+            ))
 
         concepts = args.writer.add_concepts(
             id_factory=lambda c: c.id.split('-')[-1]+ '_' + slug(c.english),
