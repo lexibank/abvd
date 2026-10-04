@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset derived from Greenhill et al.'s \"Austronesian Basic Vocabulary Database\" from 2020",
+    "title": "CLDF dataset derived from Greenhill et al.'s \"Austronesian Basic Vocabulary Database\" from 2026",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -10,55 +10,626 @@
             "name": "Simon J. Greenhill"
         },
         {
-            "name": "Robert Forkel"
-        },
-        {
             "name": "Russell D. Gray"
         },
         {
-            "name": "Bob Blust"
-        },
-        {
-            "name": "Malcolm Ross"
-        },
-        {
-            "name": "John Lynch"
-        },
-        {
-            "name": "Bethwyn Evans"
-        },
-        {
-            "name": "Erin Donnelly"
-        },
-        {
-            "name": "Alex Fran\u00e7ois"
-        },
-        {
-            "name": "Emily Gasser"
-        },
-        {
-            "name": "Mary Walworth"
-        },
-        {
-            "name": "Benjamin Touati"
-        },
-        {
-            "name": "Laurie Reid"
-        },
-        {
-            "name": "Antoinette Schapper"
-        },
-        {
-            "name": "Sander Adelaar"
-        },
-        {
-            "name": "Isaac Stead"
-        },
-        {
-            "name": "Tiago Tresoldi"
+            "name": "Robert Blust"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
+        },
+        {
+            "name": "Simon J. Greenhill",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "Editor"
+        },
+        {
+            "name": "Russell D. Gray",
+            "type": "Editor"
+        },
+        {
+            "name": "Russell D. Gray",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Benjamin Touati",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Fynnie",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Hendra",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Ben Abel",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Alexander Adelaar",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Rahmi Indrasari Albaar",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Janet Allen",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Karl Anderbeck",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Leif Asplund",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Yustinus Ghanggo Ate",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Veronica Atin",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Peter Austin",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Eduardo John A. Balatbat",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Russell Barlow",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Donald Alexander Barnett",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Norman Barrias",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Robert Blust",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Claire Bowern",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Isabelle Bril",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Amatullah Brown",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Carmen J. Bryant",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Robert Busenitz",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Kwang-Ju Cho",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Jessica Cleary-Kemp",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Jernan Combi",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Sean D. Conklin",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Charles Cooper",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Tom Currie",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Francisc Czobor",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Emerich Daroya",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Bill Davis",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Albert Davletshin",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Vicente De Jesus",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Hil\u00e1rio De Sousa",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Anthony Dela Paz",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Laura Dimock",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Erin Donnelly",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Mark Donohue",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Thomas M Dougherty",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Emily Drummond",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Matthew Dryer",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Peng Du",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Michael Dunn",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Tom Ennever",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Deandr\u00e9 A. Espree-Conaway",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Karl Andrei Flores",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Margaret Florey",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Alexandre Fran\u00e7ois",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Hanna Fricke",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Emily Gasser",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Roberto Gimoro",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Penny Gray",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Andrew Gray",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Gil L. Gregorio",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Bryan Hinton",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Even Hovdhaugen",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Andrew Hsiu",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Jacqueline Andrea Huggins",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Sindi Idwin",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Kazuya Inagaki",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Septhia Irnanda",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Paska Ariandy Iswanto",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Hazrin Iszan",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Guillaume Jacques",
+            "type": "DataCollector"
+        },
+        {
+            "name": "David Kamholz",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Kini Karo",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Penny Keenan",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Daniel Kelly",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Piers Kelly",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Yukinori Kimoto",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Catharina Williams-Van Klinken",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Varvara Kozhevina",
+            "type": "DataCollector"
+        },
+        {
+            "name": "S\u00e9bastien Lacrampe",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Ryan Lang",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Katrina Langford",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Catharine Elizabeth Laude",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Martijn Lens",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Saskia Lillepuu",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Piet Lincoln",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Eva Lindstr\u00f6m",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Dorinda Liu",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Jose Miguel Vicente Luna",
+            "type": "DataCollector"
+        },
+        {
+            "name": "John Lynch",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Stephen Mann",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Anna Margetts",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Michael P. Martens",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Dario Marticio",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Luke Maselli",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Kirsty Maurits",
+            "type": "DataCollector"
+        },
+        {
+            "name": "David Mead",
+            "type": "DataCollector"
+        },
+        {
+            "name": "David Meyer",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Rod Mitchell",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Janet Moody",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Simon Musgrave",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Rick Nivens",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Chandra Nuraini",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Emerson Odango",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Clif Olson",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Kemp Pallesen",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Richard Parker",
+            "type": "DataCollector"
+        },
+        {
+            "name": "David Piekut",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Pittayawat Pittayaporn",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Gordian Pius",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Stephanie Rabault-Geneix",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Andras Rajki",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Margaret Ransdell-Green",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Martha Ratliff",
+            "type": "DataCollector"
+        },
+        {
+            "name": "D. Victoria Rau",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Mary Raymond",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Ger Reesink",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Roland Rehm",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Laurie Reid",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Jose Ricarte",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Iveth Rodriguez",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Gabriel Rosa",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Robert Ross",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Malcolm Ross",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Debasish Roy",
+            "type": "DataCollector"
+        },
+        {
+            "name": "James Ryan",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Laurent Sagart",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Jamaica Salcedo",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Mary Salisbury",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Gillian Sankoff",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Stemmah Sariau",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Antoinette Schapper",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Ryan Schram",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Helen Shearman",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Aviva Shimelman",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Revo Arka Giri Soekatno",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Isaac Stead",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Lana Takau",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Nick Thieberger",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Graham Thurgood",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Wamytan Th\u00e9odore",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Billy Ticoalu",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Kevin Yusuf Tj.",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Pita Tuisawau",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Kozhevina Varvara",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Kalvin Vasques",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Vasiliki Vita",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Kilu Von Prince",
+            "type": "DataCollector"
+        },
+        {
+            "name": "David Vuillaume-Piekut",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Mary Walworth",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Claudia Wegener",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Mark Williamson",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Wing Wima",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Benedikt Wimmer",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Erik Zobel",
+            "type": "DataCollector"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"

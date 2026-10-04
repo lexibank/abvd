@@ -9,13 +9,13 @@
     "dc:identifier": "https://abvd.eva.mpg.de/austronesian/",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Greenhill et al.'s \"Austronesian Basic Vocabulary Database\" from 2020",
+    "dc:title": "CLDF dataset derived from Greenhill et al.'s \"Austronesian Basic Vocabulary Database\" from 2026",
     "dcat:accessURL": "https://github.com/lexibank/abvd",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/abvd",
             "rdf:type": "prov:Entity",
-            "dc:created": "1a0566c",
+            "dc:created": "2af9f4e",
             "dc:title": "Repository"
         },
         {
@@ -56,8 +56,8 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 346919,
+            "dc:description": "BVDLexeme(ID: str, Form: str, Value: str, Language_ID: str, Parameter_ID: str, Local_ID: Optional[str] = None, Segments: list[str] = <factory>, Graphemes: Optional[list[str]] = None, Profile: Optional[str] = None, Source: list[str] = <factory>, Comment: Optional[str] = None, Cognacy: Optional[str] = None, Loan: Optional[bool] = None, Cognacy_Comment: Optional[str] = None, Contribution_ID: Optional[str] = None, Loan_Raw: Optional[str] = None)",
+            "dc:extent": 349424,
             "tableSchema": {
                 "columns": [
                     {
@@ -126,6 +126,19 @@
                     {
                         "datatype": "string",
                         "name": "Profile"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Cognacy_Comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                        "name": "Contribution_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Loan_Raw"
                     }
                 ],
                 "foreignKeys": [
@@ -150,6 +163,17 @@
                                 "ID"
                             ]
                         }
+                    },
+                    {
+                        "columnReference": [
+                            "Contribution_ID"
+                        ],
+                        "reference": {
+                            "resource": "contributions.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
                     }
                 ],
                 "primaryKey": [
@@ -160,8 +184,8 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:description": "BVD languages have some editorial metadata.",
-            "dc:extent": 2040,
+            "dc:description": "A language.",
+            "dc:extent": 1982,
             "tableSchema": {
                 "columns": [
                     {
@@ -217,30 +241,6 @@
                     {
                         "datatype": "string",
                         "name": "Family"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "author"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "typedby"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "checkedby"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "notes"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "problems"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "source"
                     }
                 ],
                 "primaryKey": [
@@ -251,7 +251,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:description": "ABVDConcept(ID: Optional[str] = '', Name: Optional[str] = '', Concepticon_ID: Optional[str] = None, Concepticon_Gloss: Optional[str] = None, Category: Optional[str] = None)",
+            "dc:description": "ABVDConcept(ID: Optional[str] = '', Name: Optional[str] = '', Concepticon_ID: Optional[str] = None, Concepticon_Gloss: Optional[str] = None, Category: Optional[str] = None, Comment: Optional[str] = None)",
             "dc:extent": 210,
             "tableSchema": {
                 "columns": [
@@ -278,6 +278,10 @@
                     {
                         "datatype": "string",
                         "name": "Category"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Comment"
                     }
                 ],
                 "primaryKey": [
@@ -360,6 +364,87 @@
                 ]
             },
             "url": "cognates.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
+            "dc:extent": 2040,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "dc:format": "text/markdown",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributor",
+                        "required": false,
+                        "name": "Contributor"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#citation",
+                        "required": false,
+                        "name": "Citation"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Source_Comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "checkedby"
+                    },
+                    {
+                        "dc:format": "text/markdown",
+                        "datatype": "string",
+                        "name": "problems"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "name": "Language_ID"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "contributions.csv"
         }
     ]
 }

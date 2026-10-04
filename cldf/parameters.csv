@@ -1,211 +1,211 @@
-ID,Name,Concepticon_ID,Concepticon_Gloss,Category
-1_hand,hand,1277,HAND,body parts
-2_left,left,244,LEFT,directions
-3_right,right,1019,RIGHT,directions
-4_legfoot,leg/foot,2098,FOOT OR LEG,body parts
-5_towalk,to walk,1443,WALK,verbs
-6_roadpath,road/path,2457,PATH OR ROAD,other nouns
-7_tocome,to come,1446,COME,verbs
-8_toturn,to turn,1588,TURN,verbs
-9_toswim,to swim,1439,SWIM,verbs
-10_dirty,dirty,1230,DIRTY,adjectives
-11_dust,dust,2,DUST,other nouns
-12_skin,skin,763,SKIN,body parts
-13_back,back,1291,BACK,body parts
-14_belly,belly,1251,BELLY,body parts
-15_bone,bone,1394,BONE,body parts
-16_intestines,intestines,1991,INTESTINES,body parts
-17_liver,liver,1224,LIVER,body parts
-18_breast,breast,1402,BREAST,body parts
-19_shoulder,shoulder,1482,SHOULDER,body parts
-20_toknowbeknowledgeable,"to know, be knowledgeable",1410,KNOW (SOMETHING),verbs
-21_tothink,to think,2271,THINK,verbs
-22_tofear,to fear,1419,FEAR (BE AFRAID),verbs
-23_blood,blood,946,BLOOD,body parts
-24_head,head,1256,HEAD,body parts
-25_neck,neck,1333,NECK,body parts
-26_hair,hair,1040,HAIR,body parts
-27_nose,nose,1221,NOSE,body parts
-28_tobreathe,to breathe,1407,BREATHE,verbs
-29_tosniffsmell,"to sniff, smell",1586,SMELL (PERCEIVE),verbs
-30_mouth,mouth,674,MOUTH,body parts
-31_tooth,tooth,1380,TOOTH,body parts
-32_tongue,tongue,1205,TONGUE,body parts
-33_tolaugh,to laugh,1355,LAUGH,verbs
-34_tocry,to cry,1839,CRY,verbs
-35_tovomit,to vomit,1278,VOMIT,verbs
-36_tospit,to spit,1440,SPIT,verbs
-37_toeat,to eat,1336,EAT,verbs
-38_tochew,to chew,321,CHEW,verbs
-39_tocook,to cook,1100,COOK (SOMETHING),verbs
-40_todrink,to drink,1401,DRINK,verbs
-41_tobite,to bite,1403,BITE,verbs
-42_tosuck,to suck,1421,SUCK,verbs
-43_ear,ear,1247,EAR,body parts
-44_tohear,to hear,1408,HEAR,verbs
-45_eye,eye,1248,EYE,body parts
-46_tosee,to see,1409,SEE,verbs
-47_toyawn,to yawn,1028,YAWN,verbs
-48_tosleep,to sleep,1585,SLEEP,verbs
-49_toliedown,to lie down,215,LIE DOWN,verbs
-50_todream,to dream,1920,DREAM (SOMETHING),verbs
-51_tosit,to sit,1416,SIT,verbs
-52_tostand,to stand,1442,STAND,verbs
-53_personhumanbeing,person/human being,683,PERSON,people
-54_manmale,man/male,2106,MALE PERSON,people
-55_womanfemale,woman/female,2105,FEMALE PERSON,people
-56_child,child,2099,CHILD,people
-57_husband,husband,1200,HUSBAND,people
-58_wife,wife,1199,WIFE,people
-59_mother,mother,1216,MOTHER,people
-60_father,father,1217,FATHER,people
-61_house,house,1252,HOUSE,other nouns
-62_thatchroof,thatch/roof,2100,THATCH OR ROOF,other nouns
-63_name,name,1405,NAME,people
-64_tosay,to say,1458,SAY,verbs
-65_rope,rope,1218,ROPE,other nouns
-66_totieupfasten,"to tie up, fasten",1094,FASTEN,verbs
-67_tosew,to sew,1457,SEW,verbs
-68_needle,needle,1382,NEEDLE (FOR SEWING),other nouns
-69_tohunt,to hunt,1435,HUNT,verbs
-70_toshoot,to shoot,1172,SHOOT,verbs
-71_tostabpierce,"to stab, pierce",1434,STAB,verbs
-72_tohit,to hit,1433,HIT,verbs
-73_tosteal,to steal,713,STEAL,verbs
-74_tokill,to kill,1417,KILL,verbs
-75_todiebedead,"to die, be dead",2101,BE DEAD OR DIE,verbs
-76_tolivebealive,"to live, be alive",1422,BE ALIVE,verbs
-77_toscratch,to scratch,1436,SCRATCH,verbs
-78_tocuthack,"to cut, hack",3889,CUT OR HACK,verbs
-79_stickwood,stick/wood,1295,STICK,other nouns
-80_tosplit,to split,1437,SPLIT,verbs
-81_sharp,sharp,1396,SHARP,adjectives
-82_dullblunt,"dull, blunt",379,BLUNT,adjectives
-83_towork,to work,1086,WORK (ACTIVITY),verbs
-84_toplant,to plant,1486,PLANT (SOMETHING),verbs
-85_tochoose,to choose,1750,CHOOSE,verbs
-86_togrow,to grow,479,GROW,verbs
-87_toswell,to swell,1573,SWELL,verbs
-88_tosqueeze,to squeeze,1414,SQUEEZE,verbs
-89_tohold,to hold,1448,HOLD,verbs
-90_todig,to dig,1418,DIG,verbs
-91_tobuy,to buy,1869,BUY,verbs
-92_toopenuncover,"to open, uncover",1156,OPEN,verbs
-93_topoundbeat,"to pound, beat",354,POUND,verbs
-94_tothrow,to throw,1456,THROW,verbs
-95_tofall,to fall,1280,FALL,verbs
-96_dog,dog,2009,DOG,animals
-97_bird,bird,937,BIRD,animals
-98_egg,egg,744,EGG,animals
-99_feather,feather,1201,FEATHER,body parts
-100_wing,wing,1257,WING,body parts
-101_tofly,to fly,1441,FLY (MOVE THROUGH AIR),verbs
-102_rat,rat,1490,RAT,animals
-103_meatflesh,meat/flesh,2615,FLESH OR MEAT,other nouns
-104_fatgrease,fat/grease,323,FAT (ORGANIC SUBSTANCE),other nouns
-105_tail,tail,1220,TAIL,body parts
-106_snake,snake,730,SNAKE,animals
-107_wormearthworm,worm (earthworm),1219,WORM,animals
-108_louse,louse,1392,LOUSE,animals
-109_mosquito,mosquito,1509,MOSQUITO,animals
-110_spider,spider,843,SPIDER,animals
-111_fish,fish,227,FISH,animals
-112_rotten,rotten,1728,ROTTEN,adjectives
-113_branch,branch,1531,BRANCH,plants
-114_leaf,leaf,628,LEAF,plants
-115_root,root,670,ROOT,plants
-116_flower,flower,239,FLOWER,plants
-117_fruit,fruit,1507,FRUIT,plants
-118_grass,grass,606,GRASS,plants
-119_earthsoil,earth/soil,1228,EARTH (SOIL),other nouns
-120_stone,stone,857,STONE,other nouns
-121_sand,sand,671,SAND,other nouns
-122_water,water,948,WATER,other nouns
-123_toflow,to flow,2003,FLOW,verbs
-124_sea,sea,1474,SEA,other nouns
-125_salt,salt,1274,SALT,other nouns
-126_lake,lake,624,LAKE,other nouns
-127_woodsforest,woods/forest,420,FOREST,other nouns
-128_sky,sky,1732,SKY,other nouns
-129_moon,moon,1313,MOON,other nouns
-130_star,star,1430,STAR,other nouns
-131_cloud,cloud,1489,CLOUD,other nouns
-132_fog,fog,249,FOG,other nouns
-133_rain,rain,658,RAIN (PRECIPITATION),other nouns
-134_thunder,thunder,1150,THUNDER,other nouns
-135_lightning,lightning,1654,LIGHTNING,other nouns
-136_wind,wind,960,WIND,other nouns
-137_toblow,to blow,175,BLOW (OF WIND),verbs
-138_warm,warm,1232,WARM,adjectives
-139_cold,cold,1287,COLD,adjectives
-140_dry,dry,1398,DRY,adjectives
-141_wet,wet,1726,WET,adjectives
-142_heavy,heavy,1210,HEAVY,adjectives
-143_fire,fire,221,FIRE,other nouns
-144_toburn,to burn,2102,BURN,verbs
-145_smoke,smoke,778,SMOKE (EXHAUST),other nouns
-146_ashes,ashes,646,ASH,other nouns
-147_black,black,163,BLACK,colors
-148_white,white,1335,WHITE,colors
-149_red,red,156,RED,colors
-150_yellow,yellow,1424,YELLOW,colors
-151_green,green,1425,GREEN,colors
-152_small,small,1246,SMALL,adjectives
-153_big,big,1202,BIG,adjectives
-154_short,short,1645,SHORT,adjectives
-155_long,long,1203,LONG,adjectives
-156_thin,thin,2308,THIN,adjectives
-157_thick,thick,1244,THICK,adjectives
-158_narrow,narrow,1267,NARROW,adjectives
-159_wide,wide,1243,WIDE,adjectives
-160_painfulsick,"painful, sick",2103,PAINFUL OR SICK,adjectives
-161_shyashamed,"shy, ashamed",3805,SHY OR ASHAMED,adjectives
-162_old,old,1229,OLD,adjectives
-163_new,new,1231,NEW,adjectives
-164_good,good,1035,GOOD,adjectives
-165_badevil,"bad, evil",3764,BAD OR EVIL,adjectives
-166_correcttrue,"correct, true",1725,CORRECT (RIGHT),adjectives
-167_night,night,1233,NIGHT,other nouns
-168_day,day,1225,DAY (NOT NIGHT),other nouns
-169_year,year,1226,YEAR,other nouns
-170_when,when?,1238,WHEN,other
-171_tohide,to hide,2486,HIDE,verbs
-172_toclimb,to climb,1102,CLIMB,verbs
-173_at,at,1461,AT,directions
-174_ininside,"in, inside",1460,IN,directions
-175_above,above,1741,ABOVE,directions
-176_below,below,1485,BELOW OR UNDER,directions
-177_this,this,1214,THIS,other
-178_that,that,78,THAT,other
-179_near,near,1942,NEAR,adjectives
-180_far,far,1406,FAR,adjectives
-181_where,where?,1237,WHERE,other
-182_i,I,1209,I,people
-183_thou,thou,1215,THOU,people
-184_heshe,he/she,2642,HE OR SHE,people
-185_we,we,1212,WE,people
-186_you,you,1213,YOU,people
-187_they,they,817,THEY,people
-188_what,what?,1236,WHAT,other
-189_who,who?,1235,WHO,other
-190_other,other,197,OTHER,other
-191_all,all,98,ALL,other
-192_and,and,1577,AND,other
-193_if,if,1459,IF,other
-194_how,how?,1239,HOW,other
-195_nonot,"no, not",2279,NO OR NOT,other
-196_tocount,to count,1420,COUNT,verbs
-197_one,One,1493,ONE,numbers
-198_two,Two,1498,TWO,numbers
-199_three,Three,492,THREE,numbers
-200_four,Four,1500,FOUR,numbers
-201_five,Five,493,FIVE,numbers
-202_six,Six,1703,SIX,numbers
-203_seven,Seven,1704,SEVEN,numbers
-204_eight,Eight,1705,EIGHT,numbers
-205_nine,Nine,1483,NINE,numbers
-206_ten,Ten,1515,TEN,numbers
-207_twenty,Twenty,1710,TWENTY,numbers
-208_fifty,Fifty,1717,FIFTY,numbers
-209_onehundred,One Hundred,1634,HUNDRED,numbers
-210_onethousand,One Thousand,1843,THOUSAND,numbers
+ID,Name,Concepticon_ID,Concepticon_Gloss,Category,Comment
+1_hand,hand,1277,HAND,body parts,
+2_left,left,244,LEFT,directions,
+3_right,right,1019,RIGHT,directions,
+4_legfoot,leg/foot,2098,FOOT OR LEG,body parts,
+5_towalk,to walk,1443,WALK,verbs,
+6_roadpath,road/path,2457,PATH OR ROAD,other nouns,
+7_tocome,to come,1446,COME,verbs,
+8_toturn,to turn,1588,TURN,verbs,"veer to the side, as in turning left"
+9_toswim,to swim,1439,SWIM,verbs,
+10_dirty,dirty,1230,DIRTY,adjectives,
+11_dust,dust,2,DUST,other nouns,
+12_skin,skin,763,SKIN,body parts,
+13_back,back,1291,BACK,body parts,body part
+14_belly,belly,1251,BELLY,body parts,
+15_bone,bone,1394,BONE,body parts,
+16_intestines,intestines,1991,INTESTINES,body parts,
+17_liver,liver,1224,LIVER,body parts,
+18_breast,breast,1402,BREAST,body parts,
+19_shoulder,shoulder,1482,SHOULDER,body parts,
+20_toknowbeknowledgeable,"to know, be knowledgeable",1410,KNOW (SOMETHING),verbs,
+21_tothink,to think,2271,THINK,verbs,
+22_tofear,to fear,1419,FEAR (BE AFRAID),verbs,
+23_blood,blood,946,BLOOD,body parts,
+24_head,head,1256,HEAD,body parts,
+25_neck,neck,1333,NECK,body parts,
+26_hair,hair,1040,HAIR,body parts,of the head
+27_nose,nose,1221,NOSE,body parts,
+28_tobreathe,to breathe,1407,BREATHE,verbs,
+29_tosniffsmell,"to sniff, smell",1586,SMELL (PERCEIVE),verbs,
+30_mouth,mouth,674,MOUTH,body parts,
+31_tooth,tooth,1380,TOOTH,body parts,
+32_tongue,tongue,1205,TONGUE,body parts,
+33_tolaugh,to laugh,1355,LAUGH,verbs,
+34_tocry,to cry,1839,CRY,verbs,
+35_tovomit,to vomit,1278,VOMIT,verbs,
+36_tospit,to spit,1440,SPIT,verbs,
+37_toeat,to eat,1336,EAT,verbs,
+38_tochew,to chew,321,CHEW,verbs,A: general term; B: chew betel
+39_tocook,to cook,1100,COOK (SOMETHING),verbs,A: general term; B: boil food
+40_todrink,to drink,1401,DRINK,verbs,
+41_tobite,to bite,1403,BITE,verbs,
+42_tosuck,to suck,1421,SUCK,verbs,
+43_ear,ear,1247,EAR,body parts,
+44_tohear,to hear,1408,HEAR,verbs,
+45_eye,eye,1248,EYE,body parts,
+46_tosee,to see,1409,SEE,verbs,
+47_toyawn,to yawn,1028,YAWN,verbs,
+48_tosleep,to sleep,1585,SLEEP,verbs,
+49_toliedown,to lie down,215,LIE DOWN,verbs,to sleep
+50_todream,to dream,1920,DREAM (SOMETHING),verbs,
+51_tosit,to sit,1416,SIT,verbs,
+52_tostand,to stand,1442,STAND,verbs,
+53_personhumanbeing,person/human being,683,PERSON,people,
+54_manmale,man/male,2106,MALE PERSON,people,
+55_womanfemale,woman/female,2105,FEMALE PERSON,people,
+56_child,child,2099,CHILD,people,
+57_husband,husband,1200,HUSBAND,people,
+58_wife,wife,1199,WIFE,people,
+59_mother,mother,1216,MOTHER,people,
+60_father,father,1217,FATHER,people,
+61_house,house,1252,HOUSE,other nouns,
+62_thatchroof,thatch/roof,2100,THATCH OR ROOF,other nouns,
+63_name,name,1405,NAME,people,
+64_tosay,to say,1458,SAY,verbs,
+65_rope,rope,1218,ROPE,other nouns,
+66_totieupfasten,"to tie up, fasten",1094,FASTEN,verbs,
+67_tosew,to sew,1457,SEW,verbs,clothing
+68_needle,needle,1382,NEEDLE (FOR SEWING),other nouns,
+69_tohunt,to hunt,1435,HUNT,verbs,for game
+70_toshoot,to shoot,1172,SHOOT,verbs,an arrow
+71_tostabpierce,"to stab, pierce",1434,STAB,verbs,
+72_tohit,to hit,1433,HIT,verbs,"with stick, club"
+73_tosteal,to steal,713,STEAL,verbs,
+74_tokill,to kill,1417,KILL,verbs,
+75_todiebedead,"to die, be dead",2101,BE DEAD OR DIE,verbs,
+76_tolivebealive,"to live, be alive",1422,BE ALIVE,verbs,
+77_toscratch,to scratch,1436,SCRATCH,verbs,an itch
+78_tocuthack,"to cut, hack",3889,CUT OR HACK,verbs,wood
+79_stickwood,stick/wood,1295,STICK,other nouns,
+80_tosplit,to split,1437,SPLIT,verbs,transitive
+81_sharp,sharp,1396,SHARP,adjectives,
+82_dullblunt,"dull, blunt",379,BLUNT,adjectives,
+83_towork,to work,1086,WORK (ACTIVITY),verbs,"in garden, field"
+84_toplant,to plant,1486,PLANT (SOMETHING),verbs,
+85_tochoose,to choose,1750,CHOOSE,verbs,
+86_togrow,to grow,479,GROW,verbs,intransitive
+87_toswell,to swell,1573,SWELL,verbs,as an abcess
+88_tosqueeze,to squeeze,1414,SQUEEZE,verbs,as juice from a fruit
+89_tohold,to hold,1448,HOLD,verbs,in the fist
+90_todig,to dig,1418,DIG,verbs,
+91_tobuy,to buy,1869,BUY,verbs,
+92_toopenuncover,"to open, uncover",1156,OPEN,verbs,
+93_topoundbeat,"to pound, beat",354,POUND,verbs,as rice or prepared food
+94_tothrow,to throw,1456,THROW,verbs,as a stone
+95_tofall,to fall,1280,FALL,verbs,as a fruit
+96_dog,dog,2009,DOG,animals,
+97_bird,bird,937,BIRD,animals,
+98_egg,egg,744,EGG,animals,
+99_feather,feather,1201,FEATHER,body parts,
+100_wing,wing,1257,WING,body parts,
+101_tofly,to fly,1441,FLY (MOVE THROUGH AIR),verbs,
+102_rat,rat,1490,RAT,animals,
+103_meatflesh,meat/flesh,2615,FLESH OR MEAT,other nouns,
+104_fatgrease,fat/grease,323,FAT (ORGANIC SUBSTANCE),other nouns,
+105_tail,tail,1220,TAIL,body parts,
+106_snake,snake,730,SNAKE,animals,
+107_wormearthworm,worm (earthworm),1219,WORM,animals,
+108_louse,louse,1392,LOUSE,animals,"A: general term, B: head louse"
+109_mosquito,mosquito,1509,MOSQUITO,animals,
+110_spider,spider,843,SPIDER,animals,
+111_fish,fish,227,FISH,animals,
+112_rotten,rotten,1728,ROTTEN,adjectives,"of food, or corpse"
+113_branch,branch,1531,BRANCH,plants,"the branch itself, not the fork of the branch"
+114_leaf,leaf,628,LEAF,plants,
+115_root,root,670,ROOT,plants,
+116_flower,flower,239,FLOWER,plants,
+117_fruit,fruit,1507,FRUIT,plants,
+118_grass,grass,606,GRASS,plants,
+119_earthsoil,earth/soil,1228,EARTH (SOIL),other nouns,
+120_stone,stone,857,STONE,other nouns,
+121_sand,sand,671,SAND,other nouns,
+122_water,water,948,WATER,other nouns,fresh water
+123_toflow,to flow,2003,FLOW,verbs,
+124_sea,sea,1474,SEA,other nouns,
+125_salt,salt,1274,SALT,other nouns,
+126_lake,lake,624,LAKE,other nouns,
+127_woodsforest,woods/forest,420,FOREST,other nouns,
+128_sky,sky,1732,SKY,other nouns,
+129_moon,moon,1313,MOON,other nouns,
+130_star,star,1430,STAR,other nouns,
+131_cloud,cloud,1489,CLOUD,other nouns,"white cloud, not a rain cloud"
+132_fog,fog,249,FOG,other nouns,
+133_rain,rain,658,RAIN (PRECIPITATION),other nouns,
+134_thunder,thunder,1150,THUNDER,other nouns,
+135_lightning,lightning,1654,LIGHTNING,other nouns,
+136_wind,wind,960,WIND,other nouns,
+137_toblow,to blow,175,BLOW (OF WIND),verbs,"A: of the wind, B: with the mouth"
+138_warm,warm,1232,WARM,adjectives,of weather
+139_cold,cold,1287,COLD,adjectives,of weather
+140_dry,dry,1398,DRY,adjectives,"A: general term, B: to dry up"
+141_wet,wet,1726,WET,adjectives,
+142_heavy,heavy,1210,HEAVY,adjectives,
+143_fire,fire,221,FIRE,other nouns,
+144_toburn,to burn,2102,BURN,verbs,transitive
+145_smoke,smoke,778,SMOKE (EXHAUST),other nouns,of a fire
+146_ashes,ashes,646,ASH,other nouns,
+147_black,black,163,BLACK,colors,
+148_white,white,1335,WHITE,colors,
+149_red,red,156,RED,colors,
+150_yellow,yellow,1424,YELLOW,colors,
+151_green,green,1425,GREEN,colors,
+152_small,small,1246,SMALL,adjectives,
+153_big,big,1202,BIG,adjectives,
+154_short,short,1645,SHORT,adjectives,"A: in height, B: in length"
+155_long,long,1203,LONG,adjectives,of objects
+156_thin,thin,2308,THIN,adjectives,of objects
+157_thick,thick,1244,THICK,adjectives,of objects
+158_narrow,narrow,1267,NARROW,adjectives,
+159_wide,wide,1243,WIDE,adjectives,
+160_painfulsick,"painful, sick",2103,PAINFUL OR SICK,adjectives,
+161_shyashamed,"shy, ashamed",3805,SHY OR ASHAMED,adjectives,
+162_old,old,1229,OLD,adjectives,of people
+163_new,new,1231,NEW,adjectives,
+164_good,good,1035,GOOD,adjectives,
+165_badevil,"bad, evil",3764,BAD OR EVIL,adjectives,
+166_correcttrue,"correct, true",1725,CORRECT (RIGHT),adjectives,
+167_night,night,1233,NIGHT,other nouns,
+168_day,day,1225,DAY (NOT NIGHT),other nouns,
+169_year,year,1226,YEAR,other nouns,
+170_when,when?,1238,WHEN,other,question
+171_tohide,to hide,2486,HIDE,verbs,intransitive
+172_toclimb,to climb,1102,CLIMB,verbs,"A: ladder, B: mountain"
+173_at,at,1461,AT,directions,
+174_ininside,"in, inside",1460,IN,directions,
+175_above,above,1741,ABOVE,directions,
+176_below,below,1485,BELOW OR UNDER,directions,
+177_this,this,1214,THIS,other,
+178_that,that,78,THAT,other,
+179_near,near,1942,NEAR,adjectives,
+180_far,far,1406,FAR,adjectives,
+181_where,where?,1237,WHERE,other,question
+182_i,I,1209,I,people,
+183_thou,thou,1215,THOU,people,
+184_heshe,he/she,2642,HE OR SHE,people,
+185_we,we,1212,WE,people,"A: inclusive, B: exclusive"
+186_you,you,1213,YOU,people,
+187_they,they,817,THEY,people,
+188_what,what?,1236,WHAT,other,question
+189_who,who?,1235,WHO,other,question
+190_other,other,197,OTHER,other,
+191_all,all,98,ALL,other,
+192_and,and,1577,AND,other,
+193_if,if,1459,IF,other,
+194_how,how?,1239,HOW,other,question
+195_nonot,"no, not",2279,NO OR NOT,other,
+196_tocount,to count,1420,COUNT,verbs,
+197_one,One,1493,ONE,numbers,1
+198_two,Two,1498,TWO,numbers,2
+199_three,Three,492,THREE,numbers,3
+200_four,Four,1500,FOUR,numbers,4
+201_five,Five,493,FIVE,numbers,5
+202_six,Six,1703,SIX,numbers,6
+203_seven,Seven,1704,SEVEN,numbers,7
+204_eight,Eight,1705,EIGHT,numbers,8
+205_nine,Nine,1483,NINE,numbers,9
+206_ten,Ten,1515,TEN,numbers,10
+207_twenty,Twenty,1710,TWENTY,numbers,20
+208_fifty,Fifty,1717,FIFTY,numbers,50
+209_onehundred,One Hundred,1634,HUNDRED,numbers,100
+210_onethousand,One Thousand,1843,THOUSAND,numbers,"1,000"
