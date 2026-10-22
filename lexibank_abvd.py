@@ -235,6 +235,11 @@ class Dataset(abvd.BVD):
                 cognacy_comment = entry.cognacy.lower()
                 entry.cognacy = None
 
+            # handle "L" in cognate cols
+            if entry.cognacy and entry.cognacy.lower() == 'l':
+                entry.cognacy = None
+                entry.loan = 'l'
+            
             loanbool = bool('l' in (entry.loan or "").lower())
             lex = writer.add_forms_from_value(
                 Local_ID=entry.id,

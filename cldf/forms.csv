@@ -760,7 +760,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 4-80_tosplit-1,28207,4,80_tosplit,putake,putake,,,212,41,false,,,,4,
 4-81_sharp-1,28564,4,81_sharp,gheeghame,gheeghame,,,212,14,false,,,,4,
 4-82_dullblunt-1,28921,4,82_dullblunt,dzudazumo,dzudazumo,,,212,,false,,,,4,
-4-83_towork-1,76035,4,83_towork,vaka,vaka,,,212,L,true,,,,4,L
+4-83_towork-1,76035,4,83_towork,vaka,vaka,,,212,,true,,,,4,L
 4-83_towork-2,76036,4,83_towork,vagotsi,vagotsi,,,212,,false,,,,4,
 4-83_towork-3,76037,4,83_towork,toghono,toghono,,,212,,false,,,,4,
 4-84_toplant-1,29635,4,84_toplant,reba,reba,,,212,13,false,,,,4,
@@ -22334,7 +22334,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 99-194_how-2,93381,99,194_how,korion,korion,,,,,false,,,,99,
 99-195_nonot-1,69357,99,195_nonot,tha,tha,,,,4,false,,,,99,
 99-195_nonot-2,93382,99,195_nonot,deko,deko,,,,,false,,,,99,
-99-196_tocount-1,69714,99,196_tocount,cinumera,cinumera,,,,L,true,,,,99,L?
+99-196_tocount-1,69714,99,196_tocount,cinumera,cinumera,,,,,true,,,,99,L
 99-196_tocount-2,93383,99,196_tocount,ietican,ietican,,,,,false,,,,99,
 99-197_one-1,70071,99,197_one,sa,sa,,,,1,false,,,,99,
 99-198_two-1,70428,99,198_two,rewè,rewè,,,,1,false,,,,99,
@@ -23133,7 +23133,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 103-92_toopenuncover-1,32590,103,92_toopenuncover,p̃olagati,p̃olagati,,,schuetz1969a,13,false,,,,103,
 103-94_tothrow-1,33304,103,94_tothrow,nadi,nadi,,,schuetz1969a,75,false,,,,103,
 103-95_tofall-1,33661,103,95_tofall,towo,towo,,,schuetz1969a,13,false,,,,103,
-103-96_dog-1,34018,103,96_dog,koria,koria,,,schuetz1969a,L,true,,,,103,L
+103-96_dog-1,34018,103,96_dog,koria,koria,,,schuetz1969a,,true,,,,103,L
 103-97_bird-1,34375,103,97_bird,manu,manu,,,schuetz1969a,1,false,,,,103,
 103-98_egg-1,34732,103,98_egg,atolu,atolu,,,schuetz1969a,1,false,,,,103,
 103-99_feather-1,35089,103,99_feather,nam̃au,nam̃au,,,schuetz1969a,6,false,,,,103,
@@ -23556,7 +23556,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 105-79_stickwood-1,27951,105,79_stickwood,dok,dok,,,238;352,4,false,,,,105,
 105-80_tosplit-1,28308,105,80_tosplit,polaka,polaka,,,238;352,1,false,,,,105,
 105-81_sharp-1,28665,105,81_sharp,man,man,,,238;352,24,false,,,,105,
-105-83_towork-1,76046,105,83_towork,wok,wok,,,238;352,L,true,,,,105,L
+105-83_towork-1,76046,105,83_towork,wok,wok,,,238;352,,true,,,,105,L
 105-83_towork-2,76047,105,83_towork,kalekinale,kalekinale,,,238;352,16,false,,,,105,
 105-87_toswell-1,30807,105,87_toswell,isiŋ,isiŋ,,,238;352,14,false,,,,105,
 105-88_tosqueeze-1,31164,105,88_tosqueeze,tiŋia,tiŋia,,,238;352,,false,,,,105,
@@ -24133,7 +24133,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 108-36_tospit-1,12603,108,36_tospit,tive,tive,,,,15,false,,,,108,
 108-37_toeat-1,12960,108,37_toeat,ani,ani,,,,1,false,,,,108,
 108-38_tochew-1,13317,108,38_tochew,ngasi,ngasi,,,,12,false,,,,108,
-108-39_tocook-1,13674,108,39_tocook,kuuke,kuuke,,<Bislama cook,,L,true,,,,108,L
+108-39_tocook-1,13674,108,39_tocook,kuuke,kuuke,,<Bislama cook,,,true,,,,108,L
 108-40_todrink-1,14031,108,40_todrink,muni,muni,,,,"1,73",false,,,,108,
 108-41_tobite-1,14388,108,41_tobite,ati,ati,,,,"1, 55",false,,,,108,
 108-42_tosuck-1,14745,108,42_tosuck,suusuu,suusuu,,,,25,false,,,,108,
@@ -33368,7 +33368,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 149-29_tosniffsmell-1,10145,149,29_tosniffsmell,ipñii,ipñii,,,,"42,73",false,,,,149,
 149-30_mouth-1,10502,149,30_mouth,nepje-ne|ɣse-,nepje-ne|ɣse-,,,,104,false,,,,149,
 149-31_tooth-1,10859,149,31_tooth,nijho-,nijho-,,,,"1,35",false,,,,149,
-149-32_tongue-1,11216,149,32_tongue,tooŋ,tooŋ,,+tooN has replaced the now archaic nama,,L,true,,,,149,L
+149-32_tongue-1,11216,149,32_tongue,tooŋ,tooŋ,,+tooN has replaced the now archaic nama,,,true,,,,149,L
 149-33_tolaugh-1,11573,149,33_tolaugh,lav,lav,,Bislama Loan,,46,true,,,,149,L
 149-34_tocry-1,11930,149,34_tocry,tañ,tañ,,,,1,false,,,,149,
 149-35_tovomit-1,12287,149,35_tovomit,alou,alou,,,,8,false,,,,149,
@@ -37062,7 +37062,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 164-113_branch-1,40148,164,113_branch,iregarega,iregarega,,,,"1,14",false,,,,164,
 164-114_leaf-1,40505,164,114_leaf,rugu,rugu,,,,16,false,,,,164,
 164-115_root-1,40862,164,115_root,ramuramu,ramuramu,,,,3,false,,,,164,
-164-116_flower-1,41219,164,116_flower,flaualfaua,flaualfaua,,loan?,,L,true,,,,164,L
+164-116_flower-1,41219,164,116_flower,flaualfaua,flaualfaua,,loan?,,,true,,,,164,L
 164-117_fruit-1,41576,164,117_fruit,vinuva-na,vinuva-na,,,,1,false,,,,164,
 164-119_earthsoil-1,42290,164,119_earthsoil,arima,arima,,,,21,false,,,,164,
 164-120_stone-1,42647,164,120_stone,doa,doa,,,,55,false,,,,164,
@@ -43960,7 +43960,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 196-94_tothrow-3,76778,196,94_tothrow,hloth,hloth,,,354,,false,,,,196,
 196-95_tofall-1,76865,196,95_tofall,malaxan,malaxan,,,354,,false,,,,196,
 196-95_tofall-2,76866,196,95_tofall,kei,kei,,,354,132,false,,,,196,
-196-96_dog-1,34111,196,96_dog,kuli,kuli,,,354,L,true,,,,196,L
+196-96_dog-1,34111,196,96_dog,kuli,kuli,,,354,,true,,,,196,L
 196-97_bird-1,76963,196,97_bird,sine miñ,sine miñ,,,354,1?,false,,,,196,
 196-97_bird-2,76964,196,97_bird,waco,waco,,,354,57,false,,,,196,
 196-98_egg-1,34825,196,98_egg,wakuja,wakuja,,,354,1,false,,,,196,
@@ -43971,7 +43971,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 196-102_rat-1,36253,196,102_rat,aji,aji,,,354,71,false,,,,196,
 196-103_meatflesh-1,77232,196,103_meatflesh,kupein,kupein,,cf 12,354,,false,,,,196,
 196-103_meatflesh-2,77233,196,103_meatflesh,ijön,ijön,,cf 12,354,,false,,,,196,
-196-104_fatgrease-1,36967,196,104_fatgrease,gilis,gilis,,[E] Loan,354,L,true,,,,196,L
+196-104_fatgrease-1,36967,196,104_fatgrease,gilis,gilis,,[E] Loan,354,,true,,,,196,L
 196-105_tail-1,37324,196,105_tail,punepunën,punepunën,,,354,,false,,,,196,
 196-106_snake-1,37681,196,106_snake,un,un,,,354,43,false,,,,196,
 196-107_wormearthworm-1,77439,196,107_wormearthworm,trutrulu,trutrulu,,,354,,false,,,,196,
@@ -43995,7 +43995,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 196-122_water-1,43393,196,122_water,medrixadra,medrixadra,,,354,,false,,,,196,
 196-123_toflow-1,43750,196,123_toflow,neni,neni,,,354,,false,,,,196,
 196-124_sea-1,44107,196,124_sea,hna|gejë,hna|gejë,,,354,1?,false,,,,196,
-196-125_salt-1,44464,196,125_salt,soot,soot,,(E),354,L,true,,,,196,L
+196-125_salt-1,44464,196,125_salt,soot,soot,,(E),354,,true,,,,196,L
 196-126_lake-1,44821,196,126_lake,husapa,husapa,,,354,,false,,,,196,
 196-127_woodsforest-1,45178,196,127_woodsforest,hnaxulu,hnaxulu,,,354,15?,false,,,,196,
 196-128_sky-1,45535,196,128_sky,hneŋö|drai,hneŋö|drai,,,354,1,false,,,,196,
@@ -86534,7 +86534,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 388-79_stickwood-1,125062,388,79_stickwood,nanai,nanai,,,,1,false,,,,388,
 388-80_tosplit-1,125063,388,80_tosplit,i pagola,i pagola,,"? < *p olaq, *p alaq",,13,false,,,,388,
 388-81_sharp-1,125064,388,81_sharp,waŋon,waŋon,,= 'eat',,"14,20",false,,,,388,
-388-83_towork-1,125065,388,83_towork,i wok,i wok,,borrowed from Tok Pisin,,L,true,,,,388,L
+388-83_towork-1,125065,388,83_towork,i wok,i wok,,borrowed from Tok Pisin,,,true,,,,388,L
 388-84_toplant-1,125066,388,84_toplant,marut,marut,,,,74,false,,,,388,
 388-86_togrow-1,125067,388,86_togrow,lubuŋ,lubuŋ,,,,19,false,,,,388,
 388-87_toswell-1,125068,388,87_toswell,i suru,i suru,,,,56,false,,,,388,
@@ -86948,7 +86948,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 390-79_stickwood-1,105574,390,79_stickwood,au,au,,,,1,false,,,,390,
 390-81_sharp-1,105575,390,81_sharp,ani,ani,,,,14,false,,,,390,
 390-82_dullblunt-1,124943,390,82_dullblunt,patuku-na,patuku-na,,,,45,false,,,,390,
-390-83_towork-1,105576,390,83_towork,uaka,uaka,,kanji < TP wok ?,,L,true,,,,390,L
+390-83_towork-1,105576,390,83_towork,uaka,uaka,,kanji < TP wok ?,,,true,,,,390,L
 390-84_toplant-1,105577,390,84_toplant,paotaina,paotaina,,,,,false,,,,390,
 390-86_togrow-1,105578,390,86_togrow,toa,toa,,94. (plant) grows,,4,false,,,,390,
 390-89_tohold-1,105579,390,89_tohold,gomoa,gomoa,,,,1,false,,,,390,
@@ -103396,7 +103396,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 471-94_tothrow-1,125746,471,94_tothrow,degec,degec,,,264,51?,false,,,,471,
 471-95_tofall-1,125747,471,95_tofall,kəlu,kəlu,,,264,132,false,,,,471,
 471-95_tofall-2,125875,471,95_tofall,luŋ,luŋ,,,264,,false,,,,471,
-471-96_dog-1,125748,471,96_dog,kuli,kuli,,PN loan,264,L,true,,,,471,L
+471-96_dog-1,125748,471,96_dog,kuli,kuli,,PN loan,264,,true,,,,471,L
 471-97_bird-1,125749,471,97_bird,menɔ,menɔ,,,264,1,false,,,,471,
 471-98_egg-1,125750,471,98_egg,waakuñ,waakuñ,,,264,1,false,,,,471,
 471-99_feather-1,125751,471,99_feather,le|y-,le|y-,,,264,1,false,,,,471,
@@ -103406,7 +103406,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 471-101_tofly-2,125877,471,101_tofly,lalay,lalay,,,264,1?,false,,,,471,
 471-102_rat-1,125754,471,102_rat,tep,tep,,,264,6,false,,,,471,
 471-103_meatflesh-1,125755,471,103_meatflesh,uutiəə,uutiəə,,,264,,false,,,,471,
-471-104_fatgrease-1,125756,471,104_fatgrease,giris,giris,,Eng. loan,264,L,true,,,,471,L
+471-104_fatgrease-1,125756,471,104_fatgrease,giris,giris,,Eng. loan,264,,true,,,,471,L
 471-105_tail-1,125757,471,105_tail,hmokune-,hmokune-,,,264,,false,,,,471,
 471-106_snake-1,125758,471,106_snake,on,on,,,264,43,false,,,,471,
 471-107_wormearthworm-1,125759,471,107_wormearthworm,biget,biget,,,264,1,false,,,,471,
@@ -103430,7 +103430,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 471-123_toflow-1,125775,471,123_toflow,hiŋələ,hiŋələ,,,264,,false,,,,471,
 471-123_toflow-2,125879,471,123_toflow,drii,drii,,,264,,false,,,,471,
 471-124_sea-1,125776,471,124_sea,kəiə,kəiə,,,264,1?,false,,,,471,
-471-125_salt-1,125777,471,125_salt,sɔɔtr,sɔɔtr,,Eng. loan,264,L,true,,,,471,L
+471-125_salt-1,125777,471,125_salt,sɔɔtr,sɔɔtr,,Eng. loan,264,,true,,,,471,L
 471-126_lake-1,125778,471,126_lake,nem,nem,,,264,8,false,,,,471,
 471-127_woodsforest-1,125779,471,127_woodsforest,hñoot,hñoot,,,264,,false,,,,471,
 471-128_sky-1,125780,471,128_sky,draañ,draañ,,,264,1,false,,,,471,
@@ -104359,7 +104359,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 475-113_branch-1,126738,475,113_branch,wahi-,wahi-,,,324,,false,,,,475,
 475-114_leaf-1,126739,475,114_leaf,rikit,rikit,,,324,47,false,,,,475,
 475-115_root-1,127045,475,115_root,kihikah,kihikah,,,324,48,false,,,,475,
-475-115_root-2,127046,475,115_root,pesi-,pesi-,,Loan word from Burupika?,324,L,true,,,,475,L?
+475-115_root-2,127046,475,115_root,pesi-,pesi-,,Loan word from Burupika?,324,,true,,,,475,L
 475-116_flower-1,126741,475,116_flower,viŋa-,viŋa-,,,324,1,false,,,,475,
 475-117_fruit-1,126742,475,117_fruit,we|'eti-,we|'eti-,,,324,1?,false,,,,475,
 475-118_grass-1,126743,475,118_grass,kokoh,kokoh,,,324,76,false,,,,475,
@@ -209564,7 +209564,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 1027-35_tovomit-1,271012,1027,35_tovomit,lua,lua,,,355,8,false,,,,1027,
 1027-36_tospit-1,273335,1027,36_tospit,lito,lito,,,355,"37,101",false,,,,1027,
 1027-37_toeat-1,271552,1027,37_toeat,xanxani,xanxani,,,355,1,false,,,,1027,
-1027-39_tocook-1,261828,1027,39_tocook,kuku,kuku,,<Bislama cook,355,L,true,,,,1027,L
+1027-39_tocook-1,261828,1027,39_tocook,kuku,kuku,,<Bislama cook,355,,true,,,,1027,L
 1027-40_todrink-1,274254,1027,40_todrink,inu,inu,,,355,1,false,,,,1027,
 1027-41_tobite-1,270303,1027,41_tobite,xatia,xatia,,,355,"1, 55",false,,,,1027,
 1027-42_tosuck-1,276627,1027,42_tosuck,tˢim̈i,tˢim̈i,,,355,51,false,,,,1027,
@@ -230150,7 +230150,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 1153-122_water-1,256520,1153,122_water,pe,pe,,,355,28,false,,,,1153,
 1153-123_toflow-1,274513,1153,123_toflow,niβəlaɣ,niβəlaɣ,,,355,61,false,,,,1153,
 1153-124_sea-1,259070,1153,124_sea,ne-lemə,ne-lemə,,,355,14,false,,,,1153,
-1153-125_salt-1,257233,1153,125_salt,sielo,sielo,,Loan from French?,355,L,true,,,,1153,L?
+1153-125_salt-1,257233,1153,125_salt,sielo,sielo,,Loan from French?,355,,true,,,,1153,L
 1153-126_lake-1,259022,1153,126_lake,nə-tuŋ,nə-tuŋ,,,355,,false,,,,1153,
 1153-127_woodsforest-1,255675,1153,127_woodsforest,nə-mtamatoɣ,nə-mtamatoɣ,,,355,,false,,,,1153,
 1153-128_sky-1,259225,1153,128_sky,nə-mahalə,nə-mahalə,,,355,"1, 63",false,,,,1153,
@@ -273376,7 +273376,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 1399-65_rope-1,323282,1399,65_rope,ne-ʔeo,ne-ʔeo,,,,25,false,,,,1399,
 1399-66_totieupfasten-1,323306,1399,66_totieupfasten,ⁿdi-vitⁿdʳ,ⁿdi-vitⁿdʳ,,,,74,false,,,,1399,
 1399-67_tosew-1,323321,1399,67_tosew,ⁿdi-tur,ⁿdi-tur,,,,13,false,,,,1399,
-1399-68_needle-1,323324,1399,68_needle,ni-ⁿdule,ni-ⁿdule,,,,L,true,,,,1399,L
+1399-68_needle-1,323324,1399,68_needle,ni-ⁿdule,ni-ⁿdule,,,,,true,,,,1399,L
 1399-69_tohunt-1,323342,1399,69_tohunt,ⁿdi-sal,ⁿdi-sal,,,,30,false,,,,1399,
 1399-70_toshoot-1,323367,1399,70_toshoot,ⁿdi-vini,ⁿdi-vini,,,,1,false,,,,1399,
 1399-71_tostabpierce-1,323390,1399,71_tostabpierce,ⁿdi-tur,ⁿdi-tur,,,,14,false,,,,1399,
@@ -288440,7 +288440,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 1486-92_toopenuncover-1,339850,1486,92_toopenuncover,xʰøŋ,xʰøŋ,,,191,80,false,,,,1486,
 1486-93_topoundbeat-1,339882,1486,93_topoundbeat,so,so,,,191,67,false,,,,1486,
 1486-95_tofall-1,339916,1486,95_tofall,kølu,kølu,,,191,132,false,,,,1486,
-1486-96_dog-1,339956,1486,96_dog,kuli [ᵐb],kuli,,,191,L,true,,,,1486,L
+1486-96_dog-1,339956,1486,96_dog,kuli [ᵐb],kuli,,,191,,true,,,,1486,L
 1486-97_bird-1,339991,1486,97_bird,meno,meno,,,191,1,false,,,,1486,
 1486-101_tofly-1,340025,1486,101_tofly,ga’,ga’,,,191,14,false,,,,1486,
 1486-102_rat-1,340060,1486,102_rat,t̪ep,t̪ep,,,191,6,false,,,,1486,
@@ -292531,7 +292531,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 1515-93_topoundbeat-1,339910,1515,93_topoundbeat,ʰna,ʰna,,,191,,false,,,,1515,
 1515-95_tofall-1,339949,1515,95_tofall,kei,kei,,,191,132,false,,,,1515,
 1515-96_dog-1,339984,1515,96_dog,vailai,vailai,,,191,7,false,,,,1515,
-1515-96_dog-2,339985,1515,96_dog,kuli [ᵐb],kuli,,,191,L,true,,,,1515,L
+1515-96_dog-2,339985,1515,96_dog,kuli [ᵐb],kuli,,,191,,true,,,,1515,L
 1515-97_bird-1,340019,1515,97_bird,waco,waco,,,191,57,false,,,,1515,
 1515-101_tofly-1,340052,1515,101_tofly,sʰesʰë,sʰesʰë,,,191,93,false,,,,1515,
 1515-102_rat-1,340104,1515,102_rat,aði,aði,,,191,71,false,,,,1515,
@@ -300230,7 +300230,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 1556-60_father-2,3213740,1556,60_father,ayah,ayah,,(more polite),232;552133,22,false,,,,1556,
 1556-61_house-1,3213618,1556,61_house,rumah,rumah,,,232;552133,1,false,,,,1556,
 1556-62_thatchroof-1,3213619,1556,62_thatchroof,atap,atap,,,232;552133,1,false,,,,1556,
-1556-63_name-1,3213620,1556,63_name,nama,nama,,Loaned from Sanskrit,232;552133,L,true,,,,1556,L
+1556-63_name-1,3213620,1556,63_name,nama,nama,,Loaned from Sanskrit,232;552133,,true,,,,1556,L
 1556-66_totieupfasten-1,3213621,1556,66_totieupfasten,ikat,ikat,,,232;552133,1,false,,,,1556,
 1556-67_tosew-1,3213622,1556,67_tosew,jahit,jahit,,,232;552133,2,false,,,,1556,
 1556-68_needle-1,3213623,1556,68_needle,jarom,jarom,,,232;552133,1,false,,,,1556,
@@ -304167,7 +304167,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 1579-36_tospit-1,3217958,1579,36_tospit,xura,xura,,,,35,false,,,,1579,
 1579-37_toeat-1,3217959,1579,37_toeat,xanxani,xanxani,,,,1,false,,,,1579,
 1579-38_tochew-1,3217960,1579,38_tochew,ŋau,ŋau,,,,78,false,,,,1579,
-1579-39_tocook-1,3217961,1579,39_tocook,kuki,kuki,,Bislama loanword (?),,L,true,,,,1579,L?
+1579-39_tocook-1,3217961,1579,39_tocook,kuki,kuki,,Bislama loanword (?),,,true,,,,1579,L
 1579-39_tocook-2,3217962,1579,39_tocook,tutunu,tutunu,,rusum',,9,false,,,,1579,
 1579-39_tocook-3,3217963,1579,39_tocook,nasu,nasu,,cook inside bambu,,,false,,,x,1579,
 1579-40_todrink-1,3217964,1579,40_todrink,ima,ima,,,,51,false,,,,1579,
@@ -319422,7 +319422,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 1659-66_totieupfasten-1,3234334,1659,66_totieupfasten,sokisokija,sokisokija,,,,57,false,,,,1659,
 1659-67_tosew-1,3234335,1659,67_tosew,koturia,koturia,,,,13,false,,,,1659,
 1659-68_needle-1,3234336,1659,68_needle,natik͡pa,natik͡pa,,,,51,false,,,,1659,
-1659-69_tohunt-1,3234337,1659,69_tohunt,ŋgolikoli,ŋgolikoli,,,,L,true,,,,1659,L
+1659-69_tohunt-1,3234337,1659,69_tohunt,ŋgolikoli,ŋgolikoli,,,,,true,,,,1659,L
 1659-70_toshoot-1,3234338,1659,70_toshoot,kasuja,kasuja,,,,59,false,,,,1659,
 1659-71_tostabpierce-1,3234339,1659,71_tostabpierce,kapurja,kapurja,,,,80,false,,,,1659,
 1659-72_tohit-1,3234340,1659,72_tohit,kaʷatija,kaʷatija,,,,86,false,,,,1659,
@@ -319449,7 +319449,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 1659-93_topoundbeat-1,3234361,1659,93_topoundbeat,ɛ ⁿdukituki,ɛ ⁿdukituki,,,,2,false,,,,1659,
 1659-94_tothrow-1,3234362,1659,94_tothrow,naⁿtikinija,naⁿtikinija,,,,75,false,,,,1659,
 1659-95_tofall-1,3234363,1659,95_tofall,ɛ dowo,ɛ dowo,,,,13,false,,,,1659,
-1659-96_dog-1,3234364,1659,96_dog,ko:ria,ko:ria,,,,L,true,,,,1659,L
+1659-96_dog-1,3234364,1659,96_dog,ko:ria,ko:ria,,,,,true,,,,1659,L
 1659-97_bird-1,3234365,1659,97_bird,ma:nu,ma:nu,,,,1,false,,,,1659,
 1659-98_egg-1,3234366,1659,98_egg,ato:lu,ato:lu,,,,1,false,,,,1659,
 1659-99_feather-1,3234367,1659,99_feather,namaʰuna,namaʰuna,,,,6,false,,,,1659,
@@ -322590,7 +322590,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 1674-113_branch-1,3237499,1674,113_branch,mɛⁿlakaj,mɛⁿlakaj,,,,,false,,,,1674,
 1674-114_leaf-1,3237500,1674,114_leaf,lukuwae,lukuwae,,,,17,false,,,,1674,
 1674-115_root-1,3237501,1674,115_root,kakatɛn,kakatɛn,,,,,false,,,,1674,
-1674-116_flower-1,3237502,1674,116_flower,flowa,flowa,,,,L,false,,,,1674,
+1674-116_flower-1,3237502,1674,116_flower,flowa,flowa,,,,,true,,,,1674,L
 1674-117_fruit-1,3237503,1674,117_fruit,masaklakaj,masaklakaj,,,,36,false,,,,1674,
 1674-118_grass-1,3237504,1674,118_grass,lukuwaj,lukuwaj,,,,105,false,,,,1674,
 1674-119_earthsoil-1,3237505,1674,119_earthsoil,buksan,buksan,,,,,false,,,,1674,
@@ -325233,7 +325233,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 1687-65_rope-1,3240510,1687,65_rope,fiʲau,fiʲau,,,,66,false,,,,1687,
 1687-66_totieupfasten-1,3240511,1687,66_totieupfasten,pare,pare,,,,35,false,,,,1687,
 1687-67_tosew-1,3240512,1687,67_tosew,kili,kili,,,,13,false,,,,1687,
-1687-68_needle-1,3240513,1687,68_needle,titil,titil,,,,L,true,,,,1687,L
+1687-68_needle-1,3240513,1687,68_needle,titil,titil,,,,,true,,,,1687,L
 1687-69_tohunt-1,3240514,1687,69_tohunt,atup,atup,,,,,false,,,,1687,
 1687-70_toshoot-1,3240515,1687,70_toshoot,rupa,rupa,,,,8,false,,,,1687,
 1687-73_tosteal-1,3240516,1687,73_tosteal,fena,fena,,,,"1,58",false,,,,1687,
@@ -325429,7 +325429,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 1688-65_rope-1,3240706,1688,65_rope,kilka,kilka,,,,5,false,,,,1688,
 1688-66_totieupfasten-1,3240707,1688,66_totieupfasten,oijareja,oijareja,,,,160,false,,,,1688,
 1688-67_tosew-1,3240708,1688,67_tosew,olilijareja,olilijareja,,,,60,false,,,,1688,
-1688-68_needle-1,3240709,1688,68_needle,nitil,nitil,,,,L,true,,,,1688,L
+1688-68_needle-1,3240709,1688,68_needle,nitil,nitil,,,,,true,,,,1688,L
 1688-69_tohunt-1,3240710,1688,69_tohunt,neikor,neikor,,,,,false,,,,1688,
 1688-70_toshoot-1,3240711,1688,70_toshoot,neɸ̚nija,neɸ̚nija,,,,1,false,,,,1688,
 1688-71_tostabpierce-1,3240712,1688,71_tostabpierce,neslumarija,neslumarija,,,,104,false,,,,1688,
