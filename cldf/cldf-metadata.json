@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/lexibank/abvd",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2",
+            "dc:created": "v0.2-2-g6ffe47b",
             "dc:title": "Repository"
         },
         {
@@ -33,7 +33,7 @@
         {
             "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.3.0-4-g824176a",
+            "dc:created": "v2.3.0",
             "dc:title": "CLTS"
         }
     ],
@@ -44,7 +44,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.14.8"
+            "dc:description": "3.12.3"
         },
         {
             "dc:title": "python-packages",
@@ -251,7 +251,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:description": "ABVDConcept(ID: str | None = '', Name: str | None = '', Concepticon_ID: str | None = None, Concepticon_Gloss: str | None = None, Category: str | None = None, Comment: str | None = None)",
+            "dc:description": "ABVDConcept(ID: Optional[str] = '', Name: Optional[str] = '', Concepticon_ID: Optional[str] = None, Concepticon_Gloss: Optional[str] = None, Category: Optional[str] = None, Comment: Optional[str] = None)",
             "dc:extent": 210,
             "tableSchema": {
                 "columns": [
