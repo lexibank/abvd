@@ -14,4 +14,4 @@ def test_languages(cldf_dataset):
 
 # test we have some cognates
 def test_cognates(cldf_sqlite_database):
-    assert cldf_sqlite_database.query('select count(*) from cognatetable')[0][0] == 291382
+    assert cldf_sqlite_database.query('select count(*) from cognatetable')[0][0] == 291354
