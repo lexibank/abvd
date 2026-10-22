@@ -48,7 +48,7 @@ to get a fuller picture of its context of origin.
 - **Lexemes:** 349,424
 - **Sources:** 499
 - **Synonymy:** 1.16
-- **Cognacy:** 291,382 cognates in 19,354 cognate sets (454 singletons)
+- **Cognacy:** 291,354 cognates in 19,344 cognate sets (451 singletons)
 - **Cognate Diversity:** 0.05
 
 ## Possible Improvements:
