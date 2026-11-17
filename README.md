@@ -45,8 +45,8 @@ to get a fuller picture of its context of origin.
 
 - **Varieties:** 1,981 (linked to 1,081 different Glottocodes)
 - **Concepts:** 210 (linked to 210 different Concepticon concept sets)
-- **Lexemes:** 349,424
-- **Sources:** 499
+- **Lexemes:** 349,637
+- **Sources:** 500
 - **Synonymy:** 1.16
 - **Cognacy:** 291,354 cognates in 19,344 cognate sets (451 singletons)
 - **Cognate Diversity:** 0.05
@@ -54,7 +54,7 @@ to get a fuller picture of its context of origin.
 ## Possible Improvements:
 
 - Languages missing glottocodes: 238/1981 (12.01%%)
-- Entries missing sources: 102987/349424 (29.47%%)
+- Entries missing sources: 102987/349637 (29.46%%)
 
 
 # Contributors

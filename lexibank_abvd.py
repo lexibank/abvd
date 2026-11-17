@@ -6,7 +6,7 @@ import dataclasses
 from pathlib import Path
 from typing import Optional
 
-from nameparser import HumanName
+import nameparser
 import pycldf
 from clldutils.misc import slug
 from clldutils.path import md5
@@ -109,11 +109,11 @@ def normalize_names(names):
                 'Lana. Takau': 'Lana Takau',
                 'Sander Adelaar': 'Alexander Adelaar',
             }.get(name, name)
-            name = HumanName(name.title())
+            name = nameparser.parse(name.title())
             res.append(re.sub(
                 r'\s+',
                 ' ',
-                f'{name.first or name.title} {name.middle} {name.last}'.strip()))
+                f'{name.given or name.title} {name.middle} {name.family}'.strip()))
     return ' and '.join(res)
 
 

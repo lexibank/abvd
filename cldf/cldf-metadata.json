@@ -15,13 +15,13 @@
         {
             "rdf:about": "https://github.com/lexibank/abvd",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2-2-g6ffe47b",
+            "dc:created": "v0.3-4-g4704936",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.3",
+            "dc:created": "v5.4",
             "dc:title": "Glottolog"
         },
         {
@@ -57,7 +57,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nBVD-specifics.\n",
-            "dc:extent": 349424,
+            "dc:extent": 349637,
             "tableSchema": {
                 "columns": [
                     {
@@ -367,7 +367,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
-            "dc:extent": 2040,
+            "dc:extent": 2041,
             "tableSchema": {
                 "columns": [
                     {

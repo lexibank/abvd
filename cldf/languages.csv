@@ -494,7 +494,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 501,Äiwoo,ayiw1239,Äiwoo,nfl,Papunesia,-10.30387,166.32344,Austronesian
 502,Nanggu,nang1262,Engdewu,ngr,Papunesia,-10.75408,166.01492,Austronesian
 503,Ende,ende1246,Ende,end,Papunesia,-8.70998,121.555,Austronesian
-504,"Malo, Santa Cruz",malo1246,Malo,ntu,Papunesia,-10.6771,165.835,Austronesian
+504,"Malo, Santa Cruz",malo1246,Malo,ntu,Papunesia,-10.68038,165.89784,Austronesian
 505,"Lwepe, Santa Cruz",natu1246,Natügu,ntu,Papunesia,-10.68038,165.89784,Austronesian
 506,Tetun (Dili),tetu1246,Tetun Dili,tdt,Papunesia,-8.58405,125.583,Austronesian
 507,Melayu Sarawak (dialect),mala1479,Central Malay,zlm,Eurasia,1.85856,103.0,Austronesian
@@ -771,13 +771,13 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 778,Dehong,tain1252,Tai Nüa,tdd,Eurasia,21.7837,99.722,Tai-Kadai
 779,Enga,enga1252,Enga,enq,Papunesia,-5.45619,143.685,Nuclear Trans New Guinea
 780,Proto-Bungku-Tolaki,bung1268,Bungku-Tolaki,,,-3.5242829009156007,121.77167368018334,Austronesian
-781,Proto-Trans-New Guinea,nucl1709,Nuclear Trans New Guinea,,,-5.612586657219984,142.78555640996763,Nuclear Trans New Guinea
+781,Proto-Trans-New Guinea,nucl1709,Nuclear Trans New Guinea,,,-5.61473716576782,142.8678218007597,Nuclear Trans New Guinea
 782,Lachi (Tân Lợi),whit1266,White Lachi,lwh,Eurasia,22.726,104.66,Tai-Kadai
 783,Samar-Leyte,wara1300,Waray (Philippines),war,Papunesia,11.4911,125.012,Austronesian
 784,Maonan,maon1241,Maonan,mmd,Eurasia,25.0169,108.024,Tai-Kadai
 785,Proto-Ongan,,,,,,,
 786,Kim Mun (Hainan),kimm1245,Kim Mun,mji,Eurasia,22.9856,105.024,Hmong-Mien
-787,Proto-Sino-Tibetan,sino1245,Sino-Tibetan,,,28.197479980927472,97.67902458642129,Sino-Tibetan
+787,Proto-Sino-Tibetan,sino1245,Sino-Tibetan,,,28.200075222740796,97.67107435054463,Sino-Tibetan
 788,Marinduque Tagalog,taga1270,Tagalog,tgl,Papunesia,14.06,121.747,Austronesian
 789,"Dong, Northern",nort2735,Northern Dong,doc,Eurasia,26.9944,109.204,Tai-Kadai
 790,Asilulu,asil1242,Asilulu,asl,Papunesia,-3.67302,127.952,Austronesian
@@ -1327,7 +1327,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 1357,Kinalakna,kina1251,Kinalakna,kco,Papunesia,-6.05862,147.442,Nuclear Trans New Guinea
 1358,Mutu,mutu1242,Mutu,tuc,Papunesia,-5.79405,148.014,Austronesian
 1359,Gitua,gitu1237,Gitua,ggt,Papunesia,-6.0151,147.485,Austronesian
-1360,Arop,arop1242,Arop,aps,Papunesia,-3.06984,142.12,Austronesian
+1360,Arop,arop1243,Arop-Lokep,aps,Papunesia,-5.31671,147.103,Austronesian
 1361,Bebeli,bebe1252,Bebeli,bek,Papunesia,-5.63282,150.323,Austronesian
 1362,Dadu'a,dadu1237,Dadu'a,gal,Papunesia,-8.24886,125.57585,Austronesian
 1363,Fordata,ford1242,Fordata,frd,Papunesia,-7.28902,131.511,Austronesian
@@ -1404,10 +1404,10 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 1438,Koluwawa,kolu1245,Koluwawa,klx,Papunesia,-9.42742,150.462,Austronesian
 1441,Minaveha,mina1269,Minaveha,mvn,Papunesia,-9.59922,150.501,Austronesian
 1446,"Mekeo, North-West",nort2851,Northwest Mekeo,mek,Papunesia,-8.23853,146.586,Austronesian
-1447,Proto Central Papuan,cent2070,Central Papuan Oceanic,,,-9.765851054661242,148.04889691367694,Austronesian
+1447,Proto Central Papuan,cent2070,Central Papuan Oceanic,,,-9.765843841790044,148.04521104788242,Austronesian
 1448,Proto North Mainland/D'Entrecasteaux,nort2848,North Papuan Mainland-D'Entrecasteaux linkage,,,-9.631280205999929,150.4336043630001,Austronesian
-1449,Proto Papuan Tip,papu1253,Papuan Tip linkage,,,-10.104913018999923,150.9580184250001,Austronesian
-1450,Proto Suauic,suau1243,Suauic,,,-10.476983330999929,150.64730879,Austronesian
+1449,Proto Papuan Tip,papu1253,Papuan Tip linkage,,,-10.074639580999929,151.26929772200003,Austronesian
+1450,Proto Suauic,suau1243,Suauic,,,-10.448540368589992,150.55249891530025,Austronesian
 1453,Sinaugoro (Saroa Dialect),saro1238,Saroa,snc,Papunesia,-9.79791,147.861,Austronesian
 1458,Tubetube,bwan1241,Bwanabwana,tte,Papunesia,-10.6599,151.034,Austronesian
 1461,'Oyaoya,oyao1237,Oya'oya,oyy,Papunesia,-10.5392,150.658,Austronesian
@@ -1508,7 +1508,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 1559,Jiamao (Lingshui),jiam1236,Jiamao,jio,Eurasia,18.5548,109.854,Tai-Kadai
 1560,Great Andamanese,grea1241,Great Andamanese,,,12.700505,92.82680291666667,Great Andamanese
 1561,Proto-Austroasiatic,aust1305,Austroasiatic,,,15.339585679000038,97.72641035200007,Austroasiatic
-1562,Proto-Japanese,japo1237,Japonic,,,32.72064850500004,133.02800540500004,Japonic
+1562,Proto-Japanese,japo1237,Japonic,,,30.226082925648164,130.49163825034435,Japonic
 1563,Proto-Nivkh,gily1242,Amur Nivkh,niv,Eurasia,52.59,140.681,Nivkh
 1564,Kenaboi (I),kena1236,Kenaboi,xbn,Eurasia,3.154162,102.01596,Kenaboi
 1565,Proto-Nicobarese,nico1262,Nicobaric,,,8.355902411000045,93.08375084700003,Austroasiatic
@@ -1561,7 +1561,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 1613,Nemi (Temala area),nemi1240,Nemi,nem,Papunesia,-20.6791,164.797,Austronesian
 1614,Nemi (East cost area),nemi1240,Nemi,nem,Papunesia,-20.6791,164.797,Austronesian
 1615,Numèè (Nââ Numèè),nume1242,Numee,kdk,Papunesia,-22.2689,166.705,Austronesian
-1616,Proto-Asmat-Kamoro,asma1256,Asmat-Kamrau Bay,,,-4.292077777777777,135.41165027777777,Nuclear Trans New Guinea
+1616,Proto-Asmat-Kamoro,asma1256,Asmat-Kamrau Bay,,,-4.235260277777778,135.75505402777776,Nuclear Trans New Guinea
 1618,Sishëë,zire1240,Zire,sih,Papunesia,-21.6544,165.482,Austronesian
 1619,Keapara (Keapara/Kerepunu Dialect),keap1239,Keapara,khz,Papunesia,-10.1342,147.95,Austronesian
 1620,Proto-Palawan,pala1354,Palawanic,,,9.417508043123668,118.2792199706391,Austronesian

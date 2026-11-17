@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lexibank_abvd"
+version = "1.0"  # Required in PEP 621 unless marked dynamic
+description = "ABVD"
+license = "CC-BY-4.0"
+license-files = ["LICENSE"]
+dependencies = [
+    "pylexibank>=4.1",
+    "nameparser>=2.0",
+    "pycldf",
+    "clldutils",
+]
+
+[project.urls]
+Homepage = "https://github.com/lexibank/abvd"
+
+[project.entry-points."lexibank.dataset"]
+abvd = "lexibank_abvd:Dataset"
+
+[tool.setuptools]
+py-modules = ["lexibank_abvd"]
+zip-safe = false
+
+[project.optional-dependencies]
+test = [
+    "pytest-cldf",
+]
+
+[tool.pytest.ini_options]
+minversion = "5.0"
+testpaths = ["test.py"]
+addopts = ["--cldf-metadata=cldf/cldf-metadata.json"]

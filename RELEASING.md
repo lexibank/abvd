@@ -7,7 +7,7 @@ pip install -e .[test]
 ```
 
 ```shell
-cldfbench lexibank.makecldf lexibank_abvd.py --glottolog-version v5.3 --concepticon-version v3.4.0 --clts-version v2.3.0
+cldfbench lexibank.makecldf lexibank_abvd.py --glottolog-version v5.4 --concepticon-version v3.4.0 --clts-version v2.3.0
 pytest
 ```
 
